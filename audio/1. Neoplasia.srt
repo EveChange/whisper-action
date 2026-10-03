@@ -1,0 +1,2428 @@
+1
+00:00:00,000 --> 00:00:01,380
+Okay, welcome back.
+
+2
+00:00:01,380 --> 00:00:05,160
+We're now going to begin Chapter 3, Principles of Neoplasia.
+
+3
+00:00:05,160 --> 00:00:08,640
+And the first section in this particular chapter
+
+4
+00:00:08,640 --> 00:00:11,840
+is actually entitled Neoplasia.
+
+5
+00:00:11,840 --> 00:00:14,280
+Before we begin, just some basic principles.
+
+6
+00:00:14,280 --> 00:00:18,840
+The word neoplasia, neo means new, and plasia means growth.
+
+7
+00:00:18,840 --> 00:00:22,080
+And what's important to recognize concerning neoplasia
+
+8
+00:00:22,080 --> 00:00:28,520
+is that it is unregulated, irreversible, and monoclonal.
+
+9
+00:00:28,520 --> 00:00:30,040
+Now these three features are important
+
+10
+00:00:30,040 --> 00:00:31,560
+because it's these three features,
+
+11
+00:00:31,560 --> 00:00:34,420
+the fact that the growth is unregulated,
+
+12
+00:00:34,420 --> 00:00:37,300
+that it's irreversible, and that it's monoclonal.
+
+13
+00:00:37,300 --> 00:00:40,120
+These three features help to distinguish neoplasia
+
+14
+00:00:40,120 --> 00:00:42,680
+from hyperplasia or repair.
+
+15
+00:00:42,680 --> 00:00:46,100
+Now just as an example, hyperplasia, as you'll recall,
+
+16
+00:00:46,100 --> 00:00:49,700
+occurred when there might be an increase in stress
+
+17
+00:00:49,700 --> 00:00:50,820
+on an organ.
+
+18
+00:00:50,820 --> 00:00:53,140
+For example, a woman becomes pregnant,
+
+19
+00:00:53,140 --> 00:00:57,080
+the uterus, the smooth muscle of the uterine wall
+
+20
+00:00:57,080 --> 00:00:59,080
+actually undergoes hyperplasia.
+
+21
+00:00:59,080 --> 00:01:01,100
+However, hyperplasia is regulated.
+
+22
+00:01:01,100 --> 00:01:04,320
+It's regulated by the physiology of the pregnancy.
+
+23
+00:01:04,320 --> 00:01:05,220
+It's reversible.
+
+24
+00:01:05,220 --> 00:01:10,060
+When the woman delivers, her uterus will again shrink down
+
+25
+00:01:10,060 --> 00:01:12,880
+to normal size, and it's polyclonal.
+
+26
+00:01:12,880 --> 00:01:17,300
+And by polyclonal, what we mean is that multiple cells
+
+27
+00:01:17,300 --> 00:01:21,980
+produce daughter cells, which then subsequently results
+
+28
+00:01:21,980 --> 00:01:23,580
+in the hyperplasia.
+
+29
+00:01:23,580 --> 00:01:25,880
+Whereas cancer is monoclonal, and we're going to talk
+
+30
+00:01:25,880 --> 00:01:29,340
+about monoclonality in a moment.
+
+31
+00:01:29,340 --> 00:01:32,120
+So again, these are three very important features
+
+32
+00:01:32,120 --> 00:01:34,160
+of neoplasia.
+
+33
+00:01:34,160 --> 00:01:36,420
+Now as I mentioned just a moment ago,
+
+34
+00:01:36,420 --> 00:01:40,920
+monoclonal refers to the fact that all the tumor cells
+
+35
+00:01:40,920 --> 00:01:44,420
+actually arise from one single progenitor cell,
+
+36
+00:01:44,420 --> 00:01:47,740
+one single mother cell, or one single father cell.
+
+37
+00:01:47,740 --> 00:01:49,720
+And that's what the term monoclonal means.
+
+38
+00:01:49,720 --> 00:01:52,880
+So as I've stated here, the neoplastic cells are derived
+
+39
+00:01:52,880 --> 00:01:56,100
+from a single mother cell.
+
+40
+00:01:56,100 --> 00:02:01,180
+Clonality can be determined by G6PD isoforms,
+
+41
+00:02:01,180 --> 00:02:04,520
+and this actually is a very high-yield principle,
+
+42
+00:02:04,520 --> 00:02:07,140
+which we should probably take a moment to highlight.
+
+43
+00:02:07,140 --> 00:02:10,120
+So what I'm going to do here is actually just create a whiteboard,
+
+44
+00:02:10,120 --> 00:02:13,620
+and then spend a moment just explaining what we mean by this.
+
+45
+00:02:13,620 --> 00:02:20,120
+So let's go back and pretend for a moment that we are looking
+
+46
+00:02:20,120 --> 00:02:22,080
+at the uterus of a female.
+
+47
+00:02:22,080 --> 00:02:26,580
+And let's just imagine that this uterus actually is comprised
+
+48
+00:02:26,580 --> 00:02:28,280
+of four cells.
+
+49
+00:02:28,280 --> 00:02:31,580
+Now obviously, the female uterus is not made up of four cells,
+
+50
+00:02:31,580 --> 00:02:36,460
+but we can just imagine just for the purposes of illustration.
+
+51
+00:02:36,460 --> 00:02:40,320
+One of the important enzymes that is present on the X chromosome
+
+52
+00:02:40,320 --> 00:02:43,020
+in a female is G6PD.
+
+53
+00:02:43,020 --> 00:02:46,620
+And I'm going to take a moment to remind you that G6PD is actually
+
+54
+00:02:46,620 --> 00:02:50,800
+X-linked, and that there are multiple isoforms that exist
+
+55
+00:02:50,800 --> 00:02:52,460
+across the population.
+
+56
+00:02:52,460 --> 00:03:00,220
+So for example, there may be a G6PD-A, a G6PD-B, a G6PD-C,
+
+57
+00:03:00,220 --> 00:03:08,920
+a G6PD-D, etc. There are dozens of isoforms of G6PD.
+
+58
+00:03:08,920 --> 00:03:14,680
+Now any single female in the population will have only inherited
+
+59
+00:03:14,680 --> 00:03:18,260
+one copy of G6PD, one isoform of G6PD from their mother,
+
+60
+00:03:18,260 --> 00:03:21,620
+and one isoform of G6PD from their father.
+
+61
+00:03:21,620 --> 00:03:26,960
+So let's pretend a woman inherits G6PD-A from the mother
+
+62
+00:03:26,960 --> 00:03:32,660
+or the father, and G6PD-B from the other parent.
+
+63
+00:03:32,660 --> 00:03:36,300
+So basically, each of the cells in that female,
+
+64
+00:03:36,300 --> 00:03:39,800
+because she's got two X chromosomes and G6PD is X-linked,
+
+65
+00:03:39,800 --> 00:03:44,120
+each of the cells in that female will express both G6PD-A
+
+66
+00:03:44,120 --> 00:03:45,820
+and G6PD-B.
+
+67
+00:03:45,820 --> 00:03:49,500
+So for example, if this uterus that we've drawn up here
+
+68
+00:03:49,500 --> 00:03:53,060
+is actually made up of four cells, then these four cells
+
+69
+00:03:53,060 --> 00:03:57,420
+would be expressing G6PD-A and B, and each of them
+
+70
+00:03:57,420 --> 00:04:01,900
+would express the two isoforms because each cell contains
+
+71
+00:04:01,900 --> 00:04:04,200
+two X chromosomes.
+
+72
+00:04:04,200 --> 00:04:06,520
+So it would look something like that.
+
+73
+00:04:06,520 --> 00:04:11,600
+Now the next important concept to bear in mind is that
+
+74
+00:04:11,600 --> 00:04:16,220
+in a female, one X chromosome is going to be randomly inactivated,
+
+75
+00:04:16,220 --> 00:04:19,400
+so that in any particular cell there would only be one active
+
+76
+00:04:19,400 --> 00:04:25,600
+variant of G6PD, and you know that the inactivation of the X
+
+77
+00:04:25,600 --> 00:04:27,260
+chromosome is actually random.
+
+78
+00:04:27,260 --> 00:04:29,700
+So for example, if we had these four cells that I've drawn up
+
+79
+00:04:29,700 --> 00:04:34,040
+here, it may be that in this particular cell, G6PD-B is
+
+80
+00:04:34,040 --> 00:04:36,860
+inactivated, or that X chromosome is activated.
+
+81
+00:04:36,860 --> 00:04:40,800
+It may be that in this cell, this X chromosome is inactivated.
+
+82
+00:04:40,800 --> 00:04:45,200
+It may be that in this cell, this X chromosome is inactivated,
+
+83
+00:04:45,200 --> 00:04:48,200
+and that in this cell, this X chromosome is inactivated.
+
+84
+00:04:48,200 --> 00:04:51,900
+Now X chromosome inactivation is going to be random, so that in
+
+85
+00:04:51,900 --> 00:04:55,900
+the end, if we were to look at all the cells present within the
+
+86
+00:04:55,900 --> 00:05:01,160
+female's uterus, for example, the ratio of G6PD-A to G6PD-B
+
+87
+00:05:01,160 --> 00:05:03,200
+would be one to one.
+
+88
+00:05:03,200 --> 00:05:10,960
+Now, let's just imagine for a moment that a woman develops
+
+89
+00:05:10,960 --> 00:05:14,600
+hyperplasia of her uterus.
+
+90
+00:05:14,600 --> 00:05:19,800
+So she becomes pregnant, and the uterine wall undergoes hyperplasia,
+
+91
+00:05:19,800 --> 00:05:22,960
+and when it undergoes hyperplasia, hyperplasia is defined as an
+
+92
+00:05:22,960 --> 00:05:24,740
+increase in the number of cells.
+
+93
+00:05:24,740 --> 00:05:28,800
+So let's say that, for example, this particular cell produces two
+
+94
+00:05:28,800 --> 00:05:34,300
+daughter cells, and this particular cell produces two daughter cells,
+
+95
+00:05:34,300 --> 00:05:38,640
+and this cell also produces two daughter cells, and this cell also
+
+96
+00:05:38,640 --> 00:05:40,500
+produces two daughter cells.
+
+97
+00:05:40,500 --> 00:05:45,800
+Now, the daughter cells would show the exact same active isoform of G6PD as
+
+98
+00:05:45,800 --> 00:05:46,700
+their mother cell.
+
+99
+00:05:46,700 --> 00:05:51,900
+So these two cells would produce G6PD, would be expressing G6PD-A, these two
+
+100
+00:05:51,900 --> 00:05:58,600
+cells would be expressing G6PD-B, these two cells would express G6PD-A, and these two
+
+101
+00:05:58,600 --> 00:06:05,500
+cells would express G6PD-B, because obviously the mother cell also expresses G6PD-B.
+
+102
+00:06:05,500 --> 00:06:13,500
+So in hyperplasia, which is polyclonal, i.e., the cells are derived from multiple
+
+103
+00:06:13,500 --> 00:06:19,000
+individual cells, the ratio of G6PD-A is going to be maintained, because here we can
+
+104
+00:06:19,000 --> 00:06:29,300
+see that there are one, two, three, four cells that are expressing G6PD-A, and one, two, three,
+
+105
+00:06:29,300 --> 00:06:32,500
+four cells that are expressing G6PD-B.
+
+106
+00:06:32,500 --> 00:06:37,800
+So really, that maintains the one-to-one ratio, and that's exactly what we would expect in
+
+107
+00:06:37,800 --> 00:06:43,600
+a polyclonal proliferation, i.e., that's what we would expect to see in hyperplasia, that
+
+108
+00:06:43,600 --> 00:06:47,200
+the one-to-one ratio of G6PD is maintained.
+
+109
+00:06:47,200 --> 00:06:51,500
+Now let's take another example, and let's go back and draw the exact same scenario.
+
+110
+00:06:51,500 --> 00:06:58,000
+So again, we've got four cells present within the uterus, and these are the smooth muscle
+
+111
+00:06:58,000 --> 00:07:04,000
+cells of the uterus, and we said that, you know, this is perhaps expressing G6PD-A, this
+
+112
+00:07:04,000 --> 00:07:10,200
+one expresses G6PD-B, this one expresses G6PD-A, and this one expresses G6PD-B, so that the
+
+113
+00:07:10,200 --> 00:07:13,100
+ratio is approximately one-to-one.
+
+114
+00:07:13,100 --> 00:07:19,200
+Now in the case of neoplasia, all the cells, all the tumor cells, are derived from a single
+
+115
+00:07:19,200 --> 00:07:20,400
+mother cell.
+
+116
+00:07:20,400 --> 00:07:26,400
+So for example, if this one particular cell were to become mutated and result in neoplasia,
+
+117
+00:07:26,400 --> 00:07:32,940
+then what would happen is that one cell would actually produce all of the tumor cells.
+
+118
+00:07:32,940 --> 00:07:39,300
+And so all of the tumor cells would actually all express G6PD-A.
+
+119
+00:07:39,300 --> 00:07:44,900
+And so it's this concept that one cell produces all the tumor cells that is actually the idea
+
+120
+00:07:44,900 --> 00:07:50,600
+behind monoclonality, i.e., there is one mother cell that's producing all these baby cells.
+
+121
+00:07:50,600 --> 00:08:01,500
+And the way by which we can prove monoclonality in a female would be to look at G6PD isoforms.
+
+122
+00:08:01,500 --> 00:08:08,240
+And so if we see that the tumor is composed of one isoform of G6PD, then that would indicate
+
+123
+00:08:08,240 --> 00:08:13,700
+that we're dealing with a monoclonal proliferation, hence we're dealing with neoplasia.
+
+124
+00:08:13,700 --> 00:08:19,200
+Whereas if we saw that the G6PD isoforms were expressed in a roughly one-to-one ratio, then
+
+125
+00:08:19,200 --> 00:08:23,600
+we would know that we're actually dealing with a polyclonal proliferation, which would
+
+126
+00:08:23,600 --> 00:08:26,200
+basically be hyperplasia.
+
+127
+00:08:26,200 --> 00:08:31,200
+So I hope that that's clear, because that's a very high-yield concept that shows up on
+
+128
+00:08:31,200 --> 00:08:32,200
+examinations.
+
+129
+00:08:32,200 --> 00:08:34,960
+And so let's go back and now read what we have here in the text.
+
+130
+00:08:34,960 --> 00:08:39,300
+So we say that one of the key characteristics of tumor is that it is monoclonal.
+
+131
+00:08:39,300 --> 00:08:43,200
+So again, one of the key characteristics of neoplasia is that it is monoclonal.
+
+132
+00:08:43,200 --> 00:08:47,200
+And that means that the neoplastic cells are derived from a single mother cell.
+
+133
+00:08:47,200 --> 00:08:52,200
+And as I've stated here, clonality can be determined by G6PD isoforms.
+
+134
+00:08:52,200 --> 00:08:57,500
+Now we could play the exact same game using androgen receptor isoforms, because androgen
+
+135
+00:08:57,500 --> 00:09:00,700
+receptor isoforms are also on the X chromosome.
+
+136
+00:09:00,700 --> 00:09:05,700
+And so we could say that the patient has androgen receptor A, androgen receptor B, androgen
+
+137
+00:09:05,700 --> 00:09:08,200
+receptor C or D or E, etc.
+
+138
+00:09:08,200 --> 00:09:11,200
+And we could play the exact same game that we played with G6PD.
+
+139
+00:09:11,200 --> 00:09:15,200
+But this is a fundamental principle of neoplasia.
+
+140
+00:09:15,200 --> 00:09:21,200
+And that is that all neoplasia, whether it be benign, whether it be malignant, all neoplasia,
+
+141
+00:09:21,200 --> 00:09:25,200
+all tumors, are monoclonal by definition.
+
+142
+00:09:25,200 --> 00:09:26,200
+Okay.
+
+143
+00:09:26,200 --> 00:09:33,200
+Another way that we could play the clonality game is to look at immunoglobulin light chain
+
+144
+00:09:33,200 --> 00:09:34,200
+phenotype.
+
+145
+00:09:34,200 --> 00:09:39,200
+And this is a way by which we can determine the clonality of B cells.
+
+146
+00:09:39,200 --> 00:09:44,200
+This is high yield, and so it's worth taking a moment to understand the concept.
+
+147
+00:09:44,200 --> 00:09:49,200
+Now let's play the same game, but this time pretend that there is an individual, and we're
+
+148
+00:09:49,200 --> 00:09:51,200
+looking at their lymph node.
+
+149
+00:09:51,200 --> 00:09:56,200
+Now let's pretend that this individual's lymph node is made up of four cells.
+
+150
+00:09:56,200 --> 00:09:57,200
+Okay.
+
+151
+00:09:57,200 --> 00:10:00,200
+Obviously it's not, but for the purposes of illustration, it makes it easy.
+
+152
+00:10:00,200 --> 00:10:06,200
+So if the patient actually has four cells in their lymph node, you should recall that the
+
+153
+00:10:06,200 --> 00:10:13,200
+B cells present within the lymph node express immunoglobulin, and that immunoglobulin is comprised of both
+
+154
+00:10:13,200 --> 00:10:15,200
+heavy chain and light chain.
+
+155
+00:10:15,200 --> 00:10:21,200
+Now the light chain for each individual B cell will either be kappa or lambda.
+
+156
+00:10:21,200 --> 00:10:23,200
+There's only two choices.
+
+157
+00:10:23,200 --> 00:10:27,200
+Either a B cell expresses kappa or it expresses lambda light chain.
+
+158
+00:10:27,200 --> 00:10:32,200
+And generally speaking, the ratio of kappa to lambda cells within the lymph node or within
+
+159
+00:10:32,200 --> 00:10:35,200
+any collection of lymphocytes is three to one.
+
+160
+00:10:35,200 --> 00:10:42,200
+So that if we had four cells making up this lymph node, three of the cells would express kappa
+
+161
+00:10:42,200 --> 00:10:47,200
+light chain, and one of the cells would express lambda light chain.
+
+162
+00:10:47,200 --> 00:10:48,200
+All right.
+
+163
+00:10:48,200 --> 00:10:52,200
+Now let's pretend that a patient gets an infection.
+
+164
+00:10:52,200 --> 00:10:59,200
+And when they get an infection, what's going to happen is that they're going to get hyperplasia
+
+165
+00:10:59,200 --> 00:11:05,200
+of the cells of the lymph node because there's going to be a response to the infection and
+
+166
+00:11:05,200 --> 00:11:07,200
+the B cells are going to proliferate.
+
+167
+00:11:07,200 --> 00:11:11,200
+And we know that when we get infections that the lymph nodes become bigger.
+
+168
+00:11:11,200 --> 00:11:16,200
+And so if the lymph node becomes bigger, we could ask the question, why is the lymph node bigger?
+
+169
+00:11:16,200 --> 00:11:18,200
+What type of proliferation is occurring?
+
+170
+00:11:18,200 --> 00:11:23,200
+And if there was an infection and the proliferation was due to hyperplasia, then what we would expect
+
+171
+00:11:23,200 --> 00:11:28,200
+is that in hyperplasia, each of these cells would contribute because it's polyclonal.
+
+172
+00:11:28,200 --> 00:11:31,200
+Each of these cells would contribute additional cells.
+
+173
+00:11:31,200 --> 00:11:41,200
+So for example, if this is a kappa light chain B cell, then each of these cells is making additional cells.
+
+174
+00:11:41,200 --> 00:11:43,200
+Let's just draw these here.
+
+175
+00:11:43,200 --> 00:11:50,200
+And each of the additional cells is going to have the same light chain ratio of three to one.
+
+176
+00:11:50,200 --> 00:11:53,200
+And so, you know, these two would be kappa.
+
+177
+00:11:53,200 --> 00:11:55,200
+These two would be kappa.
+
+178
+00:11:55,200 --> 00:11:57,200
+These two would be kappa.
+
+179
+00:11:57,200 --> 00:11:58,200
+These would be lambda.
+
+180
+00:11:58,200 --> 00:11:59,200
+And this would be lambda.
+
+181
+00:11:59,200 --> 00:12:08,200
+And so the ratio here is one, two, three, four, five, six to two, which really is the same three to one ratio
+
+182
+00:12:08,200 --> 00:12:14,200
+that we would expect to see in a normal lymph node.
+
+183
+00:12:14,200 --> 00:12:21,200
+And again, that's because the proliferation in hyperplasia is polyclonal.
+
+184
+00:12:21,200 --> 00:12:33,200
+And so one of the key features of a polyclonal proliferation is that the kappa to lambda ratio of immunoglobulin light chain would remain three to one.
+
+185
+00:12:33,200 --> 00:12:38,200
+Now, let's take the other extreme, and I'm going to go ahead and erase this.
+
+186
+00:12:38,200 --> 00:12:41,200
+And let's take another extreme where a patient has a lymph node.
+
+187
+00:12:41,200 --> 00:12:48,200
+And the lymph node is basically a kappa, you know, three kappas, as we've already explained.
+
+188
+00:12:48,200 --> 00:12:51,200
+The normal ratio is three to one and one lambda.
+
+189
+00:12:51,200 --> 00:12:54,200
+And then let's pretend that the patient gets a neoplastic proliferation.
+
+190
+00:12:54,200 --> 00:13:05,200
+Now, when a patient gets a neoplastic proliferation, i.e. a lymphoma, one cell is going to be making all of the malignant cells.
+
+191
+00:13:05,200 --> 00:13:12,200
+And so what's going to happen is we're going to get a massive excess of kappa.
+
+192
+00:13:12,200 --> 00:13:24,200
+And, of course, there will still be some lambdas, but what will happen is that the kappa to lambda ratio, instead of being three to one, will become something like 20 to one.
+
+193
+00:13:24,200 --> 00:13:28,200
+And this is very high yield, and that's exactly the way the examiners play it.
+
+194
+00:13:28,200 --> 00:13:31,200
+They tell you that the patient's got an enlarged lymph node.
+
+195
+00:13:31,200 --> 00:13:35,200
+Okay, when the patient has an enlarged lymph node, what's the differential diagnosis?
+
+196
+00:13:35,200 --> 00:13:39,200
+Well, there's really only three things that you really think about when you have an enlarged lymph node.
+
+197
+00:13:39,200 --> 00:13:43,200
+One thing that can enlarge the lymph node is metastatic cancer.
+
+198
+00:13:43,200 --> 00:13:47,200
+So if a patient has cancer and it spreads to the lymph node, the lymph node becomes bigger.
+
+199
+00:13:47,200 --> 00:13:54,200
+Another thing that can enlarge the lymph node is reactive hyperplasia, because the patient gets an infection and the lymph node becomes bigger.
+
+200
+00:13:54,200 --> 00:13:57,200
+And the third thing that can enlarge the lymph node is going to be lymphoma.
+
+201
+00:13:57,200 --> 00:14:08,200
+Now, let's say that they tell you that the patient has an enlarged lymph node, a biopsy is performed, and it shows a proliferation of lymphocytes.
+
+202
+00:14:08,200 --> 00:14:14,200
+Then we're thinking, aha, proliferation of lymphocytes, it must be either reactive hyperplasia or lymphoma.
+
+203
+00:14:14,200 --> 00:14:22,200
+And then they'll tell you on an examination that the light chain is studied and the light chain ratio is 20 to one.
+
+204
+00:14:22,200 --> 00:14:28,200
+So once you hear that the light chain ratio is 20 to one, you know that you're dealing with a monoclonal proliferation.
+
+205
+00:14:28,200 --> 00:14:36,200
+And that monoclonal proliferation must then be a lymphoma, because that's really the only tumor that you can get within a lymph node.
+
+206
+00:14:36,200 --> 00:14:40,200
+So I hope that that's clear because that, again, is also high yield.
+
+207
+00:14:40,200 --> 00:14:42,200
+So again, here's what I've stated in the book.
+
+208
+00:14:42,200 --> 00:14:48,200
+In your text, the clonality of B cells is determined by immunoglobulin light chain phenotype.
+
+209
+00:14:48,200 --> 00:14:56,200
+Okay, now, going back to a general principle, when we have neoplasia, neoplasia can be benign or it can be malignant.
+
+210
+00:14:56,200 --> 00:15:01,200
+Let me make something very clear, because sometimes this is misunderstood and it's missed on examinations as well.
+
+211
+00:15:01,200 --> 00:15:09,200
+Both benign tumors or neoplasia and malignant tumors or neoplasia, both of these are monoclonal.
+
+212
+00:15:09,200 --> 00:15:16,200
+Whether it be a benign tumor or it be a malignant tumor, neoplasia, generally speaking, is monoclonal.
+
+213
+00:15:16,200 --> 00:15:18,200
+Alright, so I want to highlight that point.
+
+214
+00:15:18,200 --> 00:15:26,200
+Now, benign tumors, one of the key characteristics of benign tumors is that they tend to remain localized in the tissue in which they grow,
+
+215
+00:15:26,200 --> 00:15:29,200
+and they absolutely do not metastasize.
+
+216
+00:15:29,200 --> 00:15:32,200
+That's a key characteristic of benign tumors.
+
+217
+00:15:32,200 --> 00:15:39,200
+Malignant tumors are also called cancer, and a characteristic of malignant tumors is that they invade locally,
+
+218
+00:15:39,200 --> 00:15:42,200
+and they have the potential to metastasize.
+
+219
+00:15:42,200 --> 00:15:44,200
+What do I mean by potential to metastasize?
+
+220
+00:15:44,200 --> 00:15:52,200
+Meaning that in a subset of patients, those tumors will metastasize, but it doesn't need to metastasize in every single patient.
+
+221
+00:15:52,200 --> 00:15:56,200
+So, for example, if a woman has breast cancer and it's localized to the breast,
+
+222
+00:15:56,200 --> 00:16:02,200
+if that cancer has the propensity to metastasize in patients, then we would still call it cancer,
+
+223
+00:16:02,200 --> 00:16:06,200
+even though it hasn't metastasized in that individual patient.
+
+224
+00:16:06,200 --> 00:16:10,200
+So, it simply has the potential to metastasize in any given patient.
+
+225
+00:16:10,200 --> 00:16:15,200
+So, again, this is another general principle concerning neoplasia.
+
+226
+00:16:15,200 --> 00:16:22,200
+Now, if we go a step further, we can go, and given that we understand that tumors can be benign or malignant,
+
+227
+00:16:22,200 --> 00:16:28,200
+we should then understand that tumors will have particular lineages of differentiation.
+
+228
+00:16:28,200 --> 00:16:32,200
+And the way I think about this is, you know, you've got four major tissues within the body.
+
+229
+00:16:32,200 --> 00:16:37,200
+You've got epithelium, which are the cells that line the surface of the body.
+
+230
+00:16:37,200 --> 00:16:43,200
+So, they line the skin, they line the gut, they line the esophagus, they line the urogenital tract.
+
+231
+00:16:43,200 --> 00:16:45,200
+All right, those are epithelial cells.
+
+232
+00:16:45,200 --> 00:16:46,200
+You've got mesenchyme.
+
+233
+00:16:46,200 --> 00:16:47,200
+What is mesenchyme?
+
+234
+00:16:47,200 --> 00:16:49,200
+Mesenchyme is a connective tissue in the body.
+
+235
+00:16:49,200 --> 00:16:54,200
+So, the mesenchyme includes fat, blood vessels, bone, cartilage, okay?
+
+236
+00:16:54,200 --> 00:16:56,200
+It's your soft tissue, basically.
+
+237
+00:16:56,200 --> 00:16:58,200
+Your soft tissue, your bone, your cartilage.
+
+238
+00:16:58,200 --> 00:16:59,200
+That's mesenchyme.
+
+239
+00:16:59,200 --> 00:17:02,200
+There are lymphocytes in the body, and then there are melanocytes in the body.
+
+240
+00:17:02,200 --> 00:17:06,200
+And each of these individual types of cells can develop tumors,
+
+241
+00:17:06,200 --> 00:17:09,200
+and when they develop tumors, those tumors can be benign or malignant.
+
+242
+00:17:09,200 --> 00:17:17,200
+So, for example, a benign tumor of epithelium, when it produces glands, is called an adenoma.
+
+243
+00:17:17,200 --> 00:17:24,200
+And a malignant tumor of epithelium, when it produces glands, is called an adenocarcinoma.
+
+244
+00:17:24,200 --> 00:17:31,200
+A benign tumor of epithelium, when it creates papillary finger-like structures, is called a papilloma.
+
+245
+00:17:31,200 --> 00:17:38,200
+And a malignant tumor of epithelium, when it creates papillary finger-like structures, is called a papillary carcinoma.
+
+246
+00:17:38,200 --> 00:17:41,200
+And what do I mean by papillary finger-like structures?
+
+247
+00:17:41,200 --> 00:17:46,200
+Well, it basically means that you've got this growth of epithelial cells.
+
+248
+00:17:46,200 --> 00:17:48,200
+So these are the epithelial cells.
+
+249
+00:17:48,200 --> 00:17:53,200
+And that they overlie a connective tissue core with a blood vessel in the center.
+
+250
+00:17:53,200 --> 00:17:57,200
+So there's a connective tissue core with a blood vessel in the center.
+
+251
+00:17:57,200 --> 00:17:59,200
+And so those are papillary growths.
+
+252
+00:17:59,200 --> 00:18:01,200
+And papillary growths, when they're benign, they're called papillomas.
+
+253
+00:18:01,200 --> 00:18:04,200
+When they're malignant, they're called papillary carcinomas.
+
+254
+00:18:04,200 --> 00:18:09,200
+Mesenchymal tissue can also be benign or can produce tumors that will be benign or malignant.
+
+255
+00:18:09,200 --> 00:18:14,200
+And it's going to be named based on the type of tissue that it forms.
+
+256
+00:18:14,200 --> 00:18:17,200
+So lipo means fat, and oma means mass.
+
+257
+00:18:17,200 --> 00:18:20,200
+So a benign tumor of fat is a lipoma.
+
+258
+00:18:20,200 --> 00:18:22,200
+And lipo, again, means fat.
+
+259
+00:18:22,200 --> 00:18:25,200
+And sarcoma means malignant mesenchymal tissue.
+
+260
+00:18:25,200 --> 00:18:30,200
+And so a malignant tumor of fat would be called a liposarcoma.
+
+261
+00:18:30,200 --> 00:18:32,200
+And you can play this game with all types of mesenchymal.
+
+262
+00:18:32,200 --> 00:18:35,200
+For example, osteoma, benign tumor of bone.
+
+263
+00:18:35,200 --> 00:18:38,200
+Osteosarcoma, malignant tumor of bone.
+
+264
+00:18:38,200 --> 00:18:42,200
+Chondroma, benign tumor of cartilage.
+
+265
+00:18:42,200 --> 00:18:47,200
+Chondrosarcoma, malignant tumor of cartilage.
+
+266
+00:18:47,200 --> 00:18:51,200
+Angioma, benign tumor of blood vessels.
+
+267
+00:18:51,200 --> 00:18:55,200
+Angiosarcoma, malignant tumor of blood vessels.
+
+268
+00:18:55,200 --> 00:18:56,200
+Etc.
+
+269
+00:18:56,200 --> 00:18:57,200
+Okay.
+
+270
+00:18:57,200 --> 00:19:01,200
+Lymphocytes can also form tumors.
+
+271
+00:19:01,200 --> 00:19:05,200
+There is no such thing as a benign tumor of lymphocytes.
+
+272
+00:19:05,200 --> 00:19:08,200
+Anytime you have a neoplastic proliferation of lymphocytes,
+
+273
+00:19:08,200 --> 00:19:11,200
+it is automatically lymphoma or leukemia.
+
+274
+00:19:11,200 --> 00:19:12,200
+Alright?
+
+275
+00:19:12,200 --> 00:19:15,200
+It automatically becomes lymphoma or leukemia.
+
+276
+00:19:15,200 --> 00:19:19,200
+And melanocytes can also produce tumors.
+
+277
+00:19:19,200 --> 00:19:22,200
+And we can get benign tumors or malignant tumors.
+
+278
+00:19:22,200 --> 00:19:25,200
+A benign tumor of melanocytes is called a nevus.
+
+279
+00:19:25,200 --> 00:19:28,200
+Also commonly called a mole.
+
+280
+00:19:28,200 --> 00:19:31,200
+And a malignant tumor of melanocytes is called a melanoma.
+
+281
+00:19:31,200 --> 00:19:34,200
+Again, melanoma referring to the melanocyte.
+
+282
+00:19:34,200 --> 00:19:37,200
+And oma referring to mass.
+
+283
+00:19:37,200 --> 00:19:42,200
+And in fact, that was the basis for my naming of the website
+
+284
+00:19:42,200 --> 00:19:45,200
+that I've put all of these lectures on, Pathoma,
+
+285
+00:19:45,200 --> 00:19:49,200
+i.e. Massive Pathology Information.
+
+286
+00:19:49,200 --> 00:19:51,200
+But anyway, that's a separate discussion.
+
+287
+00:19:51,200 --> 00:19:53,200
+So that's tumor nomenclature.
+
+288
+00:19:53,200 --> 00:19:55,200
+And we should be familiar with that because we're going to do
+
+289
+00:19:55,200 --> 00:19:58,200
+a lot of tumor study as we move forward.
+
+290
+00:19:58,200 --> 00:20:00,200
+And you're going to have to understand the nomenclature.
+
+291
+00:20:00,200 --> 00:20:05,200
+But we will cover it as we go through the organ systems again.
+
+292
+00:20:05,200 --> 00:20:08,200
+Now, epidemiology is important to understand.
+
+293
+00:20:08,200 --> 00:20:11,200
+The examiners like to go after epidemiology.
+
+294
+00:20:11,200 --> 00:20:14,200
+I think it's important for you to be familiar with a little bit
+
+295
+00:20:14,200 --> 00:20:17,200
+of epidemiology as you go through your medical training.
+
+296
+00:20:17,200 --> 00:20:19,200
+And so let's just mention a few important points.
+
+297
+00:20:19,200 --> 00:20:22,200
+First of all, cancer is the second leading cause of death
+
+298
+00:20:22,200 --> 00:20:25,200
+in both adults and children.
+
+299
+00:20:25,200 --> 00:20:27,200
+And it's important to know that, generally speaking,
+
+300
+00:20:27,200 --> 00:20:31,200
+the major causes of death in adults are, number one,
+
+301
+00:20:31,200 --> 00:20:33,200
+cardiovascular disease.
+
+302
+00:20:33,200 --> 00:20:36,200
+So that probably tells you that cardiovascular disease is important
+
+303
+00:20:36,200 --> 00:20:37,200
+to be familiar with.
+
+304
+00:20:37,200 --> 00:20:39,200
+You're going to see a ton of it in your careers.
+
+305
+00:20:39,200 --> 00:20:42,200
+And you're going to see a ton of it on examinations.
+
+306
+00:20:42,200 --> 00:20:46,200
+Cancer is the second cause of death in adults,
+
+307
+00:20:46,200 --> 00:20:48,200
+second leading cause of death in adults.
+
+308
+00:20:48,200 --> 00:20:50,200
+So we should be well aware of cancer,
+
+309
+00:20:50,200 --> 00:20:52,200
+and we're going to see it commonly.
+
+310
+00:20:52,200 --> 00:20:54,200
+And the third is cerebrovascular disease.
+
+311
+00:20:54,200 --> 00:20:57,200
+And so these are the three leading causes of death in adults.
+
+312
+00:20:57,200 --> 00:21:00,200
+Causes of death in children, number one, accidents.
+
+313
+00:21:00,200 --> 00:21:07,200
+And accidents, unfortunately, are a cause of death
+
+314
+00:21:07,200 --> 00:21:12,200
+that can often be avoided but are overlooked.
+
+315
+00:21:12,200 --> 00:21:15,200
+And so we need to be particularly careful about making sure
+
+316
+00:21:15,200 --> 00:21:18,200
+that we as physicians, when we have access
+
+317
+00:21:18,200 --> 00:21:21,200
+to a pediatric population, ensure that patients are particularly
+
+318
+00:21:21,200 --> 00:21:23,200
+careful with their children.
+
+319
+00:21:23,200 --> 00:21:26,200
+For example, making sure that children are in car seats
+
+320
+00:21:26,200 --> 00:21:28,200
+and wear their seat belts, et cetera.
+
+321
+00:21:28,200 --> 00:21:30,200
+But anyway, accidents are the number one cause
+
+322
+00:21:30,200 --> 00:21:31,200
+of death in children.
+
+323
+00:21:31,200 --> 00:21:34,200
+The second leading cause of death in children is cancer.
+
+324
+00:21:34,200 --> 00:21:40,200
+And the third leading cause of death in children is congenital defects.
+
+325
+00:21:40,200 --> 00:21:44,200
+Taking the epidemiology one step further,
+
+326
+00:21:44,200 --> 00:21:48,200
+we can ask ourselves, what are the most common cancers in adults?
+
+327
+00:21:48,200 --> 00:21:53,200
+Now these types of tables in which the most common cancers in adults
+
+328
+00:21:53,200 --> 00:21:58,200
+are discussed, basically what you should know is that these exclude skin.
+
+329
+00:21:58,200 --> 00:22:02,200
+So squamous cell carcinoma and basal cell carcinoma of the skin
+
+330
+00:22:02,200 --> 00:22:04,200
+are very common tumors.
+
+331
+00:22:04,200 --> 00:22:08,200
+But we're going to exclude them because although they're malignant,
+
+332
+00:22:08,200 --> 00:22:12,200
+they rarely metastasize and they're more of a nuisance than anything else.
+
+333
+00:22:12,200 --> 00:22:15,200
+They quickly reveal themselves because they're on the skin
+
+334
+00:22:15,200 --> 00:22:18,200
+and they can easily be treated and are rarely,
+
+335
+00:22:18,200 --> 00:22:20,200
+or are not commonly a cause of death.
+
+336
+00:22:20,200 --> 00:22:23,200
+And so basically we're going to remove those tumors from the list
+
+337
+00:22:23,200 --> 00:22:26,200
+and we're going to talk about the most common cancers in adults
+
+338
+00:22:26,200 --> 00:22:28,200
+by incidence and by mortality.
+
+339
+00:22:28,200 --> 00:22:32,200
+So the three most common cancers in adults by incidence are,
+
+340
+00:22:32,200 --> 00:22:34,200
+number one, breast or prostate.
+
+341
+00:22:34,200 --> 00:22:37,200
+Obviously breast in a female and prostate in a male.
+
+342
+00:22:37,200 --> 00:22:39,200
+Number two, lung.
+
+343
+00:22:39,200 --> 00:22:42,200
+That's the second most common cancer by incidence.
+
+344
+00:22:42,200 --> 00:22:44,200
+And number three, colorectal.
+
+345
+00:22:44,200 --> 00:22:48,200
+So these are the sort of the most common cancers by incidence.
+
+346
+00:22:48,200 --> 00:22:52,200
+Now if we were to look at this list by mortality,
+
+347
+00:22:52,200 --> 00:22:54,200
+by those cancers that actually cause death,
+
+348
+00:22:54,200 --> 00:22:56,200
+then lung jumps up to number one.
+
+349
+00:22:56,200 --> 00:23:01,200
+And then breast in a female and prostate in a male is number two.
+
+350
+00:23:01,200 --> 00:23:04,200
+And colorectal is number three.
+
+351
+00:23:04,200 --> 00:23:10,200
+And so one of the things that I like to highlight when we look at this list
+
+352
+00:23:10,200 --> 00:23:12,200
+is notice the change.
+
+353
+00:23:12,200 --> 00:23:15,200
+Although breast and prostate are the most common,
+
+354
+00:23:15,200 --> 00:23:18,200
+they don't, they aren't the most common killers.
+
+355
+00:23:18,200 --> 00:23:20,200
+And instead lung,
+
+356
+00:23:20,200 --> 00:23:23,200
+although it's less common than breast and prostate,
+
+357
+00:23:23,200 --> 00:23:25,200
+jumps up to become the number one killer.
+
+358
+00:23:25,200 --> 00:23:28,200
+And I, and I'd like to, like to highlight that
+
+359
+00:23:28,200 --> 00:23:30,200
+because it's an important fact to be aware of,
+
+360
+00:23:30,200 --> 00:23:32,200
+in particular because lung cancer,
+
+361
+00:23:32,200 --> 00:23:35,200
+the vast majority of it is actually due to smoking.
+
+362
+00:23:35,200 --> 00:23:38,200
+And this is the one cancer on the list where we exactly,
+
+363
+00:23:38,200 --> 00:23:41,200
+we have a very, very good idea of what causes it.
+
+364
+00:23:41,200 --> 00:23:45,200
+And it's a relatively removable cause
+
+365
+00:23:45,200 --> 00:23:48,200
+because although it might be difficult to stop smoking,
+
+366
+00:23:48,200 --> 00:23:51,200
+it's something that we could certainly encourage our patients to do.
+
+367
+00:23:51,200 --> 00:23:53,200
+But what I want to highlight here
+
+368
+00:23:53,200 --> 00:23:57,200
+is that notice that lung is actually jumping up to number one
+
+369
+00:23:57,200 --> 00:23:59,200
+as a cause of mortality.
+
+370
+00:23:59,200 --> 00:24:03,200
+And this sort of brings us to a point that's important to understand.
+
+371
+00:24:03,200 --> 00:24:06,200
+And that is one of the greatest treatments,
+
+372
+00:24:06,200 --> 00:24:08,200
+or one of the greatest mechanisms
+
+373
+00:24:08,200 --> 00:24:10,200
+by which we can actually handle,
+
+374
+00:24:10,200 --> 00:24:12,200
+handle cancer is early detection.
+
+375
+00:24:12,200 --> 00:24:15,200
+If we can detect cancer early
+
+376
+00:24:15,200 --> 00:24:17,200
+and remove it from the patient
+
+377
+00:24:17,200 --> 00:24:21,200
+before it really can wreak havoc in that patient,
+
+378
+00:24:21,200 --> 00:24:23,200
+that is one of the greatest ways
+
+379
+00:24:23,200 --> 00:24:25,200
+by which we can serve our patients
+
+380
+00:24:25,200 --> 00:24:29,200
+because really the story of cancer is the story of,
+
+381
+00:24:29,200 --> 00:24:34,200
+sort of the best way by which to deal with a cancer
+
+382
+00:24:34,200 --> 00:24:36,200
+is to actually detect it either before it becomes a cancer
+
+383
+00:24:36,200 --> 00:24:38,200
+and then remove it,
+
+384
+00:24:38,200 --> 00:24:40,200
+or to detect it before it produces clinical symptoms.
+
+385
+00:24:40,200 --> 00:24:43,200
+And I'm going to highlight that in a moment,
+
+386
+00:24:43,200 --> 00:24:46,200
+but let's just look at this list again now
+
+387
+00:24:46,200 --> 00:24:48,200
+from a different perspective.
+
+388
+00:24:48,200 --> 00:24:50,200
+So when you think about breast,
+
+389
+00:24:50,200 --> 00:24:52,200
+we have a method of screening for breast, right?
+
+390
+00:24:52,200 --> 00:24:55,200
+We can do mammogram, we can do physical exam.
+
+391
+00:24:55,200 --> 00:24:58,200
+Prostate, we have a mechanism for screening for prostate.
+
+392
+00:24:58,200 --> 00:24:59,200
+Although it's a little bit debated,
+
+393
+00:24:59,200 --> 00:25:02,200
+we currently screen with PSA and digital rectal exam.
+
+394
+00:25:02,200 --> 00:25:05,200
+Colorectal, we have a mechanism of screening for colorectal.
+
+395
+00:25:05,200 --> 00:25:08,200
+We do hemocult testing of the stool
+
+396
+00:25:08,200 --> 00:25:11,200
+and we also do colonoscopy after a certain age.
+
+397
+00:25:11,200 --> 00:25:16,200
+So each of these tumors can be caught relatively early.
+
+398
+00:25:16,200 --> 00:25:19,200
+And because they can be caught relatively early,
+
+399
+00:25:19,200 --> 00:25:22,200
+we can do a pretty good job of reducing the mortality.
+
+400
+00:25:22,200 --> 00:25:24,200
+However, in the case of lung cancer,
+
+401
+00:25:24,200 --> 00:25:26,200
+there is no screening mechanism.
+
+402
+00:25:26,200 --> 00:25:29,200
+Lung cancer usually presents late in the course.
+
+403
+00:25:29,200 --> 00:25:34,200
+There is no practical screening methodology.
+
+404
+00:25:34,200 --> 00:25:37,200
+And so therefore, it pops up to number one
+
+405
+00:25:37,200 --> 00:25:39,200
+as far as mortality is concerned.
+
+406
+00:25:39,200 --> 00:25:42,200
+And to me, one of the most interesting statistics is that
+
+407
+00:25:42,200 --> 00:25:46,200
+if I asked you what was the five-year survival for lung cancer
+
+408
+00:25:46,200 --> 00:25:49,200
+30 years ago, the answer would be about 15%.
+
+409
+00:25:49,200 --> 00:25:53,200
+And if I ask you what's the five-year survival for lung cancer today,
+
+410
+00:25:53,200 --> 00:25:55,200
+the answer is about 15%.
+
+411
+00:25:55,200 --> 00:25:56,200
+It hasn't changed very much.
+
+412
+00:25:56,200 --> 00:25:58,200
+There's been a little bit of an increased survival
+
+413
+00:25:58,200 --> 00:26:00,200
+due to improve surgical technique,
+
+414
+00:26:00,200 --> 00:26:05,200
+but for the vast majority, basically, generally speaking,
+
+415
+00:26:05,200 --> 00:26:10,200
+the survival of lung cancer really hasn't improved over the last 30 years.
+
+416
+00:26:10,200 --> 00:26:14,200
+And that's despite the fact that we've got all these designer drugs
+
+417
+00:26:14,200 --> 00:26:16,200
+and understanding of molecular biology,
+
+418
+00:26:16,200 --> 00:26:20,200
+but I think really the underlying principle or premise there is that
+
+419
+00:26:20,200 --> 00:26:24,200
+we really don't have a practical method to screen for lung cancer,
+
+420
+00:26:24,200 --> 00:26:26,200
+and hence we're not picking up lung cancer early.
+
+421
+00:26:26,200 --> 00:26:29,200
+And because we're not picking up lung cancer early,
+
+422
+00:26:29,200 --> 00:26:33,200
+we catch the cat way after it's out of the bag.
+
+423
+00:26:33,200 --> 00:26:38,200
+And so, unfortunately, that's the circumstance with lung cancer,
+
+424
+00:26:38,200 --> 00:26:42,200
+and this is a very important principle that I'm just trying to nail home here.
+
+425
+00:26:42,200 --> 00:26:46,200
+Now, maybe it'd be a little bit...
+
+426
+00:26:46,200 --> 00:26:50,200
+It's worth having a discussion of screening for a few reasons.
+
+427
+00:26:50,200 --> 00:26:54,200
+One is because it's tested, and two, because we have to be familiar with it.
+
+428
+00:26:54,200 --> 00:26:57,200
+So, it is important to sort of stop and take a step back
+
+429
+00:26:57,200 --> 00:27:00,200
+and do a little discussion here on screening.
+
+430
+00:27:00,200 --> 00:27:05,200
+So, let me just remind you that basically the idea in cancer is that you've got one cell,
+
+431
+00:27:05,200 --> 00:27:08,200
+okay, and that one cell gets mutated.
+
+432
+00:27:08,200 --> 00:27:13,200
+And that one cell, once it becomes mutated, it's then going to produce a cancer.
+
+433
+00:27:13,200 --> 00:27:17,200
+And this one cell will become two cells, and two cells will become four cells,
+
+434
+00:27:17,200 --> 00:27:23,200
+and four cells will become eight cells, until eventually what happens is you produce a cancer
+
+435
+00:27:23,200 --> 00:27:28,200
+in which clinical symptoms arise, okay?
+
+436
+00:27:28,200 --> 00:27:35,200
+And so, one of the things that examiners like you to know is how many divisions have to occur
+
+437
+00:27:35,200 --> 00:27:39,200
+before the average tumor reveals clinical symptoms.
+
+438
+00:27:39,200 --> 00:27:43,200
+And the answer is that there are about 30 divisions that will occur
+
+439
+00:27:43,200 --> 00:27:48,200
+before the earliest clinical symptoms arise in cancer.
+
+440
+00:27:48,200 --> 00:27:50,200
+So, that's one important point.
+
+441
+00:27:50,200 --> 00:27:52,200
+And that's what I've stated here.
+
+442
+00:27:52,200 --> 00:27:56,200
+Cancer begins as a single mutated cell, and then there's about 30 divisions
+
+443
+00:27:56,200 --> 00:27:59,200
+before the earliest clinical symptoms arise.
+
+444
+00:27:59,200 --> 00:28:04,200
+Now, what's important to note is every time a cancer divides, all right,
+
+445
+00:28:04,200 --> 00:28:08,200
+with every division, there's going to be increased mutations
+
+446
+00:28:08,200 --> 00:28:10,200
+because cancers are growing out of control.
+
+447
+00:28:10,200 --> 00:28:14,200
+And so, the DNA is not being repaired, mutations are being picked up,
+
+448
+00:28:14,200 --> 00:28:18,200
+checked systems are basically not able to control the cell.
+
+449
+00:28:18,200 --> 00:28:22,200
+And so, with every single division, there's going to be increased mutations.
+
+450
+00:28:22,200 --> 00:28:28,200
+And so, one important principle or general idea is that if you have a cancer
+
+451
+00:28:28,200 --> 00:28:31,200
+that doesn't produce symptoms until very late in the disease,
+
+452
+00:28:31,200 --> 00:28:36,200
+it will have undergone additional mutations, sorry,
+
+453
+00:28:36,200 --> 00:28:41,200
+it will have undergone additional divisions which will then lead to additional mutations.
+
+454
+00:28:41,200 --> 00:28:48,200
+And so, whereas the average tumor or the tumor that reveals the earliest clinical symptoms
+
+455
+00:28:48,200 --> 00:28:51,200
+will have divided 30 times and will then be detected,
+
+456
+00:28:51,200 --> 00:28:54,200
+there are some tumors that really get detected very late.
+
+457
+00:28:54,200 --> 00:28:57,200
+For example, ovarian carcinoma.
+
+458
+00:28:57,200 --> 00:29:02,200
+The ovary has a large area to grow before any clinical symptoms arise,
+
+459
+00:29:02,200 --> 00:29:06,200
+and because those clinical symptoms are not seen,
+
+460
+00:29:06,200 --> 00:29:09,200
+and because clinical symptoms are not produced until very late,
+
+461
+00:29:09,200 --> 00:29:14,200
+sometimes those tumors can grow and extend far beyond these 30 divisions,
+
+462
+00:29:14,200 --> 00:29:17,200
+and every time they divide, they're picking up mutations.
+
+463
+00:29:17,200 --> 00:29:22,200
+And so, ovarian carcinoma, generally speaking, has a pretty poor prognosis.
+
+464
+00:29:22,200 --> 00:29:24,200
+Similarly, with pancreatic carcinoma.
+
+465
+00:29:24,200 --> 00:29:29,200
+Pancreatic carcinoma, the pancreas has a large space to grow before clinical symptoms arise.
+
+466
+00:29:29,200 --> 00:29:34,200
+The pancreas has a large reserve before the tissue damage can reveal itself,
+
+467
+00:29:34,200 --> 00:29:37,200
+and so pancreatic carcinoma has a horrible prognosis.
+
+468
+00:29:37,200 --> 00:29:39,200
+And same thing with lung cancer.
+
+469
+00:29:39,200 --> 00:29:41,200
+The lung has a tremendous reserve,
+
+470
+00:29:41,200 --> 00:29:45,200
+and a cancer can grow significantly before clinical symptoms actually arise.
+
+471
+00:29:45,200 --> 00:29:49,200
+And so, these tumors will tend to have a worse prognosis.
+
+472
+00:29:49,200 --> 00:29:51,200
+And that's what I've basically stated here,
+
+473
+00:29:51,200 --> 00:29:56,200
+that cancers that are detected late, they tend to have a poor prognosis.
+
+474
+00:29:56,200 --> 00:29:59,200
+All right, so that's important to know.
+
+475
+00:29:59,200 --> 00:30:00,200
+Now, what's the goal of screening?
+
+476
+00:30:00,200 --> 00:30:03,200
+Now, remember that I told you that tumor develops from a single cell,
+
+477
+00:30:03,200 --> 00:30:06,200
+and that single cell becomes two cells, which becomes four cells,
+
+478
+00:30:06,200 --> 00:30:10,200
+which becomes eight cells, which eventually produces clinical symptoms, right?
+
+479
+00:30:10,200 --> 00:30:16,200
+And every time these divisions occur, there's going to be an increase in mutations.
+
+480
+00:30:16,200 --> 00:30:18,450
+Okay?
+
+481
+00:30:18,450 --> 00:30:20,450
+So, what is the goal of screening?
+
+482
+00:30:20,450 --> 00:30:22,450
+Screening has two separate goals.
+
+483
+00:30:22,450 --> 00:30:27,450
+The first goal is to catch dysplasia before it becomes cancer,
+
+484
+00:30:27,450 --> 00:30:32,450
+i.e. even before this cell is present,
+
+485
+00:30:32,450 --> 00:30:38,450
+we try to catch dysplasia so that we don't even have to deal with the formation of a cancer.
+
+486
+00:30:38,450 --> 00:30:39,450
+What's an example?
+
+487
+00:30:39,450 --> 00:30:41,450
+Well, when we do pap smear.
+
+488
+00:30:41,450 --> 00:30:46,450
+When we do a pap smear, we're looking for cervical intraepithelial neoplasia,
+
+489
+00:30:46,450 --> 00:30:49,450
+with CIN1, CIN2, CIN3.
+
+490
+00:30:49,450 --> 00:30:50,450
+And what is CIN?
+
+491
+00:30:50,450 --> 00:30:51,450
+CIN is basically dysplasia.
+
+492
+00:30:51,450 --> 00:30:52,450
+It's not cancer.
+
+493
+00:30:52,450 --> 00:30:54,450
+It is dysplasia.
+
+494
+00:30:54,450 --> 00:30:56,450
+Now, it has a risk of developing into cancer,
+
+495
+00:30:56,450 --> 00:31:00,450
+and so what we do is, when we have CIN, we remove the CIN,
+
+496
+00:31:00,450 --> 00:31:05,450
+we remove the epithelium of the cervix before it can actually become cancer.
+
+497
+00:31:05,450 --> 00:31:10,450
+And just note that the difference between dysplasia and cancer is that dysplasia has mutations,
+
+498
+00:31:10,450 --> 00:31:12,450
+but it's reversible.
+
+499
+00:31:12,450 --> 00:31:16,450
+But cancer has mutations, and it's irreversible,
+
+500
+00:31:16,450 --> 00:31:19,450
+and it's growing in an unregulated manner.
+
+501
+00:31:19,450 --> 00:31:20,450
+Okay?
+
+502
+00:31:20,450 --> 00:31:21,450
+So, that's one goal of screening.
+
+503
+00:31:21,450 --> 00:31:24,450
+It's to catch dysplasia before it becomes carcinoma.
+
+504
+00:31:24,450 --> 00:31:27,450
+Another goal of screening, a separate goal of screening,
+
+505
+00:31:27,450 --> 00:31:30,450
+is to detect carcinoma before clinical symptoms arise.
+
+506
+00:31:30,450 --> 00:31:35,450
+So, if this is the cancer, and it's one cell, and it's going to divide into two,
+
+507
+00:31:35,450 --> 00:31:40,450
+and then four, and then eight, and eventually produce clinical symptoms,
+
+508
+00:31:40,450 --> 00:31:45,450
+what we'd like to do in screening is, rather than catching the tumor after it produces clinical symptoms,
+
+509
+00:31:45,450 --> 00:31:49,450
+we might want to catch the tumor earlier before it produces clinical symptoms,
+
+510
+00:31:49,450 --> 00:31:51,450
+and that would be a goal of screening.
+
+511
+00:31:51,450 --> 00:31:56,450
+And again, the idea is, if we catch the tumor here before it produces clinical symptoms,
+
+512
+00:31:56,450 --> 00:32:01,450
+we will have caught the tumor before additional mutations would be allowed to form.
+
+513
+00:32:01,450 --> 00:32:05,450
+And again, the more the mutations, the more aggressive the tumor would actually be.
+
+514
+00:32:05,450 --> 00:32:11,450
+So, these are the two goals of screening, and this basically comes into play in many different examples.
+
+515
+00:32:11,450 --> 00:32:14,450
+For example, as I told you, what's the goal of the pap smear?
+
+516
+00:32:14,450 --> 00:32:19,450
+The goal of the pap smear is to pick up cervical intraepithelial neoplasia,
+
+517
+00:32:19,450 --> 00:32:22,450
+whether it be CIN1, CIN2, or CIN3.
+
+518
+00:32:22,450 --> 00:32:26,450
+And the idea here is that if we pick up CIN before it becomes carcinoma,
+
+519
+00:32:26,450 --> 00:32:33,450
+we will have eliminated the possibility of carcinoma developing by removing the dysplastic cells.
+
+520
+00:32:33,450 --> 00:32:37,450
+Alright, so that's the goal of the pap smear.
+
+521
+00:32:37,450 --> 00:32:39,450
+What's the goal of mammography?
+
+522
+00:32:39,450 --> 00:32:43,450
+Well, the goal of mammography is to pick up breast cancer
+
+523
+00:32:43,450 --> 00:32:47,450
+before it actually would produce clinical symptoms.
+
+524
+00:32:47,450 --> 00:32:50,450
+So, actually, there's kind of two goals of mammography.
+
+525
+00:32:50,450 --> 00:32:53,450
+The goal is to pick up ductal carcinoma in situ.
+
+526
+00:32:53,450 --> 00:32:55,450
+What's ductal carcinoma in situ?
+
+527
+00:32:55,450 --> 00:33:02,450
+That ductal carcinoma in situ is a malignant proliferation of ductal cells that grows in a duct.
+
+528
+00:33:02,450 --> 00:33:07,450
+Alright, and the goal is to pick up ductal carcinoma in situ before these tumor cells invade,
+
+529
+00:33:07,450 --> 00:33:12,450
+because once tumor cells invade, they now have access to the blood vessels and the lymphatic spaces,
+
+530
+00:33:12,450 --> 00:33:15,450
+and there's a propensity for those tumor cells to spread.
+
+531
+00:33:15,450 --> 00:33:18,450
+The more a tumor spreads, the worse the patient will actually do.
+
+532
+00:33:18,450 --> 00:33:22,450
+And so one goal of mammography is to pick up ductal carcinoma in situ,
+
+533
+00:33:22,450 --> 00:33:28,450
+and the idea here is that ductal carcinoma in situ, it calcifies often.
+
+534
+00:33:28,450 --> 00:33:32,450
+And so mammograms will look for calcification running within ducts,
+
+535
+00:33:32,450 --> 00:33:37,450
+and that's an indication that the patient may have DCIS or ductal carcinoma in situ.
+
+536
+00:33:37,450 --> 00:33:39,450
+So that's one goal of mammography.
+
+537
+00:33:39,450 --> 00:33:41,450
+What's another goal of mammography?
+
+538
+00:33:41,450 --> 00:33:45,450
+Another goal of mammography is that if this is the patient's breast,
+
+539
+00:33:45,450 --> 00:33:52,450
+generally speaking, clinically, the average clinically detected tumor,
+
+540
+00:33:52,450 --> 00:33:57,450
+or tumor that's detected by a patient, the average size is 2 centimeters.
+
+541
+00:33:57,450 --> 00:33:59,450
+So that's pretty big.
+
+542
+00:33:59,450 --> 00:34:02,450
+However, if a patient undergoes mammography,
+
+543
+00:34:02,450 --> 00:34:06,450
+the average size of detection in mammography is 1 centimeter.
+
+544
+00:34:06,450 --> 00:34:11,450
+So we can pick up tumors that are 1 centimeter by mammography
+
+545
+00:34:11,450 --> 00:34:15,450
+that we wouldn't be able to pick up until they became 2 centimeters clinically.
+
+546
+00:34:15,450 --> 00:34:16,450
+All right?
+
+547
+00:34:16,450 --> 00:34:20,450
+And so mammography allows us to detect a tumor that's half the size of that
+
+548
+00:34:20,450 --> 00:34:22,450
+which would have normally been detected.
+
+549
+00:34:22,450 --> 00:34:25,450
+And of course, the larger the tumor, the increase the risk of mutations.
+
+550
+00:34:25,450 --> 00:34:29,450
+And generally speaking, it's known that the larger the tumor,
+
+551
+00:34:29,450 --> 00:34:34,450
+the more likely it is to have spread to local lymph nodes or outside of the breast.
+
+552
+00:34:34,450 --> 00:34:40,450
+And so mammography becomes an important mechanism of screening for cancer.
+
+553
+00:34:40,450 --> 00:34:45,450
+Another important screening test that we can use is PSA and digital rectal exam.
+
+554
+00:34:45,450 --> 00:34:46,450
+Now what's the idea here?
+
+555
+00:34:46,450 --> 00:34:50,450
+The idea here is that, recall that if this is the prostate,
+
+556
+00:34:50,450 --> 00:34:53,450
+and running through the center of the prostate is the urethra,
+
+557
+00:34:53,450 --> 00:35:01,450
+the prostate cancer tends to grow in the posterior peripheral aspect of the prostate.
+
+558
+00:35:01,450 --> 00:35:14,450
+And so it's a relatively silent disease because it doesn't really produce urinary symptoms.
+
+559
+00:35:14,450 --> 00:35:16,450
+Now, the urethra runs through the center of the prostate.
+
+560
+00:35:16,450 --> 00:35:20,450
+Do you know what disease process involves the center of the prostate?
+
+561
+00:35:20,450 --> 00:35:21,450
+Very good, BPH.
+
+562
+00:35:21,450 --> 00:35:23,450
+BPH involves the center of the prostate.
+
+563
+00:35:23,450 --> 00:35:28,450
+And BPH will compress the urethra and produce urinary symptoms.
+
+564
+00:35:28,450 --> 00:35:33,450
+However, prostate cancer tends to grow in the posterior periphery of the prostate
+
+565
+00:35:33,450 --> 00:35:36,450
+and does not compress the urethra until very late in disease.
+
+566
+00:35:36,450 --> 00:35:39,450
+And so it's a clinically silent disease.
+
+567
+00:35:39,450 --> 00:35:43,450
+And so what we'd like to do is pick up these prostate cancers when they're small
+
+568
+00:35:43,450 --> 00:35:47,450
+and when they have yet to spread throughout most of the prostate or outside of the prostate.
+
+569
+00:35:47,450 --> 00:35:52,450
+And the way by which we can detect them is an increase in PSA or a digital rectal exam.
+
+570
+00:35:52,450 --> 00:35:56,450
+Now, how does the digital rectal exam pick up prostate cancer?
+
+571
+00:35:56,450 --> 00:36:00,450
+Well, recall that prostate cancer occurs in the posterior periphery of the prostate
+
+572
+00:36:00,450 --> 00:36:05,450
+and running light right along the posterior periphery of the prostate is the rectum.
+
+573
+00:36:05,450 --> 00:36:11,450
+And so in digital rectal exam, we get a chance to palpate the posterior periphery of the prostate
+
+574
+00:36:11,450 --> 00:36:16,450
+which is exactly where prostate cancer most commonly develops.
+
+575
+00:36:16,450 --> 00:36:19,450
+So this is another example of a screening test.
+
+576
+00:36:19,450 --> 00:36:25,450
+And the final example that I'd like to give is the hemocult test in colonoscopy
+
+577
+00:36:25,450 --> 00:36:31,450
+for detection of colonic adenomas and colonic carcinoma.
+
+578
+00:36:31,450 --> 00:36:37,450
+Now the idea here is that recall that colonic carcinoma, adenocarcinoma of the colon,
+
+579
+00:36:37,450 --> 00:36:42,450
+the vast majority of adenocarcinoma of the colon actually develops from adenomas.
+
+580
+00:36:42,450 --> 00:36:47,450
+And this is something called the adenoma carcinoma sequence.
+
+581
+00:36:47,450 --> 00:36:54,450
+We'll discuss the adenoma carcinoma sequence in more detail when we do the
+
+582
+00:36:54,450 --> 00:36:57,450
+colon lecture.
+
+583
+00:36:57,450 --> 00:37:02,450
+However, what I'd like to highlight here is that when a patient undergoes colonoscopy,
+
+584
+00:37:02,450 --> 00:37:04,450
+the goal is to remove the adenomas.
+
+585
+00:37:04,450 --> 00:37:09,450
+And if we remove the adenomas, then obviously they wouldn't be able to become carcinoma.
+
+586
+00:37:09,450 --> 00:37:11,450
+And so that's one benefit of colonoscopy.
+
+587
+00:37:11,450 --> 00:37:15,450
+Another benefit of colonoscopy is if the patient happens to have a cancer,
+
+588
+00:37:15,450 --> 00:37:18,450
+we hope to catch the cancer before clinical symptoms are found.
+
+589
+00:37:18,450 --> 00:37:20,450
+And the same with the hemocult test.
+
+590
+00:37:20,450 --> 00:37:26,450
+The hemocult test has the ability to detect occult blood within the stool.
+
+591
+00:37:26,450 --> 00:37:29,450
+And that occult blood could be indicative of a large adenoma,
+
+592
+00:37:29,450 --> 00:37:32,450
+or it could be indicative of a carcinoma.
+
+593
+00:37:32,450 --> 00:37:35,450
+And so we want to catch adenomas before they become carcinoma,
+
+594
+00:37:35,450 --> 00:37:41,450
+or we'd like to catch carcinoma before it actually produces clinical symptoms.
+
+595
+00:37:41,450 --> 00:37:45,450
+So these are some important examples of mechanisms of screening.
+
+596
+00:37:45,450 --> 00:37:50,450
+And hopefully by now you've got the general idea in your mind of the benefits of screening.
+
+597
+00:37:50,450 --> 00:37:54,450
+And that really closes off this very introductory discussion of neoplasia.
+
+598
+00:37:54,450 --> 00:37:56,450
+Much of what I said is high yield.
+
+599
+00:37:56,450 --> 00:38:00,450
+Much of what I said is going to apply to the organ systems,
+
+600
+00:38:00,450 --> 00:38:04,450
+the particular organ systems in which they would normally be discussed.
+
+601
+00:38:04,450 --> 00:38:08,450
+For example, colonoscopy, PSA, digital rectal exam, et cetera.
+
+602
+00:38:08,450 --> 00:38:12,450
+But what we'll do here is take a moment to, we'll stop here,
+
+603
+00:38:12,450 --> 00:38:14,450
+give you some time to digest the material,
+
+604
+00:38:14,450 --> 00:38:19,450
+and when you're ready we can continue with the discussion of carcinogenesis.
+
+605
+00:38:19,450 --> 00:38:35,450
+Sometimes we'll reduce them in the developing phenomena.
+
+606
+00:38:35,450 --> 00:38:39,450
+However, the ones that reward them in the protection of carcinogenesis
+
+607
+00:38:39,450 --> 00:38:40,450
+are important.
+

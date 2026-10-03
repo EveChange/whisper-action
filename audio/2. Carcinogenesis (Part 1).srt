@@ -1,0 +1,792 @@
+1
+00:00:00,000 --> 00:00:06,240
+Okay, welcome back. Our next discussion concerns carcinogenesis, and the basic idea behind this
+
+2
+00:00:06,240 --> 00:00:12,960
+discussion is that tumor is driven by DNA mutations. It's one of the central principles of
+
+3
+00:00:12,960 --> 00:00:19,400
+cancer biology, and that is that it's mutations that results in the formation of cancers.
+
+4
+00:00:20,060 --> 00:00:25,340
+And so what we'd like to understand in this section is, number one, what are some of the
+
+5
+00:00:25,340 --> 00:00:32,440
+agents that result in mutations? Number two, what are some of the key regulatory systems that get
+
+6
+00:00:32,440 --> 00:00:39,660
+mutated? And what are some of the particular mutations that might be associated with cancers
+
+7
+00:00:39,660 --> 00:00:45,660
+that we would commonly see clinically? So as you can imagine, this section, this subsection of the
+
+8
+00:00:45,660 --> 00:00:52,180
+chapter, is one of the highest yield discussions that we could have. Before we begin, let's remind
+
+9
+00:00:52,180 --> 00:00:59,960
+ourselves that carcinogens are agents that damage DNA. And there are several subtypes of important
+
+10
+00:00:59,960 --> 00:01:07,740
+carcinogens, each of which lends itself to a high yield discussion for examinations. For example,
+
+11
+00:01:08,000 --> 00:01:13,880
+there are a subset of chemicals that are known to induce DNA damage that can result in cancer
+
+12
+00:01:13,880 --> 00:01:20,880
+formation. There are a subset of oncogenic viruses that can induce DNA damage resulting in cancer
+
+13
+00:01:20,880 --> 00:01:26,820
+formation. And radiation also has the ability to induce DNA damage, which would then subsequently
+
+14
+00:01:26,820 --> 00:01:36,540
+result in the formation of a cancer. I've summarized it with a bunch of high yields in a table in your
+
+15
+00:01:36,540 --> 00:01:44,920
+text. And so we're going to use this table to list each and every one of these chemicals and the
+
+16
+00:01:44,920 --> 00:01:50,660
+different tumors that they are associated with. Generally speaking, I hate tables. I hate laundry
+
+17
+00:01:50,660 --> 00:01:56,700
+lists. I hate memorizing. But unfortunately, we actually have to go through each and every one of
+
+18
+00:01:56,700 --> 00:02:02,040
+these here. And some of them will hopefully make sense as we go through them, and I'll try to make it as
+
+19
+00:02:02,040 --> 00:02:08,740
+painless as possible. But what I would recommend at this point is, this may be projecting slightly small
+
+20
+00:02:08,740 --> 00:02:14,260
+on your screen, and so probably it would be best for you to refer to the text as I walk you through this, and
+
+21
+00:02:14,260 --> 00:02:19,700
+then you can make notes in the sidebar as appropriate. So let's start with number one. The first
+
+22
+00:02:19,700 --> 00:02:26,740
+chemical are aflatoxins. This is actually relatively high yield, and the reason it's high yield is
+
+23
+00:02:26,740 --> 00:02:34,660
+because aflatoxins are an important cause, are an important relationship, or have an important
+
+24
+00:02:34,660 --> 00:02:40,380
+relationship to hepatocellular carcinoma. Now you may have never heard of this, but hepatocellular
+
+25
+00:02:40,380 --> 00:02:47,560
+carcinoma is, in some countries of the world, especially in some countries in Africa, is actually the most common
+
+26
+00:02:47,560 --> 00:02:57,560
+cancer seen in those populations. And the reason is based on this notion of aflatoxins. Now what are
+
+27
+00:02:57,560 --> 00:03:04,760
+aflatoxins? Aflatoxins are derived from aspergillus, and what happens is the aspergillus can contaminate
+
+28
+00:03:04,760 --> 00:03:10,120
+stored, stored grains. So let's say that there is a region of the world where grains are stored after
+
+29
+00:03:10,120 --> 00:03:16,920
+harvest. Aflatoxins, aspergillus can contaminate those grains, and a byproduct of aspergillus would be the
+
+30
+00:03:16,920 --> 00:03:22,920
+production of aflatoxins, and those aflatoxins can increase the risk of hepatocellular carcinoma.
+
+31
+00:03:22,920 --> 00:03:28,920
+So it actually is a very high yield association, and that's why I placed it here in your chart.
+
+32
+00:03:28,920 --> 00:03:36,920
+The next chemical are alkylating agents, and alkylating agents, they increase the risk of leukemia and
+
+33
+00:03:36,920 --> 00:03:41,920
+lymphoma. Now I don't think this is going to be too hard for you to remember, because if you go back to
+
+34
+00:03:41,920 --> 00:03:48,920
+pharmacology, you're well aware of the fact that when we treat patients with cancer, when we treat
+
+35
+00:03:48,920 --> 00:03:53,920
+patients who have cancer with an alkylating agent, one of the complications of those
+
+36
+00:03:53,920 --> 00:03:59,920
+chemotherapeutic agents is that there's an increased risk for the development of leukemia and lymphoma
+
+37
+00:03:59,920 --> 00:04:05,920
+years down the line, so that they can get secondary leukemias and lymphomas, you know, five or ten years
+
+38
+00:04:05,920 --> 00:04:12,920
+down the line. So it is a side effect, a long-term side effect of chemotherapy. So that's sort of a
+
+39
+00:04:12,920 --> 00:04:20,920
+pharmacology tie-in. The next of the chemicals that is important is alcohol. Alcohol is a carcinogenic
+
+40
+00:04:20,920 --> 00:04:27,920
+agent. It is related to squamous cell carcinoma of the oropharynx. You know that the two major risk
+
+41
+00:04:27,920 --> 00:04:36,920
+factors for development of oropharyngeal carcinoma, i.e. carcinoma of the throat and the mouth is
+
+42
+00:04:36,920 --> 00:04:46,920
+both alcohol and tobacco. And so that's an important association. Similarly, alcohol is related to squamous
+
+43
+00:04:46,920 --> 00:04:52,920
+cell carcinoma of the upper esophagus. There's an association of alcohol with pancreatic carcinoma.
+
+44
+00:04:52,920 --> 00:04:59,920
+You're well aware of the fact that alcohol causes chronic pancreatitis. And one of the
+
+45
+00:04:59,920 --> 00:05:03,920
+complications of chronic pancreatitis is pancreatic carcinoma. So you could kind of
+
+46
+00:05:03,920 --> 00:05:08,920
+put that sequence together. Alcohol, chronic pancreatitis, and pancreatic carcinoma. And then
+
+47
+00:05:08,920 --> 00:05:14,920
+the final is alcohol's relationship to hepatocellular carcinoma. Remember that alcohol
+
+48
+00:05:14,920 --> 00:05:19,920
+trashes the liver. It can create multiple pathologies in the liver. One of the relatively
+
+49
+00:05:19,920 --> 00:05:25,920
+more common pathologies would be cirrhosis. And cirrhosis increases the risk for hepatocellular
+
+50
+00:05:25,920 --> 00:05:31,920
+carcinoma. So alcohol and its relationship with these multiple carcinomas is relatively
+
+51
+00:05:31,920 --> 00:05:37,920
+important. Another important chemical is arsenic. The way by which I remember arsenic is sort
+
+52
+00:05:37,920 --> 00:05:42,920
+of two-fold. Arsenic increases the risk for squamous cell carcinoma of the skin. The way I
+
+53
+00:05:42,920 --> 00:05:49,920
+remember that is to go back to a little bit of history. Women at the turn of the prior century,
+
+54
+00:05:49,920 --> 00:05:55,920
+women who used to work in England out in the field, didn't want people to know that they
+
+55
+00:05:55,920 --> 00:06:01,920
+were actually working and so they didn't want to show their skin had become tanned by the sun
+
+56
+00:06:01,920 --> 00:06:05,920
+when they would be working out in the field. So they would apply arsenic to their skin and arsenic
+
+57
+00:06:05,920 --> 00:06:11,920
+would cause lightening of the skin. Now unfortunately one of the complications of using arsenic on the
+
+58
+00:06:11,920 --> 00:06:17,920
+skin was that these individuals would develop squamous cell carcinoma of the skin. And so that's an
+
+59
+00:06:17,920 --> 00:06:22,920
+association to be familiar with. Generally speaking, arsenic and skin are kind of related.
+
+60
+00:06:22,920 --> 00:06:27,920
+You know that arsenic poisoning can occur in certain patients and the way by which you can
+
+61
+00:06:27,920 --> 00:06:34,920
+test for arsenic poisoning is to clip the fingernails or sometimes remove the hair. And arsenic can
+
+62
+00:06:34,920 --> 00:06:38,920
+often be found in fingernails and hair which are kind of derivatives of skin as well. So I don't know,
+
+63
+00:06:38,920 --> 00:06:45,920
+there's multiple ways to remember that. Another association with arsenic is lung cancer. And the way I
+
+64
+00:06:45,920 --> 00:06:51,920
+remember that is that arsenic is actually present in a cigarette smoke. And so it's not hard to imagine,
+
+65
+00:06:51,920 --> 00:06:58,920
+since cigarette smoke contains about 40 plus carcinogens, that arsenic would be related to lung cancer.
+
+66
+00:06:58,920 --> 00:07:03,920
+And the final relationship of arsenic is that of arsenic with angiosarcoma of the liver,
+
+67
+00:07:03,920 --> 00:07:12,920
+maybe relatively a little lower yield on our list here. But anyway, there is an association there.
+
+68
+00:07:12,920 --> 00:07:18,920
+Asbestos, we're all well aware of. Asbestos, what's important to know is that asbestos increases the risk
+
+69
+00:07:18,920 --> 00:07:25,920
+for both lung cancer and mesothelioma. Remember that mesothelioma is a cancer that arises from the mesothelial cells
+
+70
+00:07:25,920 --> 00:07:34,920
+of the pleura. And asbestos increases the risk for both lung cancer and mesothelioma. And here's the super high yield concerning asbestos.
+
+71
+00:07:34,920 --> 00:07:43,920
+And that is, patients who are exposed to asbestos are far more likely to develop lung cancer than they are mesothelioma.
+
+72
+00:07:43,920 --> 00:08:00,920
+Okay, so that's that. Now we go to cigarette smoke. Cigarette smoke is a very important carcinogen to be aware of.
+
+73
+00:08:00,920 --> 00:08:06,920
+It's associated with carcinoma of the oropharynx, as I've already kind of stated above when we talked about alcohol.
+
+74
+00:08:06,920 --> 00:08:17,920
+It's also associated with squamous cell carcinoma of the esophagus. It's associated with lung cancer.
+
+75
+00:08:17,920 --> 00:08:27,920
+That, I think, is obvious. We're all familiar with the fact that cigarette smoke is sort of the leading risk factor for lung cancer.
+
+76
+00:08:27,920 --> 00:08:35,920
+And then, important to know as a derivative of that point, that the most common carcinogen worldwide is cigarette smoke.
+
+77
+00:08:35,920 --> 00:08:43,920
+One billion people worldwide smoke. That number still shocks me. But regardless, one billion people worldwide, they smoke.
+
+78
+00:08:43,920 --> 00:08:52,920
+And the most, probably the most important carcinogen within cigarette smoke, recall that I mentioned that there are about 40 carcinogens in cigarette smoke,
+
+79
+00:08:52,920 --> 00:08:59,920
+for example, arsenic. But the most important carcinogen in cigarette smoke are polycyclic hydrocarbons.
+
+80
+00:08:59,920 --> 00:09:06,920
+These are particularly mutagenic. Now, that's some of the classic tumors that are associated with cigarette smoke.
+
+81
+00:09:06,920 --> 00:09:12,920
+But I want to remind you that also associated with smoking and cigarette smoke is kidney and bladder cancer.
+
+82
+00:09:12,920 --> 00:09:21,920
+Now, generally speaking, the urothelium, which is the lining of the collecting system of the kidney, the bladder, the ureters,
+
+83
+00:09:21,920 --> 00:09:28,920
+and a portion of the urethra, that entire system is lined by urothelium.
+
+84
+00:09:28,920 --> 00:09:34,920
+And the key risk factor for urothelial carcinoma, cigarette smoke, cigarette smoke, cigarette smoke.
+
+85
+00:09:34,920 --> 00:09:40,920
+And the idea here is that when a patient smokes, the carcinogens get into the blood, and then they get filtered by the kidney,
+
+86
+00:09:40,920 --> 00:09:44,920
+and they get concentrated in the urine. And when they get concentrated in the urine,
+
+87
+00:09:44,920 --> 00:09:51,920
+they sort of hang out in the bladder, and in the ureter, and in the collecting system, as fluid is sort of washing those areas.
+
+88
+00:09:51,920 --> 00:10:00,920
+And basically, the entire collecting system, the entire urothelium, is being bathed with carcinogen constantly over a period of years.
+
+89
+00:10:00,920 --> 00:10:07,920
+And so cigarette smoke is the key risk factor for both kidney and bladder cancer.
+
+90
+00:10:07,920 --> 00:10:11,920
+Alright, so that's the association with cigarette smoke.
+
+91
+00:10:11,920 --> 00:10:16,920
+Now, nitrosamines, the next one on the list, is highly associated with stomach carcinoma.
+
+92
+00:10:16,920 --> 00:10:22,920
+And it's found in smoked foods, and it's responsible for the high rate of stomach carcinoma in Japan.
+
+93
+00:10:22,920 --> 00:10:27,920
+Let me just take you back for a second. If you haven't studied stomach yet, you will eventually hear this.
+
+94
+00:10:27,920 --> 00:10:31,920
+But stomach cancer is actually divided into two types of cancer.
+
+95
+00:10:31,920 --> 00:10:38,920
+You can get something called an intestinal type of stomach carcinoma, which is the more common type of stomach carcinoma.
+
+96
+00:10:38,920 --> 00:10:41,920
+And the second type of stomach carcinoma is the diffuse type.
+
+97
+00:10:41,920 --> 00:10:46,920
+Nitrosamines are related to the intestinal type of stomach carcinoma.
+
+98
+00:10:46,920 --> 00:10:52,920
+And we'll give you a little more detail later on when we actually do the GI lectures.
+
+99
+00:10:52,920 --> 00:10:55,920
+But let's just sort of put this away in your brain right now.
+
+100
+00:10:55,920 --> 00:11:00,920
+And that is that nitrosamines are related to the intestinal type of stomach carcinoma.
+
+101
+00:11:00,920 --> 00:11:09,920
+Naphthalamine is associated with urothelial carcinoma of the bladder, and it's also a derivative of cigarette smoke.
+
+102
+00:11:09,920 --> 00:11:11,920
+So, again, the same concept here.
+
+103
+00:11:11,920 --> 00:11:19,920
+And that is that cigarette smoke contains multiple carcinogenic agents, not each of which, but the key ones of which you should be familiar with,
+
+104
+00:11:19,920 --> 00:11:31,920
+and polycyclic hydrocarbons are particularly carcinogenic arsenic and creating squamous cell carcinoma of the lung.
+
+105
+00:11:31,920 --> 00:11:37,920
+And then naphthalamines related to urothelial carcinoma of the bladder.
+
+106
+00:11:37,920 --> 00:11:41,920
+Vinyl chloride associated with angiosarcoma of the liver.
+
+107
+00:11:41,920 --> 00:11:50,920
+And this is important because it was an important epidemiological study that determined this association.
+
+108
+00:11:50,920 --> 00:11:58,920
+Basically, there were a group of workers that were exposed to vinyl chloride, and they developed, a large number of them developed angiosarcoma of the liver.
+
+109
+00:11:58,920 --> 00:12:03,920
+And that occupational exposure was well studied, and so, therefore, it makes for a high yield question.
+
+110
+00:12:03,920 --> 00:12:12,920
+Now, in particular, those workers were using vinyl chloride, and you know that vinyl chloride is one of the substances used to make pipes.
+
+111
+00:12:12,920 --> 00:12:26,920
+When you go to Home Depot or one of these home improvement centers and you see pipes present, one type of pipe that can be purchased are those plastic pipes called PVC pipes.
+
+112
+00:12:26,920 --> 00:12:31,920
+And so, PVC pipes, part of the PVC requires vinyl chloride.
+
+113
+00:12:31,920 --> 00:12:42,920
+Not that those pipes are particularly carcinogenic, but the vinyl chloride could potentially be carcinogenic if an occupational exposure occurred.
+
+114
+00:12:42,920 --> 00:12:46,920
+And so, there's an association there with angiosarcoma of the liver.
+
+115
+00:12:46,920 --> 00:12:59,920
+Another important association, and the last in this particular list, is nickel, chromium, beryllium, or silica.
+
+116
+00:12:59,920 --> 00:13:08,920
+And these are associated with lung cancer, and again, these are occupational exposures, and they increase the risk for formation of lung carcinoma.
+
+117
+00:13:08,920 --> 00:13:15,920
+Now, the second category of carcinogenic agents are oncogenic viruses, and each of these are super high yield,
+
+118
+00:13:15,920 --> 00:13:22,920
+because they're related to microbiology and because they can tie into the molecular biology of cancer as well.
+
+119
+00:13:22,920 --> 00:13:24,920
+So, let's walk through them one by one.
+
+120
+00:13:24,920 --> 00:13:26,920
+First of all, EBV.
+
+121
+00:13:26,920 --> 00:13:31,920
+So, EBV is associated with nasopharyngeal carcinoma.
+
+122
+00:13:31,920 --> 00:13:33,920
+That's the first association.
+
+123
+00:13:33,920 --> 00:13:41,920
+And the classic patient who develops EBV nasopharyngeal carcinoma is number one, a Chinese male.
+
+124
+00:13:41,920 --> 00:13:44,920
+That's sort of the classic one that shows up on examinations.
+
+125
+00:13:44,920 --> 00:13:47,920
+And number two, an African individual.
+
+126
+00:13:47,920 --> 00:13:54,920
+So, these are the two patients that are particularly prone to EBV-related nasopharyngeal carcinoma.
+
+127
+00:13:54,920 --> 00:14:02,920
+Again, Chinese male and an African, an individual of African descent.
+
+128
+00:14:02,920 --> 00:14:08,920
+Not descent, I should say an individual who is in the region of Africa.
+
+129
+00:14:08,920 --> 00:14:13,920
+And so, those are individuals who may develop nasopharyngeal carcinoma.
+
+130
+00:14:13,920 --> 00:14:21,920
+Classically, nasopharyngeal carcinoma presents as a neck mass because the tumor very early metastasizes to local regional lymph nodes.
+
+131
+00:14:21,920 --> 00:14:25,920
+And so, the classic presentation is a neck mass in a Chinese male.
+
+132
+00:14:25,920 --> 00:14:26,920
+Okay?
+
+133
+00:14:26,920 --> 00:14:29,920
+So, that would be an example of an EBV-induced tumor.
+
+134
+00:14:29,920 --> 00:14:32,920
+EBV is also associated with Burkitt lymphoma.
+
+135
+00:14:32,920 --> 00:14:39,920
+Burkitt lymphoma will be discussed in detail when we do your heme or white blood cell discussion.
+
+136
+00:14:39,920 --> 00:14:42,920
+And it's also associated with CNS lymphoma in AIDS.
+
+137
+00:14:42,920 --> 00:14:48,920
+Now, another important oncogenic virus is HHV-8, human herpes virus subtype 8.
+
+138
+00:14:48,920 --> 00:14:52,920
+And this is associated with Kaposi's sarcoma.
+
+139
+00:14:52,920 --> 00:14:57,920
+Kaposi's sarcoma is a tumor of endothelial cells.
+
+140
+00:14:57,920 --> 00:15:03,920
+The patients classically present with these purplish raised lesions, usually on the skin.
+
+141
+00:15:03,920 --> 00:15:07,920
+And there's kind of three subtypes of patients that get Kaposi's sarcoma.
+
+142
+00:15:07,920 --> 00:15:14,920
+The first are Eastern European males, older Eastern European males.
+
+143
+00:15:14,920 --> 00:15:17,920
+They get Kaposi's sarcoma of the skin.
+
+144
+00:15:17,920 --> 00:15:22,920
+And the treatment for those patients is to simply excise the Kaposi's sarcoma.
+
+145
+00:15:22,920 --> 00:15:27,920
+And they will respond very well to that simple treatment of excision.
+
+146
+00:15:27,920 --> 00:15:32,920
+The second group of patients that get Kaposi's sarcoma are AIDS patients.
+
+147
+00:15:32,920 --> 00:15:41,920
+And the treatment for Kaposi's sarcoma in AIDS patients is to treat the virus by giving antiretroviral agents.
+
+148
+00:15:41,920 --> 00:15:53,920
+That will boost the CD4 positive T cell count, which will then subsequently allow the immune system to destroy the HHV-8 infected cells.
+
+149
+00:15:53,920 --> 00:15:57,920
+And the immune system, once boosted, will actually destroy the tumor.
+
+150
+00:15:57,920 --> 00:16:03,920
+And the third group of patients that get Kaposi's sarcoma are patients who have transplants because they're immunosuppressed.
+
+151
+00:16:03,920 --> 00:16:08,920
+And the way by which we treat those patients is to simply reduce the immunosuppression slightly,
+
+152
+00:16:08,920 --> 00:16:19,920
+which then allows the immune system to be, which then empowers the immune system of the patient to actually go in and kill the HHV-8 infected cells.
+
+153
+00:16:19,920 --> 00:16:23,920
+Again, allowing for resolution of that tumor.
+
+154
+00:16:23,920 --> 00:16:26,920
+And so that's a little bit about Kaposi's sarcoma.
+
+155
+00:16:26,920 --> 00:16:38,920
+Another important relationship is hepatocellular carcinoma with hepatitis B virus and hepatitis C virus.
+
+156
+00:16:38,920 --> 00:16:44,920
+Hepatitis B virus is a DNA virus and hepatitis C virus is an RNA virus.
+
+157
+00:16:44,920 --> 00:16:46,920
+But that's a little bit of microbiology.
+
+158
+00:16:46,920 --> 00:16:56,920
+Human T cell leukemia virus 1, HTLV-1, is associated with adult T cell leukemia lymphoma.
+
+159
+00:16:56,920 --> 00:16:59,920
+We'll talk about that in more detail when we do your white blood cell lectures.
+
+160
+00:16:59,920 --> 00:17:01,920
+But that's an important association.
+
+161
+00:17:01,920 --> 00:17:07,920
+And then finally, high risk HPV, subtypes 16, 18, 31, and 33.
+
+162
+00:17:07,920 --> 00:17:14,920
+Those are associated with squamous cell carcinoma of the vulva, vagina, anus, and the cervix.
+
+163
+00:17:14,920 --> 00:17:18,920
+And they're also associated with adenocarcinoma of the cervix.
+
+164
+00:17:18,920 --> 00:17:23,920
+And so these are some high yield viruses that are associated with tumors.
+
+165
+00:17:23,920 --> 00:17:29,920
+And you're going to hear about most of these viruses again when we do systemic pathology.
+
+166
+00:17:29,920 --> 00:17:35,920
+So really what I'm doing here is I'm just planting a seed in your mind and I'm going to water it a little bit later.
+
+167
+00:17:35,920 --> 00:17:39,920
+So those are the oncogenic viruses that are associated with tumor formation.
+
+168
+00:17:39,920 --> 00:17:46,920
+A third category of carcinogenic agent is radiation.
+
+169
+00:17:46,920 --> 00:17:52,920
+And radiation can actually be subdivided into two types, ionizing and non-ionizing.
+
+170
+00:17:52,920 --> 00:17:57,920
+Ionizing radiation is that which would be seen in a nuclear reactor accident.
+
+171
+00:17:57,920 --> 00:18:02,920
+Unfortunately, they do occur, as we're well aware, especially with recent news.
+
+172
+00:18:02,920 --> 00:18:15,920
+And so ionizing radiation does increase the risk for particular cancers, such as classically papillary carcinoma of the thyroid.
+
+173
+00:18:15,920 --> 00:18:26,920
+For example, children that were exposed to the Chernobyl nuclear accident, there was an increased rate of development of papillary carcinoma of the thyroid among those kids.
+
+174
+00:18:26,920 --> 00:18:35,920
+Also, there was an increased risk of development of AML, and also an increased risk in patients exposed to development of CML.
+
+175
+00:18:35,920 --> 00:18:42,920
+So AML, CML, and papillary carcinoma of the thyroid are the three cancers that are associated with ionizing radiation.
+
+176
+00:18:42,920 --> 00:18:48,920
+Now I want you to remember, I've already mentioned it once, but here we're going to review it one more time.
+
+177
+00:18:48,920 --> 00:18:58,920
+And that is the mechanism by which ionizing radiation actually increases this risk is by the generation of hydroxyl free radicals.
+
+178
+00:18:58,920 --> 00:19:07,920
+So water within tissues gets hit by the ionizing radiation, and as a byproduct of that damage, hydroxyl free radicals are generated,
+
+179
+00:19:07,920 --> 00:19:15,920
+and those hydroxyl free radicals can damage DNA, increasing the risk for mutations, increasing the risk for formation of cancer.
+
+180
+00:19:15,920 --> 00:19:18,920
+So that is ionizing radiation.
+
+181
+00:19:18,920 --> 00:19:21,920
+The second type of radiation is actually non-ionizing.
+
+182
+00:19:21,920 --> 00:19:30,920
+And non-ionizing radiation, the notion here is that non-ionizing radiation can occur in multiple subtypes.
+
+183
+00:19:30,920 --> 00:19:37,920
+The most common type is UVB sunlight, and that is actually the most important.
+
+184
+00:19:37,920 --> 00:19:41,920
+Now, non-ionizing radiation is associated with three types of cancers.
+
+185
+00:19:41,920 --> 00:19:49,920
+All of them are skin cancers, basal cell carcinoma of the skin, squamous cell carcinoma of the skin, and melanoma of the skin.
+
+186
+00:19:49,920 --> 00:19:54,920
+So these are the three key tumors that are associated with non-ionizing radiation.
+
+187
+00:19:54,920 --> 00:20:05,920
+Now, non-ionizing radiation, what it does is it damages DNA by creating nicks within the pyrimidine dimers of DNA.
+
+188
+00:20:05,920 --> 00:20:14,920
+Now, these nicks within pyrimidine dimers within the DNA are normally excised by a restriction endonuclease enzyme,
+
+189
+00:20:14,920 --> 00:20:17,920
+and so that's the way we normally handle these.
+
+190
+00:20:17,920 --> 00:20:23,920
+However, excessive exposure to sunlight, in particular UVB light, will produce excessive damage of DNA,
+
+191
+00:20:23,920 --> 00:20:28,920
+which will eventually overrun the ability to repair that damage.
+
+192
+00:20:28,920 --> 00:20:35,920
+Now, do you know the name of the disease in which these restriction endonucleases are not functioning or are mutated,
+
+193
+00:20:35,920 --> 00:20:40,920
+and therefore the patients have a high propensity of development of skin cancers?
+
+194
+00:20:40,920 --> 00:20:41,920
+Okay, excellent.
+
+195
+00:20:41,920 --> 00:20:44,920
+The name of that disease is xeroderma pigmentosum,
+
+196
+00:20:44,920 --> 00:20:49,920
+and we'll talk about that disease in more detail when we do your skin lectures.
+
+197
+00:20:49,920 --> 00:21:04,920
+The name of that disease is xeroderma護.com.
+
+198
+00:21:04,920 --> 00:21:10,920
+So let's go to the disease in particular,
+

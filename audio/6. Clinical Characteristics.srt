@@ -1,0 +1,1140 @@
+1
+00:00:00,300 --> 00:00:05,600
+The final section of this chapter deals with the clinical characteristics of neoplasia.
+
+2
+00:00:06,200 --> 00:00:12,500
+And the idea here is that once you go through the sequence of carcinogenesis and tumor progression,
+
+3
+00:00:13,020 --> 00:00:16,960
+eventually the patients will present with certain important clinical characteristics,
+
+4
+00:00:17,480 --> 00:00:19,260
+and so that's what we want to discuss here.
+
+5
+00:00:19,260 --> 00:00:23,880
+Now, we're not going to discuss specific characteristics for each individual tumor,
+
+6
+00:00:24,120 --> 00:00:28,940
+but we're going to discuss some general concepts that you need to have concerning neoplasia
+
+7
+00:00:28,940 --> 00:00:30,540
+and how it might present clinically.
+
+8
+00:00:31,320 --> 00:00:36,300
+So obviously, we know that neoplasia can be divided into benign and malignant.
+
+9
+00:00:36,680 --> 00:00:39,280
+So there are benign tumors and there are malignant tumors.
+
+10
+00:00:40,260 --> 00:00:43,660
+Generally speaking, benign tumors are going to be slow-growing.
+
+11
+00:00:44,460 --> 00:00:51,380
+The patient may give a history of having a mass that has grown slowly over many years, for example.
+
+12
+00:00:51,940 --> 00:00:55,100
+Another characteristic is that the tumor will be well-circumscribed,
+
+13
+00:00:55,600 --> 00:00:58,560
+and that would be where you would examine the tumor clinically,
+
+14
+00:00:58,560 --> 00:01:04,680
+and it's clearly distinct and separate from the adjacent tissue in which it's growing.
+
+15
+00:01:05,060 --> 00:01:07,220
+So, for example, a patient has a breast mass,
+
+16
+00:01:07,320 --> 00:01:11,680
+and the breast mass is clearly distinct and separate from the remainder of the breast tissue.
+
+17
+00:01:12,040 --> 00:01:14,160
+And so that's basically what we mean by distinct here.
+
+18
+00:01:14,500 --> 00:01:15,640
+And finally, it's mobile.
+
+19
+00:01:15,860 --> 00:01:17,020
+And what does mobile mean?
+
+20
+00:01:17,080 --> 00:01:19,900
+It means that if you take the mass and try to move it around,
+
+21
+00:01:20,000 --> 00:01:23,200
+for example, if it was a breast mass, and you try to move it around,
+
+22
+00:01:23,360 --> 00:01:25,460
+it's easy to move the mass around.
+
+23
+00:01:25,460 --> 00:01:26,900
+And what does that tell you?
+
+24
+00:01:26,980 --> 00:01:30,280
+That tells you that the mass is not invading into local tissues,
+
+25
+00:01:30,640 --> 00:01:34,660
+it's not attaching itself, for example, to the chest wall in the case of the breast.
+
+26
+00:01:35,040 --> 00:01:40,200
+And so these are some classic clinical features that we would expect in benign tumors.
+
+27
+00:01:40,720 --> 00:01:45,040
+In contrast, malignant tumors would have the following characteristics.
+
+28
+00:01:45,580 --> 00:01:47,720
+Malignant tumors are usually rapidly growing.
+
+29
+00:01:47,720 --> 00:01:54,340
+The patient usually gives a history of a tumor that's grown within a year or grown sometimes within months.
+
+30
+00:01:54,960 --> 00:01:55,720
+They're poorly circumscribed.
+
+31
+00:01:56,520 --> 00:02:00,740
+You try to sort of get your hand around the tumor, for example, if it's a breast cancer,
+
+32
+00:02:01,140 --> 00:02:07,120
+and you can't really separate it from the adjacent surrounding normal breast tissue.
+
+33
+00:02:07,500 --> 00:02:11,480
+It infiltrates into local tissues, and it's fixed to surrounding structures.
+
+34
+00:02:11,660 --> 00:02:17,500
+It's not mobile, but instead it's attached, for example, to the chest wall in the case of breast cancer.
+
+35
+00:02:17,500 --> 00:02:23,700
+And so these are some classic clinical features concerning benign and malignant tumors.
+
+36
+00:02:24,720 --> 00:02:30,420
+It should be noted, however, that sometimes a benign tumor can have malignant characteristics,
+
+37
+00:02:30,920 --> 00:02:34,100
+and sometimes a malignant tumor can have benign characteristics.
+
+38
+00:02:34,580 --> 00:02:37,740
+And so these clinical features are simply screening tests.
+
+39
+00:02:38,180 --> 00:02:43,040
+The only way to make an absolute diagnosis of cancer is biopsy or excision.
+
+40
+00:02:43,040 --> 00:02:49,240
+Otherwise stated, it's the pathologist who makes the final determination of cancer.
+
+41
+00:02:49,760 --> 00:03:00,440
+The only way, again, to make an absolute certain diagnosis of cancer is that the tissue must be biopsied or it must be excised.
+
+42
+00:03:00,940 --> 00:03:07,920
+And so that's an important principle to bear in mind, and that will come into play later when we have some discussions about screening tests as well.
+
+43
+00:03:07,920 --> 00:03:10,980
+Now, what are some of the histologic features of cancer?
+
+44
+00:03:11,100 --> 00:03:19,300
+If cancer is going to be determined on biopsy by looking at the cells under the microscope and clearly calling them malignant,
+
+45
+00:03:19,640 --> 00:03:23,100
+then we need to understand the histologic features of cancer as well.
+
+46
+00:03:23,640 --> 00:03:30,640
+Now, generally, when we think about benign tumors, they look very similar to the tissue in which they're growing.
+
+47
+00:03:30,640 --> 00:03:35,320
+For example, the benign tumors usually have an organized growth.
+
+48
+00:03:36,300 --> 00:03:38,160
+The nuclei will be uniform.
+
+49
+00:03:39,120 --> 00:03:41,840
+The nuclear to cytoplasmic ratio will be low.
+
+50
+00:03:42,020 --> 00:03:42,680
+What does that mean?
+
+51
+00:03:42,720 --> 00:03:47,020
+It means there will be a lot of cytoplasm in the cell and maybe a small nucleus.
+
+52
+00:03:47,500 --> 00:03:50,340
+That gives you a low nuclear to cytoplasmic ratio.
+
+53
+00:03:50,800 --> 00:03:57,420
+There will be minimal mitotic activity, a lack of invasion, and this tumor will have no metastatic potential,
+
+54
+00:03:57,420 --> 00:04:06,800
+meaning that the tumor will not have the ability to spread outside of that particular organ in that patient or in any other patient.
+
+55
+00:04:07,480 --> 00:04:07,620
+All right?
+
+56
+00:04:07,740 --> 00:04:11,900
+And so that's how we understand no metastatic potential.
+
+57
+00:04:12,020 --> 00:04:15,660
+And, again, this word potential is important because what we do is when we see,
+
+58
+00:04:16,080 --> 00:04:20,800
+when a biopsy is performed and I see a certain pattern and I call that, let's say, for example,
+
+59
+00:04:20,800 --> 00:04:24,120
+I call that a benign tumor, like in the breast, I call that a fibroadenoma,
+
+60
+00:04:24,480 --> 00:04:31,200
+I know that fibroadenomas don't metastasize historically in all the patients that have had fibroadenoma.
+
+61
+00:04:31,540 --> 00:04:33,720
+And that's what makes it benign.
+
+62
+00:04:33,980 --> 00:04:38,980
+And so it has no metastatic potential in the patient who's now developed a fibroadenoma as well.
+
+63
+00:04:39,840 --> 00:04:42,500
+So those are some histologic features of benign tumors.
+
+64
+00:04:42,500 --> 00:04:46,540
+The histologic features of malignant tumors are as follows.
+
+65
+00:04:47,080 --> 00:04:51,920
+It's usually poorly differentiated, and I say usually because it doesn't always have to be.
+
+66
+00:04:52,560 --> 00:04:57,840
+It'll have disorganized growth where it doesn't really look like the tissue in which it's growing.
+
+67
+00:04:58,360 --> 00:04:59,500
+There'll be nuclear pleomorphism.
+
+68
+00:05:00,180 --> 00:05:03,840
+Some of the nuclei will be big and some of the nuclei will be small.
+
+69
+00:05:04,200 --> 00:05:05,500
+There'll be hyperchromasia.
+
+70
+00:05:05,640 --> 00:05:07,720
+The nuclei will be very dark blue.
+
+71
+00:05:08,420 --> 00:05:10,600
+There'll be a high nuclear to cytoplasmic ratio.
+
+72
+00:05:10,600 --> 00:05:15,060
+So if this is the cell, most of the cell will be comprised of nucleus.
+
+73
+00:05:16,500 --> 00:05:17,480
+And what does that indicate?
+
+74
+00:05:17,600 --> 00:05:21,540
+That indicates that the cell is very active and that the nucleus is completely open
+
+75
+00:05:21,540 --> 00:05:25,360
+and is rapidly transcribing genes, etc.
+
+76
+00:05:26,440 --> 00:05:31,320
+There'll be a high mitotic activity, indicating that the cells are rapidly dividing.
+
+77
+00:05:31,700 --> 00:05:34,820
+And there'll be invasion into local structures.
+
+78
+00:05:34,820 --> 00:05:41,320
+And so these are some of the histologic hallmarks that help us to classify a tumor as benign or malignant.
+
+79
+00:05:42,080 --> 00:05:49,300
+Now, here's an example that I've placed in your text to highlight some of these principles.
+
+80
+00:05:49,660 --> 00:05:51,640
+And we're basically comparing and contrasting.
+
+81
+00:05:51,760 --> 00:05:58,680
+So this picture on the left, this is an example of a follicular adenoma of the thyroid.
+
+82
+00:05:58,680 --> 00:06:02,220
+Now, a follicular adenoma of the thyroid is a benign tumor.
+
+83
+00:06:02,740 --> 00:06:08,920
+And when you look at the tumor, it shows many of the characteristics that we would expect to see in a benign tumor.
+
+84
+00:06:09,240 --> 00:06:16,200
+For example, here we can clearly see that these cells, by the way, the entire picture here,
+
+85
+00:06:16,300 --> 00:06:19,140
+this entire picture that I'm squaring away represents the tumor.
+
+86
+00:06:19,140 --> 00:06:24,440
+So here we can clearly see that the cells are organizing themselves in little round spaces,
+
+87
+00:06:24,440 --> 00:06:26,700
+as you would expect to see within the thyroid.
+
+88
+00:06:26,900 --> 00:06:31,680
+Remember that the thyroid makes follicles, and the follicles are lined by follicular cells.
+
+89
+00:06:32,000 --> 00:06:34,300
+And often in the center of the follicle, you see colloid.
+
+90
+00:06:34,380 --> 00:06:40,060
+And you can clearly see some pink colloid in the center of these round nests of cells.
+
+91
+00:06:40,580 --> 00:06:43,820
+In addition, you can see that the nuclei are sort of regular.
+
+92
+00:06:43,980 --> 00:06:47,400
+All the cells sort of have round, similar-looking nuclei.
+
+93
+00:06:47,400 --> 00:06:49,940
+You don't really see any mitotic activity.
+
+94
+00:06:50,940 --> 00:06:54,500
+The cells don't have a very high N-to-C ratio.
+
+95
+00:06:54,900 --> 00:06:57,320
+In fact, when you look at the nuclear-to-cytoplasmic ratio,
+
+96
+00:06:57,680 --> 00:07:02,020
+you can clearly see that if this is a cell here, the nucleus is small,
+
+97
+00:07:02,160 --> 00:07:04,380
+and there's a lot of cytoplasm above it.
+
+98
+00:07:04,960 --> 00:07:08,780
+So these are all features that we would expect to see in a benign tumor.
+
+99
+00:07:08,960 --> 00:07:13,460
+And indeed, on the left, we have this benign thyroid tumor, i.e. a follicular adenoma.
+
+100
+00:07:13,460 --> 00:07:19,560
+Now, on the right, what I've exhibited here is something called anaplastic carcinoma of the thyroid.
+
+101
+00:07:19,960 --> 00:07:27,020
+Now, when you look at this tumor, you can tell that clearly it's not making any nice round spaces with colloid in the middle.
+
+102
+00:07:27,360 --> 00:07:31,180
+You can see that the cells are larger than the cells on the left.
+
+103
+00:07:31,480 --> 00:07:33,440
+You can see that there's mitotic activity.
+
+104
+00:07:33,640 --> 00:07:35,100
+This is a mitotic figure here.
+
+105
+00:07:35,100 --> 00:07:41,020
+You can see that the nuclei are big, and you can see that they take up most of the cell.
+
+106
+00:07:41,400 --> 00:07:46,260
+And so all of these are features of histologic features of a malignant tumor.
+
+107
+00:07:46,980 --> 00:07:52,380
+Now, it's important to note, however, that, again, benign tumors can sometimes have malignant features,
+
+108
+00:07:52,740 --> 00:07:55,540
+and malignant tumors can sometimes have benign features.
+
+109
+00:07:55,860 --> 00:08:00,540
+So what is the absolute distinguishing feature between benign and malignant?
+
+110
+00:08:00,660 --> 00:08:02,480
+And this is what examiners like you to know.
+
+111
+00:08:02,480 --> 00:08:07,740
+The absolute distinguishing feature between benign and malignant is metastatic potential.
+
+112
+00:08:08,240 --> 00:08:11,340
+Benign tumors do not have metastatic potential.
+
+113
+00:08:11,880 --> 00:08:14,680
+Malignant tumors have metastatic potential.
+
+114
+00:08:15,100 --> 00:08:21,660
+So this is a very important take-home point because it's the absolute distinction between benign and malignant tumors.
+
+115
+00:08:21,660 --> 00:08:30,520
+One important clinically useful test in this context of neoplasia is immunohistochemistry.
+
+116
+00:08:30,940 --> 00:08:37,080
+And the way we use immunohistochemistry depends on the circumstance that we're challenged with.
+
+117
+00:08:37,340 --> 00:08:39,960
+But let me just give you a couple simple examples.
+
+118
+00:08:40,440 --> 00:08:45,340
+Let's pretend that I have a very poorly differentiated cancer.
+
+119
+00:08:45,740 --> 00:08:47,200
+What does poorly differentiated mean?
+
+120
+00:08:47,200 --> 00:08:50,100
+It looks nothing like any normal tissue.
+
+121
+00:08:50,600 --> 00:08:51,880
+So the patient has a mass.
+
+122
+00:08:52,280 --> 00:08:53,440
+They do a biopsy.
+
+123
+00:08:53,860 --> 00:08:58,600
+And when I get the biopsy, I see that the cells are poorly differentiated.
+
+124
+00:08:58,740 --> 00:09:01,440
+They don't look like anything that we're used to seeing.
+
+125
+00:09:02,020 --> 00:09:05,900
+And so when I see those cells, in the back of my mind, I begin to think,
+
+126
+00:09:06,020 --> 00:09:07,840
+huh, is this carcinoma?
+
+127
+00:09:08,080 --> 00:09:09,540
+Meaning, is it epithelial?
+
+128
+00:09:09,540 --> 00:09:12,720
+Well, is it lymphoma, i.e., are the cells lymphocytes?
+
+129
+00:09:13,000 --> 00:09:17,140
+Is it sarcoma, i.e., are the cells derived from mesenchyme?
+
+130
+00:09:17,200 --> 00:09:19,040
+Are they some sort of connective tissue cell?
+
+131
+00:09:19,200 --> 00:09:21,040
+Or is it melanoma, for example?
+
+132
+00:09:21,520 --> 00:09:27,860
+And I start with a very broad differential diagnosis because these are all my common subtypes of cancer.
+
+133
+00:09:27,860 --> 00:09:34,560
+Now, I can look at the cells and try to use morphology to help me to determine what cell type I'm dealing with.
+
+134
+00:09:34,940 --> 00:09:40,660
+But another useful technique to determine the type of cell is called immunohistochemistry.
+
+135
+00:09:41,360 --> 00:09:46,040
+The idea here is that we take an antibody against a particular target,
+
+136
+00:09:46,580 --> 00:09:51,960
+and we label that antibody with a brown stain, and then we place that antibody on the cells.
+
+137
+00:09:51,960 --> 00:09:57,960
+And if the antibody binds the cells, then it helps us to identify particular proteins
+
+138
+00:09:57,960 --> 00:10:01,280
+that might help us to subclassify the cell type.
+
+139
+00:10:01,920 --> 00:10:07,160
+And it's important to be familiar with this because, of course, it's useful clinically.
+
+140
+00:10:07,560 --> 00:10:13,800
+And also examiners like to go after it because it really draws in some of the basic principles of histology.
+
+141
+00:10:14,020 --> 00:10:16,420
+So this is a great way to sort of test your histology.
+
+142
+00:10:17,060 --> 00:10:20,320
+Now, let me remind you that cells have a cytoskeleton,
+
+143
+00:10:20,320 --> 00:10:27,140
+and the cytoskeleton contains filaments, and one of those filaments is the intermediate filaments.
+
+144
+00:10:27,280 --> 00:10:30,800
+One subtype of filament of the cytoskeleton is the intermediate filament.
+
+145
+00:10:31,280 --> 00:10:36,600
+Now, it so happens that the intermediate filaments, they vary depending on the type of cell that you're dealing with.
+
+146
+00:10:36,900 --> 00:10:39,840
+So, for example, if we're dealing with an epithelial cell,
+
+147
+00:10:39,900 --> 00:10:47,240
+and we can say that all epithelial cells, the intermediate filament that makes them up is keratin.
+
+148
+00:10:47,240 --> 00:10:53,600
+So let's say that I have a tumor, and I can't recognize whether the tumor cells are epithelial or something else,
+
+149
+00:10:53,860 --> 00:10:56,120
+and I wanted to prove that they're epithelial.
+
+150
+00:10:56,580 --> 00:11:00,100
+Well, I could do an immunohistochemical stain for keratin,
+
+151
+00:11:00,320 --> 00:11:06,520
+and if the cells are keratin positive, that would indicate that I'm dealing with a carcinoma.
+
+152
+00:11:06,700 --> 00:11:11,560
+Because, remember, carcinoma is the name that we use for malignant epithelial tumors.
+
+153
+00:11:11,560 --> 00:11:13,500
+All right, let's play it another way.
+
+154
+00:11:13,600 --> 00:11:17,360
+Let's pretend that I've got this tumor, and I do an immunohistochemical stain,
+
+155
+00:11:17,660 --> 00:11:20,300
+and I see that the cells are positive for vimentin.
+
+156
+00:11:20,740 --> 00:11:26,580
+Well, vimentin is an intermediate filament that is present within mesenchymal cells, i.e., connective tissue cells.
+
+157
+00:11:26,980 --> 00:11:35,560
+And so if I have vimentin positivity, one of the things that I could deduce is that I'm dealing with a sarcoma,
+
+158
+00:11:35,560 --> 00:11:41,180
+because I've got a malignant tumor, obviously I can't recognize it, the cells are poorly differentiated,
+
+159
+00:11:41,540 --> 00:11:42,720
+and it's vimentin positive.
+
+160
+00:11:43,560 --> 00:11:47,620
+Playing along the same lines, let's say that the cells are desmond positive,
+
+161
+00:11:47,720 --> 00:11:50,040
+that would indicate that I'm dealing with muscle cells.
+
+162
+00:11:50,460 --> 00:11:54,940
+If they're GFAP positive, that would indicate that I'm dealing with neural glial cells.
+
+163
+00:11:55,320 --> 00:11:58,860
+And if they're neurofilament positive, that would indicate that I'm dealing with neurons.
+
+164
+00:11:59,300 --> 00:12:03,240
+So these intermediate filaments are very high yield, because it goes back to histology,
+
+165
+00:12:03,240 --> 00:12:09,920
+and because we use these clinically, it's not uncommon for us to order a battery of immunohistochemical stains
+
+166
+00:12:09,920 --> 00:12:11,960
+when we're trying to subclassify tumor.
+
+167
+00:12:12,840 --> 00:12:14,280
+So you do need to be familiar with this.
+
+168
+00:12:14,380 --> 00:12:18,900
+Now, obviously I'm painting very broad strokes and highlighting some general principles.
+
+169
+00:12:19,080 --> 00:12:24,500
+There are some exceptions to these rules, but I think for your purposes, this is what you need to understand.
+
+170
+00:12:25,520 --> 00:12:29,640
+Another way that we could play the game is that, let's say we have a tumor,
+
+171
+00:12:29,640 --> 00:12:33,340
+and we know that it's a carcinoma, it's making glands,
+
+172
+00:12:33,680 --> 00:12:37,640
+and we're concerned about whether it might be from the prostate or it might be from another organ.
+
+173
+00:12:38,520 --> 00:12:41,140
+Well, we could do an immunohistochemical stain for PSA,
+
+174
+00:12:41,420 --> 00:12:46,120
+and if the cells are PSA positive, that would suggest that we're dealing with a prostate cancer.
+
+175
+00:12:46,560 --> 00:12:48,420
+Similarly with breast.
+
+176
+00:12:48,540 --> 00:12:51,800
+You know, if a woman has a metastatic cancer in the lung,
+
+177
+00:12:51,800 --> 00:12:56,640
+and I'm worried about where that tumor came from,
+
+178
+00:12:56,960 --> 00:13:02,700
+one potential way of determining that would be to do an estrogen receptor stain,
+
+179
+00:13:02,780 --> 00:13:05,580
+and if the estrogen receptor is expressed in those cells,
+
+180
+00:13:05,680 --> 00:13:08,940
+it's possible that I'm dealing with a breast cancer,
+
+181
+00:13:09,360 --> 00:13:13,020
+because estrogen receptor is commonly seen in breast carcinoma.
+
+182
+00:13:14,020 --> 00:13:17,380
+Thyroglobulin would help me to identify a thyroid cancer.
+
+183
+00:13:17,380 --> 00:13:23,080
+Chromogranin would help me to identify neuroendocrine carcinomas.
+
+184
+00:13:23,600 --> 00:13:30,020
+And I would say from my personal experience that chromogranin is a relatively high-yield stain to be familiar with.
+
+185
+00:13:30,360 --> 00:13:33,380
+It's commonly tested by examiners.
+
+186
+00:13:33,880 --> 00:13:39,740
+The most well-differentiated and sort of best type of neuroendocrine cancer that you can get
+
+187
+00:13:39,740 --> 00:13:41,020
+is called a carcinoid tumor,
+
+188
+00:13:41,020 --> 00:13:47,740
+and the worst and most poorly differentiated neuroendocrine tumor that can develop is a small cell carcinoma.
+
+189
+00:13:48,260 --> 00:13:51,740
+And so this is sort of a spectrum of tumors that arise from neuroendocrine cells.
+
+190
+00:13:52,120 --> 00:13:56,320
+It is important to understand that both small cell carcinoma and carcinoid tumors
+
+191
+00:13:56,320 --> 00:13:59,580
+are sort of derived from the same cell type, i.e. neuroendocrine cells,
+
+192
+00:13:59,960 --> 00:14:04,860
+and it is very high-yield to know that chromogranin is expressed in neuroendocrine cells.
+
+193
+00:14:05,340 --> 00:14:08,360
+And then finally, the last of the stains I've listed here is S100,
+
+194
+00:14:08,360 --> 00:14:13,460
+and S100 is useful for many things, but it's particularly useful to mark melanoma.
+
+195
+00:14:14,080 --> 00:14:18,060
+So, you know, the way that examiners like to play the game with immunohistochemical stains
+
+196
+00:14:18,060 --> 00:14:21,880
+is that they might say to you that there's a tumor and a biopsy is performed,
+
+197
+00:14:22,080 --> 00:14:27,320
+and the pathologist sends you a report saying that he sees or she sees keratin-positive cells.
+
+198
+00:14:27,700 --> 00:14:30,780
+So they would then ask you, what type of tumor are you dealing with?
+
+199
+00:14:30,800 --> 00:14:37,280
+And the answers could, you know, the choices could be A, carcinoma, B, melanoma, C, lymphoma, D, sarcoma,
+
+200
+00:14:37,280 --> 00:14:41,100
+and obviously because it's keratin-positive, that would indicate epithelium,
+
+201
+00:14:41,400 --> 00:14:44,060
+which would then indicate that you have a carcinoma.
+
+202
+00:14:44,420 --> 00:14:48,460
+So I hope that I've made that clear because it is a relatively high-yield topic.
+
+203
+00:14:49,100 --> 00:14:53,380
+Here's a picture of an immunohistochemical stain just to let you know what one looks like.
+
+204
+00:14:53,660 --> 00:14:57,760
+Basically, this brown staining indicates that the cells are reacting
+
+205
+00:14:57,760 --> 00:15:02,300
+with the particular antibody that we've introduced in this test.
+
+206
+00:15:03,340 --> 00:15:07,020
+Now, another way by which we can classify tumors
+
+207
+00:15:07,020 --> 00:15:13,880
+and follow the treatment and response of tumors are serum tumor markers.
+
+208
+00:15:14,180 --> 00:15:15,280
+What are serum tumor markers?
+
+209
+00:15:15,460 --> 00:15:18,340
+These are proteins that are released by the tumor.
+
+210
+00:15:18,920 --> 00:15:20,980
+They are released, obviously, into the serum.
+
+211
+00:15:21,500 --> 00:15:25,200
+Now, these serum tumor markers can be useful in three circumstances.
+
+212
+00:15:25,200 --> 00:15:29,580
+Some serum tumor markers are useful as a screening test.
+
+213
+00:15:29,820 --> 00:15:34,960
+For example, PSA is a protein that's released by prostate cancer,
+
+214
+00:15:35,140 --> 00:15:38,300
+and it gets released into the blood, and we can then detect it in the blood,
+
+215
+00:15:38,680 --> 00:15:40,480
+and so it's useful as a screening test.
+
+216
+00:15:41,020 --> 00:15:43,920
+That would be one use of a serum tumor marker.
+
+217
+00:15:44,400 --> 00:15:48,160
+Another use of serum tumor markers is to monitor response to treatment.
+
+218
+00:15:48,560 --> 00:15:51,200
+For example, patient has a prostate cancer.
+
+219
+00:15:51,580 --> 00:15:52,920
+The PSA is 15.
+
+220
+00:15:52,920 --> 00:15:59,540
+The surgeon goes in and removes the prostate cancer and removes the prostate along with the cancer,
+
+221
+00:15:59,920 --> 00:16:02,320
+and after removing the prostate along with the cancer,
+
+222
+00:16:02,600 --> 00:16:05,420
+we would expect the PSA to drop to near zero.
+
+223
+00:16:06,000 --> 00:16:09,380
+And so this would be a way by which we would monitor response to treatment.
+
+224
+00:16:09,880 --> 00:16:13,820
+And then let's say that the patient comes back in, I don't know, two years later,
+
+225
+00:16:14,200 --> 00:16:16,820
+and when they come back in two years later, they have bone pain.
+
+226
+00:16:16,820 --> 00:16:23,860
+Well, if we did a PSA and the PSA was now high, that would help to prove that perhaps the patient has a recurrence.
+
+227
+00:16:24,380 --> 00:16:27,020
+And so these are some of the uses for serum tumor markers.
+
+228
+00:16:27,520 --> 00:16:30,460
+I want to remind you that when it's used for screening,
+
+229
+00:16:31,580 --> 00:16:36,180
+elevated serum levels still require a tissue biopsy for diagnosis.
+
+230
+00:16:36,800 --> 00:16:38,540
+I think I've already hammered home this point.
+
+231
+00:16:38,820 --> 00:16:42,600
+You cannot make a diagnosis of cancer without a tissue biopsy.
+
+232
+00:16:42,600 --> 00:16:48,900
+And so even if a patient has a super high PSA, let's say, you know, some crazy number like 3-400,
+
+233
+00:16:49,580 --> 00:16:55,060
+that still would require a tissue biopsy before a diagnosis of carcinoma can be made.
+
+234
+00:16:55,440 --> 00:16:59,760
+And so, for example, if I asked you a question where I said patient comes in for screening
+
+235
+00:16:59,760 --> 00:17:04,880
+and a PSA is performed and the PSA is markedly elevated, what's the next step?
+
+236
+00:17:05,540 --> 00:17:08,740
+A surgery, B biopsy, CDE, etc.
+
+237
+00:17:08,960 --> 00:17:17,560
+The answer would be that you still need to biopsy the site and prove that it is tumor that is indeed causing that elevated PSA.
+
+238
+00:17:17,880 --> 00:17:21,980
+And that's because other things can elevate the PSA as well, not only cancer.
+
+239
+00:17:21,980 --> 00:17:29,200
+Now, once a patient has a cancer and we've made the diagnosis of cancer,
+
+240
+00:17:29,480 --> 00:17:34,660
+the next thing that the pathologist does, which is important for prognosis, is to grade the cancer.
+
+241
+00:17:35,000 --> 00:17:36,720
+And what does grading of cancer involve?
+
+242
+00:17:36,960 --> 00:17:43,300
+It involves asking the question, does the tumor look like the tissue in which it's growing?
+
+243
+00:17:43,800 --> 00:17:50,300
+So the more the tumor looks like the parent tissue in which it's growing, the better differentiated it would be.
+
+244
+00:17:50,300 --> 00:17:55,680
+And so, if it resembles the parent tissue, as I've stated here, it's well differentiated.
+
+245
+00:17:56,140 --> 00:18:00,580
+And if it does not resemble the parent tissue, we call that poorly differentiated.
+
+246
+00:18:00,900 --> 00:18:02,620
+How do we determine differentiation?
+
+247
+00:18:03,000 --> 00:18:10,100
+Well, we look at the architecture of the cells and ask, does the architecture resemble the normal architecture of that tissue?
+
+248
+00:18:10,440 --> 00:18:15,320
+And then we also look at the nuclear features, like, for example, the mitotic activity.
+
+249
+00:18:16,060 --> 00:18:20,160
+Again, as I've mentioned, grading is important for determining prognosis.
+
+250
+00:18:20,300 --> 00:18:26,180
+The better differentiated a tumor is, or a cancer is, the better the prognosis.
+
+251
+00:18:26,500 --> 00:18:29,180
+So a well-differentiated cancer has a good prognosis.
+
+252
+00:18:29,560 --> 00:18:33,080
+A poorly differentiated cancer has a poor prognosis.
+
+253
+00:18:34,240 --> 00:18:40,760
+Another important feature of cancer that we need to be familiar with on a clinical level is staging.
+
+254
+00:18:40,760 --> 00:18:46,120
+And staging basically asks the question, how far has the cancer grown?
+
+255
+00:18:46,380 --> 00:18:48,580
+So what's its size or depth of invasion?
+
+256
+00:18:49,040 --> 00:18:51,160
+And how far has the cancer spread?
+
+257
+00:18:51,500 --> 00:18:55,100
+So it's based on two things, size and spread of the cancer.
+
+258
+00:18:55,500 --> 00:18:58,380
+Now, this is the key prognostic factor.
+
+259
+00:18:58,520 --> 00:19:01,140
+It is the number one prognostic factor.
+
+260
+00:19:01,460 --> 00:19:03,020
+It is more important than grade.
+
+261
+00:19:03,020 --> 00:19:07,500
+And the final staging is really determined after resection of the tumor.
+
+262
+00:19:07,920 --> 00:19:10,900
+So clinically, we can stage a patient.
+
+263
+00:19:11,100 --> 00:19:17,000
+We can try to determine what we think the clinical staging would be based on our clinical exam.
+
+264
+00:19:17,340 --> 00:19:21,640
+However, the true final staging is based on resection of the tumor.
+
+265
+00:19:21,640 --> 00:19:30,420
+When the tumor is removed and the pathologist analyzes the tissue, they then provide a final pathologic staging for the cancer.
+
+266
+00:19:30,940 --> 00:19:32,860
+Now, what system do we use for staging?
+
+267
+00:19:33,040 --> 00:19:34,960
+It's called the TNM system.
+
+268
+00:19:35,360 --> 00:19:36,780
+It looks at three key factors.
+
+269
+00:19:36,940 --> 00:19:41,880
+It looks at the tumor and asks the question, how big is the tumor or how deep has the tumor invaded?
+
+270
+00:19:42,380 --> 00:19:45,520
+Generally speaking, tumor size is important in solid organs.
+
+271
+00:19:45,520 --> 00:19:51,640
+And generally speaking, tumor depth is important in organs that are tubular.
+
+272
+00:19:51,960 --> 00:19:57,860
+So, for example, the bowel, the depth of invasion is important in the bowel.
+
+273
+00:19:58,300 --> 00:20:02,820
+Whereas in the breast, size is important because it's a more solid organ.
+
+274
+00:20:03,740 --> 00:20:06,420
+So that's the T part of the TNM staging.
+
+275
+00:20:06,940 --> 00:20:12,020
+The N in the TNM refers to the spread to regional lymph nodes.
+
+276
+00:20:12,020 --> 00:20:14,780
+This is the second most important prognostic factor.
+
+277
+00:20:14,780 --> 00:20:20,140
+And the M refers to distant metastasis, i.e. away from the regional lymph nodes.
+
+278
+00:20:20,560 --> 00:20:24,560
+And this is the single most important prognostic factor.
+
+279
+00:20:25,240 --> 00:20:30,780
+Metastasis is the single most important prognostic factor in the TNM staging system.
+
+280
+00:20:31,680 --> 00:20:34,340
+And you do need to be aware of that as well.
+
+281
+00:20:34,860 --> 00:20:37,400
+And so that really closes off our discussion of neoplasia.
+
+282
+00:20:37,560 --> 00:20:40,980
+Again, we've just laid out some very general principles.
+
+283
+00:20:41,060 --> 00:20:44,420
+Much of this is going to be repeated as we cover systems.
+
+284
+00:20:44,420 --> 00:20:47,160
+But it's nice to have a little bit of a framework as we move forward.
+
+285
+00:20:47,360 --> 00:20:48,980
+And that was the goal of this lecture.
+
