@@ -1,85 +1,85 @@
-name: Youtube Video URL
-on: [push]
+name: YouTube Whisper Transcription
+
+on:
+  workflow_dispatch:
+    inputs:
+      youtube_urls:
+        description: 'YouTube Video URL(s) — enter one or more URLs (separated by newlines, commas, or spaces)'
+        required: true
+        type: string
+      model:
+        description: 'Whisper Model (Standard or Quantized)'
+        required: true
+        default: 'large-v3-turbo-q5_0'
+        type: choice
+        options:
+          - large-v3-turbo-q5_0
+          - large-v3-turbo-q8_0
+          - large-v3-turbo
+          - large-v3-q5_0
+          - large-v3
+          - large-v2-q5_0
+          - large-v2-q8_0
+          - large-v2
+          - medium-q5_0
+          - medium-q8_0
+          - medium
+          - small-q5_1
+          - small-q8_0
+          - small
+          - base-q5_1
+          - base-q8_0
+          - base
+          - tiny-q5_1
+          - tiny-q8_0
+          - tiny
+      output_format:
+        description: 'Output format (comma-separated: txt, srt, csv)'
+        required: true
+        default: 'txt,srt,csv'
+      translate:
+        description: 'Translate to English'
+        required: false
+        default: false
+        type: boolean
+
+permissions:
+  contents: write
 
 jobs:
-  youtube-eng-video:
-    name: transcript english video
+  transcribe-youtube:
+    name: Transcribe YouTube Video(s)
     runs-on: ubuntu-latest
     steps:
-      - name: checkout
+      - name: Checkout repository
         uses: actions/checkout@v7
 
-      - name: speech to text
+      - name: Speech to text with Whisper
         uses: ./
         with:
-          model: small
-          youtube_url: https://www.youtube.com/watch?v=pTCxXZh6VyE
-          output_format: txt,srt,csv
+          model: ${{ inputs.model }}
+          youtube_urls: ${{ inputs.youtube_urls }}
+          output_format: ${{ inputs.output_format }}
           output_folder: youtube
           print_segment: true
+          translate: ${{ inputs.translate }}
           debug: true
 
-      - name: git push changes
-        uses: appleboy/git-push-action@v1.2.0
+      - name: Upload transcripts as artifact
+        uses: actions/upload-artifact@v4
         with:
-          branch: main
-          commit: true
-          commit_message: "[skip ci] Upload changes"
-          remote: git@github.com:appleboy/whisper-action.git
-          ssh_key: ${{ secrets.DEPLOY_KEY }}
-          rebase: true
+          name: whisper-transcripts
+          path: youtube/
 
-  youtube-cht-video:
-    name: transcript chinese video
-    runs-on: ubuntu-latest
-    steps:
-      - name: checkout
-        uses: actions/checkout@v7
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add youtube/
+          if ! git diff --staged --quiet; then
+            git commit -m "[skip ci] Transcribe YouTube videos via Whisper"
+            git push
+          else
+            echo "No changes to commit."
+          fi
 
-      - name: speech to text
-        uses: ./
-        with:
-          model: small
-          youtube_url: https://www.youtube.com/watch?v=M_bjhKtR3fs
-          output_format: txt,srt,csv
-          output_folder: youtube
-          print_segment: true
-          debug: true
-
-      - name: git push changes
-        uses: appleboy/git-push-action@v1.2.0
-        with:
-          branch: main
-          commit: true
-          commit_message: "[skip ci] Upload changes"
-          remote: git@github.com:appleboy/whisper-action.git
-          ssh_key: ${{ secrets.DEPLOY_KEY }}
-          rebase: true
-
-  youtube-translate-video:
-    name: translate source language to english
-    runs-on: ubuntu-latest
-    steps:
-      - name: checkout
-        uses: actions/checkout@v7
-
-      - name: speech to text
-        uses: ./
-        with:
-          model: small
-          youtube_url: https://www.youtube.com/watch?v=4Yei_t6eMZU
-          output_format: txt,srt,csv
-          output_folder: youtube
-          print_segment: true
-          translate: true
-          debug: true
-
-      - name: git push changes
-        uses: appleboy/git-push-action@v1.2.0
-        with:
-          branch: main
-          commit: true
-          commit_message: "[skip ci] Upload changes"
-          remote: git@github.com:appleboy/whisper-action.git
-          ssh_key: ${{ secrets.DEPLOY_KEY }}
-          rebase: true

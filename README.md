@@ -8,7 +8,7 @@ See [action.yml](./action.yml) for more detailed information.
 
 | Variable         | Description                                                  | Default |
 |------------------|--------------------------------------------------------------|---------|
-| model            | public whisper model. (available: small, medium and large)   | small   |
+| model            | public whisper model (standard or quantized: `large-v3-turbo-q5_0`, `large-v3-turbo-q8_0`, `large-v3-turbo`, `large-v3-q5_0`, `large-v3`, `large-v2-q5_0`, `medium-q5_0`, `small-q5_1`, `base-q5_1`, `tiny-q5_1`, etc.) | large-v3-turbo-q5_0 |
 | audio_path       | Audio Path.                                                  |         |
 | output_folder    | output folder.                                               |         |
 | output_format    | output format, support txt, srt, csv.                        | txt     |
