@@ -1,10 +1,10 @@
-name: Transcribe Audio Folder
+name: Transcribe Audio Folder (Parallel)
 
 on:
   workflow_dispatch:
     inputs:
       audio_folder:
-        description: 'Folder or file path in repo (e.g. audio, audio/*.ogg, testdata)'
+        description: 'Folder containing audio files (e.g. audio)'
         required: true
         default: 'audio'
         type: string
@@ -41,9 +41,47 @@ permissions:
   contents: write
 
 jobs:
-  transcribe-folder:
-    name: Transcribe Audio Folder
+  find-files:
+    name: Discover Audio Files
     runs-on: ubuntu-latest
+    outputs:
+      files: ${{ steps.scan.outputs.files }}
+      count: ${{ steps.scan.outputs.count }}
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v7
+
+      - name: Scan audio files
+        id: scan
+        run: |
+          python -c '
+          import os, json
+          folder = "${{ inputs.audio_folder }}"
+          exts = (".ogg", ".wav", ".mp3", ".m4a", ".flac", ".opus", ".aac", ".mp4", ".mkv")
+          files = []
+          if os.path.isdir(folder):
+              for root, _, filenames in os.walk(folder):
+                  for f in sorted(filenames):
+                      if f.lower().endswith(exts):
+                          files.append(os.path.join(root, f))
+          elif os.path.isfile(folder):
+              files.append(folder)
+          files = sorted(list(set(files)))
+          print(f"Discovered {len(files)} files:", files)
+          with open(os.environ["GITHUB_OUTPUT"], "a") as gh_out:
+              gh_out.write(f"files={json.dumps(files)}\n")
+              gh_out.write(f"count={len(files)}\n")
+          '
+
+  transcribe-parallel:
+    name: Transcribe (${{ matrix.file }})
+    needs: find-files
+    if: needs.find-files.outputs.count != '0'
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        file: ${{ fromJson(needs.find-files.outputs.files) }}
     steps:
       - name: Checkout repository
         uses: actions/checkout@v7
@@ -59,23 +97,52 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Transcribe Audio File(s)
+      - name: Transcribe audio file
         run: |
           python transcribe.py \
-            --audio-path "${{ inputs.audio_folder }}" \
+            --audio-path "${{ matrix.file }}" \
             --model "${{ inputs.model }}" \
             --format "${{ inputs.output_format }}" \
             ${{ inputs.translate && '--translate' || '' }}
 
-      - name: Upload subtitles as artifact
+      - name: Upload subtitle artifact
         uses: actions/upload-artifact@v4
         with:
-          name: audio-subtitles
+          name: subtitle-${{ strategy.job-index }}
           path: |
             **/*.srt
             **/*.txt
             **/*.csv
-          if-no-files-found: warn
+          if-no-files-found: ignore
+
+  publish:
+    name: Aggregate & Commit Subtitles
+    needs: [find-files, transcribe-parallel]
+    if: always() && needs.find-files.outputs.count != '0'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v7
+
+      - name: Download all subtitle artifacts
+        uses: actions/download-artifact@v4
+        with:
+          path: downloaded-artifacts
+
+      - name: Organize subtitles into repo
+        run: |
+          find downloaded-artifacts -type f \( -name "*.srt" -o -name "*.txt" -o -name "*.csv" \) -exec cp -v {} "${{ inputs.audio_folder }}/" \;
+          rm -rf downloaded-artifacts
+
+      - name: Upload all subtitles bundle
+        uses: actions/upload-artifact@v4
+        with:
+          name: all-subtitles
+          path: |
+            ${{ inputs.audio_folder }}/**/*.srt
+            ${{ inputs.audio_folder }}/**/*.txt
+            ${{ inputs.audio_folder }}/**/*.csv
+          if-no-files-found: ignore
 
       - name: Commit and push changes
         run: |
@@ -88,3 +155,4 @@ jobs:
           else
             echo "No new subtitles to commit."
           fi
+
