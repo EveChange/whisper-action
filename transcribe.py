@@ -123,6 +123,37 @@ def download_audio(url: str, temp_dir: str) -> Dict[str, str]:
         return {"title": title, "audio_path": expected_wav}
 
 
+def resolve_audio_files(path_expr: str) -> List[str]:
+    """Resolve a path, glob expression, directory, or comma-separated list into audio filepaths."""
+    import glob
+    SUPPORTED_EXTS = {".ogg", ".wav", ".mp3", ".m4a", ".aac", ".flac", ".wma", ".opus", ".mp4", ".mkv", ".webm"}
+    files = []
+    parts = [p.strip() for p in path_expr.replace("\n", ",").split(",") if p.strip()]
+    for part in parts:
+        if os.path.isdir(part):
+            for root, _, filenames in os.walk(part):
+                for f in sorted(filenames):
+                    if os.path.splitext(f)[1].lower() in SUPPORTED_EXTS:
+                        files.append(os.path.join(root, f))
+        else:
+            matches = glob.glob(part)
+            if matches:
+                for m in sorted(matches):
+                    if os.path.isfile(m):
+                        files.append(m)
+            elif os.path.isfile(part):
+                files.append(part)
+    # Deduplicate while preserving order
+    seen = set()
+    result = []
+    for f in files:
+        abs_p = os.path.abspath(f)
+        if abs_p not in seen:
+            seen.add(abs_p)
+            result.append(f)
+    return result
+
+
 def main():
     parser = argparse.ArgumentParser(description="Transcribe YouTube videos or local audio with faster-whisper")
     parser.add_argument("--urls", type=str, default="", help="YouTube video URL(s)")
@@ -160,31 +191,40 @@ def main():
     task = "translate" if args.translate else "transcribe"
     success_count = 0
 
-    # Process local audio file if provided
+    # Process local audio file(s) if provided
     if args.audio_path:
-        if not os.path.exists(args.audio_path):
-            print(f"Error: Audio file not found: {args.audio_path}", file=sys.stderr)
+        audio_files = resolve_audio_files(args.audio_path)
+        if not audio_files:
+            print(f"Error: No audio files found matching: {args.audio_path}", file=sys.stderr)
             sys.exit(1)
-        base_name = args.output_filename or os.path.splitext(os.path.basename(args.audio_path))[0]
-        audio_dir = os.path.dirname(args.audio_path)
-        target_dir = args.output_dir if (args.output_dir and args.output_dir != "youtube") else (audio_dir or ".")
-        os.makedirs(target_dir, exist_ok=True)
-        print(f"\nProcessing local audio file: {args.audio_path}")
-        segments_iter, info = model.transcribe(args.audio_path, task=task, language=args.language, vad_filter=True)
-        print(f"Detected language: '{info.language}' (probability: {info.language_probability:.2f})")
-        segments = []
-        for seg in segments_iter:
-            segments.append(seg)
-            print(f"[{format_timestamp_srt(seg.start)} --> {format_timestamp_srt(seg.end)}] {seg.text.strip()}")
+        print(f"Found {len(audio_files)} audio file(s) to transcribe.")
+        for idx, audio_file in enumerate(audio_files, start=1):
+            base_name = args.output_filename if (args.output_filename and len(audio_files) == 1) else os.path.splitext(os.path.basename(audio_file))[0]
+            audio_dir = os.path.dirname(audio_file)
+            target_dir = args.output_dir if (args.output_dir and args.output_dir != "youtube") else (audio_dir or ".")
+            os.makedirs(target_dir, exist_ok=True)
+            print("\n" + "=" * 60)
+            print(f"[{idx}/{len(audio_files)}] Processing audio file: {audio_file}")
+            print("=" * 60)
+            segments_iter, info = model.transcribe(audio_file, task=task, language=args.language, vad_filter=True)
+            print(f"Detected language: '{info.language}' (probability: {info.language_probability:.2f})")
+            segments = []
+            for seg in segments_iter:
+                segments.append(seg)
+                print(f"[{format_timestamp_srt(seg.start)} --> {format_timestamp_srt(seg.end)}] {seg.text.strip()}")
 
-        base_path = os.path.join(target_dir, base_name)
-        if "srt" in requested_formats:
-            write_srt(segments, f"{base_path}.srt")
-        if "txt" in requested_formats:
-            write_txt(segments, f"{base_path}.txt")
-        if "csv" in requested_formats:
-            write_csv(segments, f"{base_path}.csv")
-        success_count += 1
+            base_path = os.path.join(target_dir, base_name)
+            if "srt" in requested_formats:
+                write_srt(segments, f"{base_path}.srt")
+                print(f"Saved: {base_path}.srt")
+            if "txt" in requested_formats:
+                write_txt(segments, f"{base_path}.txt")
+                print(f"Saved: {base_path}.txt")
+            if "csv" in requested_formats:
+                write_csv(segments, f"{base_path}.csv")
+                print(f"Saved: {base_path}.csv")
+            success_count += 1
+
 
 
     for idx, url in enumerate(urls, start=1):
