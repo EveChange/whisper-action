@@ -1,0 +1,684 @@
+1
+00:00:00,000 --> 00:00:06,840
+Okay, welcome back. Primary immunodeficiency. This is the next section in Chapter 2 that we want to cover,
+
+2
+00:00:07,280 --> 00:00:11,560
+and the first disorder that we're going to talk about is DeGeorge syndrome, very high yield.
+
+3
+00:00:12,140 --> 00:00:17,760
+This is a developmental failure of the third and fourth pharyngeal pouch, so this really goes back to embryology,
+
+4
+00:00:17,860 --> 00:00:23,120
+and it's a mechanism by which they can test you on embryology, and it's essentially associated,
+
+5
+00:00:23,120 --> 00:00:29,980
+first important point is that it's associated with a 22Q11 microdeletion, and that's the
+
+6
+00:00:30,000 --> 00:00:36,980
+highest high yield to be aware of. So failure to form the third and fourth pharyngeal pouch,
+
+7
+00:00:37,080 --> 00:00:43,520
+which is basically associated with a 22Q11 microdeletion. Now, important to know that these
+
+8
+00:00:43,520 --> 00:00:50,060
+patients are going to present with classic findings of the lack of the structures that are derived from
+
+9
+00:00:50,060 --> 00:00:55,060
+the third and fourth pharyngeal pouch. For example, the thymus is derived from that region, and so if
+
+10
+00:00:55,060 --> 00:00:59,980
+there is a lack of a thymus, there'll be a T cell deficiency. Now, that T cell deficiency occurs
+
+11
+00:00:59,980 --> 00:01:05,920
+because remember that T lymphocytes or T cells are actually born from the bone marrow but then go to the
+
+12
+00:01:05,920 --> 00:01:12,460
+thymus to become educated and to eventually become CD4 positive or CD8 positive T cells, and so if there
+
+13
+00:01:12,460 --> 00:01:17,980
+is no thymus, there'll be a T cell deficiency, and so that's one important finding in these patients.
+
+14
+00:01:18,600 --> 00:01:23,980
+Of course, if there's a T cell deficiency, the patients will have problems fighting viruses, and they'll have
+
+15
+00:01:23,980 --> 00:01:30,580
+problems fighting fungal infections as well. Another important finding in these patients will be
+
+16
+00:01:30,580 --> 00:01:36,200
+hypocalcemia. Why? Because the parathyroids are normally developed in the third and fourth pharyngeal pouch,
+
+17
+00:01:36,560 --> 00:01:42,320
+so if there's a lack of parathyroids, there'll be a problem with maintaining adequate levels of calcium
+
+18
+00:01:42,320 --> 00:01:49,580
+within the serum, hence hypocalcemia. And then finally, within that region from the third and fourth pharyngeal pouch,
+
+19
+00:01:49,580 --> 00:01:57,000
+important things that also develop include the great vessels, areas of the lower face, the heart,
+
+20
+00:01:57,260 --> 00:02:03,060
+the anterior aspect of the heart, sorry, the superior aspect of the heart, etc. So all of this kind of
+
+21
+00:02:03,060 --> 00:02:09,500
+makes sense if you understand a little bit of embryology. The next disorder is called SCID. This is
+
+22
+00:02:09,500 --> 00:02:15,800
+severe combined immunodeficiency, and basically the idea here is that the patients get defective both
+
+23
+00:02:15,800 --> 00:02:21,700
+cell-mediated, i.e. T cell, and humoral, i.e. B cells, because they produce antibodies, which is
+
+24
+00:02:21,700 --> 00:02:28,740
+called humoral immunity. So in SCID, you get defective cell-mediated and humoral immunity. Now, what are the
+
+25
+00:02:28,740 --> 00:02:34,960
+etiologies? There's three major etiologies. Number one, cytokine receptor defects. Now, you know, and we've
+
+26
+00:02:34,960 --> 00:02:43,240
+already told you to make it very clear, that the CD4-positive T cell, it is a helper T cell, and it helps
+
+27
+00:02:43,240 --> 00:02:51,460
+the B cells to become mature and to fight infection, and it helps the CD8-positive T cells to also become
+
+28
+00:02:51,460 --> 00:02:56,780
+activated to fight infection. So cytokines, which are produced by the helper T cells, you can see how
+
+29
+00:02:56,780 --> 00:03:02,260
+important they are, because it's the cytokines that drive the maturation of the entire chronic
+
+30
+00:03:02,260 --> 00:03:07,540
+inflammatory state. So if there are defects in cytokine receptors, patients can develop severe
+
+31
+00:03:07,540 --> 00:03:13,140
+combined immunodeficiency. Very high yield, for example, and I would say probably the most high yield on this
+
+32
+00:03:13,140 --> 00:03:20,420
+slide, is an adenosine deaminase deficiency. Adenosine deaminase is an enzyme that's necessary
+
+33
+00:03:20,420 --> 00:03:26,540
+for deamination of adenosine and deoxyadenosine. This goes back to a little bit of biochemistry and
+
+34
+00:03:26,540 --> 00:03:32,400
+salvage pathways. But basically, what you need to know is that adenosine deaminase deaminates
+
+35
+00:03:32,400 --> 00:03:38,300
+adenosine and deoxyadenosine, and that the buildup of adenosine and deoxyadenosine within lymphocytes
+
+36
+00:03:38,300 --> 00:03:43,740
+is actually toxic to lymphocytes. And so patients who have adenosine deaminase deficiency can get
+
+37
+00:03:43,740 --> 00:03:49,760
+severe combined immunodeficiency, and this becomes very high yield because it goes back
+
+38
+00:03:49,760 --> 00:03:54,760
+to biochemistry. And of all of these etiologies, for me, this is the highest yield. And the third
+
+39
+00:03:54,760 --> 00:04:02,800
+mechanism by which we can get a severe combined immunodeficiency would be an MHC class 2 deficiency.
+
+40
+00:04:02,800 --> 00:04:08,380
+Now, think about this for a second. MHC class 2 is recognized by which type of T cell? It is
+
+41
+00:04:08,380 --> 00:04:15,660
+recognized by the CD4 positive T cell. And the CD4 positive T cell is essential because it helps CD8
+
+42
+00:04:15,660 --> 00:04:21,480
+positive T cells and it helps B cells. And so if the CD4 positive T cell cannot get activated because
+
+43
+00:04:21,480 --> 00:04:28,640
+MHC class 2 is missing, once MHC class 2 is missing, we're going to get defective function of B cells,
+
+44
+00:04:28,640 --> 00:04:34,320
+defective function of T cells. And so I think that clearly explains why these patients would have a
+
+45
+00:04:34,320 --> 00:04:41,160
+mixed humoral and cell-mediated deficiency. All right, so these are some of the key etiologies
+
+46
+00:04:41,160 --> 00:04:45,580
+to be aware of. Now, what are the characteristics? So these patients don't have T cells, so they're
+
+47
+00:04:45,580 --> 00:04:50,440
+going to get fungal and viral infections. And these patients don't have B cells, so they're going to get
+
+48
+00:04:50,440 --> 00:04:56,320
+bacterial and protozoal infections. And there's going to be an increased risk for opportunistic
+
+49
+00:04:56,320 --> 00:05:00,620
+infections. They're sort of like an AIDS patient, but much worse. So they can get opportunistic
+
+50
+00:05:00,620 --> 00:05:05,340
+infections. And you want to be aware of giving these patients live vaccines because they essentially
+
+51
+00:05:05,340 --> 00:05:10,780
+have no immune system. How do we treat? These patients go in sterile isolation. They're also
+
+52
+00:05:10,780 --> 00:05:15,820
+called the bubble baby. And you give them a stem cell transplant. Now, why does a stem cell
+
+53
+00:05:15,820 --> 00:05:19,920
+transplant work? Because if you put stem cells in their bone marrow that are normal, let's say
+
+54
+00:05:19,920 --> 00:05:25,180
+you take stem cells from another patient and put them into this patient's bone marrow, those stem
+
+55
+00:05:25,180 --> 00:05:30,320
+cells, you know, the hematopoietic stem cells, so hematopoietic stem cell here, has the ability
+
+56
+00:05:30,320 --> 00:05:37,340
+to generate both B and T cells. And so the patient will then generate normal B and T cells and will
+
+57
+00:05:37,340 --> 00:05:42,360
+then obviously be able to develop the immune response necessary to be able to fight off
+
+58
+00:05:42,360 --> 00:05:49,740
+infections. So the sort of the temporary measure is isolation, sterile isolation, a quote-unquote
+
+59
+00:05:49,740 --> 00:05:56,640
+to a bubble baby. And the final treatment is a stem cell transplant. Another immunodeficiency
+
+60
+00:05:56,640 --> 00:06:02,140
+to be aware of is X-linked A-gamma globulinemia. Let's look at the name. A means without, gamma
+
+61
+00:06:02,140 --> 00:06:08,600
+globulin refers to immunoglobulin, and where? In the blood. So these patients are lacking immunoglobulin
+
+62
+00:06:08,600 --> 00:06:14,740
+within the blood. And it's X-linked. So this is due to a lack of immunoglobulin. It's due to a disordered
+
+63
+00:06:14,740 --> 00:06:21,260
+B cell maturation so that naive B cells cannot become plasma cells. Remember that it's the
+
+64
+00:06:21,260 --> 00:06:26,480
+plasma cells that actually have the ability to secrete immunoglobulin into the blood. And
+
+65
+00:06:26,480 --> 00:06:32,260
+so naive B cells cannot mature to plasma cells and hence cannot drop immunoglobulin into the
+
+66
+00:06:32,260 --> 00:06:37,000
+blood. And so that's X-linked A-gamma globulinemia. And I would say that the highlight here is
+
+67
+00:06:37,000 --> 00:06:42,740
+that the mutation is a tyrosine kinase mutation. In particular, it's called Bruton tyrosine kinase,
+
+68
+00:06:42,740 --> 00:06:49,260
+and it's also called BTK. So Bruton tyrosine kinase is a tyrosine kinase that is a signal,
+
+69
+00:06:49,260 --> 00:06:54,340
+the tyrosine kinases are signaling molecules. So it is a signaling molecule that is necessary
+
+70
+00:06:54,340 --> 00:07:01,320
+for a B cell to become a plasma cell. When it's mutated, and it's usually X-linked, that results
+
+71
+00:07:01,320 --> 00:07:07,140
+in this particular disease called X-linked A-gamma globulinemia. Now how will these patients present?
+
+72
+00:07:07,140 --> 00:07:12,720
+Well, they're going to get bacterial infections, enterovirus infections, and giardia. I would
+
+73
+00:07:12,720 --> 00:07:17,680
+burn this in my brain. When I'm lacking immunoglobulins, I'm going to get three types of
+
+74
+00:07:17,680 --> 00:07:22,620
+infections. Bacteria, because I don't have the ability to opsonize properly because I
+
+75
+00:07:22,620 --> 00:07:30,040
+don't produce IgG. Enterovirus and giardia. Bacteria, enterovirus, and giardia. And enterovirus
+
+76
+00:07:30,040 --> 00:07:36,160
+basically is a virus that affects the mucosal surface of the GI tract. And remember that IgA
+
+77
+00:07:36,160 --> 00:07:41,120
+protects against mucosal infection of the GI tract. And these patients aren't going to have
+
+78
+00:07:41,120 --> 00:07:46,080
+IgA, so they'll get enterovirus. And giardia is the same thing. It usually produces a GI
+
+79
+00:07:46,080 --> 00:07:51,080
+infection. Mucosal IgA would be protective against it. And so these patients are going
+
+80
+00:07:51,080 --> 00:07:55,500
+to present with these classic findings. Usually, it's after six months of life. Why after six
+
+81
+00:07:55,500 --> 00:08:03,000
+months of life? Because the patient has mom's antibodies floating around prior to that. The
+
+82
+00:08:03,000 --> 00:08:07,460
+antibodies last for a period of time from mom. And so they usually don't present until after
+
+83
+00:08:07,460 --> 00:08:11,940
+six months of life. And you have to be careful in these patients. You don't want to give them
+
+84
+00:08:11,940 --> 00:08:17,260
+live vaccines because their immune system is down and those live vaccines, whereas a normal
+
+85
+00:08:17,260 --> 00:08:22,820
+patient would be able to deal with an attenuated live polio vaccine, these patients certainly
+
+86
+00:08:22,820 --> 00:08:27,480
+would not be able to handle this vaccine. And it would eventually cause complications of
+
+87
+00:08:27,480 --> 00:08:32,120
+that infection within the patient. Another important disease is called common variable
+
+88
+00:08:32,120 --> 00:08:39,100
+immunodeficiency. Now, listen to the name. Common variable, i.e., the patient has low immunoglobulin.
+
+89
+00:08:40,120 --> 00:08:45,400
+And this is due to a B cell defect or a helper T cell defect. Why B cells? Because B cells produce
+
+90
+00:08:45,400 --> 00:08:51,640
+immunoglobulin. Why helper T cells? Helper T cells produce IL-4 and IL-5 when the appropriate signal
+
+91
+00:08:51,640 --> 00:08:58,620
+is present. And so both helper T cells and B cells are necessary to properly produce immunoglobulin.
+
+92
+00:08:58,620 --> 00:09:03,400
+Now, again, these patients have low immunoglobulin. So what are they going to get? Bacteria enterovirus
+
+93
+00:09:03,400 --> 00:09:09,320
+giardia. That's why I say burn that in your brain. Bacteria enterovirus giardia. In addition,
+
+94
+00:09:09,480 --> 00:09:16,720
+these patients are often asymptomatic and they usually present late in adulthood. And as they
+
+95
+00:09:16,720 --> 00:09:22,020
+continue on with their life, there's an increased risk for autoimmune disease and lymphoma. And
+
+96
+00:09:22,020 --> 00:09:29,360
+that's high yield. An increased risk for both autoimmune disease and lymphoma. Okay, the next
+
+97
+00:09:29,360 --> 00:09:35,820
+disorder is called IgA deficiency. And the idea here is that the patients have a low serum and
+
+98
+00:09:35,820 --> 00:09:41,460
+mucosal IgA. This is the most common immunoglobulin deficiency. And guess what kind of infections
+
+99
+00:09:41,460 --> 00:09:48,300
+they're going to get? Mucosal infections. IgA is on the surface of, is on mucosal surfaces and helps to
+
+100
+00:09:48,300 --> 00:09:53,160
+protect against mucosal infections, especially viral infections. And so these patients will get
+
+101
+00:09:53,160 --> 00:09:59,220
+an increased risk of mucosal infections, especially viral. Now, maybe we could stop here for a second.
+
+102
+00:09:59,320 --> 00:10:04,980
+I can tie in a little bit, do a little bit of circular review. Do you know which GI disease is
+
+103
+00:10:04,980 --> 00:10:12,820
+associated with IgA deficiency? Otherwise stated, in which GI disease is there a high propensity of
+
+104
+00:10:12,820 --> 00:10:19,820
+patients who have IgA deficiency? The answer is celiac disease. And that's something to be familiar with
+
+105
+00:10:19,820 --> 00:10:26,480
+clinically, as well as for examinations. So in celiac disease, one of the associations of celiac disease
+
+106
+00:10:26,480 --> 00:10:32,680
+is IgA deficiency. And we'll talk about that when we do the GI lectures as well. Okay, hyper-Igm syndrome.
+
+107
+00:10:32,680 --> 00:10:37,320
+I actually like this one. This shows up a lot on exams. It's a great way to test a little bit of normal
+
+108
+00:10:37,320 --> 00:10:43,640
+immunology. So what's the idea here? It's characterized by too much IgM. And the key feature
+
+109
+00:10:43,640 --> 00:10:50,860
+here is that the patients have a mutation in the CD40, something to do with CD40, CD40 ligand or CD40
+
+110
+00:10:50,860 --> 00:10:56,700
+receptor. So let's go back and review for a minute. Can we remind ourselves that there were two ways by
+
+111
+00:10:56,700 --> 00:11:00,800
+which B cells get activated? I'm going to wipe this out just to go back and do a little review.
+
+112
+00:11:01,200 --> 00:11:05,480
+There were two ways, as I talked about in the prior lecture, in which B cells can be activated.
+
+113
+00:11:05,480 --> 00:11:11,400
+The first way is for a naive B cell, which basically looks like this and expresses IgM on its surface,
+
+114
+00:11:11,500 --> 00:11:17,000
+correct? And I said that one way for this cell to get activated is that an antigen binds IgM
+
+115
+00:11:17,000 --> 00:11:25,380
+on the surface, and that that then results in an IgM-secreting plasma cell. And that plasma cell
+
+116
+00:11:25,380 --> 00:11:32,900
+can then produce IgM. So that's one way by which the B cell, sorry, by which, yeah, by which the B cell
+
+117
+00:11:32,900 --> 00:11:38,920
+can be activated. Okay? So bear that in the back of your mind. A second way, I'm going to go back and
+
+118
+00:11:38,920 --> 00:11:44,220
+give you another whiteboard here. A second way by which the B cell can be activated is that the B cell,
+
+119
+00:11:44,680 --> 00:11:49,900
+so let's pretend that this is the B cell, can actually internalize the antigen and present the
+
+120
+00:11:49,900 --> 00:11:59,820
+antigen instead on, let's say that this is MHC class II, right? So if the B cell presents the antigen
+
+121
+00:11:59,820 --> 00:12:06,900
+on MHC class II, the CD4 positive T cell will bind that antigen, and that will result in the first
+
+122
+00:12:06,900 --> 00:12:12,180
+stimulus. But remember that there's a second stimulus that occurs, and that is a CD40 stimulus,
+
+123
+00:12:12,300 --> 00:12:20,680
+and that's really what you have to remember. The CD40 will be, is basically expressed by the B cell,
+
+124
+00:12:20,980 --> 00:12:28,760
+and it binds CD40 receptor on the T cell, and it's the binding of CD40 to its receptor that provides the
+
+125
+00:12:28,760 --> 00:12:34,740
+second signal, so that the CD4 positive T cell can get activated, CD4 positive T cell, and when the
+
+126
+00:12:34,740 --> 00:12:41,380
+CD4 positive T cell gets activated, it's going to produce IL-4, remember the two key ones are IL-4
+
+127
+00:12:41,380 --> 00:12:48,740
+and IL-5, and IL-4 and IL-5 will basically go back and hit the B cell, allowing the B cell to mature
+
+128
+00:12:48,740 --> 00:12:56,000
+and to undergo class switching, so that eventually that B cell can produce IgA, IgG, and IgE.
+
+129
+00:12:56,000 --> 00:13:01,620
+Okay, with all of that background, now we go back to this disease, which is called hyper-IgM syndrome.
+
+130
+00:13:01,940 --> 00:13:07,160
+It's characterized by an elevated IgM. In this particular disease, the first mechanism of
+
+131
+00:13:07,160 --> 00:13:12,420
+activation of B cell is okay. It's intact. So that what can happen is antigen can bind the B cell,
+
+132
+00:13:12,500 --> 00:13:18,240
+and the B cell can produce IgM. However, the second way of activating B cell, which was dependent on CD40,
+
+133
+00:13:18,240 --> 00:13:26,200
+is mutated. Either CD40 is mutated or the CD40 receptor is mutated, but the problem is that that
+
+134
+00:13:26,200 --> 00:13:32,560
+second signal cannot be delivered to the helper T cell. If the second signal cannot be delivered to
+
+135
+00:13:32,560 --> 00:13:40,440
+the helper T cell during B cell activation, then those cytokines, i.e. IL-4 and IL-5, necessary for Ig class
+
+136
+00:13:40,440 --> 00:13:47,140
+switching cannot be produced. So IgA will be low, IgG will be low, and IgE will be low. But IgM will be
+
+137
+00:13:47,140 --> 00:13:52,480
+high. Why is IgM high? Because the very first mechanism of activating the B cells, where they
+
+138
+00:13:52,480 --> 00:13:57,720
+overproduced IgM, is intact. All right, so that's the way to remember this. Now what's going to happen?
+
+139
+00:13:57,780 --> 00:14:03,600
+Because IgA is low, you're going to get mucosal infections. Because IgG is low, you're going to
+
+140
+00:14:03,600 --> 00:14:09,580
+recurrent pus forming infections, because IgG is an opsonin. So these are some of the key features
+
+141
+00:14:09,580 --> 00:14:14,820
+and clinical features that would be present in this disorder. Very high yield, okay? Hyper IgM
+
+142
+00:14:14,820 --> 00:14:21,400
+syndrome. It's very high yield because it allows for examiners to go back and test you on some basic
+
+143
+00:14:21,400 --> 00:14:26,580
+principles of immunology. Okay, and then, and it really goes downhill from here. So Wiscott-Aldrich
+
+144
+00:14:26,580 --> 00:14:31,600
+syndrome, basically you just have to sort of memorize that this is characterized by a triad,
+
+145
+00:14:31,600 --> 00:14:36,640
+and that triad is thrombocytopenia. That's number one. So they get an increased risk of
+
+146
+00:14:36,640 --> 00:14:42,360
+bleeding. They can get petechia in the skin, for example. Petechia in the skin and mucosal
+
+147
+00:14:42,360 --> 00:14:47,760
+membrane bleeding. They get eczema, so they'll get a skin rash. And the patients get recurrent
+
+148
+00:14:47,760 --> 00:14:52,800
+infections, and they can get, they have defective both humoral and cellular immunity, so they
+
+149
+00:14:52,800 --> 00:14:58,880
+get a variety of infections, all right? So that's the Wiscott-Aldrich syndrome. This is due
+
+150
+00:14:58,880 --> 00:15:04,720
+a mutation in the Wiscott-Aldrich syndrome protein. No rocket science. Wiscott-Aldrich
+
+151
+00:15:04,720 --> 00:15:11,860
+syndrome protein, and that is X-linked, okay? Another group, another circumstance in which
+
+152
+00:15:11,860 --> 00:15:17,220
+we may find immunodeficiency is where there is complement deficiency. There's really two
+
+153
+00:15:17,220 --> 00:15:22,680
+high yields here. Number one, if a patient is deficient in anything from C5 to C9, so C5,
+
+154
+00:15:22,680 --> 00:15:28,520
+C6, C7, or C8, or C9, there'll be an increased risk of Neisseria infection, and that is high
+
+155
+00:15:28,520 --> 00:15:34,900
+yield, okay? That's one. And then two, if the patients have a deficiency in something called
+
+156
+00:15:34,900 --> 00:15:45,020
+C1 inhibitor, they will develop edema of skin and mucosal surfaces, and that's called hereditary
+
+157
+00:15:45,020 --> 00:15:50,520
+angioedema. Now what's the idea here? Remember that C1 is an important activator of complement,
+
+158
+00:15:50,520 --> 00:15:55,520
+and it's an important early protein in the complement pathway, and when it gets activated,
+
+159
+00:15:55,640 --> 00:16:02,440
+it turns on complement. Now in order to decrease the potential risk of activation of C1, we have
+
+160
+00:16:02,440 --> 00:16:07,020
+something called C1 inhibitor, which helps to sort of control C1 so that it doesn't get activated
+
+161
+00:16:07,020 --> 00:16:12,240
+except when necessary. But if the inhibitor is deficient, we're going to get over-activation of C1.
+
+162
+00:16:12,680 --> 00:16:17,680
+Over-activation of C1 will over-activate complement, and the consequence of over-activation of complement
+
+163
+00:16:17,680 --> 00:16:23,520
+will be vasodilation, increased vascular permeability, and some of the classic findings
+
+164
+00:16:23,520 --> 00:16:29,440
+of acute inflammation, particularly the formation of edema. And to these patients, the consequence
+
+165
+00:16:29,440 --> 00:16:34,840
+is something called hereditary angioedema. The classic finding is edema of the skin and mucosal
+
+166
+00:16:34,840 --> 00:16:40,520
+membranes, especially periorbital. That's classic. And so I threw in a little picture here. This is a little
+
+167
+00:16:40,520 --> 00:16:46,360
+picture in which we see that this child's eyes are edematous, or the skin surrounding the eyes
+
+168
+00:16:46,360 --> 00:16:54,200
+is edematous. And this is a classic image of hereditary angioedema. And that really closes off
+
+169
+00:16:54,200 --> 00:16:58,860
+this particular section of immunodeficiencies. And so we'll go ahead and stop there, give you a little
+
+170
+00:16:58,860 --> 00:17:02,300
+chance to catch up, and then we'll continue on with autoimmune disorders.
+
+171
+00:17:02,300 --> 00:17:04,300
+So
+

@@ -1,0 +1,1628 @@
+1
+00:00:00,590 --> 00:00:10,350
+Okay, welcome back. So I hope that you were able to sort of solidify the mediators and cardinal signs of acute inflammation in your mind,
+
+2
+00:00:10,450 --> 00:00:18,990
+and this discussion that we're now going to enter is sort of the second half of the discussion of acute inflammation.
+
+3
+00:00:19,890 --> 00:00:25,890
+So the next real important factor in acute inflammation is going to be neutrophil arrival and function.
+
+4
+00:00:25,890 --> 00:00:34,850
+Essentially what has occurred in the first half of inflammation is that we've really generated increased vascular permeability.
+
+5
+00:00:35,110 --> 00:00:43,390
+We've generated edema, swelling, edema leading to swelling and warmth due to increased blood within the actual tissue,
+
+6
+00:00:43,790 --> 00:00:48,850
+and now the next goal of acute inflammation would be to allow for neutrophil arrival and function.
+
+7
+00:00:48,850 --> 00:00:56,410
+It might be worth just taking a step back here and reminding ourselves from basic pathology that when you think about acute inflammation,
+
+8
+00:00:56,570 --> 00:00:59,850
+if this is a timeline, it's really divided into three phases.
+
+9
+00:01:00,030 --> 00:01:05,370
+So there's sort of the fluid phase, and then there's the neutrophil phase, and then there's the macrophage phase.
+
+10
+00:01:05,770 --> 00:01:09,090
+And so this first phase sort of peaks here, and this is the fluid phase.
+
+11
+00:01:09,130 --> 00:01:13,490
+And the goal of the initial phase of acute inflammation is to really bring fluid and edema
+
+12
+00:01:13,490 --> 00:01:18,390
+and some of the important activating proteins like complement into the tissue space.
+
+13
+00:01:18,970 --> 00:01:22,470
+And then the next phase of acute inflammation is actually the neutrophil phase,
+
+14
+00:01:22,470 --> 00:01:28,650
+and it peaks at about 24 hours, and that's when most of the neutrophils have actually come into the tissue.
+
+15
+00:01:29,150 --> 00:01:32,810
+And then the third phase of acute inflammation is actually the macrophage phase,
+
+16
+00:01:32,890 --> 00:01:37,290
+and this macrophage phase essentially peaks at about two to three days.
+
+17
+00:01:37,290 --> 00:01:43,550
+So maybe I'm just sort of providing this as a global picture of acute inflammation.
+
+18
+00:01:44,050 --> 00:01:47,430
+So the way I think about acute inflammation, it has sort of three distinct phases.
+
+19
+00:01:47,890 --> 00:01:51,770
+So anyway, what we really want to focus on here is now the neutrophil phase,
+
+20
+00:01:51,850 --> 00:01:55,710
+how the neutrophils arrive and what they actually do when they get into the tissue.
+
+21
+00:01:56,130 --> 00:01:59,610
+So let's move forward and talk about how the neutrophils actually get there.
+
+22
+00:02:00,090 --> 00:02:03,810
+Before I actually explain this in step-by-step detail,
+
+23
+00:02:03,810 --> 00:02:10,090
+it might be probably best to actually take a step back and give you a global picture of what's going to happen.
+
+24
+00:02:10,270 --> 00:02:15,950
+So let's clear the screen here and give you just a little bit of an overview.
+
+25
+00:02:16,470 --> 00:02:20,190
+Now normally when you have a blood vessel, so pretend this is a blood vessel,
+
+26
+00:02:20,730 --> 00:02:27,250
+one of the important dynamics of blood flow is that the heavy particles tend to sit in the center of the flow.
+
+27
+00:02:27,630 --> 00:02:31,250
+So as blood is flowing in this lamellar or linear manner,
+
+28
+00:02:31,250 --> 00:02:34,830
+you recall that blood flows in a very organized way,
+
+29
+00:02:35,270 --> 00:02:38,370
+the heavy particles will tend to sit at the center of the blood vessel.
+
+30
+00:02:38,990 --> 00:02:45,410
+And one of the very first things that's going to happen or the early things that's going to happen is vasodilation.
+
+31
+00:02:45,710 --> 00:02:49,270
+And as we get vasodilation, this blood vessel now becomes much wider.
+
+32
+00:02:49,270 --> 00:02:56,970
+And one of the results of vasodilation will be that the particles that were sort of running in the center of the flow,
+
+33
+00:02:57,490 --> 00:03:02,590
+by the fact that they'll enter this area of vasodilation where the blood flow becomes a little more turbulent,
+
+34
+00:03:03,070 --> 00:03:06,510
+the heavy particles will be allowed to come to the edge of the blood flow.
+
+35
+00:03:07,030 --> 00:03:11,270
+And when the heavy particles come to the edge of the blood flow, that's actually called margination.
+
+36
+00:03:11,270 --> 00:03:17,690
+And so margination is the very initial or first step of neutrophil arrival.
+
+37
+00:03:18,090 --> 00:03:23,410
+So let's go back and now look at step one of margination with that in the back of our mind.
+
+38
+00:03:23,790 --> 00:03:25,810
+So what do I say about step one?
+
+39
+00:03:26,050 --> 00:03:27,630
+I say step one margination.
+
+40
+00:03:28,770 --> 00:03:30,850
+Vasodilation slows the blood flow.
+
+41
+00:03:31,070 --> 00:03:31,390
+Where?
+
+42
+00:03:31,950 --> 00:03:33,710
+Post-capillary venule.
+
+43
+00:03:33,910 --> 00:03:35,050
+Again, very high yield.
+
+44
+00:03:35,170 --> 00:03:39,490
+That the neutrophils are actually going to come in in the same place that the fluid actually comes from,
+
+45
+00:03:39,490 --> 00:03:41,250
+which is the post-capillary venule.
+
+46
+00:03:41,750 --> 00:03:44,030
+Now, because we get that vasodilation,
+
+47
+00:03:44,490 --> 00:03:48,010
+the cells are going to marginate from the center of the flow to the periphery.
+
+48
+00:03:48,090 --> 00:03:51,370
+And that's basically what I was trying to say here in your text.
+
+49
+00:03:52,050 --> 00:03:54,210
+The next step is actually called rolling.
+
+50
+00:03:54,550 --> 00:03:57,450
+Now what's going to happen here is that remember that we've got this blood vessel,
+
+51
+00:03:57,630 --> 00:03:59,730
+and then the blood vessel actually vasodilated,
+
+52
+00:04:00,150 --> 00:04:04,730
+and with the vasodilation we had margination so that the cells were out here at the periphery.
+
+53
+00:04:04,730 --> 00:04:08,110
+Well, on the next step in rolling, what's going to happen is that these cells
+
+54
+00:04:08,110 --> 00:04:11,870
+that have now marginated to the periphery need to be slowed down.
+
+55
+00:04:12,270 --> 00:04:15,250
+And the way that the cells are going to slow down is that they're going to hit these little,
+
+56
+00:04:15,470 --> 00:04:16,910
+what I call, speed bumps.
+
+57
+00:04:17,210 --> 00:04:20,270
+In fact, the technical name for them is selectins.
+
+58
+00:04:20,690 --> 00:04:25,070
+So the selectin speed bumps will be upregulated on the endothelial cells,
+
+59
+00:04:25,190 --> 00:04:28,830
+i.e. the endothelial cells, which are the cells that line the blood vessel,
+
+60
+00:04:29,110 --> 00:04:31,510
+will begin to express selectins,
+
+61
+00:04:31,510 --> 00:04:38,810
+and the selectins will actually cause the neutrophils to slow down along that blood vessel periphery.
+
+62
+00:04:39,070 --> 00:04:40,230
+And that's called rolling.
+
+63
+00:04:40,570 --> 00:04:47,250
+So these neutrophils will begin to roll slowly along these selectin speed bumps.
+
+64
+00:04:47,810 --> 00:04:50,550
+And so that's what the next step is in acute inflammation.
+
+65
+00:04:50,750 --> 00:04:51,350
+It's called rolling.
+
+66
+00:04:51,490 --> 00:04:53,930
+Now let's read a little bit about this in detail.
+
+67
+00:04:54,270 --> 00:04:55,450
+So what do I say in your text?
+
+68
+00:04:55,450 --> 00:05:00,230
+I say that selectin speed bumps are upregulated on the endothelial cells.
+
+69
+00:05:00,410 --> 00:05:03,750
+And I've made that very clear already by the image that I just drew.
+
+70
+00:05:04,430 --> 00:05:10,290
+Now what's important to know for examinations beyond the fact that it's selectins that are going to be upregulated
+
+71
+00:05:10,290 --> 00:05:12,830
+is that there's actually two subtypes of selectins.
+
+72
+00:05:13,230 --> 00:05:15,630
+The first selectin is called P-selectin,
+
+73
+00:05:16,070 --> 00:05:18,870
+and the second selectin is called E-selectin.
+
+74
+00:05:19,390 --> 00:05:23,630
+These are the two selectins, and they'll be upregulated on the endothelial cell.
+
+75
+00:05:23,630 --> 00:05:29,710
+It's important for examinations to know that P-selectins come from the Weibol-Pilotti bodies.
+
+76
+00:05:30,370 --> 00:05:32,850
+Again, P-selectin comes from the Weibol-Pilotti body.
+
+77
+00:05:33,090 --> 00:05:37,270
+Let's go back to normal histology and remind ourselves that within the endothelial cells,
+
+78
+00:05:37,650 --> 00:05:39,830
+particularly seen on electron microscopy,
+
+79
+00:05:40,170 --> 00:05:43,630
+are small little bodies, preformed bodies, called Weibol-Pilotti bodies,
+
+80
+00:05:43,750 --> 00:05:48,390
+which have some proteins that are necessary for function of the endothelial cells.
+
+81
+00:05:48,390 --> 00:05:53,410
+To me, this is a very easy thing to remember
+
+82
+00:05:53,410 --> 00:05:59,250
+because I predominantly remember that the Weibol-Pilotti bodies contain two important proteins
+
+83
+00:05:59,250 --> 00:06:02,770
+and that the W gives away one and that the P gives away the other.
+
+84
+00:06:03,450 --> 00:06:04,810
+So that's my little mnemonic.
+
+85
+00:06:05,170 --> 00:06:07,890
+So the P, for me, reminds me of P-selectin.
+
+86
+00:06:08,170 --> 00:06:10,770
+So the Weibol-Pilotti bodies contain P-selectin.
+
+87
+00:06:10,770 --> 00:06:15,510
+And can you remember what the other important protein is that the W might sort of hint at?
+
+88
+00:06:16,830 --> 00:06:18,310
+Von Willebrand's factor.
+
+89
+00:06:18,950 --> 00:06:20,810
+So the W for Willebrand.
+
+90
+00:06:21,250 --> 00:06:24,410
+So for me, the two key proteins within the Weibol-Pilotti body,
+
+91
+00:06:24,730 --> 00:06:27,250
+the W stands for Von Willebrand's factor,
+
+92
+00:06:27,530 --> 00:06:30,010
+and the P reminds me of P-selectin.
+
+93
+00:06:30,230 --> 00:06:31,470
+So that's how I remember that.
+
+94
+00:06:31,890 --> 00:06:33,830
+Anyway, P-selectin gets upregulated,
+
+95
+00:06:34,010 --> 00:06:36,510
+and this upregulation is mediated by histamine.
+
+96
+00:06:36,510 --> 00:06:43,430
+At the same time, e-selectin production is induced by TNF and IL-1.
+
+97
+00:06:43,950 --> 00:06:45,470
+So I'm sorry, and it's unfortunate,
+
+98
+00:06:45,690 --> 00:06:49,730
+but you do have to remember that e-selectin is induced by TNF and IL-1,
+
+99
+00:06:49,810 --> 00:06:51,890
+and that's sort of one of those things that we have to memorize.
+
+100
+00:06:52,230 --> 00:06:55,750
+And I hate memorization, but we do have to memorize that.
+
+101
+00:06:56,230 --> 00:07:01,250
+So this is the mechanism by which selectins get upregulated on the endothelial cells.
+
+102
+00:07:01,790 --> 00:07:05,430
+Now, beyond the upregulation of selectin on endothelial cells,
+
+103
+00:07:05,430 --> 00:07:10,290
+it's important to note that the selectins are actually going to bind a molecule on the leukocytes,
+
+104
+00:07:10,390 --> 00:07:13,490
+on the neutrophils, which is Sial-Lewis-X.
+
+105
+00:07:13,650 --> 00:07:14,910
+We do have to know that molecule.
+
+106
+00:07:15,510 --> 00:07:20,130
+So that it's Sial-Lewis-X that actually is going to specifically bump into the selectins
+
+107
+00:07:20,130 --> 00:07:23,070
+and allow for the rolling of the neutrophils.
+
+108
+00:07:23,610 --> 00:07:28,790
+Now, this interaction results in rolling of the leukocytes along the vessel wall,
+
+109
+00:07:28,930 --> 00:07:33,450
+as I've already explained, which sort of then slows down the neutrophil.
+
+110
+00:07:33,450 --> 00:07:37,370
+And by the way, you might ask, well, why am I using the term leukocytes here?
+
+111
+00:07:38,310 --> 00:07:45,010
+Leukocytes refers to white blood cells, and the neutrophils use this mechanism,
+
+112
+00:07:45,290 --> 00:07:48,750
+and you're going to hear eventually that the macrophages use this mechanism as well.
+
+113
+00:07:49,050 --> 00:07:53,490
+So I've left the term general, although we're actually specifically discussing neutrophils here.
+
+114
+00:07:53,630 --> 00:07:53,830
+Okay?
+
+115
+00:07:54,110 --> 00:07:55,590
+So I hope that that doesn't confuse you.
+
+116
+00:07:55,630 --> 00:07:58,210
+I just want your text to be as accurate as possible.
+
+117
+00:07:58,210 --> 00:08:00,470
+And I'll make this point a little later as well.
+
+118
+00:08:01,210 --> 00:08:03,790
+Now, the next step is called adhesion.
+
+119
+00:08:04,150 --> 00:08:06,550
+And the idea here, I'm going to blank out your screen briefly,
+
+120
+00:08:06,810 --> 00:08:08,590
+is that you've got this blood vessel.
+
+121
+00:08:08,810 --> 00:08:11,210
+We vasodilated the blood vessel, allowing for margination.
+
+122
+00:08:12,090 --> 00:08:16,070
+We upregulated the selectin P and E, selectin speed bumps,
+
+123
+00:08:16,390 --> 00:08:19,910
+which then hit Sial-Lewis-X on the leukocytes,
+
+124
+00:08:20,230 --> 00:08:23,890
+which caused the leukocytes to slow down as they roll along that blood vessel.
+
+125
+00:08:23,890 --> 00:08:30,290
+Now, eventually what we're going to want to do is we're going to want to grab that leukocyte very tightly and stop it.
+
+126
+00:08:30,670 --> 00:08:34,830
+And the reason we're going to want to stop it dead in its tracks is because eventually we want to bring the leukocyte
+
+127
+00:08:34,830 --> 00:08:39,370
+to this side of the blood vessel so that it can fight the infection out here.
+
+128
+00:08:39,930 --> 00:08:42,870
+And so the next step is actually called adhesion.
+
+129
+00:08:43,270 --> 00:08:44,030
+So let's go back.
+
+130
+00:08:44,230 --> 00:08:49,630
+And adhesion refers to the binding of the leukocyte to the vessel wall,
+
+131
+00:08:49,630 --> 00:08:53,590
+and it actually occurs via an interaction between two proteins.
+
+132
+00:08:53,890 --> 00:08:58,650
+So on the endothelium, on the cells that line the blood vessel wall, i.e. the endothelium,
+
+133
+00:08:59,130 --> 00:09:04,390
+the key molecule that's going to be upregulated are cellular adhesion molecules.
+
+134
+00:09:05,210 --> 00:09:09,110
+And these are upregulated by TNF and IL-1.
+
+135
+00:09:09,390 --> 00:09:12,490
+So we can see that TNF and IL-1 are actually playing a very important role
+
+136
+00:09:12,490 --> 00:09:17,190
+in this initial phase of bringing in the neutrophil into the tissue.
+
+137
+00:09:17,750 --> 00:09:20,470
+So cellular adhesion molecules, also called CAMs.
+
+138
+00:09:20,550 --> 00:09:22,990
+And you can go into a little bit of detail here.
+
+139
+00:09:23,090 --> 00:09:25,070
+There's an ICAM and there's a V-CAM.
+
+140
+00:09:25,410 --> 00:09:29,130
+But I think it's sufficient for you to know that these are just cellular adhesion molecules.
+
+141
+00:09:29,130 --> 00:09:32,790
+Now, these cellular adhesion molecules are going to bind integrins.
+
+142
+00:09:32,890 --> 00:09:35,710
+And integrins are present on the neutrophils or on the leukocytes.
+
+143
+00:09:36,390 --> 00:09:41,490
+And the integrins are upregulated by C5A and LTB4.
+
+144
+00:09:41,630 --> 00:09:45,670
+But that's not hard to remember because do you remember what are our key four molecules
+
+145
+00:09:45,670 --> 00:09:46,850
+that bring in the neutrophils?
+
+146
+00:09:47,410 --> 00:09:47,870
+Very good.
+
+147
+00:09:48,250 --> 00:09:53,050
+C5A, LTB4, IL-8, and bacterial products.
+
+148
+00:09:53,050 --> 00:09:59,170
+So it's not hard to remember that the molecules that help to activate and draw in the neutrophils
+
+149
+00:09:59,170 --> 00:10:02,450
+are going to be the same molecules that are going to activate the neutrophils
+
+150
+00:10:02,450 --> 00:10:05,830
+at this particular phase of adhesion.
+
+151
+00:10:06,350 --> 00:10:12,130
+And it's this firm interaction between cellular adhesion molecules and C5A and integrins
+
+152
+00:10:12,130 --> 00:10:14,690
+that then results in a firm adhesion to the vessel wall.
+
+153
+00:10:14,790 --> 00:10:17,250
+I'm going to draw this for you because, again, it's very high yield.
+
+154
+00:10:17,710 --> 00:10:19,890
+So let me erase this and give you a blank screen.
+
+155
+00:10:20,310 --> 00:10:21,790
+This is the vessel wall.
+
+156
+00:10:21,790 --> 00:10:27,010
+All right, and the vessel wall is lined by endothelium, as you're well aware.
+
+157
+00:10:27,490 --> 00:10:33,710
+And this endothelium is going to express something called a cellular adhesion molecule.
+
+158
+00:10:34,010 --> 00:10:36,810
+So let's make this the cellular adhesion molecule.
+
+159
+00:10:37,350 --> 00:10:40,870
+And this is the leukocyte, the neutrophil that we're trying to draw in.
+
+160
+00:10:41,090 --> 00:10:44,650
+And the neutrophil is going to express integrins.
+
+161
+00:10:45,550 --> 00:10:48,870
+All right, and the integrins are going to bind the cellular adhesion molecule.
+
+162
+00:10:48,870 --> 00:10:55,110
+This is then going to result in a firm adhesion of the neutrophil to the blood vessel wall.
+
+163
+00:10:55,590 --> 00:11:01,710
+Again, do you guys remember what upregulates the cellular adhesion molecule?
+
+164
+00:11:02,610 --> 00:11:03,150
+Very good.
+
+165
+00:11:03,350 --> 00:11:04,870
+TNF and IL-1.
+
+166
+00:11:05,170 --> 00:11:07,110
+And what upregulates the integrin?
+
+167
+00:11:07,110 --> 00:11:10,750
+C5A, LTB4.
+
+168
+00:11:10,890 --> 00:11:11,370
+Very good.
+
+169
+00:11:11,690 --> 00:11:16,490
+Again, this adhesion process is eventually going to then allow for us to bring the neutrophil
+
+170
+00:11:16,490 --> 00:11:21,530
+across the blood vessel into the tissue space.
+
+171
+00:11:21,970 --> 00:11:25,230
+But before we do that, there's an important disease that we want to discuss.
+
+172
+00:11:25,570 --> 00:11:27,190
+And this disease is very high yield.
+
+173
+00:11:27,570 --> 00:11:29,450
+It's called leukocyte adhesion deficiency.
+
+174
+00:11:29,450 --> 00:11:34,450
+Now, the problem in leukocyte adhesion deficiency is that the patient has an autosomal recessive
+
+175
+00:11:34,450 --> 00:11:37,670
+defect of integrin, one of the subunits of integrin.
+
+176
+00:11:37,930 --> 00:11:42,950
+And you do need to know for examination that it is the CD18 subunit.
+
+177
+00:11:43,430 --> 00:11:48,690
+When there is defect of integrin, as you just learned, integrin is necessary for the neutrophil
+
+178
+00:11:48,690 --> 00:11:53,010
+to actually be able to bind the cellular adhesion molecules on the endothelium.
+
+179
+00:11:53,010 --> 00:11:59,430
+If there is no integrin, the leukocytes will not be able to adhese to the endothelium and
+
+180
+00:11:59,430 --> 00:12:02,850
+they will not be able to be drawn eventually into the tissue.
+
+181
+00:12:03,290 --> 00:12:05,110
+So guess what the clinical findings are going to be?
+
+182
+00:12:05,950 --> 00:12:10,150
+Well, one of the key clinical findings is delayed separation of the umbilical cord.
+
+183
+00:12:10,870 --> 00:12:15,710
+Very, very early finding and very high yield for examinations.
+
+184
+00:12:16,170 --> 00:12:17,430
+Now, let's go back and remind ourselves.
+
+185
+00:12:17,430 --> 00:12:24,350
+When a baby is born, the umbilical cord, which normally had blood flowing through it, is sealed.
+
+186
+00:12:24,690 --> 00:12:28,470
+It's clamped and itself, it seals once it's disconnected from the placenta.
+
+187
+00:12:28,990 --> 00:12:32,310
+And the next thing that's going to happen to the umbilical cord is that the umbilical cord
+
+188
+00:12:32,310 --> 00:12:35,190
+is going to die because there's no more blood going through it.
+
+189
+00:12:35,390 --> 00:12:36,730
+There's no more blood feeding it.
+
+190
+00:12:36,990 --> 00:12:38,510
+So the tissue will undergo necrosis.
+
+191
+00:12:38,890 --> 00:12:41,910
+And do you remember, what's the result of necrosis?
+
+192
+00:12:42,030 --> 00:12:43,750
+What's the next step after necrosis?
+
+193
+00:12:44,250 --> 00:12:45,390
+Very good, acute inflammation.
+
+194
+00:12:45,390 --> 00:12:49,210
+Remember that acute inflammation comes in after necrosis
+
+195
+00:12:49,210 --> 00:12:52,170
+and allows for the tissue to be destroyed so that it can be healed.
+
+196
+00:12:52,830 --> 00:12:55,190
+Now, once the umbilical cord has been,
+
+197
+00:12:55,650 --> 00:12:58,750
+the blood supply of the umbilical cord has been cut off, the tissue will die.
+
+198
+00:12:59,130 --> 00:13:02,010
+And eventually, the umbilical cord will simply just fall off.
+
+199
+00:13:02,210 --> 00:13:03,670
+And it will separate from the baby.
+
+200
+00:13:04,110 --> 00:13:07,370
+And what helps it to fall off is the neutrophils come in
+
+201
+00:13:07,370 --> 00:13:08,870
+and they actually destroy the tissue.
+
+202
+00:13:09,150 --> 00:13:11,990
+And that then allows for separation of the umbilical cord.
+
+203
+00:13:11,990 --> 00:13:16,390
+However, if the neutrophils can't come in,
+
+204
+00:13:16,650 --> 00:13:24,350
+that separation of that necrotic umbilical cord from the baby's abdomen or skin will actually be delayed.
+
+205
+00:13:24,810 --> 00:13:26,490
+And so that's the key clinical feature.
+
+206
+00:13:26,590 --> 00:13:29,930
+And it ties into so many of the principles that we've already been speaking about,
+
+207
+00:13:30,370 --> 00:13:34,770
+i.e. the whole notion that necrosis is followed by acute inflammation,
+
+208
+00:13:34,770 --> 00:13:40,630
+and then the whole notion that we need this sequence of margination, rolling, and adhesion
+
+209
+00:13:40,630 --> 00:13:42,870
+to eventually bring neutrophils into the tissue.
+
+210
+00:13:43,070 --> 00:13:48,690
+And because we're lacking the CD18 subunit of integrin in this particular disease,
+
+211
+00:13:49,050 --> 00:13:52,790
+the neutrophils actually can't arrive because they can't adhese properly.
+
+212
+00:13:53,210 --> 00:13:54,550
+So that's one important finding.
+
+213
+00:13:54,770 --> 00:13:56,110
+And that, again, is kind of high yield.
+
+214
+00:13:56,110 --> 00:14:01,910
+Another important finding that we would see in leukocyte adhesion deficiency
+
+215
+00:14:01,910 --> 00:14:03,850
+is increased circulating neutrophils.
+
+216
+00:14:03,970 --> 00:14:06,750
+And this is also a very important sort of high yield topic.
+
+217
+00:14:07,250 --> 00:14:10,610
+Let me go back and remind you that when you think about your neutrophils,
+
+218
+00:14:11,270 --> 00:14:13,710
+you can divide your neutrophils into sort of two groups.
+
+219
+00:14:14,110 --> 00:14:16,610
+There are those neutrophils that are floating around in the blood,
+
+220
+00:14:16,730 --> 00:14:18,910
+and they represent about 50% of your neutrophils.
+
+221
+00:14:19,270 --> 00:14:22,730
+But the other half of your neutrophils are actually sort of hanging out
+
+222
+00:14:22,730 --> 00:14:24,770
+within the blood vessels of the lung.
+
+223
+00:14:26,110 --> 00:14:43,590
+And they sort of sit there, and they are hanging there so that if they're needed,
+
+224
+00:14:43,990 --> 00:14:46,430
+they can immediately come out into the blood.
+
+225
+00:14:46,650 --> 00:14:49,390
+So it's sort of their present waiting to be activated,
+
+226
+00:14:49,890 --> 00:14:52,070
+waiting to be called in to do something.
+
+227
+00:14:52,070 --> 00:14:56,270
+And the way by which these neutrophils, they're called the marginated pool.
+
+228
+00:14:56,610 --> 00:15:01,550
+And the way by which the marginated pool is able to hang onto the blood vessel in the lung
+
+229
+00:15:01,550 --> 00:15:03,910
+is using adhesion.
+
+230
+00:15:04,350 --> 00:15:08,870
+So if adhesion is defective, then the marginated pool in the lung
+
+231
+00:15:08,870 --> 00:15:11,950
+will no longer be able to sort of hang onto the blood vessel in the lung
+
+232
+00:15:11,950 --> 00:15:13,570
+and wait for battle.
+
+233
+00:15:14,030 --> 00:15:16,350
+And instead, that will be released into the blood,
+
+234
+00:15:16,350 --> 00:15:20,670
+and that's going to give us an increased circulating neutrophil count.
+
+235
+00:15:21,250 --> 00:15:23,930
+And so that's why these patients have increased circulating neutrophils.
+
+236
+00:15:24,450 --> 00:15:29,910
+And then the third finding present in these patients is that they get recurrent bacterial infections.
+
+237
+00:15:30,410 --> 00:15:32,930
+But what's important is that they lack pus.
+
+238
+00:15:33,370 --> 00:15:35,590
+They get infections, but they don't form pus.
+
+239
+00:15:35,870 --> 00:15:36,970
+Let's go back and remind ourselves.
+
+240
+00:15:37,070 --> 00:15:37,650
+What is pus?
+
+241
+00:15:38,090 --> 00:15:41,070
+Pus is dead neutrophils sitting in fluid.
+
+242
+00:15:41,550 --> 00:15:43,010
+That's basically what pus is.
+
+243
+00:15:43,130 --> 00:15:45,110
+Pus is dead neutrophils sitting in fluid.
+
+244
+00:15:45,110 --> 00:15:49,730
+And so if the patients can't get neutrophils into the tissue,
+
+245
+00:15:49,910 --> 00:15:51,590
+they're not going to be able to form pus.
+
+246
+00:15:51,830 --> 00:15:56,250
+So they'll get recurrent bacterial infections that particularly lack pus formation.
+
+247
+00:15:56,690 --> 00:15:58,190
+And that's important as well.
+
+248
+00:15:58,810 --> 00:16:05,090
+So these are the three key clinical features when a patient is lacking integrins
+
+249
+00:16:05,090 --> 00:16:09,370
+and therefore can't produce proper leukocyte adhesion.
+
+250
+00:16:09,370 --> 00:16:15,090
+So let's go on to the next step in the arrival of neutrophils,
+
+251
+00:16:15,210 --> 00:16:18,190
+and that is transmigration in chemotaxis.
+
+252
+00:16:18,690 --> 00:16:21,650
+Now the idea here, again, I'm going to create a white screen for a moment.
+
+253
+00:16:21,850 --> 00:16:23,730
+The idea here, if this is the blood vessel,
+
+254
+00:16:24,130 --> 00:16:27,290
+and the blood vessel is obviously lined by endothelium,
+
+255
+00:16:27,550 --> 00:16:32,650
+and we've got this neutrophil, and the neutrophil is adhesed here and is stuck,
+
+256
+00:16:32,650 --> 00:16:36,930
+and the next step is going to be that we're going to bring this neutrophil across the blood vessel.
+
+257
+00:16:37,030 --> 00:16:41,730
+That's called transmigration, to go transmigration, across, to migrate across.
+
+258
+00:16:42,250 --> 00:16:47,670
+And then the neutrophil, once it gets here, is going to be drawn into the area of battle over here.
+
+259
+00:16:47,950 --> 00:16:51,470
+And the movement of the neutrophil to this area, that's called chemotaxis.
+
+260
+00:16:51,590 --> 00:16:54,630
+And it's called chemotaxis because the neutrophil can't see,
+
+261
+00:16:54,630 --> 00:16:58,770
+but it can sense chemicals, chemo, chemical, taxis, chemical movement.
+
+262
+00:16:59,310 --> 00:17:03,110
+And it senses chemicals, and the chemicals sort of call the neutrophil to the area of battle.
+
+263
+00:17:03,510 --> 00:17:06,990
+So let's go back to our slides and now sort of read together.
+
+264
+00:17:07,310 --> 00:17:11,210
+So the leukocytes transmigrate across the endothelium of what?
+
+265
+00:17:11,730 --> 00:17:12,530
+Postcapillary venules.
+
+266
+00:17:12,630 --> 00:17:13,710
+I can't hammer that home enough.
+
+267
+00:17:13,810 --> 00:17:15,170
+That shows up on exams often.
+
+268
+00:17:15,310 --> 00:17:18,150
+It's the postcapillary venules where the neutrophils are doing all of this.
+
+269
+00:17:18,670 --> 00:17:22,710
+They then move towards chemical attractants, which is called chemotaxis,
+
+270
+00:17:22,710 --> 00:17:24,770
+and guess what the chemical attractants are?
+
+271
+00:17:25,090 --> 00:17:27,770
+The four key products that call in neutrophils.
+
+272
+00:17:27,870 --> 00:17:29,110
+And you're already familiar with this.
+
+273
+00:17:29,690 --> 00:17:33,870
+C5A, LTB4, IL-8, and bacterial products.
+
+274
+00:17:34,930 --> 00:17:39,470
+Once the neutrophils get to the area of battle, the way by which they kill is phagocytosis.
+
+275
+00:17:39,850 --> 00:17:43,350
+And that is step five in this sequence, phagocytosis.
+
+276
+00:17:44,070 --> 00:17:47,650
+Phagocytosis is the consumption of pathogens or necrotic tissue.
+
+277
+00:17:47,650 --> 00:17:49,810
+Again, neutrophils are drawn in by infection,
+
+278
+00:17:49,810 --> 00:17:52,830
+or they can be drawn in by tissue necrosis.
+
+279
+00:17:53,410 --> 00:17:56,190
+And phagocytosis occurs, for the most part, occurs blindly.
+
+280
+00:17:56,350 --> 00:17:58,070
+The neutrophil goes in, it's activated,
+
+281
+00:17:58,230 --> 00:18:00,230
+and just begins to eat and consume and destroy.
+
+282
+00:18:00,750 --> 00:18:05,210
+But one of the ways by which we can enhance phagocytosis is by opsonins.
+
+283
+00:18:05,650 --> 00:18:08,230
+Opsonins are molecules that the neutrophils can recognize.
+
+284
+00:18:08,590 --> 00:18:10,230
+And when the neutrophils see these molecules,
+
+285
+00:18:10,350 --> 00:18:13,090
+they know that, aha, this is the thing that I'm supposed to eat.
+
+286
+00:18:13,090 --> 00:18:18,810
+So when it sees IgG, IgG is an opsonin that allows the neutrophil,
+
+287
+00:18:19,010 --> 00:18:23,390
+that the neutrophil can recognize and then eat whatever is bound to the IgG.
+
+288
+00:18:23,830 --> 00:18:27,430
+And similarly, another important opsonin is C3B.
+
+289
+00:18:27,890 --> 00:18:29,870
+Now, I would like to stop here for a moment,
+
+290
+00:18:30,070 --> 00:18:32,030
+and we're on page 13 of your text.
+
+291
+00:18:32,430 --> 00:18:36,810
+Under neutrophil arrival and function, letter E, step five, phagocytosis.
+
+292
+00:18:36,810 --> 00:18:42,470
+Under point one, I specifically say consumption of pathogens or necrotic tissue,
+
+293
+00:18:42,670 --> 00:18:45,610
+semicolon, phagocytosis is enhanced by opsonins.
+
+294
+00:18:46,070 --> 00:18:52,230
+And notice I put in parentheses there, IgG and C3, it should say B in your text.
+
+295
+00:18:52,570 --> 00:18:53,570
+There's a typo there.
+
+296
+00:18:53,730 --> 00:18:57,810
+Please correct that on page 13 and make that say C3B.
+
+297
+00:18:58,950 --> 00:19:02,950
+So anyway, that's step five, and that is phagocytosis.
+
+298
+00:19:03,390 --> 00:19:04,990
+So let's keep going.
+
+299
+00:19:04,990 --> 00:19:12,630
+The way by which phagocytosis occurs is that pseudopods from the leukocytes extend to form phagosomes.
+
+300
+00:19:12,870 --> 00:19:13,850
+And so here's the idea.
+
+301
+00:19:14,210 --> 00:19:17,930
+If this was the neutrophil, all right, what will the neutrophil do?
+
+302
+00:19:18,050 --> 00:19:21,970
+It will sort of draw out these big arms, which are like pseudopods.
+
+303
+00:19:22,350 --> 00:19:24,730
+And let's say that this is the thing that it wants to consume.
+
+304
+00:19:24,950 --> 00:19:28,110
+So it will then wrap its arms around this molecule.
+
+305
+00:19:28,110 --> 00:19:38,850
+And eventually it will result in the neutrophil containing a little vesicle, which actually contains the product that needs to be destroyed.
+
+306
+00:19:39,690 --> 00:19:46,210
+And so the pseudopods, which are these fingers, will form, from the leukocytes, extend to form phagosomes.
+
+307
+00:19:46,210 --> 00:19:51,410
+And this is the phagosome here, this circular space that gets internalized within the neutrophil.
+
+308
+00:19:51,850 --> 00:19:58,530
+So the phagosome is internalized, and eventually the phagosome will move, and it will merge with something called the lysosome.
+
+309
+00:19:58,990 --> 00:20:08,050
+And we are well aware from cellular biology that the lysosome contains the highly degradative enzymes necessary to destroy things.
+
+310
+00:20:08,050 --> 00:20:15,550
+And so this phagosome will eventually merge with the lysosome, and when it merges with the lysosome, it is called a phagolysosome.
+
+311
+00:20:16,150 --> 00:20:17,950
+So a phagolysosome is formed.
+
+312
+00:20:18,670 --> 00:20:31,290
+One of the important defects that can impair this production of the phagolysosome is called Chediakigashi syndrome, or involves Chediakigashi syndrome, high yield for examination.
+
+313
+00:20:31,610 --> 00:20:34,210
+So let's take a moment and divert our discussion.
+
+314
+00:20:34,630 --> 00:20:35,930
+What is Chediakigashi syndrome?
+
+315
+00:20:35,930 --> 00:20:41,230
+The way I remember Chediakigashi syndrome is that basically it's a protein trafficking defect.
+
+316
+00:20:41,650 --> 00:20:47,210
+It's an autosomal recessive disease, and perhaps it might be best to sort of just do this with a little picture.
+
+317
+00:20:47,350 --> 00:20:51,110
+So let me draw you a picture and just remind you that let's say this is the neutrophil.
+
+318
+00:20:51,450 --> 00:20:58,030
+As I mentioned, it's going to produce this phagosome where it eats some sort of particle and brings it inside the neutrophil.
+
+319
+00:20:58,030 --> 00:21:10,690
+And the next step is going to be to move that phagosome and merge it with the lysosome to form the phagolysosome because it's within the lysosome that the key enzymes for destruction are present.
+
+320
+00:21:11,450 --> 00:21:20,730
+Now, any time the cell wants to move something, and notice that we're trying to move this big phagosome, it needs to do it across, quote-unquote, a railroad system.
+
+321
+00:21:20,730 --> 00:21:26,410
+So that there's sort of got to be these tracks that allow the phagosome to be guided to the lysosome.
+
+322
+00:21:26,970 --> 00:21:31,290
+So this railroad system is what's defective in Chediakigashi syndrome.
+
+323
+00:21:31,570 --> 00:21:38,010
+The railroad system is actually made up of microtubules, and Chediakigashi syndrome can be thought of as a microtubule defect.
+
+324
+00:21:38,010 --> 00:21:49,790
+So if the microtubules are out, the railroad system is out, and if the railroad system is out, then we can't traffic this phagosome to merge it with the lysosome.
+
+325
+00:21:50,250 --> 00:21:54,010
+And so, therefore, all of the clinical symptoms are going to be related to that.
+
+326
+00:21:54,270 --> 00:21:56,690
+So let's go back now and review the clinical symptoms.
+
+327
+00:21:57,290 --> 00:21:59,670
+The clinical features are going to include the following.
+
+328
+00:22:00,110 --> 00:22:02,790
+Number one, increased risk of pyogenic infections.
+
+329
+00:22:03,270 --> 00:22:05,410
+Why would there be an increased risk of pyogenic infections?
+
+330
+00:22:05,410 --> 00:22:14,930
+Well, I've just shown you in an image that the phagosome is created, but it can't merge with the lysosome because the railroad is sort of out.
+
+331
+00:22:15,030 --> 00:22:15,850
+The tracks are out.
+
+332
+00:22:16,370 --> 00:22:23,190
+And so, therefore, patients are going to have an increased risk of infection because they can't destroy the organisms that the neutrophils consume.
+
+333
+00:22:23,830 --> 00:22:25,710
+Another problem is going to be neutropenia.
+
+334
+00:22:25,810 --> 00:22:30,030
+Now, the idea here is that the neutrophils within the bone marrow, when they're dividing,
+
+335
+00:22:30,030 --> 00:22:35,350
+remember that if you've got one cell and you actually want to divide it into two cells,
+
+336
+00:22:35,470 --> 00:22:41,250
+what you have to actually do is sort of separate the cells and then move some cellular components this way,
+
+337
+00:22:41,370 --> 00:22:45,650
+move some cellular components that way, move some DNA this way, move some DNA that way,
+
+338
+00:22:45,710 --> 00:22:48,270
+so that you can eventually produce two separate cells.
+
+339
+00:22:48,710 --> 00:22:53,390
+However, if you're not able to move things around properly, you're not going to be able to divide properly,
+
+340
+00:22:53,390 --> 00:22:59,650
+and therefore, because the neutrophils can't divide properly, there's a defect in generation within the bone marrow of neutrophils,
+
+341
+00:22:59,950 --> 00:23:01,850
+and so these patients get neutropenia.
+
+342
+00:23:02,450 --> 00:23:06,470
+Another problem that's going to occur is that the patients get giant granules in their leukocytes.
+
+343
+00:23:06,570 --> 00:23:07,270
+Now, let's go back.
+
+344
+00:23:07,730 --> 00:23:14,950
+The granules within the leukocytes and the neutrophils particularly are actually produced from the Golgi apparatus.
+
+345
+00:23:14,950 --> 00:23:19,330
+So, if there's a Golgi apparatus here, and these granules are being produced,
+
+346
+00:23:19,770 --> 00:23:23,770
+these granules, after they're produced, will actually go along the railroad system,
+
+347
+00:23:23,850 --> 00:23:29,070
+and this granule may go here, and another granule may go here, and another granule may go here,
+
+348
+00:23:29,390 --> 00:23:32,510
+and that's how the granules get distributed across the neutrophils,
+
+349
+00:23:32,610 --> 00:23:38,470
+and when you look at a slide, you can sometimes even see the granulations present within the cytoplasm of the neutrophil.
+
+350
+00:23:38,470 --> 00:23:46,890
+However, if there's a defect, and none of these granules can be sent off to the periphery and distributed across the cell,
+
+351
+00:23:47,190 --> 00:23:50,750
+the granules are all going to pile up right adjacent to the Golgi,
+
+352
+00:23:51,170 --> 00:23:55,390
+and so when these pile up adjacent to the Golgi, we're going to see giant granules.
+
+353
+00:23:55,490 --> 00:23:58,570
+They're going to appear as giant granules within the leukocyte,
+
+354
+00:23:59,050 --> 00:24:01,930
+and so that's another important feature, and that's a histologic feature.
+
+355
+00:24:02,050 --> 00:24:03,390
+Again, all of these are high yield.
+
+356
+00:24:03,390 --> 00:24:09,410
+Another problem that's going to occur in these patients is that they're going to get defective primary hemostasis.
+
+357
+00:24:09,970 --> 00:24:11,590
+Now, same sort of idea.
+
+358
+00:24:12,050 --> 00:24:14,870
+Primary hemostasis is dependent on the platelets,
+
+359
+00:24:16,050 --> 00:24:19,870
+and the platelets contain granules, for example, dense core granules,
+
+360
+00:24:20,150 --> 00:24:26,610
+and if the granules are not properly distributed and cannot be properly functioning within the platelets,
+
+361
+00:24:26,910 --> 00:24:29,010
+there'll be a defect in primary hemostasis.
+
+362
+00:24:29,830 --> 00:24:32,510
+Okay, another finding is albinism, high yield,
+
+363
+00:24:32,510 --> 00:24:35,390
+and this kind of also goes back to the similar principle.
+
+364
+00:24:35,770 --> 00:24:38,630
+Let's go back and remind ourselves that the pigment of the skin,
+
+365
+00:24:38,790 --> 00:24:42,310
+the pigmenting of the skin, actually occurs via the melanocytes.
+
+366
+00:24:42,790 --> 00:24:45,850
+Now, what happens is the melanocytes, so if this is skin,
+
+367
+00:24:46,290 --> 00:24:50,590
+and you've sort of got multiple keratinocytes that make up the skin,
+
+368
+00:24:50,770 --> 00:24:53,850
+so we're just going to draw these here as keratinocytes.
+
+369
+00:24:54,310 --> 00:24:57,830
+Within the keratinocytes, there is a rare melanocyte,
+
+370
+00:24:57,910 --> 00:24:59,730
+which I've sort of drawn here, I'm filling it in.
+
+371
+00:24:59,730 --> 00:25:05,370
+And this melanocyte produces the melanin, which is the pigment of the skin,
+
+372
+00:25:05,450 --> 00:25:07,370
+for about 25 different keratinocytes.
+
+373
+00:25:07,710 --> 00:25:11,610
+So one melanocyte produces the pigment for 25 different keratinocytes.
+
+374
+00:25:12,090 --> 00:25:16,390
+And recall that the way by which the melanocyte sort of pigments the keratinocytes
+
+375
+00:25:16,390 --> 00:25:20,710
+is to produce the pigment and then to hand it off to these different cells.
+
+376
+00:25:20,710 --> 00:25:25,750
+And so imagine if the melanocytes are able to produce the pigment,
+
+377
+00:25:25,890 --> 00:25:30,430
+but they're not able to hand it or pass it along the railroad system to the keratinocytes.
+
+378
+00:25:30,630 --> 00:25:34,550
+If it can't be moved along the railroad system and passed to the keratinocytes,
+
+379
+00:25:35,010 --> 00:25:38,390
+we're not going to get proper pigmentation of the skin,
+
+380
+00:25:38,730 --> 00:25:40,590
+and that's going to result in albinism.
+
+381
+00:25:40,990 --> 00:25:43,210
+And so that's a clinical feature of this disease as well.
+
+382
+00:25:43,630 --> 00:25:46,030
+And the final clinical feature is peripheral neuropathy.
+
+383
+00:25:46,030 --> 00:25:49,430
+And again, same thing, you know, I mean, I'm going to draw you a little stick figure
+
+384
+00:25:49,430 --> 00:25:52,410
+because I don't have the ability, as you've probably already figured out,
+
+385
+00:25:52,450 --> 00:25:54,390
+I don't have the ability to draw very well.
+
+386
+00:25:54,690 --> 00:25:58,630
+But if we've got a nerve at the very periphery here in the body,
+
+387
+00:25:58,710 --> 00:26:01,090
+let's pretend that that's the nerve of the toe.
+
+388
+00:26:01,450 --> 00:26:04,550
+Remember that the cell body for the nerve of the toe is way up here,
+
+389
+00:26:04,790 --> 00:26:07,770
+near the spinal cord.
+
+390
+00:26:08,330 --> 00:26:10,990
+And so this actual nerve is, you know,
+
+391
+00:26:11,050 --> 00:26:13,990
+it might be in some people up to two feet or sometimes even longer.
+
+392
+00:26:13,990 --> 00:26:17,110
+Remember, imagine if the nucleus is up here
+
+393
+00:26:17,110 --> 00:26:19,470
+and all of the key proteins are being produced up here,
+
+394
+00:26:19,750 --> 00:26:23,430
+you're going to need the railroad system to be able to keep the bottom of the nerve
+
+395
+00:26:23,430 --> 00:26:26,750
+or the very, very distal part of the nerve healthy and alive.
+
+396
+00:26:27,190 --> 00:26:30,910
+And so if patients have a railroad defect or a protein trafficking defect,
+
+397
+00:26:31,270 --> 00:26:33,890
+they can't really keep alive these peripheral nerves,
+
+398
+00:26:34,190 --> 00:26:36,710
+and so they get something called a peripheral neuropathy.
+
+399
+00:26:36,850 --> 00:26:38,150
+I've kind of simplified it a bit,
+
+400
+00:26:38,150 --> 00:26:41,650
+but it's good enough for sort of general principles
+
+401
+00:26:41,650 --> 00:26:44,290
+and creating global ideas within your mind.
+
+402
+00:26:44,850 --> 00:26:49,430
+So, you know, these are the key features of a disease called Chediac-Higashi syndrome,
+
+403
+00:26:50,430 --> 00:26:52,410
+and it's something very high-yield,
+
+404
+00:26:52,810 --> 00:26:54,490
+something that we should be familiar with.
+
+405
+00:26:54,990 --> 00:26:58,610
+So that was a derivative discussion that we had
+
+406
+00:26:58,610 --> 00:27:02,090
+concerning the formation of phagocytosis
+
+407
+00:27:02,090 --> 00:27:03,990
+and the formation of a phagolysisosome.
+
