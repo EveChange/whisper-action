@@ -1,0 +1,2000 @@
+1
+00:00:00,270 --> 00:00:03,470
+All right, final section of this chapter, wound healing.
+
+2
+00:00:04,210 --> 00:00:07,290
+The idea here, and the reason why I sort of placed this
+
+3
+00:00:07,290 --> 00:00:08,670
+at the very end of this chapter,
+
+4
+00:00:08,890 --> 00:00:11,310
+is that we've been talking about inflammation,
+
+5
+00:00:11,690 --> 00:00:14,570
+but we should remember that any time we have inflammation,
+
+6
+00:00:14,970 --> 00:00:16,850
+as soon as inflammation begins,
+
+7
+00:00:17,330 --> 00:00:20,290
+we also initiate a process called healing.
+
+8
+00:00:20,910 --> 00:00:24,170
+And the idea here is that inflammation is a destructive process.
+
+9
+00:00:24,430 --> 00:00:25,370
+It damages tissues.
+
+10
+00:00:25,810 --> 00:00:27,250
+And any time we damage tissues,
+
+11
+00:00:27,250 --> 00:00:28,750
+we're going to want to heal those tissues.
+
+12
+00:00:28,750 --> 00:00:33,510
+And so healing is a consequence or a subsequent consequence of inflammation.
+
+13
+00:00:34,230 --> 00:00:37,190
+Now, it's important to note that healing actually occurs via two processes.
+
+14
+00:00:37,410 --> 00:00:38,890
+It's usually a combination of both.
+
+15
+00:00:39,650 --> 00:00:46,050
+Regeneration, which refers to healing so that we actually replace the damaged tissue
+
+16
+00:00:46,050 --> 00:00:49,510
+with the tissue itself by regenerating it, or repair.
+
+17
+00:00:49,970 --> 00:00:54,650
+And the idea with repair is that instead of replacing the tissue with itself,
+
+18
+00:00:54,650 --> 00:01:00,390
+we replace the tissue with a scar, all right, with collagen and fibrosis.
+
+19
+00:01:00,470 --> 00:01:02,670
+And so usually when we have healing,
+
+20
+00:01:02,770 --> 00:01:05,730
+it occurs by a combination of both regeneration and repair.
+
+21
+00:01:06,450 --> 00:01:08,570
+Now, again, as I've stated, what is regeneration?
+
+22
+00:01:09,210 --> 00:01:12,270
+It's replacement of the damaged tissue with the native tissue.
+
+23
+00:01:13,270 --> 00:01:15,230
+And, I mean, that would be the ideal.
+
+24
+00:01:15,350 --> 00:01:20,070
+Anytime you have damage, you would obviously prefer to replace it with native tissue.
+
+25
+00:01:20,070 --> 00:01:21,950
+But we can't always do that.
+
+26
+00:01:22,470 --> 00:01:27,550
+And regeneration, it's important to note that it's dependent on the regenerative capacity of the tissue.
+
+27
+00:01:28,050 --> 00:01:33,410
+So this then leads to a classic examiner's type of topic that you should be familiar with,
+
+28
+00:01:33,690 --> 00:01:38,370
+which is that tissues can be divided into three types based on their regenerative capacity.
+
+29
+00:01:38,990 --> 00:01:41,890
+So the first type of tissue are called labile tissues.
+
+30
+00:01:42,830 --> 00:01:43,850
+What are labile tissues?
+
+31
+00:01:44,170 --> 00:01:46,130
+These are tissues that are constantly cycling.
+
+32
+00:01:46,130 --> 00:01:50,830
+Basically, the tissue has stem cells, and the stem cells are constantly regenerating the tissue,
+
+33
+00:01:51,310 --> 00:01:53,290
+just as part of our normal physiology.
+
+34
+00:01:53,710 --> 00:01:56,410
+For example, our bowel is constantly regenerating.
+
+35
+00:01:56,930 --> 00:01:59,170
+The skin is constantly regenerating.
+
+36
+00:01:59,510 --> 00:02:03,590
+The red blood cells, the white blood cells, the platelets are constantly regenerating.
+
+37
+00:02:03,990 --> 00:02:05,790
+So these are examples of labile tissues,
+
+38
+00:02:06,010 --> 00:02:09,630
+and they have the ability to regenerate tissue when they're damaged.
+
+39
+00:02:10,070 --> 00:02:12,890
+So, for example, let's just take the skin.
+
+40
+00:02:12,890 --> 00:02:18,370
+If you were to get a paper cut and you were to look for the paper cut two years later,
+
+41
+00:02:18,450 --> 00:02:19,530
+you wouldn't be able to find it.
+
+42
+00:02:19,570 --> 00:02:21,470
+In fact, you wouldn't be able to find it a couple days later.
+
+43
+00:02:21,550 --> 00:02:23,810
+You wouldn't even remember it a week later.
+
+44
+00:02:24,210 --> 00:02:29,790
+And that's because you basically knock out the superficial layer of the epithelium,
+
+45
+00:02:30,250 --> 00:02:34,090
+but you have stem cells, which are called basal cells,
+
+46
+00:02:34,350 --> 00:02:38,370
+which have the ability to regenerate the tissue completely.
+
+47
+00:02:38,770 --> 00:02:40,910
+And so you'll get regeneration of the tissue.
+
+48
+00:02:40,910 --> 00:02:42,650
+Same thing with the small and large bowel.
+
+49
+00:02:42,710 --> 00:02:46,190
+When a patient gets diarrhea, you don't need to, you know,
+
+50
+00:02:46,230 --> 00:02:48,550
+gets an infection in the GI tract and gets diarrhea.
+
+51
+00:02:48,730 --> 00:02:51,290
+You don't worry about transplanting the bowel or something like that
+
+52
+00:02:51,290 --> 00:02:54,870
+because the bowel basically has the ability to regenerate itself.
+
+53
+00:02:55,450 --> 00:02:56,990
+So that's the first type of tissue.
+
+54
+00:02:57,190 --> 00:03:03,370
+And here we can get into a little bit of histology,
+
+55
+00:03:03,850 --> 00:03:05,030
+and the examiners like to,
+
+56
+00:03:05,110 --> 00:03:07,630
+by reminding ourselves where the stem cells are actually located.
+
+57
+00:03:07,630 --> 00:03:11,690
+So, for example, if I asked you where are the stem cells in the small and large bowel,
+
+58
+00:03:12,050 --> 00:03:13,670
+the answer would be in the crypts.
+
+59
+00:03:14,010 --> 00:03:14,910
+You need to know that.
+
+60
+00:03:15,370 --> 00:03:17,370
+If I asked you where are the stem cells in the skin,
+
+61
+00:03:17,450 --> 00:03:19,290
+the answer would be in the basal layer,
+
+62
+00:03:19,430 --> 00:03:23,190
+which is the very lowest layer, the most inner layer of the epidermis.
+
+63
+00:03:23,570 --> 00:03:24,470
+You need to know that.
+
+64
+00:03:24,830 --> 00:03:26,550
+What's the stem cell of the bone marrow?
+
+65
+00:03:26,870 --> 00:03:28,370
+The hematopoietic stem cell.
+
+66
+00:03:28,770 --> 00:03:31,450
+Now, we can't see the hematopoietic stem cell on histology,
+
+67
+00:03:31,450 --> 00:03:34,290
+but do you know the marker of the hematopoietic stem cell,
+
+68
+00:03:34,470 --> 00:03:36,930
+which is very high yield, shows up on exams all the time,
+
+69
+00:03:37,050 --> 00:03:38,890
+used in clinics when you do transplants?
+
+70
+00:03:39,870 --> 00:03:40,290
+Do you know it?
+
+71
+00:03:40,650 --> 00:03:43,030
+Okay, CD34.
+
+72
+00:03:43,670 --> 00:03:44,550
+You've got to know that.
+
+73
+00:03:45,230 --> 00:03:48,150
+Bone marrow stem cells are CD34 positive.
+
+74
+00:03:48,330 --> 00:03:49,490
+You will use this in clinics,
+
+75
+00:03:49,610 --> 00:03:52,410
+especially when you do autologous stem cell transplanting,
+
+76
+00:03:52,770 --> 00:03:56,190
+and you need to know this for examinations as well.
+
+77
+00:03:56,650 --> 00:03:58,710
+Not listed here, but I could ask you another question.
+
+78
+00:03:58,710 --> 00:04:01,950
+What's the stem cell of the lung, of the alveoli of the lung?
+
+79
+00:04:02,690 --> 00:04:03,090
+Excellent.
+
+80
+00:04:03,290 --> 00:04:04,190
+Type 2 pneumocytes.
+
+81
+00:04:04,310 --> 00:04:05,030
+You need to know that.
+
+82
+00:04:05,110 --> 00:04:07,170
+The type 2 pneumocyte is the stem cell of the lung.
+
+83
+00:04:07,390 --> 00:04:08,830
+We'll talk about type 2 pneumocytes
+
+84
+00:04:08,830 --> 00:04:10,170
+when we do the lung lecture, however.
+
+85
+00:04:10,750 --> 00:04:12,070
+Anyway, that's labile tissues.
+
+86
+00:04:12,830 --> 00:04:14,850
+I put this picture in here to remind you
+
+87
+00:04:14,850 --> 00:04:16,290
+where the stem cells are in the bowel
+
+88
+00:04:16,290 --> 00:04:17,710
+because they ask it on exams.
+
+89
+00:04:18,130 --> 00:04:19,990
+And so these are the crypts down here,
+
+90
+00:04:20,090 --> 00:04:22,370
+way at the bottom of these regions like this.
+
+91
+00:04:22,410 --> 00:04:23,010
+This is the crypt.
+
+92
+00:04:23,270 --> 00:04:26,870
+And the stem cells basically sit at the very base of the crypts.
+
+93
+00:04:26,870 --> 00:04:29,210
+That's where the stem cells of the bowel are located.
+
+94
+00:04:29,670 --> 00:04:30,950
+Here's a picture of the skin.
+
+95
+00:04:31,450 --> 00:04:33,090
+This is the epidermis.
+
+96
+00:04:33,170 --> 00:04:34,290
+This is the dermis.
+
+97
+00:04:34,670 --> 00:04:38,130
+And you know that the epidermis consists of keratinocytes,
+
+98
+00:04:38,290 --> 00:04:40,110
+and there's this dark layer here
+
+99
+00:04:40,110 --> 00:04:42,050
+that you can kind of see running along the base,
+
+100
+00:04:42,690 --> 00:04:44,610
+and that is the basal layer.
+
+101
+00:04:44,890 --> 00:04:46,730
+I'm going to erase this so that you can now see
+
+102
+00:04:46,730 --> 00:04:48,370
+that this little dark blue layer,
+
+103
+00:04:48,870 --> 00:04:50,390
+this represents the basal layer.
+
+104
+00:04:50,730 --> 00:04:54,230
+And the basal layer is the regenerative stem cell layer of the skin.
+
+105
+00:04:54,230 --> 00:04:56,830
+All right, stable tissues.
+
+106
+00:04:56,930 --> 00:04:57,750
+What are stable tissues?
+
+107
+00:04:57,910 --> 00:04:59,530
+These are tissues that are quiescent.
+
+108
+00:04:59,710 --> 00:05:00,250
+They're stable.
+
+109
+00:05:00,370 --> 00:05:02,250
+They sort of sit outside of cell cycle.
+
+110
+00:05:02,450 --> 00:05:04,790
+But they have the ability to reenter cell cycle.
+
+111
+00:05:05,090 --> 00:05:07,370
+And this is the second type of tissue present in the body.
+
+112
+00:05:07,850 --> 00:05:10,210
+The classic example of this would be the liver,
+
+113
+00:05:10,630 --> 00:05:13,950
+so that if you actually partially resect the liver,
+
+114
+00:05:14,490 --> 00:05:16,570
+you can get regeneration of the liver,
+
+115
+00:05:16,870 --> 00:05:19,210
+and that occurs by compensatory hyperplasia.
+
+116
+00:05:19,550 --> 00:05:22,090
+So what happens is when there's partial resection of the liver,
+
+117
+00:05:22,090 --> 00:05:25,810
+each of the hepatocytes present within the liver
+
+118
+00:05:25,810 --> 00:05:29,590
+has the ability to come out of quiescence
+
+119
+00:05:29,590 --> 00:05:31,910
+and to reenter cell cycle.
+
+120
+00:05:32,370 --> 00:05:33,830
+And when it reenters the cell cycle,
+
+121
+00:05:33,930 --> 00:05:37,130
+it can divide and allow for regeneration of the liver.
+
+122
+00:05:37,650 --> 00:05:40,970
+And so this is a very high-yield example of a stable tissue,
+
+123
+00:05:41,090 --> 00:05:41,730
+which is the liver.
+
+124
+00:05:42,170 --> 00:05:43,710
+Another example of a stable tissue
+
+125
+00:05:43,710 --> 00:05:45,790
+is the proximal renal tubule of the kidney.
+
+126
+00:05:46,210 --> 00:05:48,910
+Remember that when patients undergo a tubular necrosis,
+
+127
+00:05:48,910 --> 00:05:52,990
+ATN, they get destruction of the proximal renal tubular cells,
+
+128
+00:05:53,310 --> 00:05:54,730
+and those cells can regenerate,
+
+129
+00:05:54,810 --> 00:05:56,870
+but it takes some time because those are stable cells.
+
+130
+00:05:57,290 --> 00:05:59,230
+And so often we have to place patients,
+
+131
+00:05:59,430 --> 00:06:01,670
+well, it's not often, but it occurs on occasion,
+
+132
+00:06:02,030 --> 00:06:03,310
+where you might have to place a patient
+
+133
+00:06:03,310 --> 00:06:05,650
+who has ATN, severe ATN, on dialysis
+
+134
+00:06:05,650 --> 00:06:07,610
+to support them until the kidney
+
+135
+00:06:07,610 --> 00:06:11,030
+actually regenerates the proximal renal tubule.
+
+136
+00:06:11,210 --> 00:06:13,430
+And that's another example of a stable tissue.
+
+137
+00:06:13,830 --> 00:06:17,170
+So again, these are some sort of classic examples
+
+138
+00:06:17,170 --> 00:06:17,970
+of stable tissue.
+
+139
+00:06:18,570 --> 00:06:20,190
+The third type of tissue in the human body
+
+140
+00:06:20,190 --> 00:06:21,350
+is called permanent tissue.
+
+141
+00:06:21,450 --> 00:06:23,890
+And it's called permanent because it is permanent.
+
+142
+00:06:24,070 --> 00:06:26,830
+It lacks significant regenerative potential.
+
+143
+00:06:27,470 --> 00:06:30,210
+And there are three key tissues in the human body
+
+144
+00:06:30,210 --> 00:06:32,110
+that lack significant regenerative potential
+
+145
+00:06:32,110 --> 00:06:35,010
+include the myocardium, the skeletal muscle,
+
+146
+00:06:35,390 --> 00:06:36,030
+and the neurons.
+
+147
+00:06:36,670 --> 00:06:40,730
+These tissues don't technically have
+
+148
+00:06:40,730 --> 00:06:43,410
+significant amounts of stem cells.
+
+149
+00:06:43,410 --> 00:06:46,810
+And therefore, why don't I say these tissues
+
+150
+00:06:46,810 --> 00:06:49,190
+don't classically have significant amount
+
+151
+00:06:49,190 --> 00:06:51,530
+of stem cell capability.
+
+152
+00:06:51,710 --> 00:06:54,910
+And therefore, once they get damaged,
+
+153
+00:06:55,030 --> 00:06:56,550
+they're not able to regenerate themselves.
+
+154
+00:06:56,670 --> 00:06:59,870
+And so what's the classic occurrence
+
+155
+00:06:59,870 --> 00:07:01,570
+if these tissues get damaged?
+
+156
+00:07:01,850 --> 00:07:04,030
+The classic way by which they would heal
+
+157
+00:07:04,030 --> 00:07:04,930
+is called repair.
+
+158
+00:07:05,430 --> 00:07:06,770
+And remember, the idea in repair
+
+159
+00:07:06,770 --> 00:07:08,970
+is that you can't give back the normal tissue.
+
+160
+00:07:08,970 --> 00:07:11,970
+So instead, you have to replace that damage
+
+161
+00:07:11,970 --> 00:07:13,370
+with a fibrous scar.
+
+162
+00:07:14,030 --> 00:07:15,290
+So when will this occur?
+
+163
+00:07:15,390 --> 00:07:18,190
+It will occur when a tissue lacks regenerative capacity.
+
+164
+00:07:18,430 --> 00:07:21,010
+For example, when you get a myocardial infarction
+
+165
+00:07:21,010 --> 00:07:21,730
+in the heart,
+
+166
+00:07:22,470 --> 00:07:24,350
+when you get a myocardial infarction in the heart,
+
+167
+00:07:24,610 --> 00:07:27,370
+the mechanism of healing is always a fibrous scar.
+
+168
+00:07:27,530 --> 00:07:29,310
+The end result of myocardial infarction
+
+169
+00:07:29,310 --> 00:07:30,570
+is always a fibrous scar.
+
+170
+00:07:30,730 --> 00:07:30,950
+Why?
+
+171
+00:07:31,310 --> 00:07:33,170
+Because the heart does not have the ability
+
+172
+00:07:33,170 --> 00:07:34,630
+to regenerate tissue.
+
+173
+00:07:35,070 --> 00:07:36,330
+So this would be a classic picture
+
+174
+00:07:36,330 --> 00:07:37,550
+that can show up on an examination.
+
+175
+00:07:37,550 --> 00:07:40,650
+And you can clearly see that this is the heart.
+
+176
+00:07:40,810 --> 00:07:42,390
+This happens to be the ventricle.
+
+177
+00:07:42,690 --> 00:07:45,070
+And can you see that there is this white scar
+
+178
+00:07:45,070 --> 00:07:48,290
+indicating that there was a prior myocardial infarction?
+
+179
+00:07:48,550 --> 00:07:50,470
+And the reason why we get scarring in the heart,
+
+180
+00:07:50,550 --> 00:07:53,690
+again, is because the myocardium is a permanent tissue.
+
+181
+00:07:54,190 --> 00:07:55,810
+Now let me take you back and just remind you
+
+182
+00:07:55,810 --> 00:07:57,170
+that there is one more example
+
+183
+00:07:57,170 --> 00:07:59,990
+where you would get repair.
+
+184
+00:08:00,270 --> 00:08:02,790
+And that would be if the regenerative stem cells are lost.
+
+185
+00:08:03,130 --> 00:08:05,410
+For example, if you get a paper cut on the skin,
+
+186
+00:08:05,410 --> 00:08:07,130
+the skin will actually heal completely
+
+187
+00:08:07,130 --> 00:08:08,770
+and you won't be able to find the paper cut
+
+188
+00:08:08,770 --> 00:08:09,750
+a couple weeks later.
+
+189
+00:08:10,210 --> 00:08:12,250
+However, if you cut yourself with a steak knife,
+
+190
+00:08:12,970 --> 00:08:14,310
+let's just say for example,
+
+191
+00:08:14,610 --> 00:08:15,770
+you might go deep enough
+
+192
+00:08:15,770 --> 00:08:18,710
+that you actually take out a piece of skin
+
+193
+00:08:18,710 --> 00:08:21,310
+such that the basal cells are removed.
+
+194
+00:08:21,670 --> 00:08:22,890
+And if the basal cells are removed,
+
+195
+00:08:22,970 --> 00:08:24,050
+then you're going to get a scar
+
+196
+00:08:24,050 --> 00:08:27,950
+instead of a replacement with skin.
+
+197
+00:08:28,190 --> 00:08:30,010
+And that's why when you get a very deep cut,
+
+198
+00:08:30,090 --> 00:08:32,190
+you can actually see a scar form
+
+199
+00:08:32,190 --> 00:08:33,750
+and you could years later say,
+
+200
+00:08:33,850 --> 00:08:34,830
+oh, I remember this scar.
+
+201
+00:08:34,910 --> 00:08:37,030
+I got this when I was cutting steak, for example.
+
+202
+00:08:37,570 --> 00:08:39,730
+And that would be another example of repair.
+
+203
+00:08:39,890 --> 00:08:41,230
+And so that's why I've stated here
+
+204
+00:08:41,230 --> 00:08:44,070
+that it occurs when the regenerative stem cells are lost,
+
+205
+00:08:44,170 --> 00:08:46,430
+for example, with a deep cut to the skin,
+
+206
+00:08:46,750 --> 00:08:49,830
+or when the tissue lacks regenerative capacity,
+
+207
+00:08:50,010 --> 00:08:51,850
+for example, myocardial infarction.
+
+208
+00:08:52,430 --> 00:08:54,150
+All right, so both of those are kind of high yield.
+
+209
+00:08:54,690 --> 00:08:58,070
+Now, when repair is occurring,
+
+210
+00:08:58,210 --> 00:08:59,110
+repair means what?
+
+211
+00:08:59,110 --> 00:09:03,030
+It refers to the replacement of the tissue with scar.
+
+212
+00:09:03,490 --> 00:09:05,070
+The initial phase of repair
+
+213
+00:09:05,070 --> 00:09:07,170
+will be called granulation tissue.
+
+214
+00:09:08,250 --> 00:09:09,970
+That's the very initial phase of repair.
+
+215
+00:09:10,270 --> 00:09:13,270
+And what does granulation tissue consist of?
+
+216
+00:09:13,750 --> 00:09:17,250
+Fibroblasts, capillaries, and myofibroblasts.
+
+217
+00:09:17,630 --> 00:09:20,550
+There are three major components of granulation tissue.
+
+218
+00:09:20,950 --> 00:09:23,550
+Fibroblasts, capillaries, and myofibroblasts.
+
+219
+00:09:23,850 --> 00:09:25,130
+Now, what do the capillaries do?
+
+220
+00:09:25,210 --> 00:09:26,290
+They provide nutrients.
+
+221
+00:09:26,770 --> 00:09:28,330
+What do the fibroblasts do?
+
+222
+00:09:28,330 --> 00:09:30,050
+They deposit type 3 collagen.
+
+223
+00:09:30,530 --> 00:09:31,990
+And what do the myofibroblasts do?
+
+224
+00:09:32,150 --> 00:09:33,750
+They contract the wound down.
+
+225
+00:09:34,230 --> 00:09:36,150
+Each of these are very important to be familiar with.
+
+226
+00:09:36,210 --> 00:09:37,310
+But let me take a step back.
+
+227
+00:09:37,670 --> 00:09:39,770
+First of all, when we talk about granulation tissue,
+
+228
+00:09:39,890 --> 00:09:41,170
+I want to make it very clear
+
+229
+00:09:41,170 --> 00:09:44,050
+that granulation tissue is different than a granuloma.
+
+230
+00:09:45,030 --> 00:09:47,610
+Unfortunately, sometimes students confuse these two terms
+
+231
+00:09:47,610 --> 00:09:49,090
+because they sound a little bit similar.
+
+232
+00:09:49,550 --> 00:09:50,490
+What is granuloma?
+
+233
+00:09:51,110 --> 00:09:53,310
+Granuloma is a subtype of chronic inflammation.
+
+234
+00:09:54,010 --> 00:09:55,510
+And what's the hallmark of granuloma?
+
+235
+00:09:55,510 --> 00:09:57,630
+Granuloma, epithelioid, histiocyte.
+
+236
+00:09:57,870 --> 00:09:59,230
+And how is a granuloma formed?
+
+237
+00:09:59,890 --> 00:10:03,190
+IL-12 from the macrophage hits the CD4-positive T cell,
+
+238
+00:10:03,270 --> 00:10:07,010
+converting it to a helper-type, TH1-type cell.
+
+239
+00:10:07,370 --> 00:10:09,650
+And the TH1 cell secretes interferon gamma
+
+240
+00:10:09,650 --> 00:10:14,450
+that gives the macrophage an epithelioid histiocyte appearance.
+
+241
+00:10:14,790 --> 00:10:14,910
+Okay?
+
+242
+00:10:14,910 --> 00:10:19,490
+And so granuloma is distinct from granulation tissue.
+
+243
+00:10:19,610 --> 00:10:22,210
+Granulation tissue is the initial phase of repair
+
+244
+00:10:22,210 --> 00:10:23,410
+when you're forming a scar.
+
+245
+00:10:24,170 --> 00:10:27,270
+Now, granulation tissue consists of fibroblasts,
+
+246
+00:10:27,370 --> 00:10:29,490
+and the fibroblasts deposit type 3 collagen.
+
+247
+00:10:30,230 --> 00:10:31,650
+It consists of capillaries,
+
+248
+00:10:31,750 --> 00:10:33,310
+and the capillaries provide the nutrients.
+
+249
+00:10:33,890 --> 00:10:36,790
+And then the granulation tissue also consists of myofibroblasts,
+
+250
+00:10:36,850 --> 00:10:38,190
+and these contract down the wound.
+
+251
+00:10:38,190 --> 00:10:42,910
+And I'll talk about this in a little bit more detail in a few slides,
+
+252
+00:10:42,990 --> 00:10:45,390
+but let's see a picture first, or let's look at a picture first.
+
+253
+00:10:45,670 --> 00:10:47,170
+So this is granulation tissue,
+
+254
+00:10:47,310 --> 00:10:49,210
+and you can see that this granulation tissue
+
+255
+00:10:49,210 --> 00:10:51,390
+is comprised of these blood vessels.
+
+256
+00:10:51,810 --> 00:10:53,590
+And in addition to these blood vessels,
+
+257
+00:10:53,750 --> 00:10:56,390
+you can clearly see that there's this deposition of collagen
+
+258
+00:10:56,390 --> 00:10:58,990
+and the presence of some of these fibroblasts,
+
+259
+00:10:59,270 --> 00:11:01,430
+which are also part of the granulation tissue.
+
+260
+00:11:01,850 --> 00:11:06,310
+So again, this is the classic histologic finding of granulation tissue.
+
+261
+00:11:06,310 --> 00:11:11,270
+Now, it's important to recall or remember or to learn
+
+262
+00:11:11,270 --> 00:11:15,570
+that eventually granulation tissue will produce a scar.
+
+263
+00:11:15,830 --> 00:11:16,790
+Okay, so that's the end result.
+
+264
+00:11:16,870 --> 00:11:19,370
+Like I said, granulation tissue is the early form
+
+265
+00:11:19,370 --> 00:11:21,090
+of what will eventually become a scar.
+
+266
+00:11:21,610 --> 00:11:25,050
+And one of the key features that distinguishes
+
+267
+00:11:25,050 --> 00:11:26,550
+granulation tissue from a scar
+
+268
+00:11:26,550 --> 00:11:29,770
+is that when you have a scar,
+
+269
+00:11:30,250 --> 00:11:32,890
+the type 3 collagen of the granulation tissue
+
+270
+00:11:32,890 --> 00:11:35,030
+is replaced with type 1 collagen.
+
+271
+00:11:35,030 --> 00:11:38,050
+Maybe this is a good point to take a step back
+
+272
+00:11:38,050 --> 00:11:40,750
+and just remind ourselves of collagen
+
+273
+00:11:40,750 --> 00:11:42,170
+and its different subtypes.
+
+274
+00:11:42,250 --> 00:11:43,790
+So I'm going to actually clear out the board here
+
+275
+00:11:43,790 --> 00:11:44,910
+and give you a whiteboard.
+
+276
+00:11:45,610 --> 00:11:49,630
+Can you remember a few important points of collagen number 1?
+
+277
+00:11:50,350 --> 00:11:52,650
+One important collagen is type 1 collagen.
+
+278
+00:11:53,230 --> 00:11:55,410
+And do you remember what type 1 collagen is seen in?
+
+279
+00:11:55,850 --> 00:11:56,870
+It's seen in bone.
+
+280
+00:11:57,370 --> 00:11:59,270
+And one of the ways that people remember that
+
+281
+00:11:59,270 --> 00:12:01,310
+is that when you think about bone,
+
+282
+00:12:02,410 --> 00:12:04,650
+it has the word 1 within it.
+
+283
+00:12:04,710 --> 00:12:06,150
+So that reminds you of type 1 collagen.
+
+284
+00:12:06,730 --> 00:12:08,950
+But what I'd like you to know is that
+
+285
+00:12:08,950 --> 00:12:11,210
+one of the key features of type 1 collagen
+
+286
+00:12:11,210 --> 00:12:12,330
+is its strength.
+
+287
+00:12:12,530 --> 00:12:15,210
+It has strong tensile strength.
+
+288
+00:12:15,410 --> 00:12:20,990
+It provides support and it has the tensile strength
+
+289
+00:12:20,990 --> 00:12:24,570
+that is particular to type 1 collagen.
+
+290
+00:12:25,590 --> 00:12:30,790
+Okay, type 2 collagen is predominantly seen in cartilage.
+
+291
+00:12:32,570 --> 00:12:34,890
+And one of the ways by which people remember that
+
+292
+00:12:34,890 --> 00:12:35,990
+is cartilage.
+
+293
+00:12:36,310 --> 00:12:38,710
+So some people say cartilage, type 2 collagen.
+
+294
+00:12:39,390 --> 00:12:41,790
+Type 3 collagen, if I had to summarize it,
+
+295
+00:12:42,050 --> 00:12:43,030
+the way I remember it,
+
+296
+00:12:43,230 --> 00:12:47,630
+is that type 3 collagen is sort of classic for its pliability.
+
+297
+00:12:48,130 --> 00:12:48,870
+It's pliable.
+
+298
+00:12:49,390 --> 00:12:50,830
+And so where do we see type 3 collagen?
+
+299
+00:12:50,970 --> 00:12:53,010
+Blood vessels, which need the ability to stretch.
+
+300
+00:12:53,390 --> 00:12:56,190
+We see type 3 collagen in granulation tissue
+
+301
+00:12:56,190 --> 00:12:59,010
+because granulation tissue is sort of the initial phase of scar.
+
+302
+00:12:59,130 --> 00:13:02,370
+It needs to be able to stretch and mold into a final scar.
+
+303
+00:13:02,790 --> 00:13:04,490
+And we see it in embryonic tissue.
+
+304
+00:13:04,690 --> 00:13:07,590
+There's a lot of type 3 collagen in embryonic skin, for example,
+
+305
+00:13:07,710 --> 00:13:10,350
+because the baby's growing and needs to be able to stretch.
+
+306
+00:13:10,770 --> 00:13:12,530
+So if I had to summarize type 3 collagen,
+
+307
+00:13:12,710 --> 00:13:14,490
+I would summarize it with the word pliability.
+
+308
+00:13:14,490 --> 00:13:21,570
+And then type 4 collagen is predominantly seen in basement membrane.
+
+309
+00:13:22,050 --> 00:13:25,070
+So these are some high yields concerning collagen.
+
+310
+00:13:25,190 --> 00:13:26,370
+I just wanted to give you that.
+
+311
+00:13:26,630 --> 00:13:28,070
+But I want to take you back and remind you
+
+312
+00:13:28,070 --> 00:13:31,470
+that granulation tissue has type 3 collagen initially, right?
+
+313
+00:13:31,550 --> 00:13:33,670
+And that's produced by the fibroblasts.
+
+314
+00:13:33,730 --> 00:13:36,090
+And the type 3 collagen is important because it's pliable.
+
+315
+00:13:36,490 --> 00:13:38,970
+But eventually, you want to replace it with type 1 collagen.
+
+316
+00:13:38,970 --> 00:13:44,610
+And you want type 1 collagen because that really provides the stability necessary in the final scar.
+
+317
+00:13:45,590 --> 00:13:50,530
+Important to know in high yield for examinations is that when we want to get rid of the type 3 collagen
+
+318
+00:13:50,530 --> 00:13:55,010
+and eventually convert it to type 1 collagen, we're going to use collagenase,
+
+319
+00:13:55,090 --> 00:13:56,790
+which is going to eat up that type 3 collagen.
+
+320
+00:13:57,350 --> 00:14:04,050
+And very high yield, zinc, is a cofactor for collagenase in order to remove type 3 collagen
+
+321
+00:14:04,050 --> 00:14:06,010
+and replace it with type 1, okay?
+
+322
+00:14:06,090 --> 00:14:07,110
+So that's in biochemistry.
+
+323
+00:14:07,270 --> 00:14:10,330
+And you'll see we're going to hit on that one more time before we end this lecture.
+
+324
+00:14:11,250 --> 00:14:13,510
+What is the mechanism of regeneration and repair?
+
+325
+00:14:14,010 --> 00:14:20,510
+Well, the mechanism of regeneration and repair is that it is mediated by paracrine signaling
+
+326
+00:14:20,510 --> 00:14:23,910
+by growth factors.
+
+327
+00:14:23,910 --> 00:14:28,350
+All right, and it's an interaction of these factors with receptors that results in growth.
+
+328
+00:14:28,530 --> 00:14:31,550
+And all I'm trying to really highlight here is that there are factors.
+
+329
+00:14:31,950 --> 00:14:34,470
+The factors are secreted, for example, by macrophages.
+
+330
+00:14:34,670 --> 00:14:36,650
+And the factors will then bind receptors.
+
+331
+00:14:36,850 --> 00:14:42,250
+And it's these receptor-factor interactions that will result in regeneration and repair.
+
+332
+00:14:42,390 --> 00:14:43,410
+That's what I'm trying to highlight.
+
+333
+00:14:43,970 --> 00:14:48,170
+And the reason I'm even bringing up this discussion is because examiners like to go after
+
+334
+00:14:48,170 --> 00:14:51,650
+different subtypes of molecules that are important for the process.
+
+335
+00:14:51,650 --> 00:14:56,850
+For example, TGF-alpha is an important epithelial and fibroblast growth factor.
+
+336
+00:14:57,870 --> 00:15:02,630
+All right, TGF-beta is an important fibroblast growth factor, and it inhibits inflammation.
+
+337
+00:15:03,230 --> 00:15:08,230
+But this should not be so hard for you to remember because if you go back to one of our earlier
+
+338
+00:15:08,230 --> 00:15:15,230
+lectures when we talked about acute inflammation and macrophages, remember that I said that macrophages,
+
+339
+00:15:15,570 --> 00:15:20,390
+if they come in and they see that there is no longer a need for inflammation, they'll sort
+
+340
+00:15:20,390 --> 00:15:22,930
+of shut down inflammation and turn on the healing response.
+
+341
+00:15:23,390 --> 00:15:28,110
+And they said there's two major molecules you should be familiar with, IL-10 and TGF-beta.
+
+342
+00:15:28,450 --> 00:15:30,590
+Well, here is exactly that same TGF-beta.
+
+343
+00:15:30,890 --> 00:15:32,190
+So what is TGF-beta going to do?
+
+344
+00:15:32,230 --> 00:15:36,270
+It's going to cause fibroblast growth, which is important for healing, and it's going to
+
+345
+00:15:36,270 --> 00:15:39,650
+inhibit inflammation to shut down that inflammatory process.
+
+346
+00:15:40,250 --> 00:15:43,170
+Another important example would be platelet-derived growth factor.
+
+347
+00:15:43,170 --> 00:15:45,450
+Now, again, no rocket science.
+
+348
+00:15:45,970 --> 00:15:47,030
+What do platelets do?
+
+349
+00:15:47,130 --> 00:15:50,830
+Platelets help to seal a blood vessel that's been damaged, correct?
+
+350
+00:15:51,210 --> 00:15:56,550
+So if platelets are activated, one of the important things that they release is platelet-derived
+
+351
+00:15:56,550 --> 00:15:57,090
+growth factor.
+
+352
+00:15:57,170 --> 00:15:58,710
+And what is that growth factor going to do?
+
+353
+00:15:59,070 --> 00:16:01,390
+Well, it's going to help the endothelium regrow.
+
+354
+00:16:01,950 --> 00:16:05,010
+It's going to help the smooth muscle of the blood vessel wall regrow.
+
+355
+00:16:05,410 --> 00:16:08,030
+And it's going to help fibroblasts come in for the healing.
+
+356
+00:16:08,450 --> 00:16:10,210
+And so that's platelet-derived growth factor.
+
+357
+00:16:10,630 --> 00:16:13,910
+Here's one that's very important to be aware of, fibroblast growth factor.
+
+358
+00:16:14,010 --> 00:16:18,590
+And I would say it's very important because although it's called fibroblast growth factor,
+
+359
+00:16:18,970 --> 00:16:22,130
+it actually is a very strong angiogenic factor.
+
+360
+00:16:22,450 --> 00:16:24,350
+Angiogenic helps to grow blood vessels.
+
+361
+00:16:24,890 --> 00:16:29,390
+And so it's important to know this one because it sort of is different than the rest in the
+
+362
+00:16:29,390 --> 00:16:32,590
+sense that name doesn't necessarily indicate what it does.
+
+363
+00:16:32,950 --> 00:16:37,590
+It's also important for skeletal development, but we'll talk about that in your musculoskeletal
+
+364
+00:16:37,590 --> 00:16:37,930
+lectures.
+
+365
+00:16:37,930 --> 00:16:44,690
+And finally, vascular endothelial growth factor, vascular endothelial growth factor, obviously,
+
+366
+00:16:45,130 --> 00:16:47,250
+is going to be important for angiogenesis.
+
+367
+00:16:48,170 --> 00:16:54,110
+Now, when we have cutaneous healing, that is healing of the skin, there are two ways by
+
+368
+00:16:54,110 --> 00:16:54,930
+which that can occur.
+
+369
+00:16:55,410 --> 00:16:57,510
+Primary intention, which is what?
+
+370
+00:16:57,810 --> 00:16:58,950
+We take the wound edges.
+
+371
+00:16:59,050 --> 00:17:00,550
+For example, you get a big cut.
+
+372
+00:17:00,550 --> 00:17:05,910
+You go to the ER, and they take the wound edges, and they use suture to bring them together.
+
+373
+00:17:06,330 --> 00:17:08,150
+Now, why would you want to bring the two edges together?
+
+374
+00:17:08,370 --> 00:17:11,550
+Because that will result in minimal scar formation, right?
+
+375
+00:17:11,630 --> 00:17:15,270
+Because the skin has the ability to heal, and it'll fill in the defect.
+
+376
+00:17:16,110 --> 00:17:20,530
+Another way by which we can get cutaneous healing is called secondary intention.
+
+377
+00:17:20,670 --> 00:17:21,890
+And what's secondary intention?
+
+378
+00:17:21,890 --> 00:17:27,070
+Basically, we don't let the edges be approximated, so we don't stitch them together.
+
+379
+00:17:27,450 --> 00:17:31,730
+Instead, the tissue remains open, and granulation tissue fills in the defect.
+
+380
+00:17:32,410 --> 00:17:35,630
+Now, when granulation tissue fills in the defect, what's going to happen?
+
+381
+00:17:36,450 --> 00:17:37,910
+You're going to get a big scar.
+
+382
+00:17:38,390 --> 00:17:44,450
+But more importantly, at least for examinations, is that the granulation tissue will cause contraction
+
+383
+00:17:44,450 --> 00:17:46,930
+of that wound slightly, all right?
+
+384
+00:17:47,050 --> 00:17:51,950
+So there could be a potential examination question where they ask you that a patient has a large
+
+385
+00:17:51,950 --> 00:17:57,550
+wound that is healed by secondary intention, and six weeks later, you notice that the wound
+
+386
+00:17:57,550 --> 00:17:59,890
+has significantly reduced in size.
+
+387
+00:18:00,230 --> 00:18:04,630
+And then they can ask you, what's the mechanism by which this wound actually reduces in size?
+
+388
+00:18:04,830 --> 00:18:07,730
+And the answer is the myofibroblast.
+
+389
+00:18:08,150 --> 00:18:08,970
+Now, let's go back.
+
+390
+00:18:09,250 --> 00:18:11,410
+Remember that granulation tissue has three components.
+
+391
+00:18:11,410 --> 00:18:16,530
+It has capillaries, it has fibroblasts that lay down type 3 collagen, and then it has
+
+392
+00:18:16,530 --> 00:18:17,670
+myofibroblasts.
+
+393
+00:18:17,770 --> 00:18:20,570
+And the myo means that they have some contractile function.
+
+394
+00:18:21,190 --> 00:18:26,270
+So the myofibroblasts have the ability to contract the wound and make it smaller.
+
+395
+00:18:26,750 --> 00:18:28,790
+And that's actually high yield for examination.
+
+396
+00:18:29,130 --> 00:18:31,510
+So that's why I actually brought this topic up to begin with.
+
+397
+00:18:32,870 --> 00:18:33,770
+Delayed wound healing.
+
+398
+00:18:33,890 --> 00:18:34,910
+What is delayed wound healing?
+
+399
+00:18:35,030 --> 00:18:38,650
+This is where a patient has a wound, but it doesn't heal in the appropriate time.
+
+400
+00:18:39,210 --> 00:18:40,670
+Infection is the most common cause.
+
+401
+00:18:40,670 --> 00:18:46,290
+If there is infection, there'll be chronic inflammation, or there'll be continued inflammation,
+
+402
+00:18:46,790 --> 00:18:51,610
+and the continued inflammation will then impair the healing of the wound.
+
+403
+00:18:51,890 --> 00:18:53,990
+So that's the most common cause of delayed wound healing.
+
+404
+00:18:54,510 --> 00:18:56,470
+Another cause would be vitamin C deficiency.
+
+405
+00:18:56,930 --> 00:18:57,950
+Why do we need vitamin C?
+
+406
+00:18:58,050 --> 00:18:58,750
+Well, let's go back.
+
+407
+00:18:59,110 --> 00:19:06,010
+Remind ourselves, when collagen is produced by the cell, it is produced as separate alpha
+
+408
+00:19:06,010 --> 00:19:07,010
+chains.
+
+409
+00:19:07,010 --> 00:19:15,170
+The alpha chains wrap around each other, and the final result of the alpha chains wrapping
+
+410
+00:19:15,170 --> 00:19:17,830
+around each other is something called procollagen.
+
+411
+00:19:18,390 --> 00:19:23,970
+Now, procollagen will eventually then be secreted outside of the cell, and it will be cross-linked
+
+412
+00:19:23,970 --> 00:19:24,790
+outside of the cell.
+
+413
+00:19:24,790 --> 00:19:30,010
+In order to cross-link the procollagen, one of the things that has to occur before cross-linking
+
+414
+00:19:30,010 --> 00:19:35,530
+can occur is that you need to hydroxylate the proline and lysine residues of procollagen.
+
+415
+00:19:35,530 --> 00:19:40,310
+This is getting a little complex, so maybe let me just remind you that when you have collagen,
+
+416
+00:19:40,830 --> 00:19:46,890
+collagen's normal amino acid structure is glycine, and then XY.
+
+417
+00:19:47,170 --> 00:19:48,270
+It's called GlyXY.
+
+418
+00:19:48,710 --> 00:19:53,790
+So glycine is usually one amino acid, and then the next amino acid is usually, this X
+
+419
+00:19:53,790 --> 00:19:57,150
+refers to proline or lysine, but usually proline.
+
+420
+00:19:57,150 --> 00:20:02,650
+And then this Y is usually going to be proline or lysine, and that proline or lysine will actually
+
+421
+00:20:02,650 --> 00:20:06,190
+get hydroxylated, so that it'll get an OH group added to it.
+
+422
+00:20:06,590 --> 00:20:08,290
+Now, how does that OH group get added?
+
+423
+00:20:08,430 --> 00:20:14,850
+Well, vitamin C is necessary to add that OH group to create hydroxyproline or hydroxylysine.
+
+424
+00:20:15,190 --> 00:20:16,530
+Now, why do you want that OH group?
+
+425
+00:20:16,850 --> 00:20:22,290
+Because this OH group in the sequence of collagen is necessary so that when you want to cross-link
+
+426
+00:20:22,290 --> 00:20:30,590
+another collagen molecule, it's cross-linking occurs via the OH groups, and that then allows
+
+427
+00:20:30,590 --> 00:20:34,530
+procollagen to be strengthened to the final collagen molecule.
+
+428
+00:20:35,150 --> 00:20:42,430
+And so vitamin C is a necessary chemical, or we can say a necessary vitamin, for the strengthening
+
+429
+00:20:42,430 --> 00:20:43,330
+of collagen.
+
+430
+00:20:43,710 --> 00:20:44,890
+So that should be clear now.
+
+431
+00:20:44,890 --> 00:20:48,830
+And that's why I say that vitamin C can result in delayed wound healing.
+
+432
+00:20:48,830 --> 00:20:53,050
+Another important molecule that could result in delayed wound healing is lack of copper.
+
+433
+00:20:53,390 --> 00:20:58,590
+If there's a copper deficiency, there can be delayed wound healing, and that's because
+
+434
+00:20:58,590 --> 00:21:05,730
+the enzyme that cross-links lysine and hydroxylysine to form that stable collagen, one of the enzymes
+
+435
+00:21:05,730 --> 00:21:10,730
+is called lysol oxidase, and lysol oxidase requires copper as a cofactor.
+
+436
+00:21:10,850 --> 00:21:15,190
+So if there's a lack of copper, we won't be able to cross-link our collagen, and that would
+
+437
+00:21:15,190 --> 00:21:16,810
+give us delayed wound healing.
+
+438
+00:21:16,810 --> 00:21:20,430
+And the final deficiency that could result in delayed wound healing is zinc.
+
+439
+00:21:20,650 --> 00:21:21,470
+Why do we need zinc?
+
+440
+00:21:21,870 --> 00:21:22,830
+We've already talked about it.
+
+441
+00:21:23,610 --> 00:21:28,050
+Well, remember that granulation tissue normally contains type 3 collagen, and we need to convert
+
+442
+00:21:28,050 --> 00:21:32,290
+that type 3 collagen to type 1 collagen to give the final strength of the scar.
+
+443
+00:21:32,690 --> 00:21:40,810
+But we need zinc in order to be able to properly do that, because the collagenase that removes
+
+444
+00:21:40,810 --> 00:21:44,750
+type 1 collagen actually requires zinc as a cofactor.
+
+445
+00:21:44,750 --> 00:21:46,350
+So that's that.
+
+446
+00:21:46,430 --> 00:21:49,590
+And these are all high yield, because they all tie into biochemistry.
+
+447
+00:21:50,270 --> 00:21:55,370
+Now other causes of delayed wound healing include foreign body, because that would induce
+
+448
+00:21:55,370 --> 00:21:56,350
+chronic inflammation.
+
+449
+00:21:56,970 --> 00:22:00,630
+Ischemia, because you're not going to get good blood supply to the tissue, so that would
+
+450
+00:22:00,630 --> 00:22:03,210
+then decrease the ability to heal the tissue.
+
+451
+00:22:03,770 --> 00:22:06,270
+Diabetes is associated with delayed wound healing.
+
+452
+00:22:06,270 --> 00:22:07,430
+And malnutrition.
+
+453
+00:22:07,550 --> 00:22:11,450
+Again, if there's not good nutrition, there's not going to be the necessary building blocks
+
+454
+00:22:11,450 --> 00:22:14,030
+to allow wound healing to occur.
+
+455
+00:22:14,990 --> 00:22:16,810
+Dehistence is a complication of wound healing.
+
+456
+00:22:17,110 --> 00:22:18,930
+Basically, it's when the wound opens.
+
+457
+00:22:19,170 --> 00:22:20,350
+There's a rupture of a wound.
+
+458
+00:22:20,630 --> 00:22:24,850
+And it's most commonly seen after abdominal surgery, where the actual wound can tear open.
+
+459
+00:22:25,050 --> 00:22:26,130
+And that's called dehiscence.
+
+460
+00:22:27,110 --> 00:22:27,930
+Hypertrophic scar.
+
+461
+00:22:28,090 --> 00:22:29,130
+What's a hypertrophic scar?
+
+462
+00:22:29,130 --> 00:22:33,250
+It is excess production of scar tissue, but it is localized to the wound.
+
+463
+00:22:33,610 --> 00:22:34,670
+Here's a classic example.
+
+464
+00:22:35,070 --> 00:22:41,210
+This patient had a scar, or had a wound, but notice that the scar is a little thick and
+
+465
+00:22:41,210 --> 00:22:41,670
+prominent.
+
+466
+00:22:42,310 --> 00:22:45,130
+And so this is an example of a hypertrophic scar.
+
+467
+00:22:45,630 --> 00:22:48,910
+The hypertrophic scar is predominantly made of type 1 collagen.
+
+468
+00:22:49,130 --> 00:22:51,510
+So there was granulation tissue, which was type 3.
+
+469
+00:22:51,930 --> 00:22:56,670
+The collagenase plus zinc came in, converted the type 3 collagen to type 1 collagen.
+
+470
+00:22:56,670 --> 00:23:04,470
+And so this is excess production of type 1 collagen as part of an aberration of normal scarring.
+
+471
+00:23:04,730 --> 00:23:06,290
+So that's called a hypertrophic scar.
+
+472
+00:23:07,150 --> 00:23:11,430
+Another example of a problem with wound healing is called a keloid.
+
+473
+00:23:12,070 --> 00:23:13,350
+And this is very high yield.
+
+474
+00:23:13,550 --> 00:23:14,730
+It likes to show up on exams.
+
+475
+00:23:15,230 --> 00:23:20,050
+So keloid is excess production of scar tissue, but it's way out of proportion to the wound.
+
+476
+00:23:20,310 --> 00:23:21,690
+Way out of proportion to the wound.
+
+477
+00:23:21,690 --> 00:23:27,150
+And another important feature of a keloid is that it is characterized by type 3 collagen.
+
+478
+00:23:27,490 --> 00:23:30,150
+There's an excess of type 3 collagen in the keloid.
+
+479
+00:23:30,670 --> 00:23:32,210
+There's a genetic predisposition.
+
+480
+00:23:32,370 --> 00:23:34,070
+It's more commonly seen in African Americans.
+
+481
+00:23:34,550 --> 00:23:36,570
+And the classic location is the earlobe.
+
+482
+00:23:37,650 --> 00:23:43,830
+So these are some important facts or features of a keloid.
+
+483
+00:23:43,930 --> 00:23:47,630
+You need to be familiar with these for the purposes of board examinations.
+
+484
+00:23:48,290 --> 00:23:51,010
+And here is a classic picture.
+
+485
+00:23:51,010 --> 00:23:55,210
+So this patient, for example, may have undergone a tiny little ear piercing.
+
+486
+00:23:55,610 --> 00:24:01,590
+And in response to that tiny ear piercing, this large tumor-like mass developed.
+
+487
+00:24:01,970 --> 00:24:03,310
+And so this is the keloid.
+
+488
+00:24:03,490 --> 00:24:04,970
+And so, again, classic features.
+
+489
+00:24:05,090 --> 00:24:08,370
+The keloid predominantly contains type 3 collagen.
+
+490
+00:24:08,530 --> 00:24:09,350
+You need to know that.
+
+491
+00:24:09,850 --> 00:24:13,290
+It's way out of proportion to the wound.
+
+492
+00:24:13,390 --> 00:24:14,570
+A tiny little ear piercing.
+
+493
+00:24:14,690 --> 00:24:17,630
+It results in a large tumor-like mass.
+
+494
+00:24:17,630 --> 00:24:23,990
+And then, important to also know about keloids, genetic predisposition in African Americans.
+
+495
+00:24:24,590 --> 00:24:26,710
+And also classically seen in the earlobe.
+
+496
+00:24:26,790 --> 00:24:29,330
+So those are some of the high yields concerning the keloid.
+
+497
+00:24:29,710 --> 00:24:35,010
+So that really ties up the Chapter 2 discussion of inflammation.
+
+498
+00:24:35,010 --> 00:24:38,930
+So a lot to be familiar with.
+
+499
+00:24:39,070 --> 00:24:42,710
+But, again, not too hard if you understand some of the basic principles.
+
+500
+00:24:42,710 --> 00:25:12,690
+So, let's see.
+

@@ -1,0 +1,1184 @@
+1
+00:00:02,540 --> 00:00:10,260
+Okay, next section is autoimmune disorders. These are characterized by immune mediated damage of
+
+2
+00:00:10,260 --> 00:00:15,940
+self-tissues. The idea here is that the immune system begins to react against the self-antigen
+
+3
+00:00:15,940 --> 00:00:21,060
+and as it reacts against the self-antigen, there is damage to tissues. If we wanted to be a little
+
+4
+00:00:21,060 --> 00:00:25,980
+more precise, we could say primary immune mediated damage because if you think about it,
+
+5
+00:00:26,080 --> 00:00:30,980
+the immune system does damage tissues, for example, with infection. So let's say the patient gets a
+
+6
+00:00:30,980 --> 00:00:35,840
+viral infection and the immune system begins to destroy the virally infected cells. In that
+
+7
+00:00:35,840 --> 00:00:42,120
+particular case, we are damaging self-tissue, but the target is the virus. It's not the self-tissue,
+
+8
+00:00:42,460 --> 00:00:47,200
+whereas in this particular case, the target is a self-antigen that then results in the damage.
+
+9
+00:00:47,200 --> 00:00:52,240
+So that's kind of a subtle distinction. There's about a 1 to 2 percent prevalence of these disorders
+
+10
+00:00:52,240 --> 00:00:56,400
+in the United States, and so all of us are going to see this in our clinical practice.
+
+11
+00:00:56,400 --> 00:01:02,800
+The underlying premise of autoimmunity is that there is a loss of self-tolerance. To understand
+
+12
+00:01:02,800 --> 00:01:07,760
+this, let's go back to normal. So we have B-cells and we have T-cells, and of course the B-cells,
+
+13
+00:01:07,820 --> 00:01:13,560
+they recognize antigen via immunoglobulin, and the T-cells, they recognize antigen via the T-cell
+
+14
+00:01:13,560 --> 00:01:21,380
+receptor. Now, we produce a broad spectrum of T-cell receptors and immunoglobulin because we have to deal
+
+15
+00:01:21,380 --> 00:01:27,420
+with a broad spectrum of antigens that could come in from the outside world. And so we generate this
+
+16
+00:01:27,420 --> 00:01:33,820
+broad spectrum, but remember that the generation of immunoglobulin and T-cell receptor is random.
+
+17
+00:01:34,320 --> 00:01:40,260
+And so while we generate T-cell receptor and immunoglobulin, we also generate some T-cell receptor
+
+18
+00:01:40,260 --> 00:01:45,180
+and immunoglobulin that is reactive against self-antigens. And so that's why I stay here,
+
+19
+00:01:45,260 --> 00:01:50,940
+that self-reactive lymphocytes are regularly generated. Now, in order to deal with these self-reactive
+
+20
+00:01:50,940 --> 00:01:56,380
+lymphocytes, we have a process called tolerance, which helps to sort of take care of them, and we'll
+
+21
+00:01:56,380 --> 00:02:02,460
+talk about this in more detail moving forward. Tolerance can occur centrally, which means that it
+
+22
+00:02:02,460 --> 00:02:08,120
+occurs in the generative organs. It occurs in the organs in which the lymphocytes develop, or it can
+
+23
+00:02:08,120 --> 00:02:13,860
+occur peripherally, which means it occurs outside of the areas where the lymphocytes develop, instead in
+
+24
+00:02:13,860 --> 00:02:19,760
+the peripheral tissues. So let's start with central tolerance. Central tolerance will occur in two
+
+25
+00:02:19,760 --> 00:02:25,060
+places. It'll occur where the T-cells develop, which is the thymus, and it'll also occur where the B-cells
+
+26
+00:02:25,060 --> 00:02:28,760
+develop, which is going to be the bone marrow. So we're going to focus on the thymus, and then we'll
+
+27
+00:02:28,760 --> 00:02:33,820
+move to the bone marrow in a moment. Let's go back and review what happens in the thymus as the T-cells
+
+28
+00:02:33,820 --> 00:02:39,320
+develop. So the stem cells that are eventually to become T-cells come from the bone marrow, through
+
+29
+00:02:39,320 --> 00:02:44,920
+the blood, and eventually enter into the thymus. When they enter into the thymus, they undergo varying
+
+30
+00:02:44,920 --> 00:02:49,960
+stages of development, so that they eventually become double positive cells, and double positive
+
+31
+00:02:49,960 --> 00:02:55,300
+basically means that they express CD4 and CD8, that's why they're double positive, and they
+
+32
+00:02:55,300 --> 00:03:01,220
+also express T-cell receptor. Once they express T-cell receptor, they then eventually will progress
+
+33
+00:03:01,220 --> 00:03:07,600
+to become single positive, which means that they'll either express CD4 or CD8, and eventually,
+
+34
+00:03:07,600 --> 00:03:19,600
+exit as naive mature T-cells. So these naive mature T-cells would go out into the periphery.
+
+35
+00:03:19,600 --> 00:03:28,600
+Now, as the cells are developing, they undergo various checkpoints that allow them to move to
+
+36
+00:03:28,600 --> 00:03:34,600
+the next step. So for example, the double positive cells undergo something here, which is called
+
+37
+00:03:34,600 --> 00:03:42,600
+positive selection. Positive selection means that the double positive cells are checked to
+
+38
+00:03:42,600 --> 00:03:49,600
+see whether they can bind MHC and antigen, meaning do they bind antigen when it's bound to MHC?
+
+39
+00:03:49,600 --> 00:03:55,600
+So they have to be able to recognize MHC. If the double positive cells are able to recognize MHC,
+
+40
+00:03:55,600 --> 00:04:01,600
+they can progress to become single positive cells. If they can't, they undergo apoptosis and they die.
+
+41
+00:04:01,600 --> 00:04:07,600
+So that's called positive selection. It selects cells that are MHC-restricted, and that's how we
+
+42
+00:04:07,600 --> 00:04:14,600
+get MHC restriction within our T-cells. The single positive cells eventually undergo a checkpoint,
+
+43
+00:04:14,600 --> 00:04:21,600
+and that is called negative selection. And in negative selection, what happens is the question is asked,
+
+44
+00:04:21,600 --> 00:04:29,600
+do the single positive cells bind self-antigen? If they avidly bind self-antigen, then they undergo apoptosis,
+
+45
+00:04:29,600 --> 00:04:36,600
+and if they don't, then they're allowed to progress and exit from the thymus. Now, if you think about this,
+
+46
+00:04:36,600 --> 00:04:41,600
+negative selection is very important because by asking the question, do you bind self-antigen,
+
+47
+00:04:41,600 --> 00:04:45,600
+and then killing off those cells, we're actually removing self-reactive lymphocytes.
+
+48
+00:04:45,600 --> 00:04:50,600
+Remember, the T-cell receptor was generated randomly. It could be specific for self-antigen.
+
+49
+00:04:50,600 --> 00:04:56,600
+If it binds self-antigen within the thymus, then those cells will die via negative selection,
+
+50
+00:04:56,600 --> 00:05:02,600
+and we won't have to send them into the periphery so that they could theoretically attack self-tissues.
+
+51
+00:05:02,600 --> 00:05:07,600
+So negative selection is essential for the removal of self-reactive lymphocytes.
+
+52
+00:05:07,600 --> 00:05:14,600
+This is a little bit of a background concerning central tolerance, and I've mentioned that here in your text,
+
+53
+00:05:14,600 --> 00:05:19,600
+where I see that central tolerance occurs in the thymus, and of course that's going to be for the T-cells.
+
+54
+00:05:19,600 --> 00:05:23,600
+Now, just to highlight the importance of central tolerance, I've mentioned a very rare disorder,
+
+55
+00:05:23,600 --> 00:05:30,600
+which is called autoimmune polyendocrine syndrome, that can arise when central tolerance goes awry.
+
+56
+00:05:30,600 --> 00:05:34,600
+Remember the developmental sort of drawing that I had given you?
+
+57
+00:05:34,600 --> 00:05:40,600
+There's a stem cell which enters into the thymus, and then eventually becomes a double positive thymocyte
+
+58
+00:05:40,600 --> 00:05:47,600
+with CD4, CD8, and T-cell receptor, which then eventually becomes a single positive thymocyte,
+
+59
+00:05:47,600 --> 00:05:55,600
+which basically means that it's CD4 positive or CD8 positive, and eventually that will exit as a naive mature T-cell.
+
+60
+00:05:55,600 --> 00:05:58,600
+So this is the normal that we've already mentioned.
+
+61
+00:05:58,600 --> 00:06:04,600
+Now at this point, as the single positive cell is heading towards the exit of the thymus,
+
+62
+00:06:04,600 --> 00:06:07,600
+it will undergo a process called negative selection.
+
+63
+00:06:07,600 --> 00:06:17,600
+And negative selection, it's important to know, that negative selection actually occurs here in the medulla of the thymus,
+
+64
+00:06:17,600 --> 00:06:19,600
+this being the cortex.
+
+65
+00:06:19,600 --> 00:06:26,600
+Now, in order for negative selection to occur, these thymocytes must be exposed to antigen
+
+66
+00:06:26,600 --> 00:06:30,600
+that would normally be present in the periphery, in the body.
+
+67
+00:06:30,600 --> 00:06:41,600
+So for example, there are dendritic cells present within this medulla that express a wide array of self-antigen on MHC,
+
+68
+00:06:41,600 --> 00:06:44,600
+so that the cells can be tested to see whether they bind self-antigen.
+
+69
+00:06:44,600 --> 00:06:57,600
+And there is also a cell called the medullary epithelial cell that also expresses a wide array of peripheral antigens on MHC.
+
+70
+00:06:57,600 --> 00:07:04,600
+These can also be shown to the lymphocyte in order to see whether it binds those self-antigens.
+
+71
+00:07:04,600 --> 00:07:10,600
+Now, of course, if the lymphocyte binds the self-antigens either on the dendritic cell or on the medullary epithelial cell,
+
+72
+00:07:10,600 --> 00:07:14,600
+then the, and by the way, this is a medullary epithelial cell,
+
+73
+00:07:14,600 --> 00:07:20,600
+then if it binds these self-antigens, then the cell will undergo apoptosis and will die.
+
+74
+00:07:20,600 --> 00:07:23,600
+And that's how we'll get rid of self-reactive lymphocytes.
+
+75
+00:07:23,600 --> 00:07:28,600
+Now, the medullary epithelial cell, in order to express some of these self-antigens,
+
+76
+00:07:28,600 --> 00:07:32,600
+has a transcription factor in the nucleus, which is called air.
+
+77
+00:07:32,600 --> 00:07:36,600
+Air is necessary for expression of some of these self-antigens.
+
+78
+00:07:36,600 --> 00:07:43,600
+Now, imagine, if we don't have air, we won't be able to express some subset of self-antigens.
+
+79
+00:07:43,600 --> 00:07:50,600
+If we can't express some subset of self-antigens, then lymphocytes that are generated against that subset
+
+80
+00:07:50,600 --> 00:07:56,600
+will be able to escape out into the periphery and will have self-reactive lymphocytes within the periphery.
+
+81
+00:07:56,600 --> 00:08:00,600
+And that's what happens in this disorder called autoimmune polyendocrine syndrome.
+
+82
+00:08:00,600 --> 00:08:08,600
+Patients have air mutations, and so, therefore, lymphocytes that are reactive to antigens that are dependent upon air
+
+83
+00:08:08,600 --> 00:08:17,600
+will be able to escape, and in particular, these patients develop autoimmunity that destroys endocrine glands.
+
+84
+00:08:17,600 --> 00:08:20,600
+In fact, there's a triad that's seen in this disorder.
+
+85
+00:08:20,600 --> 00:08:24,600
+The first is that the patients get hypoparathyroidism.
+
+86
+00:08:24,600 --> 00:08:29,600
+The second is that the patients get adrenal failure.
+
+87
+00:08:29,600 --> 00:08:36,600
+And the third problem that these patients get is that they get chronic candida infections of the skin and the oral mucosa.
+
+88
+00:08:36,600 --> 00:08:42,600
+So, this is the triad, and so you can see here that it's due to the autoimmunity that you get destruction of the parathyroids
+
+89
+00:08:42,600 --> 00:08:47,600
+and destruction of the adrenals that then results in this disorder.
+
+90
+00:08:47,600 --> 00:08:53,600
+Now, moving on to the bone marrow, central tolerance also occurs in the bone marrow, and, of course, that's going to be for the B cells.
+
+91
+00:08:53,600 --> 00:08:56,600
+Now, when you think about the B cells, it's kind of very similar.
+
+92
+00:08:56,600 --> 00:09:00,600
+Here we are in the bone marrow. The stem cell is actually generated in the bone marrow.
+
+93
+00:09:00,600 --> 00:09:05,600
+So, it simply is in the bone marrow, and then it progresses, and it becomes an immature B cell.
+
+94
+00:09:05,600 --> 00:09:14,600
+And then, it progresses from there to eventually exit the bone marrow as a naive, mature B cell.
+
+95
+00:09:14,600 --> 00:09:21,600
+So, that's sort of the very simplistic normal development that occurs within the bone marrow.
+
+96
+00:09:21,600 --> 00:09:28,600
+Now, as the cell progresses from a stem cell to an immature B cell, it's going to express immunoglobulin.
+
+97
+00:09:28,600 --> 00:09:37,600
+And then, the question is going to be asked, somewhere out here, via negative selection, do you bind self-antigen too tightly?
+
+98
+00:09:37,600 --> 00:09:42,600
+So, there are dendritic cells that are present within the bone marrow that express self-antigen.
+
+99
+00:09:42,600 --> 00:09:52,600
+And, as they express self-antigen, the immunoglobulin will be exposed to it, and if it binds too tightly, then the cells will undergo one of two things.
+
+100
+00:09:52,600 --> 00:09:59,600
+Now, the first thing that can happen as a result of negative selection is that the B cells can undergo receptor editing.
+
+101
+00:09:59,600 --> 00:10:11,600
+So, what happens in receptor editing is that the RAG genes that are essential for the development of the immunoglobulin specificities will be re-expressed.
+
+102
+00:10:11,600 --> 00:10:18,600
+So, as you get re-expression of the RAG genes, which will then allow for editing of the light chain of the immunoglobulin.
+
+103
+00:10:18,600 --> 00:10:27,600
+And, once the light chain gets edited, the hope is that it will no longer bind self-antigen, and so that would allow the B cell to remain functional and go out into the periphery.
+
+104
+00:10:27,600 --> 00:10:34,600
+So, one possibility that can occur through negative selection is receptor editing via re-expression of RAG genes.
+
+105
+00:10:34,600 --> 00:10:39,600
+Another possibility is that if you can't edit the receptor, is that you simply undergo apoptosis.
+
+106
+00:10:39,600 --> 00:10:45,600
+So, cells here can also undergo apoptosis, and that would be through the mitochondrial pathway.
+
+107
+00:10:45,600 --> 00:10:53,600
+So, anyway, this again is highlighting the importance of tolerance and the way by which we protect ourselves against self-reactive lymphocytes.
+
+108
+00:10:53,600 --> 00:11:01,600
+Now, let's assume for a moment that the central tolerance mechanisms fail, or that some rare cells are able to escape central tolerance.
+
+109
+00:11:01,600 --> 00:11:05,600
+Well, we have a second line of defense, and that is called peripheral tolerance.
+
+110
+00:11:05,600 --> 00:11:15,600
+And, what happens in peripheral tolerance is that if an antigen is recognized in the peripheral tissues without a co-stimulation, without a co-stimulatory signal,
+
+111
+00:11:15,600 --> 00:11:22,600
+then the lymphocyte will undergo energy, which means it will shut down, or it will undergo apoptosis.
+
+112
+00:11:22,600 --> 00:11:28,600
+So, just to highlight this, let's just imagine for a moment that you have a CD4-positive T cell,
+
+113
+00:11:28,600 --> 00:11:37,600
+and the CD4-positive T cell is using its T cell receptor in order to bind antigen being presented by this dendritic cell.
+
+114
+00:11:37,600 --> 00:11:45,600
+So, here is your MHC2 with the associated antigen, and you've got this sort of first interaction occurring.
+
+115
+00:11:45,600 --> 00:11:53,600
+Now, when this first interaction occurs, it also requires a second interaction in order to activate the T cell.
+
+116
+00:11:53,600 --> 00:12:00,600
+So, for example, in this particular instance, the second interaction would be that CD28, on the T cell,
+
+117
+00:12:00,600 --> 00:12:04,600
+would bind a molecule called B7 being expressed by the dendritic cell.
+
+118
+00:12:04,600 --> 00:12:12,600
+This would provide the second signal, and it's when the second signal arises that the CD4-positive T cell would actually become activated.
+
+119
+00:12:12,600 --> 00:12:17,600
+Now, let's imagine that there's a self-reactive CD4-positive T cell that's floating around.
+
+120
+00:12:17,600 --> 00:12:24,600
+It goes into the periphery, and it binds, using its T cell receptor, it binds some peripheral antigen.
+
+121
+00:12:24,600 --> 00:12:28,600
+Now, when it does that, you would expect that there would be no second signal,
+
+122
+00:12:28,600 --> 00:12:31,600
+because there's no inflammation or anything generating a second signal.
+
+123
+00:12:31,600 --> 00:12:37,600
+And so, if there's no second signal, then this CD4-positive T cell will undergo energy.
+
+124
+00:12:37,600 --> 00:12:41,600
+And energy, of course, just means that the cell basically shuts down and goes to sleep.
+
+125
+00:12:41,600 --> 00:12:43,600
+So, that's one possibility.
+
+126
+00:12:43,600 --> 00:12:50,600
+Now, another possibility is that this CD4-positive T cell regularly and consistently keeps binding antigen.
+
+127
+00:12:50,600 --> 00:12:56,600
+It repeatedly binds antigen without this secondary, without this co-stimulatory second signal.
+
+128
+00:12:56,600 --> 00:13:03,600
+And in that particular case, then the other possibility would be that this CD4-positive T cell will undergo apoptosis.
+
+129
+00:13:03,600 --> 00:13:08,600
+And the apoptosis occurs in a very interesting way.
+
+130
+00:13:08,600 --> 00:13:14,600
+The CD4-positive T cell has a receptor present on the cell, which is called CD95.
+
+131
+00:13:14,600 --> 00:13:18,600
+It's also known as FAS, and this is a death receptor.
+
+132
+00:13:18,600 --> 00:13:26,600
+If you have regular binding of the T cell receptor to antigen without the regular and consistent binding,
+
+133
+00:13:26,600 --> 00:13:32,600
+without the second signal, then the CD4-positive T cell will eventually begin to express FAS ligand.
+
+134
+00:13:32,600 --> 00:13:38,600
+And when it expresses FAS ligand, FAS ligand will bind the FAS receptor, which is CD95,
+
+135
+00:13:38,600 --> 00:13:45,600
+and that is a death receptor, which will then indicate to the cell that it needs to undergo apoptosis.
+
+136
+00:13:45,600 --> 00:13:50,600
+At the same time, this FAS ligand, let's say that there's another B cell or T cell nearby.
+
+137
+00:13:50,600 --> 00:13:53,600
+This would be another T cell or another B cell.
+
+138
+00:13:53,600 --> 00:14:00,600
+If this FAS ligand were to bind CD95 on another T cell or CD95 on another B cell,
+
+139
+00:14:00,600 --> 00:14:05,600
+it would also induce apoptosis of other B and T cells that might be self-reactive as well.
+
+140
+00:14:05,600 --> 00:14:10,600
+So, essentially, there's two ways by which peripheral tolerance occurs.
+
+141
+00:14:10,600 --> 00:14:16,600
+Number one, through energy, and number two, through apoptosis.
+
+142
+00:14:16,600 --> 00:14:22,600
+In order to highlight the importance of peripheral tolerance, I want to mention a very rare syndrome again.
+
+143
+00:14:22,600 --> 00:14:26,600
+This is called autoimmune lymphoproliferative syndrome.
+
+144
+00:14:26,600 --> 00:14:34,600
+And, basically, what happens in autoimmune lymphoproliferative syndrome is that you have mutations in the FAS apoptosis pathway.
+
+145
+00:14:34,600 --> 00:14:39,600
+So, remember, let's go back. Let's say that this is that CD4 positive T cell.
+
+146
+00:14:39,600 --> 00:14:46,600
+So, of course, you need to have the receptor, which was CD95, also called FAS.
+
+147
+00:14:46,600 --> 00:14:51,600
+You need to be able to have the ligand, which was called FAS ligand.
+
+148
+00:14:51,600 --> 00:14:57,600
+And, you also need to be able to have the caspases that are necessary or that get activated through this pathway.
+
+149
+00:14:57,600 --> 00:15:01,600
+In particular, one caspase that's important is caspase 10.
+
+150
+00:15:01,600 --> 00:15:11,600
+So, imagine if a patient has a mutation such as they lose FAS, or, more rarely, if they have a mutation where they lose FAS ligand or CD10,
+
+151
+00:15:11,600 --> 00:15:17,600
+they would no longer be able to undergo this apoptotic pathway in the periphery.
+
+152
+00:15:17,600 --> 00:15:22,600
+And, therefore, that would allow for the survival of some self-reactive lymphocytes.
+
+153
+00:15:22,600 --> 00:15:28,600
+And so, in this particular disorder that we're discussing, there is mutations in the FAS apoptosis pathway.
+
+154
+00:15:28,600 --> 00:15:34,600
+Again, the more common mutation being in FAS itself, but it can also occur in FAS ligand or caspase 10.
+
+155
+00:15:34,600 --> 00:15:40,600
+And, that results in something called autoimmune lymphoproliferative syndrome.
+
+156
+00:15:40,600 --> 00:15:46,600
+Now, the autoimmune basically implies that the patients have cells that are self-reactive lymphocytes.
+
+157
+00:15:46,600 --> 00:15:54,600
+And, actually, what happens is that these cells generate immunoglobulin, in particular, IgG, against cells in the blood.
+
+158
+00:15:54,600 --> 00:15:59,600
+And so, these patients can get cytopenias. For example, they can get an anemia or a thrombocytopenia.
+
+159
+00:15:59,600 --> 00:16:05,600
+Where the lymphoproliferative part of the syndrome implies that they get proliferation of the lymphocytes,
+
+160
+00:16:05,600 --> 00:16:08,600
+because they can't get rid of these self-reactive lymphocytes.
+
+161
+00:16:08,600 --> 00:16:13,600
+And so, those self-reactive lymphocytes can actually proliferate and expand the lymphoid compartments.
+
+162
+00:16:13,600 --> 00:16:18,600
+And so, for example, areas where lymphocytes normally live will become enlarged.
+
+163
+00:16:18,600 --> 00:16:23,600
+For example, they get something called lymphadenopathy, or enlargement of the lymph nodes throughout the body.
+
+164
+00:16:23,600 --> 00:16:26,600
+It's a generalized lymphadenopathy.
+
+165
+00:16:26,600 --> 00:16:28,600
+They also get hepatosplenomegaly.
+
+166
+00:16:28,600 --> 00:16:31,600
+And, because there's so much proliferation of the lymphoid cells,
+
+167
+00:16:31,600 --> 00:16:35,600
+eventually mutations can be picked up and these patients can eventually get lymphoma.
+
+168
+00:16:35,600 --> 00:16:40,600
+Now, again, you're never going to see this disorder because it's extremely rare.
+
+169
+00:16:40,600 --> 00:16:47,600
+But, why it's important is because it highlights the essence of peripheral tolerance
+
+170
+00:16:47,600 --> 00:16:51,600
+and how important it is in getting rid of self-reactive lymphocytes.
+
+171
+00:16:51,600 --> 00:16:56,600
+And so, this is something to be aware of as well, especially because it ties into some basic immunology.
+
+172
+00:16:56,600 --> 00:17:02,600
+Now, we do have a third way by which we can protect ourselves against self-reactive lymphocytes.
+
+173
+00:17:02,600 --> 00:17:07,600
+And that is through a special subset of T cells called regulatory T cells.
+
+174
+00:17:07,600 --> 00:17:13,600
+Regulatory T cells are CD4 positive T cells that suppress immune responses.
+
+175
+00:17:13,600 --> 00:17:15,600
+They actually act in two ways.
+
+176
+00:17:15,600 --> 00:17:19,600
+The first way in which they act is that they can block T cell activation.
+
+177
+00:17:19,600 --> 00:17:24,600
+So, for example, let's say that this is the CD4 positive T cell.
+
+178
+00:17:24,600 --> 00:17:28,600
+And this is the dendritic cell that is presenting the antigen.
+
+179
+00:17:28,600 --> 00:17:38,600
+So, you've got your T cell receptor and you've got this MHC class II molecule that has antigen that the T cells responding against.
+
+180
+00:17:38,600 --> 00:17:45,600
+Now, let's imagine for a second that this is a T cell that is against a self-antigen.
+
+181
+00:17:45,600 --> 00:17:47,600
+So, it's a self-reactive lymphocyte.
+
+182
+00:17:47,600 --> 00:17:54,600
+Of course, it's going to need the second signal, CD28, which would bind B7.
+
+183
+00:17:54,600 --> 00:17:58,600
+But what can happen is that you can have a regulatory T cell come in.
+
+184
+00:17:58,600 --> 00:18:00,600
+So, this is a Treg.
+
+185
+00:18:00,600 --> 00:18:06,600
+And the regulatory T cells actually express a molecule called CTLA4.
+
+186
+00:18:06,600 --> 00:18:08,600
+CTLA4.
+
+187
+00:18:08,600 --> 00:18:12,600
+And CTLA4 can compete and can actually bind B7.
+
+188
+00:18:12,600 --> 00:18:19,600
+So, as CTLA4 competes and binds B7, that decreases the probability of a second signal.
+
+189
+00:18:19,600 --> 00:18:23,600
+And therefore, these T cells might, for example, undergo energy.
+
+190
+00:18:23,600 --> 00:18:30,600
+Another way by which the regulatory T cells can inhibit immune responses is by secreting cytokines.
+
+191
+00:18:30,600 --> 00:18:38,600
+So, two cytokines that they secrete are, number one, IL-10, and number two, TGF-beta.
+
+192
+00:18:38,600 --> 00:18:42,600
+IL-10 is important because it inhibits macrophages and dendritic cells.
+
+193
+00:18:42,600 --> 00:18:47,600
+In fact, in particular, it inhibits or limits the expression of MHC class II.
+
+194
+00:18:47,600 --> 00:18:52,600
+So, if you limit the expression of MHC class II, obviously, you don't have much for the T cell receptor to bind.
+
+195
+00:18:52,600 --> 00:18:57,600
+And similarly, IL-10 also limits the production of costumulatory molecules.
+
+196
+00:18:57,600 --> 00:19:00,600
+So, you would limit the production of B7, for example.
+
+197
+00:19:00,600 --> 00:19:05,600
+And that would also, again, decrease the interaction or the ability to activate these self-reactive T cells.
+
+198
+00:19:05,600 --> 00:19:12,600
+And then, of course, the second cytokine is TGF-beta, and TGF-beta also inhibits activation of macrophages.
+
+199
+00:19:12,600 --> 00:19:17,600
+So, this is a little bit of a summary of the way in which regulatory T cells work.
+
+200
+00:19:17,600 --> 00:19:23,600
+Now, when you think about regulatory T cells, there's kind of a phenotype that you should be aware of.
+
+201
+00:19:23,600 --> 00:19:35,600
+They are CD4 positive, CD25 positive, and FOXP3 positive.
+
+202
+00:19:35,600 --> 00:19:39,600
+CD4 indicates that they are CD4 positive T cells.
+
+203
+00:19:39,600 --> 00:19:46,600
+CD25 is also known as IL-2 receptor.
+
+204
+00:19:46,600 --> 00:19:55,600
+And this helps me to remember that the CD, that the regulatory T cells are dependent on IL-2 for growth and survival.
+
+205
+00:19:55,600 --> 00:19:58,600
+So, this is important.
+
+206
+00:19:58,600 --> 00:20:01,600
+Again, CD25 being part of the IL-2 receptor.
+
+207
+00:20:01,600 --> 00:20:12,600
+And then, finally, the FOXP3, FOXP3 is a transcription factor, and regulatory T cells are dependent on FOXP3 for both their development and their maintenance.
+
+208
+00:20:12,600 --> 00:20:18,600
+So, this is a little bit of the phenotype that you should be aware of concerning regulatory T cells.
+
+209
+00:20:18,600 --> 00:20:25,600
+Now, let's go back to the slide for a minute, because I want to show you the importance of regulatory T cells as far as human disease is concerned.
+
+210
+00:20:25,600 --> 00:20:32,600
+One of the things that we know is that CD25 polymorphisms are associated with autoimmunity.
+
+211
+00:20:32,600 --> 00:20:37,600
+For example, there's a relationship between multiple sclerosis and type 1 diabetes.
+
+212
+00:20:37,600 --> 00:20:43,600
+Now, one explanation of this could be that CD25 is essential for regulatory T cells.
+
+213
+00:20:43,600 --> 00:20:50,600
+Remember that there's CD4 positive, CD25 positive, and FOXP3 positive.
+
+214
+00:20:50,600 --> 00:21:01,600
+So, if we have polymorphisms of CD25, which is part of the IL-2 receptor, and IL-2 is essential for development and survival of regulatory T cells,
+
+215
+00:21:01,600 --> 00:21:10,600
+perhaps CD25 polymorphisms are affecting the regulatory T cell subset and, therefore, resulting in autoimmunity.
+
+216
+00:21:10,600 --> 00:21:19,600
+So, there is an association of CD25 polymorphisms with autoimmunity, for example, multiple sclerosis and type 1 diabetes.
+
+217
+00:21:19,600 --> 00:21:29,600
+Another important thing to recognize is that FOXP3 mutations result in autoimmunity, in particular, a very particular syndrome called IPEX syndrome.
+
+218
+00:21:29,600 --> 00:21:41,600
+The I stands for immune dysfunction, the P stands for polyendocrinopathy, the E stands for enteropathy, and the X stands for X-linked.
+
+219
+00:21:41,600 --> 00:21:47,600
+And so, what happens in these patients is that they get autoimmune dysfunction, which then results in endocrinopathy.
+
+220
+00:21:47,600 --> 00:21:57,600
+And the endocrinopathy can be thyroiditis, with inflammation and destruction of the thyroid gland, or type 1 diabetes, with inflammation and destruction of the islets and the pancreas.
+
+221
+00:21:57,600 --> 00:22:03,600
+And they also get autoimmune enteropathy, which then leads to diarrhea.
+
+222
+00:22:03,600 --> 00:22:10,600
+So, this is another example of the immune system damaging tissues, whether they be endocrine or whether they be in the gut.
+
+223
+00:22:10,600 --> 00:22:14,600
+And then finally, the X represents the fact that this is an X-linked syndrome.
+
+224
+00:22:14,600 --> 00:22:18,600
+These patients usually also have eczema of the skin, and it usually arises in an infant.
+
+225
+00:22:18,600 --> 00:22:24,600
+So, again, very rare syndromes, but highlight the importance of regulatory T cells in this discussion.
+
+226
+00:22:24,600 --> 00:22:27,600
+A few more very quick principles.
+
+227
+00:22:27,600 --> 00:22:30,600
+Autoimmune disorders tend to be more common in women.
+
+228
+00:22:30,600 --> 00:22:33,600
+They classically will affect women of childbearing age.
+
+229
+00:22:33,600 --> 00:22:38,600
+One theory here is that estrogen reduces the apoptosis of self-reactive B cells.
+
+230
+00:22:38,600 --> 00:22:45,600
+Remember that self-reactive B cells will undergo apoptosis, either in the bone marrow or in the periphery, when they bind self-antigen.
+
+231
+00:22:45,600 --> 00:22:50,600
+So, if you have estrogen and it blocks that apoptosis, that would increase the risk of autoimmunity.
+
+232
+00:22:50,600 --> 00:22:54,600
+And, of course, there's a lot of estrogen in women of childbearing age.
+
+233
+00:22:54,600 --> 00:23:06,600
+Another important principle concerning autoimmunity is that it's our current sort of understanding that this arises in a genetically susceptible individual who is exposed to an environmental trigger.
+
+234
+00:23:06,600 --> 00:23:13,600
+Now, as far as the genetic susceptibility is concerned, the reason why we believe that is because we know that there's an increased incidence in twins.
+
+235
+00:23:13,600 --> 00:23:17,600
+So, that implies that there's some sort of genetic component to these disorders.
+
+236
+00:23:17,600 --> 00:23:23,600
+When you study the genes that may be responsible, the strongest association is with HLA subtypes.
+
+237
+00:23:23,600 --> 00:23:33,600
+Now, HLA are the genes that code for MHC, and so it kind of makes sense because most autoimmune disorders are against protein,
+
+238
+00:23:33,600 --> 00:23:38,600
+and so you would think, or it would make sense, that the HLA subtypes would be important.
+
+239
+00:23:38,600 --> 00:23:49,600
+In particular, among the HLA subtypes, the strongest association among HLA subtypes is with HLAB27,
+
+240
+00:23:49,600 --> 00:23:53,600
+and its association with a disorder called ankylosing spondylitis.
+
+241
+00:23:53,600 --> 00:24:02,600
+Now, we're going to cover that later in the course, but I just want to highlight the strongest association with HLA subtypes is with that particular subtype, HLAB27,
+
+242
+00:24:02,600 --> 00:24:05,600
+with a disorder called ankylosing spondylitis.
+
+243
+00:24:05,600 --> 00:24:14,600
+When you look at non-HLA genes, then one of the strongest associations, or we can say perhaps one of the genes that's most frequently linked to autoimmunity,
+
+244
+00:24:14,600 --> 00:24:23,600
+is a gene called PTPN22, and so polymorphisms of PTPN22 are also associated with autoimmunity.
+
+245
+00:24:23,600 --> 00:24:35,600
+Now, PTPN22 is actually a tyrosine phosphatase, and when you, the mutations actually result in a, or the polymorphisms I should say, result in a gain of function,
+
+246
+00:24:35,600 --> 00:24:39,600
+which decreases the signaling necessary for tolerance.
+
+247
+00:24:39,600 --> 00:24:44,600
+And so, that's sort of one of the theories, is that in order to develop tolerance, you need to have signaling.
+
+248
+00:24:44,600 --> 00:24:50,600
+For example, the cell needs to bind self-antigen, and then a signal is sent telling the cell to undergo energy.
+
+249
+00:24:50,600 --> 00:25:00,600
+However, if the signaling mechanisms are awry, for example, with a PTPN22 polymorphism, then that would increase the risk of developing autoimmunity.
+
+250
+00:25:00,600 --> 00:25:05,600
+So, these are some genes that, that could be potentially associated with autoimmunity.
+
+251
+00:25:05,600 --> 00:25:10,600
+Now, at the same time, it's not enough to have genetic susceptibility, there also needs to be an environmental trigger.
+
+252
+00:25:10,600 --> 00:25:13,600
+To get a better handle on this, let's go back to the whiteboard.
+
+253
+00:25:13,600 --> 00:25:24,600
+So, you've got this patient who has a genetic susceptibility, and we assume that the genetic susceptibility is going to result in some sort of loss of self-tolerance.
+
+254
+00:25:24,600 --> 00:25:31,600
+And when there's a loss of tolerance, we assume that the patient is going to generate some sort of self-reactive lymphocyte.
+
+255
+00:25:31,600 --> 00:25:37,600
+Now, this self-reactive lymphocyte, one or two, for example, is not going to be able to generate autoimmunity.
+
+256
+00:25:37,600 --> 00:25:45,600
+In order to get autoimmunity, we're going to need expansion of the population of self-reactive lymphocytes, along with activation of the self-reactive lymphocytes.
+
+257
+00:25:45,600 --> 00:25:54,600
+And so, in order for that to occur, we also require, along with genetic susceptibility, we also require an environmental trigger.
+
+258
+00:25:54,600 --> 00:26:03,600
+Some examples of triggers, one would be that the patient simply gets an infection with, for example, some other virus or bacteria.
+
+259
+00:26:03,600 --> 00:26:09,600
+And when they get this infection, that revs up the immune system and activates the antigen-presenting cells.
+
+260
+00:26:09,600 --> 00:26:20,600
+And as a sort of side effect of the inflammation, or almost as a bystander, this self-reactive lymphocyte gets activated, and that then can result in autoimmunity.
+
+261
+00:26:20,600 --> 00:26:26,600
+So, that's called bystander activation, because the self-reactive lymphocyte gets activated sort of as a bystander.
+
+262
+00:26:26,600 --> 00:26:41,600
+Another possibility is this self-reactive lymphocyte gets exposed, or let's say that the patient gets exposed, to a bacteria that has a molecule that also happens to activate this self-reactive lymphocyte.
+
+263
+00:26:41,600 --> 00:26:45,600
+So, the bacteria has a molecule that's similar to a self-antigen.
+
+264
+00:26:45,600 --> 00:26:56,600
+So, when this bacteria comes in, it infects the patient, the self-reactive lymphocyte will get activated, and then will eventually be able to produce autoimmunity as well.
+
+265
+00:26:56,600 --> 00:27:10,600
+And this is called molecular mimicry, because the antigen on the microbe mimics or resembles a self-antigen, which then allows for expansion of the, or activation of the self-reactive lymphocyte.
+
+266
+00:27:10,600 --> 00:27:17,600
+So, those are two examples of triggers, either bystander activation or molecular mimicry.
+
+267
+00:27:17,600 --> 00:27:25,600
+The final point that I would like to make here is that it's very important to recognize that triggers are essential.
+
+268
+00:27:25,600 --> 00:27:37,600
+For example, when patients have genetic susceptibility, for example, let's say that the patients have HLA-B27, that does not mean that the patient is automatically going to develop autoimmunity.
+
+269
+00:27:37,600 --> 00:27:42,600
+In fact, most patients with HLA-B27 actually never develop autoimmune disorders.
+
+270
+00:27:42,600 --> 00:27:47,600
+So, again, that just highlights the importance of the role of this trigger.
+
+271
+00:27:47,600 --> 00:27:54,600
+The final point that I would like to make is that these disorders, i.e. autoimmune disorders, are generally clinically progressive.
+
+272
+00:27:54,600 --> 00:27:58,600
+Now, what happens is the patients tend to get relapses and remissions.
+
+273
+00:27:58,600 --> 00:28:03,600
+And the reason they get relapses and remissions is because the antigen is always present.
+
+274
+00:28:03,600 --> 00:28:06,600
+And so, you get exposure to the antigen.
+
+275
+00:28:06,600 --> 00:28:08,600
+You get amplification of the immune system.
+
+276
+00:28:08,600 --> 00:28:10,600
+That results in a flare.
+
+277
+00:28:10,600 --> 00:28:13,600
+Eventually, the immune response remits.
+
+278
+00:28:13,600 --> 00:28:14,600
+The patient goes along.
+
+279
+00:28:14,600 --> 00:28:19,600
+And then, all of a sudden, there's a relapse with a flare with amplification of the immune response.
+
+280
+00:28:19,600 --> 00:28:25,600
+And so, that's a classic presentation of autoimmune disorders that they relapse and they remit.
+
+281
+00:28:25,600 --> 00:28:31,600
+And then, finally, the last point that I would like to make is that often there's overlapping features between autoimmune disorders.
+
+282
+00:28:31,600 --> 00:28:34,600
+Now, we're going to study several autoimmune disorders in a few minutes.
+
+283
+00:28:34,600 --> 00:28:37,600
+And you're going to see that sometimes the features can overlap.
+
+284
+00:28:37,600 --> 00:28:42,600
+And the reason that features can overlap is due to something called epitope spreading.
+
+285
+00:28:42,600 --> 00:28:47,600
+So, imagine that the patient has a self-reactive lymphocyte that is reacting against the self-antigen.
+
+286
+00:28:47,600 --> 00:28:52,600
+When those self-reactive lymphocytes get activated and expand, they'll destroy the tissue.
+
+287
+00:28:52,600 --> 00:28:57,600
+And when they destroy the tissue, new antigens that the immune system hasn't normally seen are going to be exposed.
+
+288
+00:28:57,600 --> 00:29:01,600
+And so, other lymphocytes can begin to react against those new antigens.
+
+289
+00:29:01,600 --> 00:29:04,600
+And that can result in overlapping features in these disorders.
+
+290
+00:29:04,600 --> 00:29:13,600
+So, the exposure of new antigens with the subsequent spreading of the immune response to additional antigens is called epitope spreading.
+
+291
+00:29:13,600 --> 00:29:20,600
+And epitope spreading can be one explanation of why we might see overlapping features in the disorders that we're going to cover.
+
+292
+00:29:20,600 --> 00:29:24,600
+So, that concludes this theoretical portion of autoimmunity.
+
+293
+00:29:24,600 --> 00:29:28,600
+The last point that I'd like to make actually concerns here what's on the bottom of the slide.
+
+294
+00:29:28,600 --> 00:29:31,600
+I think it's pretty obvious if anybody were to read it.
+
+295
+00:29:31,600 --> 00:29:40,600
+However, we do appreciate your respecting the legal copyright along with the ethical copyright that goes along with the Pathoma materials.
+
+296
+00:29:40,600 --> 00:29:47,600
+So, again, thank you for making Pathoma one of the most widely used pathology resources throughout the world.
+
