@@ -99,21 +99,21 @@ jobs:
 
       - name: Transcribe audio file
         run: |
+          rel_dir=$(dirname "${{ matrix.file }}")
+          mkdir -p "output_artifacts/$rel_dir"
           python transcribe.py \
             --audio-path "${{ matrix.file }}" \
             --model "${{ inputs.model }}" \
             --format "${{ inputs.output_format }}" \
+            --output-dir "output_artifacts/$rel_dir" \
             ${{ inputs.translate && '--translate' || '' }}
 
       - name: Upload subtitle artifact
         uses: actions/upload-artifact@v4
         with:
           name: subtitle-${{ strategy.job-index }}
-          path: |
-            **/*.srt
-            **/*.txt
-            **/*.csv
-          if-no-files-found: ignore
+          path: output_artifacts/
+          if-no-files-found: error
 
   publish:
     name: Aggregate & Commit Subtitles
@@ -127,11 +127,13 @@ jobs:
       - name: Download all subtitle artifacts
         uses: actions/download-artifact@v4
         with:
+          pattern: subtitle-*
+          merge-multiple: true
           path: downloaded-artifacts
 
       - name: Organize subtitles into repo
         run: |
-          find downloaded-artifacts -type f \( -name "*.srt" -o -name "*.txt" -o -name "*.csv" \) -exec cp -v {} "${{ inputs.audio_folder }}/" \;
+          cp -r downloaded-artifacts/* .
           rm -rf downloaded-artifacts
 
       - name: Upload all subtitles bundle
