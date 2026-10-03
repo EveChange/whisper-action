@@ -1,7 +1,32 @@
-name: Specific Video file
-on: [push]
+name: Audio File CI
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
 
 jobs:
+  run-model-for-ogg:
+    name: run turbo model for ogg
+    runs-on: ubuntu-latest
+    steps:
+      - name: checkout
+        uses: actions/checkout@v7
+
+      - name: speech to text on ogg file
+        uses: ./
+        with:
+          model: large-v3-turbo
+          audio_path: ./testdata/jfk.ogg
+          output_format: txt,srt,csv
+
+      - name: verify ogg transcript
+        run: |
+          echo "show txt file from ogg"
+          cat ./testdata/jfk.txt
+          test -s ./testdata/jfk.txt
+          test -s ./testdata/jfk.srt
+          test -s ./testdata/jfk.csv
+
   run-small-model-for-jfk:
     name: run small model for jfk
     runs-on: ubuntu-latest
@@ -14,13 +39,13 @@ jobs:
         with:
           model: small
           audio_path: ./testdata/jfk.wav
-          debug: true
-          print_segment: true
+          output_format: txt
 
       - name: show txt data
         run: |
           echo "show txt file"
           cat ./testdata/jfk.txt
+          test -s ./testdata/jfk.txt
 
   run-small-model-for-m4a:
     name: run small model for m4a
@@ -34,24 +59,11 @@ jobs:
         with:
           model: small
           audio_path: ./testdata/Test4.m4a
-          debug: true
-          print_segment: true
+          output_format: txt
 
       - name: show txt data
         run: |
           echo "show txt file"
           cat ./testdata/Test4.txt
+          test -s ./testdata/Test4.txt
 
-      - name: cut silences
-        uses: ./
-        with:
-          model: small
-          audio_path: ./testdata/Test4.m4a
-          debug: true
-          print_segment: true
-          cut_silences: true
-
-      - name: show txt data
-        run: |
-          echo "show txt file"
-          cat ./testdata/Test4.txt
