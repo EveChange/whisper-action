@@ -1,6 +1,6 @@
 # whisper-action
 
-Speech-to-Text using [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) for [GitHub Action](https://github.com/features/actions). High-performance inference of OpenAI Whisper automatic speech recognition (ASR) model.
+Speech-to-Text using [faster-whisper](https://github.com/SYSTRAN/faster-whisper) (CTranslate2) and [yt-dlp](https://github.com/yt-dlp/yt-dlp) for [GitHub Actions](https://github.com/features/actions). High-performance, reliable inference of OpenAI Whisper automatic speech recognition (ASR) models, including **Large V3 Turbo**.
 
 ## Inputs variables
 
@@ -8,18 +8,14 @@ See [action.yml](./action.yml) for more detailed information.
 
 | Variable         | Description                                                  | Default |
 |------------------|--------------------------------------------------------------|---------|
-| model            | public whisper model (standard or quantized: `large-v3-turbo-q5_0`, `large-v3-turbo-q8_0`, `large-v3-turbo`, `large-v3-q5_0`, `large-v3`, `large-v2-q5_0`, `medium-q5_0`, `small-q5_1`, `base-q5_1`, `tiny-q5_1`, etc.) | large-v3-turbo-q5_0 |
-| audio_path       | Audio Path.                                                  |         |
-| output_folder    | output folder.                                               |         |
-| output_format    | output format, support txt, srt, csv.                        | txt     |
-| output_filename  | output filename.                                             |         |
-| debug            | enable debug mode.                                           |         |
-| print_progress   | print progress.                                              | true    |
-| print_segment    | print segment.                                               |         |
-| youtube_url      | youtube url                                                  |         |
-| translate        | translate from source language to english.                   | false   |
-| cut_silences     | cut silences.                                                | false   |
-| prompt           | initial prompt text.                                         |         |
+| model            | Whisper model (`large-v3-turbo`, `large-v3`, `large-v2`, `medium`, `small`, `base`, `tiny`) | `large-v3-turbo` |
+| youtube_urls     | YouTube Video URL(s) (supports single or multiple URLs).    |         |
+| audio_path       | Local audio path (e.g. `./testdata/audio.wav`).              |         |
+| output_folder    | Output folder.                                               | `youtube` |
+| output_format    | Output format, supports `txt`, `srt`, `csv`, or `all`.       | `txt,srt,csv` |
+| output_filename  | Custom output filename without extension.                    |         |
+| translate        | Translate from source language to English (`true`/`false`).  | `false` |
+
 
 ## Usage
 
