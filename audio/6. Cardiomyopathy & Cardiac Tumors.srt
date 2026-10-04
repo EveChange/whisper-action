@@ -1,0 +1,980 @@
+1
+00:00:00,000 --> 00:00:02,280
+In this last discussion, in order to close off the chapter,
+
+2
+00:00:02,380 --> 00:00:04,900
+we're gonna cover both cardiomyopathy and cardiac tumors.
+
+3
+00:00:05,740 --> 00:00:07,900
+Cardiomyopathy refers to myocardial diseases
+
+4
+00:00:07,900 --> 00:00:09,820
+that result in cardiac dysfunction.
+
+5
+00:00:10,420 --> 00:00:12,560
+The first is called dilated cardiomyopathy.
+
+6
+00:00:12,680 --> 00:00:14,740
+In this particular case, you get dilatation
+
+7
+00:00:14,740 --> 00:00:16,520
+of all four chambers of the heart.
+
+8
+00:00:16,960 --> 00:00:18,960
+This is the most common form of cardiomyopathy.
+
+9
+00:00:19,380 --> 00:00:20,240
+Here's what it looks like.
+
+10
+00:00:20,240 --> 00:00:23,260
+You get massively dilated chambers of the heart.
+
+11
+00:00:23,340 --> 00:00:24,860
+You can look at the two atria here,
+
+12
+00:00:24,880 --> 00:00:26,740
+and you can look at the two ventricles here.
+
+13
+00:00:27,180 --> 00:00:29,260
+Now, the problem with this is that it's gonna result
+
+14
+00:00:29,260 --> 00:00:30,660
+in a systolic dysfunction.
+
+15
+00:00:31,120 --> 00:00:34,640
+If you stretch the heart so that it's no longer able
+
+16
+00:00:34,640 --> 00:00:38,120
+to contract properly, that massive stretching of the heart
+
+17
+00:00:38,120 --> 00:00:40,300
+is then going to result in a problem with systole,
+
+18
+00:00:40,400 --> 00:00:42,440
+so that you won't be able to empty the heart.
+
+19
+00:00:42,840 --> 00:00:43,980
+And, of course, that's gonna result
+
+20
+00:00:43,980 --> 00:00:46,040
+in biventricular congestive heart failure.
+
+21
+00:00:46,040 --> 00:00:48,000
+Both the left and the right sides
+
+22
+00:00:48,000 --> 00:00:49,920
+are both going to fail together.
+
+23
+00:00:50,440 --> 00:00:52,420
+The complications include mitral
+
+24
+00:00:52,420 --> 00:00:54,580
+and tricuspid valve regurgitation.
+
+25
+00:00:55,000 --> 00:00:57,020
+Imagine that if this is the heart here,
+
+26
+00:00:57,020 --> 00:01:00,280
+and you've got the right atrium, right ventricle,
+
+27
+00:01:00,640 --> 00:01:03,380
+left atrium, left ventricle.
+
+28
+00:01:03,660 --> 00:01:06,300
+As you stretch this heart, you're going to be stretching
+
+29
+00:01:06,300 --> 00:01:08,800
+the mitral valve and the tricuspid valve.
+
+30
+00:01:08,900 --> 00:01:10,160
+Again, this is the tricuspid.
+
+31
+00:01:10,500 --> 00:01:12,240
+And then you'll stretch the mitral valve.
+
+32
+00:01:12,580 --> 00:01:14,320
+And again, that stretching is gonna result
+
+33
+00:01:14,320 --> 00:01:15,980
+in regurgitation of those valves.
+
+34
+00:01:16,320 --> 00:01:18,780
+So, number one, you get systolic dysfunction.
+
+35
+00:01:18,960 --> 00:01:20,480
+And number two, you're gonna get stretching
+
+36
+00:01:20,480 --> 00:01:22,320
+and regurgitation of these valves.
+
+37
+00:01:22,880 --> 00:01:24,600
+Another complication would be arrhythmia.
+
+38
+00:01:24,600 --> 00:01:26,780
+The way I think about this is that as you stretch the heart,
+
+39
+00:01:26,860 --> 00:01:29,080
+you're also stretching the conduction systems of the heart.
+
+40
+00:01:29,720 --> 00:01:31,620
+And so you're gonna start getting funny conductions
+
+41
+00:01:31,620 --> 00:01:33,580
+across that system, giving you arrhythmias.
+
+42
+00:01:34,120 --> 00:01:36,500
+Now, most commonly, dilated cardiomyopathy
+
+43
+00:01:36,500 --> 00:01:37,540
+is idiopathic.
+
+44
+00:01:37,600 --> 00:01:38,500
+We don't know the cause.
+
+45
+00:01:38,820 --> 00:01:40,940
+But some very high-yield causes to be aware of
+
+46
+00:01:40,940 --> 00:01:42,220
+include genetic mutations.
+
+47
+00:01:43,280 --> 00:01:45,220
+Usually, the most common genetic mutation
+
+48
+00:01:45,220 --> 00:01:46,480
+would be autosomal dominant.
+
+49
+00:01:47,120 --> 00:01:48,020
+Myocarditis can do it.
+
+50
+00:01:48,080 --> 00:01:49,960
+The most common bug to cause myocarditis
+
+51
+00:01:49,960 --> 00:01:51,120
+would be Coxsackievirus.
+
+52
+00:01:51,120 --> 00:01:54,160
+That results in a lymphocytic infiltrate in the myocardium.
+
+53
+00:01:54,460 --> 00:01:55,720
+The patients get chest pain.
+
+54
+00:01:55,840 --> 00:01:57,540
+They can get arrhythmia with sudden death.
+
+55
+00:01:57,640 --> 00:01:58,580
+They can get heart failure.
+
+56
+00:01:58,920 --> 00:02:01,020
+If they manage to survive the myocarditis,
+
+57
+00:02:01,120 --> 00:02:02,440
+then one of the late complications
+
+58
+00:02:02,440 --> 00:02:04,340
+is dilated cardiomyopathy.
+
+59
+00:02:04,840 --> 00:02:06,480
+Alcohol abuse, very high-yield,
+
+60
+00:02:06,580 --> 00:02:08,180
+can cause a dilated cardiomyopathy.
+
+61
+00:02:08,760 --> 00:02:10,440
+There are some drugs that can cause it.
+
+62
+00:02:10,520 --> 00:02:12,880
+For example, doxorubicin can result
+
+63
+00:02:12,880 --> 00:02:15,360
+in a dilated cardiomyopathy, and so can cocaine.
+
+64
+00:02:15,880 --> 00:02:18,460
+And then finally, particularly high-yield, is pregnancy.
+
+65
+00:02:18,460 --> 00:02:21,620
+Women who are pregnant either late in the third trimester
+
+66
+00:02:21,620 --> 00:02:23,320
+or, for example, soon after birth
+
+67
+00:02:23,320 --> 00:02:27,560
+can develop heart failure due to a dilated cardiomyopathy.
+
+68
+00:02:28,060 --> 00:02:30,260
+Now, here's a picture of myocarditis
+
+69
+00:02:30,260 --> 00:02:32,060
+just to remind you of myocarditis
+
+70
+00:02:32,060 --> 00:02:33,820
+as a cause of dilated cardiomyopathy.
+
+71
+00:02:34,200 --> 00:02:35,980
+You can see all the lymphocytes present
+
+72
+00:02:35,980 --> 00:02:37,960
+within the myocardium.
+
+73
+00:02:38,420 --> 00:02:41,380
+Again, myocarditis, most common cause, Coxsackievirus.
+
+74
+00:02:41,820 --> 00:02:44,220
+And this can result in death during the acute phase,
+
+75
+00:02:44,220 --> 00:02:46,780
+or if the patient survived, can eventually result
+
+76
+00:02:46,780 --> 00:02:48,700
+in a dilated cardiomyopathy.
+
+77
+00:02:49,180 --> 00:02:51,120
+Now, the treatment for dilated cardiomyopathy
+
+78
+00:02:51,120 --> 00:02:51,840
+is transplant.
+
+79
+00:02:51,980 --> 00:02:54,200
+There's no way to fix that dilated heart.
+
+80
+00:02:54,920 --> 00:02:56,660
+Hypertrophic cardiomyopathy is when you get
+
+81
+00:02:56,660 --> 00:02:58,900
+massive hypertrophy of the left ventricle.
+
+82
+00:02:59,280 --> 00:03:01,840
+The most common cause, and of course, very high-yield,
+
+83
+00:03:02,140 --> 00:03:03,580
+is that you get genetic mutations
+
+84
+00:03:03,580 --> 00:03:06,300
+in the sarcomere proteins, high-yield,
+
+85
+00:03:06,560 --> 00:03:08,520
+most commonly autosomal dominant.
+
+86
+00:03:09,040 --> 00:03:10,120
+Now, these patients are gonna get
+
+87
+00:03:10,120 --> 00:03:11,400
+decreased cardiac output.
+
+88
+00:03:11,400 --> 00:03:13,900
+And the reason is because the hypertrophy
+
+89
+00:03:13,900 --> 00:03:15,820
+makes the heart wall so tight
+
+90
+00:03:15,820 --> 00:03:17,440
+that you can't fill the heart anymore.
+
+91
+00:03:17,920 --> 00:03:19,860
+Basically, the wall becomes so full of muscle
+
+92
+00:03:19,860 --> 00:03:21,100
+that you lose compliance.
+
+93
+00:03:21,560 --> 00:03:23,420
+And so you get a diastolic dysfunction
+
+94
+00:03:23,420 --> 00:03:24,600
+where you can't fill the heart.
+
+95
+00:03:25,020 --> 00:03:27,360
+At the same time, the patients can get sudden death
+
+96
+00:03:27,360 --> 00:03:29,260
+due to ventricular arrhythmias.
+
+97
+00:03:29,600 --> 00:03:31,340
+This is the most common cause of sudden death
+
+98
+00:03:31,340 --> 00:03:32,960
+in young athletes, and we're all aware
+
+99
+00:03:32,960 --> 00:03:34,800
+of those athletes that are playing on the field
+
+100
+00:03:34,800 --> 00:03:36,080
+and all of a sudden pass out.
+
+101
+00:03:36,400 --> 00:03:37,600
+And that's classically due
+
+102
+00:03:37,600 --> 00:03:39,400
+to a hypertrophic cardiomyopathy.
+
+103
+00:03:39,400 --> 00:03:42,340
+Another complication is syncope with exercise.
+
+104
+00:03:42,640 --> 00:03:44,220
+We can illustrate that very quickly.
+
+105
+00:03:44,680 --> 00:03:46,520
+Right atrium, right ventricle,
+
+106
+00:03:46,880 --> 00:03:48,740
+left atrium, left ventricle.
+
+107
+00:03:49,000 --> 00:03:50,420
+And the idea here is that you get
+
+108
+00:03:50,420 --> 00:03:51,780
+this preferential involvement
+
+109
+00:03:51,780 --> 00:03:53,780
+of the intraventricular septum
+
+110
+00:03:53,780 --> 00:03:56,120
+right beneath the aortic valve.
+
+111
+00:03:56,460 --> 00:03:58,200
+Now, this is basically going to create
+
+112
+00:03:58,200 --> 00:03:59,880
+almost like a relative block,
+
+113
+00:03:59,980 --> 00:04:01,480
+the same way that aortic stenosis
+
+114
+00:04:01,480 --> 00:04:02,300
+would create a block.
+
+115
+00:04:02,580 --> 00:04:04,000
+This would create a relative block
+
+116
+00:04:04,000 --> 00:04:05,220
+so that you wouldn't be able to get
+
+117
+00:04:05,220 --> 00:04:07,780
+blood across this very well.
+
+118
+00:04:07,780 --> 00:04:09,720
+And that would then present with syncope
+
+119
+00:04:09,720 --> 00:04:10,640
+during exercise.
+
+120
+00:04:11,240 --> 00:04:12,340
+So that's basically,
+
+121
+00:04:12,480 --> 00:04:14,040
+you get a functional aortic stenosis.
+
+122
+00:04:14,660 --> 00:04:15,920
+Now, if biopsy were performed,
+
+123
+00:04:16,020 --> 00:04:17,740
+you would see myofiber hypertrophy
+
+124
+00:04:17,740 --> 00:04:18,780
+with disarray.
+
+125
+00:04:19,060 --> 00:04:20,900
+And this is a particularly high-yield image,
+
+126
+00:04:20,960 --> 00:04:22,260
+so let me just take you through it.
+
+127
+00:04:22,600 --> 00:04:24,260
+Normally, when you look at the myocytes,
+
+128
+00:04:24,340 --> 00:04:26,480
+they should all sort of be lined up very nicely
+
+129
+00:04:26,480 --> 00:04:27,660
+and in parallel.
+
+130
+00:04:28,080 --> 00:04:29,640
+However, notice here that there's all this
+
+131
+00:04:29,640 --> 00:04:31,480
+disorganization with the myocytes
+
+132
+00:04:31,480 --> 00:04:33,300
+sort of going in every different direction.
+
+133
+00:04:33,300 --> 00:04:35,740
+And that's called myocyte disarray.
+
+134
+00:04:36,080 --> 00:04:37,600
+And it's the classic finding
+
+135
+00:04:37,600 --> 00:04:39,560
+in hypertrophic cardiomyopathy.
+
+136
+00:04:40,220 --> 00:04:42,700
+Restrictive cardiomyopathy is when you are restricted
+
+137
+00:04:42,700 --> 00:04:44,160
+from filling the heart.
+
+138
+00:04:44,500 --> 00:04:46,500
+And that's because there's a decreased compliance
+
+139
+00:04:46,500 --> 00:04:48,420
+of the ventricular endomyocardium.
+
+140
+00:04:48,760 --> 00:04:49,760
+Again, you can't fill,
+
+141
+00:04:49,840 --> 00:04:51,600
+so there'll be a diastolic problem.
+
+142
+00:04:52,160 --> 00:04:53,060
+Now, what are the causes?
+
+143
+00:04:53,260 --> 00:04:54,520
+Amyloid can fill the heart,
+
+144
+00:04:54,620 --> 00:04:56,500
+making the heart very difficult to expand.
+
+145
+00:04:56,680 --> 00:04:57,940
+And so, therefore, that would result
+
+146
+00:04:57,940 --> 00:04:59,560
+in a restrictive cardiomyopathy.
+
+147
+00:05:00,460 --> 00:05:02,680
+Sarcoidosis, the granulomas of sarcoidosis
+
+148
+00:05:02,680 --> 00:05:03,900
+can get into the wall of the heart,
+
+149
+00:05:04,160 --> 00:05:05,780
+making it difficult to expand,
+
+150
+00:05:05,980 --> 00:05:08,240
+resulting in a restrictive cardiomyopathy.
+
+151
+00:05:09,040 --> 00:05:11,140
+Hemochromatosis, if iron gets into the wall of the heart,
+
+152
+00:05:11,220 --> 00:05:12,240
+it can do the same thing.
+
+153
+00:05:12,720 --> 00:05:13,740
+There's an interesting disorder
+
+154
+00:05:13,740 --> 00:05:16,320
+called endocardiofibroelastosis.
+
+155
+00:05:16,860 --> 00:05:19,100
+And this is when patients have a dense layer
+
+156
+00:05:19,100 --> 00:05:22,280
+of fibrosis and elastic tissue in the endocardium.
+
+157
+00:05:22,580 --> 00:05:24,000
+Now, remember that the layers of the heart
+
+158
+00:05:24,000 --> 00:05:26,600
+are the endocardium, and then the myocardium,
+
+159
+00:05:26,800 --> 00:05:27,940
+and then the epicardium.
+
+160
+00:05:28,300 --> 00:05:30,000
+Now, imagine if this endocardium
+
+161
+00:05:30,000 --> 00:05:31,800
+becomes massively fibrosed
+
+162
+00:05:31,800 --> 00:05:34,300
+and thickened with elastic tissue.
+
+163
+00:05:34,540 --> 00:05:36,200
+You won't be able to stretch this
+
+164
+00:05:36,200 --> 00:05:37,660
+when you expand the heart open,
+
+165
+00:05:38,020 --> 00:05:39,220
+and so that would then result
+
+166
+00:05:39,220 --> 00:05:41,300
+in a restrictive cardiomyopathy.
+
+167
+00:05:41,500 --> 00:05:43,980
+Now, I should note that endocardiofibroelastosis
+
+168
+00:05:43,980 --> 00:05:45,680
+would classically be seen in children,
+
+169
+00:05:46,100 --> 00:05:47,620
+and so it's one of the rare causes
+
+170
+00:05:47,620 --> 00:05:50,020
+of a restrictive cardiomyopathy in children.
+
+171
+00:05:50,480 --> 00:05:52,580
+Another cause of restrictive cardiomyopathy
+
+172
+00:05:52,580 --> 00:05:53,580
+is Loeffler syndrome.
+
+173
+00:05:54,000 --> 00:05:55,280
+The idea here is that you get
+
+174
+00:05:55,280 --> 00:05:57,460
+an eosinophilic infiltrate with inflammation
+
+175
+00:05:57,460 --> 00:06:00,060
+within the wall of the heart, again with eosinophils,
+
+176
+00:06:00,380 --> 00:06:03,760
+and that results in fibrosis of the endomyocardium,
+
+177
+00:06:03,840 --> 00:06:05,740
+both the endocardium and the myocardium.
+
+178
+00:06:06,120 --> 00:06:08,360
+Of course, this fibrosis would then make it difficult
+
+179
+00:06:08,360 --> 00:06:09,900
+for the heart to expand and fill,
+
+180
+00:06:10,260 --> 00:06:12,480
+and so you'd get a restrictive cardiomyopathy.
+
+181
+00:06:12,740 --> 00:06:14,460
+Patients with a restrictive cardiomyopathy
+
+182
+00:06:14,460 --> 00:06:16,120
+will present with congestive heart failure,
+
+183
+00:06:16,280 --> 00:06:17,640
+and again, that's because they're not able
+
+184
+00:06:17,640 --> 00:06:19,500
+to fill the heart, so the blood will back up
+
+185
+00:06:19,500 --> 00:06:20,480
+behind the heart.
+
+186
+00:06:20,960 --> 00:06:22,480
+And the classic finding on EKG,
+
+187
+00:06:22,600 --> 00:06:23,780
+because you've got all this material
+
+188
+00:06:23,780 --> 00:06:26,640
+on the wall of the heart will be low-voltage EKG
+
+189
+00:06:26,640 --> 00:06:29,140
+with diminished QRS amplitudes,
+
+190
+00:06:29,300 --> 00:06:30,640
+and that's important to note as well.
+
+191
+00:06:31,220 --> 00:06:32,520
+The final section of this chapter
+
+192
+00:06:32,520 --> 00:06:33,680
+deals with cardiac tumors.
+
+193
+00:06:33,840 --> 00:06:34,760
+It's very straightforward.
+
+194
+00:06:35,160 --> 00:06:37,240
+The first cardiac tumor is called a myxoma.
+
+195
+00:06:37,640 --> 00:06:39,640
+This is a mesenchymal proliferation
+
+196
+00:06:39,640 --> 00:06:42,180
+where you get a gelatinous appearance to the tumor.
+
+197
+00:06:42,580 --> 00:06:44,900
+On histology, it shows abundant ground substance,
+
+198
+00:06:45,020 --> 00:06:46,620
+and that's what makes it look so gelatinous,
+
+199
+00:06:46,900 --> 00:06:50,380
+and this is the most common primary cardiac tumor in adults.
+
+200
+00:06:50,680 --> 00:06:51,740
+Remember that in adults,
+
+201
+00:06:53,780 --> 00:06:56,780
+they're not going to be able to produce a tumor,
+
+202
+00:06:56,880 --> 00:06:58,340
+so the only real tumor of the heart
+
+203
+00:06:58,340 --> 00:06:59,180
+that you're going to get
+
+204
+00:06:59,180 --> 00:07:02,260
+is going to be a tumor of the mesenchymal connective tissue.
+
+205
+00:07:02,680 --> 00:07:03,960
+Again, that's called a myxoma.
+
+206
+00:07:04,480 --> 00:07:06,740
+Now, this tumor normally grows in the left atrium
+
+207
+00:07:06,740 --> 00:07:08,040
+as a pedunculated mass,
+
+208
+00:07:08,180 --> 00:07:10,400
+and it can cause syncope due to obstruction
+
+209
+00:07:10,400 --> 00:07:11,260
+of the mitral valve.
+
+210
+00:07:11,820 --> 00:07:13,220
+Let's briefly illustrate this.
+
+211
+00:07:13,280 --> 00:07:14,400
+Here's a picture of the heart.
+
+212
+00:07:14,540 --> 00:07:16,540
+Again, these are our four chambers,
+
+213
+00:07:16,780 --> 00:07:18,160
+and in this particular case,
+
+214
+00:07:18,220 --> 00:07:19,500
+we're in the left atrium,
+
+215
+00:07:19,840 --> 00:07:21,500
+and you've got this pedunculated mass.
+
+216
+00:07:21,720 --> 00:07:23,740
+Pedunculated means it grows off a little stalk.
+
+217
+00:07:24,120 --> 00:07:25,780
+And so you've got this pedunculated mass.
+
+218
+00:07:26,100 --> 00:07:29,400
+Now, this mass could easily block the mitral valve here,
+
+219
+00:07:29,760 --> 00:07:31,080
+and were it to block the mitral valve,
+
+220
+00:07:31,160 --> 00:07:32,800
+that would block the blood flow through the heart.
+
+221
+00:07:33,100 --> 00:07:34,980
+Of course, blood would not go to the brain then,
+
+222
+00:07:35,200 --> 00:07:36,160
+and so you'd get syncope.
+
+223
+00:07:36,600 --> 00:07:38,060
+And so that's why we say here in the book
+
+224
+00:07:38,060 --> 00:07:40,120
+that it causes syncope due to obstruction
+
+225
+00:07:40,120 --> 00:07:41,380
+of the mitral valve.
+
+226
+00:07:41,940 --> 00:07:43,500
+The next tumor is rhabdomyoma.
+
+227
+00:07:43,920 --> 00:07:45,220
+Rhabdomyoma means striated muscle,
+
+228
+00:07:45,340 --> 00:07:46,320
+and oma means mass.
+
+229
+00:07:46,680 --> 00:07:49,380
+This is a benign hemartoma of cardiac muscle.
+
+230
+00:07:49,840 --> 00:07:52,560
+It's the most common primary cardiac tumor in children.
+
+231
+00:07:52,560 --> 00:07:55,480
+High yield, it's associated with tuberous sclerosis.
+
+232
+00:07:55,660 --> 00:07:56,620
+That is very high yield,
+
+233
+00:07:57,020 --> 00:07:59,080
+and it usually arises in the ventricle.
+
+234
+00:07:59,680 --> 00:08:01,560
+Now, the last discussion about cardiac tumors
+
+235
+00:08:01,560 --> 00:08:02,700
+involves metastases.
+
+236
+00:08:03,380 --> 00:08:05,120
+Metastases to the heart is more common
+
+237
+00:08:05,120 --> 00:08:06,140
+than primary tumors.
+
+238
+00:08:06,640 --> 00:08:08,140
+And common metastases to the heart,
+
+239
+00:08:08,280 --> 00:08:10,300
+they include breast and lung cancer,
+
+240
+00:08:10,540 --> 00:08:11,660
+melanoma, and lymphoma.
+
+241
+00:08:11,760 --> 00:08:13,780
+These are the tumors that love to go to the heart.
+
+242
+00:08:14,200 --> 00:08:15,020
+When they go to the heart,
+
+243
+00:08:15,120 --> 00:08:16,660
+they usually go to the pericardium,
+
+244
+00:08:16,660 --> 00:08:19,540
+and it results in a pericardial effusion.
+
+245
+00:08:20,000 --> 00:08:22,920
+And so that closes off both the section and this chapter.
+
