@@ -1,0 +1,1024 @@
+1
+00:00:00,000 --> 00:00:02,540
+Okay, other disorders of hemostasis.
+
+2
+00:00:02,740 --> 00:00:04,600
+And the first of these that we want to discuss
+
+3
+00:00:04,600 --> 00:00:06,440
+is heparin-induced thrombocytopenia.
+
+4
+00:00:06,540 --> 00:00:09,120
+Now, the idea here is that we give a patient heparin,
+
+5
+00:00:09,140 --> 00:00:10,200
+and when we give them heparin,
+
+6
+00:00:10,400 --> 00:00:11,920
+they develop thrombocytopenia,
+
+7
+00:00:12,020 --> 00:00:13,620
+or a decrease in their platelet count.
+
+8
+00:00:14,080 --> 00:00:15,800
+The reason why this occurs is because
+
+9
+00:00:15,800 --> 00:00:18,180
+the heparin can form a complex
+
+10
+00:00:18,180 --> 00:00:20,360
+with a molecule on the surface of the platelets
+
+11
+00:00:20,360 --> 00:00:22,860
+called platelet factor IV.
+
+12
+00:00:23,140 --> 00:00:24,340
+That's important to know.
+
+13
+00:00:24,720 --> 00:00:27,560
+So heparin can form this complex with platelet factor IV,
+
+14
+00:00:27,560 --> 00:00:29,120
+and it's against this complex
+
+15
+00:00:29,120 --> 00:00:32,220
+that the patient can develop IgG autoantibodies.
+
+16
+00:00:32,380 --> 00:00:36,300
+And those IgG antibodies will then subsequently result in
+
+17
+00:00:36,300 --> 00:00:39,040
+consumption of those platelets by the spleen.
+
+18
+00:00:39,460 --> 00:00:41,980
+And so that would result in heparin-induced thrombocytopenia,
+
+19
+00:00:42,300 --> 00:00:44,640
+or a decrease in the platelet count because of heparin.
+
+20
+00:00:45,040 --> 00:00:47,440
+One of the feared complications of this disorder
+
+21
+00:00:47,440 --> 00:00:50,940
+is that patients can have fragments of their destroyed platelets
+
+22
+00:00:50,940 --> 00:00:52,360
+be shot out into the circulation,
+
+23
+00:00:52,900 --> 00:00:54,880
+and that would activate the remaining platelets,
+
+24
+00:00:54,880 --> 00:00:57,320
+which would result in thrombosis.
+
+25
+00:00:57,320 --> 00:01:01,880
+And thrombosis is forming a blood clot within a blood vessel,
+
+26
+00:01:02,100 --> 00:01:03,820
+which would then, of course, occlude the blood vessel
+
+27
+00:01:03,820 --> 00:01:06,260
+and result in complications of lack of blood flow.
+
+28
+00:01:06,640 --> 00:01:08,800
+So thrombosis is a feared complication
+
+29
+00:01:08,800 --> 00:01:10,760
+of heparin-induced thrombocytopenia.
+
+30
+00:01:10,960 --> 00:01:13,860
+One of the important things to note from PHARM,
+
+31
+00:01:13,900 --> 00:01:15,140
+going back to pharmacology,
+
+32
+00:01:15,480 --> 00:01:17,500
+is when patients have heparin-induced thrombocytopenia,
+
+33
+00:01:17,580 --> 00:01:19,040
+we obviously have to stop the heparin,
+
+34
+00:01:19,300 --> 00:01:21,960
+and then we'd have a continued fare of thrombosis,
+
+35
+00:01:21,960 --> 00:01:24,300
+so we would give some other anticoagulant.
+
+36
+00:01:24,300 --> 00:01:27,160
+And the one anticoagulant that you don't want to give these patients
+
+37
+00:01:27,160 --> 00:01:29,360
+is coumadin because in these patients
+
+38
+00:01:29,360 --> 00:01:31,840
+there's an increased risk of coumadin skin necrosis,
+
+39
+00:01:31,940 --> 00:01:34,620
+and so we'd use some other anticoagulant.
+
+40
+00:01:34,960 --> 00:01:37,180
+Anyway, that's a little bit of a pharmacology tie-in.
+
+41
+00:01:37,740 --> 00:01:38,760
+The next of the disorders,
+
+42
+00:01:39,060 --> 00:01:41,620
+disseminated intravascular coagulation,
+
+43
+00:01:42,060 --> 00:01:44,760
+and the idea here is that we get pathologic activation
+
+44
+00:01:44,760 --> 00:01:46,040
+of the coagulation cascade.
+
+45
+00:01:46,220 --> 00:01:48,380
+Now normally, physiologic activation would be,
+
+46
+00:01:48,520 --> 00:01:51,040
+for example, if we had damage to the blood vessel
+
+47
+00:01:51,040 --> 00:01:53,140
+and we needed to activate the coag cascade.
+
+48
+00:01:53,140 --> 00:01:55,220
+This is pathologic activation,
+
+49
+00:01:55,420 --> 00:01:57,700
+abnormal activation of the coagulation cascade.
+
+50
+00:01:58,180 --> 00:01:59,740
+Now the problems are going to be twofold.
+
+51
+00:02:00,240 --> 00:02:02,860
+When you have abnormal activation of the coagulation cascade,
+
+52
+00:02:03,120 --> 00:02:05,240
+one problem is that if you've got a blood vessel
+
+53
+00:02:05,240 --> 00:02:07,040
+and you start activating the coag cascade,
+
+54
+00:02:07,580 --> 00:02:11,600
+you're going to result in blocking of the small vessels,
+
+55
+00:02:12,140 --> 00:02:14,080
+and that's going to result in ischemia
+
+56
+00:02:14,080 --> 00:02:16,000
+and infarction within tissues.
+
+57
+00:02:16,440 --> 00:02:18,100
+So that's one problem of DIC.
+
+58
+00:02:18,580 --> 00:02:20,080
+A second problem of DIC is that
+
+59
+00:02:20,080 --> 00:02:22,220
+as you begin to activate the coagulation cascade
+
+60
+00:02:22,220 --> 00:02:25,460
+and produce massive blood clots throughout the blood vessels,
+
+61
+00:02:25,740 --> 00:02:27,700
+you're going to be consuming platelets and factors.
+
+62
+00:02:28,180 --> 00:02:30,040
+And so as we consume platelets and factors,
+
+63
+00:02:30,340 --> 00:02:31,580
+then the patients will start bleeding,
+
+64
+00:02:31,700 --> 00:02:34,260
+and they'll start bleeding from, for example, IV sites.
+
+65
+00:02:34,800 --> 00:02:37,020
+That's one place that they classically bleed from.
+
+66
+00:02:37,260 --> 00:02:39,300
+And then they can bleed from any mucosal surface.
+
+67
+00:02:39,420 --> 00:02:41,600
+So, for example, they can bleed from the mouth,
+
+68
+00:02:41,720 --> 00:02:43,600
+from the lung by coughing up blood.
+
+69
+00:02:43,860 --> 00:02:46,820
+They can bleed through the GI tract,
+
+70
+00:02:46,820 --> 00:02:49,600
+and they can, for example, have hematuria bleeding
+
+71
+00:02:49,600 --> 00:02:54,360
+from the urothelial line surfaces, et cetera.
+
+72
+00:02:54,740 --> 00:02:57,560
+So this is some examples of what happens in DIC.
+
+73
+00:02:57,740 --> 00:02:59,400
+It's sort of like a yin and a yang.
+
+74
+00:02:59,600 --> 00:03:04,720
+You get these plots, which then block the different tissues
+
+75
+00:03:04,720 --> 00:03:06,340
+and create ischemia and infarction,
+
+76
+00:03:06,600 --> 00:03:09,360
+and then the opposing thing is that you consume platelets
+
+77
+00:03:09,360 --> 00:03:10,620
+and factors in the process,
+
+78
+00:03:10,760 --> 00:03:13,380
+and so that results in bleeding in other areas of the body.
+
+79
+00:03:13,380 --> 00:03:16,960
+Remember that DIC is almost always secondary
+
+80
+00:03:16,960 --> 00:03:18,260
+to another disease process.
+
+81
+00:03:18,620 --> 00:03:19,440
+You don't get DIC.
+
+82
+00:03:19,620 --> 00:03:21,540
+You get DIC because of something else.
+
+83
+00:03:22,020 --> 00:03:25,180
+So, for example, obstetric complication can result in DIC,
+
+84
+00:03:25,640 --> 00:03:28,280
+and the idea here is that the amniotic fluid
+
+85
+00:03:28,280 --> 00:03:30,120
+contains tissue thromboplastin,
+
+86
+00:03:30,200 --> 00:03:32,940
+which is a strong activator of the coagulation cascade,
+
+87
+00:03:33,340 --> 00:03:35,220
+and so if amniotic fluid were to leak
+
+88
+00:03:35,220 --> 00:03:36,520
+into the mother's circulation,
+
+89
+00:03:36,820 --> 00:03:39,240
+then that could potentially result in activation
+
+90
+00:03:39,240 --> 00:03:42,360
+of the coagulation cascade via tissue thromboplastin.
+
+91
+00:03:42,360 --> 00:03:45,640
+And sepsis can do it as well, and that happens in two ways.
+
+92
+00:03:45,980 --> 00:03:48,840
+First of all, the endotoxin from the bacterial walls
+
+93
+00:03:48,840 --> 00:03:50,460
+can activate the coagulation cascade,
+
+94
+00:03:50,900 --> 00:03:53,260
+and second of all, in response to this infection,
+
+95
+00:03:53,380 --> 00:03:57,280
+the macrophages tend to produce cytokines like IL-1 and TNF,
+
+96
+00:03:57,640 --> 00:04:01,480
+and that can also activate the coagulation cascade indirectly.
+
+97
+00:04:02,560 --> 00:04:04,360
+Adenocarcinoma can result in DIC,
+
+98
+00:04:04,540 --> 00:04:05,800
+especially if it's metastatic.
+
+99
+00:04:06,120 --> 00:04:08,440
+Again, the idea here would be that the mucin
+
+100
+00:04:08,440 --> 00:04:11,820
+from the adenocarcinoma could activate the coagulation cascade.
+
+101
+00:04:13,060 --> 00:04:16,720
+And acute promyelocytic leukemia is another classic example.
+
+102
+00:04:17,180 --> 00:04:18,600
+In acute promyelocytic leukemia,
+
+103
+00:04:18,680 --> 00:04:21,720
+remember that the cells are loaded with primary granules,
+
+104
+00:04:21,840 --> 00:04:25,240
+and sometimes those primary granules coalesce to form hour rods.
+
+105
+00:04:25,340 --> 00:04:27,880
+That's one of the classic histologic findings for APL.
+
+106
+00:04:28,300 --> 00:04:29,820
+Anyway, in this particular disorder,
+
+107
+00:04:29,920 --> 00:04:32,520
+those primary granules can actually enter into the circulation,
+
+108
+00:04:32,520 --> 00:04:34,440
+and when they enter the circulation,
+
+109
+00:04:34,680 --> 00:04:36,760
+they can activate the coagulation cascade.
+
+110
+00:04:37,220 --> 00:04:38,300
+And finally, a funny one,
+
+111
+00:04:38,380 --> 00:04:40,200
+but that likes to show up on examinations,
+
+112
+00:04:40,300 --> 00:04:41,720
+is a rattlesnake bite.
+
+113
+00:04:42,140 --> 00:04:45,440
+A rattlesnake bite can result in venom going into the circulation,
+
+114
+00:04:45,860 --> 00:04:48,020
+which can then activate the coagulation cascade.
+
+115
+00:04:48,560 --> 00:04:50,820
+Now, the laboratory findings are relatively straightforward.
+
+116
+00:04:51,020 --> 00:04:52,860
+They're sort of based on what we already understand.
+
+117
+00:04:53,180 --> 00:04:55,020
+So obviously, we're going to be consuming platelets
+
+118
+00:04:55,020 --> 00:04:57,180
+because we're making platelet-fribin thrombi,
+
+119
+00:04:57,520 --> 00:04:58,760
+so the platelet count will go down.
+
+120
+00:04:58,760 --> 00:05:01,880
+Obviously, we're going to be consuming coagulation factors
+
+121
+00:05:01,880 --> 00:05:04,480
+because we're making platelet-fibrin thrombi.
+
+122
+00:05:04,780 --> 00:05:07,180
+So the PT and the PT are going to go up.
+
+123
+00:05:07,740 --> 00:05:11,360
+Now, remember that when we make these platelet-fibrin thrombi,
+
+124
+00:05:11,460 --> 00:05:14,180
+the key linker molecule that allows all those platelets
+
+125
+00:05:14,180 --> 00:05:16,740
+to aggregate together is going to be a fibrinogen.
+
+126
+00:05:17,080 --> 00:05:20,400
+So because we're making massive numbers of these thrombi,
+
+127
+00:05:20,700 --> 00:05:23,400
+the fibrinogen is going to go down.
+
+128
+00:05:23,500 --> 00:05:24,480
+It's going to be consumed.
+
+129
+00:05:25,100 --> 00:05:28,200
+And we'll also get a microangiopathic hemolytic anemia.
+
+130
+00:05:28,200 --> 00:05:30,520
+Again, the idea is that in this particular disorder,
+
+131
+00:05:30,660 --> 00:05:33,420
+some of the thrombi may be partial like this,
+
+132
+00:05:33,500 --> 00:05:37,440
+and these platelet-fibrin thrombi would then have to be crossed by the blood cell,
+
+133
+00:05:37,500 --> 00:05:41,000
+and when the red blood cell crosses it, it'll get sheared, producing schistocytes.
+
+134
+00:05:41,380 --> 00:05:47,100
+So we would get a microangiopathic hemolytic anemia in this particular disorder as well.
+
+135
+00:05:47,980 --> 00:05:50,200
+Now, one super high yield point here
+
+136
+00:05:50,200 --> 00:05:54,760
+is that the patients get elevated fibrin split products, in particular D-dimer.
+
+137
+00:05:54,760 --> 00:05:57,220
+Now, remember that when you form a clot,
+
+138
+00:05:57,380 --> 00:05:59,400
+so let's go back and remember that we've got platelets,
+
+139
+00:05:59,780 --> 00:06:05,920
+and then the platelets are stuck to each other in this clot by fibrinogen initially,
+
+140
+00:06:06,140 --> 00:06:07,980
+which then gets converted to fibrin.
+
+141
+00:06:08,040 --> 00:06:10,220
+So let's pretend that this is cross-linked fibrin.
+
+142
+00:06:10,220 --> 00:06:13,140
+Eventually, what happens anytime you form a clot,
+
+143
+00:06:13,280 --> 00:06:17,080
+the really final step of forming the clot is to actually lyse the clot.
+
+144
+00:06:17,600 --> 00:06:18,420
+Now, think about this.
+
+145
+00:06:18,460 --> 00:06:21,800
+When you get a cut in your blood vessel and you want to seal off that vessel,
+
+146
+00:06:22,280 --> 00:06:24,880
+the ultimate goal isn't to seal off that clot.
+
+147
+00:06:25,000 --> 00:06:29,940
+The ultimate goal is to heal that area and eventually remove the thrombus,
+
+148
+00:06:30,000 --> 00:06:33,700
+which was just like a Band-Aid, as I mentioned in the very beginning of these lectures.
+
+149
+00:06:33,700 --> 00:06:38,000
+And so the end goal of the coagulation cascade, the very final step,
+
+150
+00:06:38,260 --> 00:06:39,620
+is to actually lyse this clot.
+
+151
+00:06:40,020 --> 00:06:44,180
+Now, when you take cross-linked fibrin and you lyse it,
+
+152
+00:06:44,580 --> 00:06:48,880
+the product of lysing cross-linked fibrin is D-dimer.
+
+153
+00:06:49,980 --> 00:06:55,160
+So D-dimer is an excellent test for DIC.
+
+154
+00:06:55,500 --> 00:06:57,460
+In fact, it is the best screening test.
+
+155
+00:06:57,560 --> 00:07:00,340
+An elevated D-dimer is the best screening test for DIC
+
+156
+00:07:00,340 --> 00:07:04,300
+because it tells you that the entire coagulation cascade has been activated
+
+157
+00:07:04,300 --> 00:07:13,100
+to the extent that you even activate the splitting of the cross-linked fibrin.
+
+158
+00:07:13,500 --> 00:07:16,780
+So that's a very important thing to recognize,
+
+159
+00:07:17,040 --> 00:07:20,520
+that the elevated D-dimer is the best screening test for DIC,
+
+160
+00:07:20,680 --> 00:07:21,920
+and I've already explained why.
+
+161
+00:07:23,040 --> 00:07:23,360
+All right.
+
+162
+00:07:23,460 --> 00:07:26,360
+Now, the treatment will involve addressing the underlying cause.
+
+163
+00:07:26,520 --> 00:07:28,540
+So remember, DIC is always caused by something,
+
+164
+00:07:28,540 --> 00:07:30,500
+so you want to make sure you handle that.
+
+165
+00:07:30,860 --> 00:07:34,020
+And then you'll have to determine how to next handle a patient
+
+166
+00:07:34,020 --> 00:07:35,800
+based on what might be going on.
+
+167
+00:07:35,900 --> 00:07:41,160
+So you might transfuse blood products or give cryoprecipitate as the need arises.
+
+168
+00:07:42,720 --> 00:07:46,860
+The next set of disorders that we want to talk about are disorders of fibrinolysis.
+
+169
+00:07:47,000 --> 00:07:48,320
+Now, what is fibrinolysis?
+
+170
+00:07:48,400 --> 00:07:51,180
+Before you can even talk about the disorders, you need to understand the normal.
+
+171
+00:07:52,000 --> 00:07:55,920
+Fibrinolysis is that very end stage of coagulation that I just talked about.
+
+172
+00:07:55,920 --> 00:07:58,760
+Remember that once you've formed that thrombus,
+
+173
+00:07:59,040 --> 00:08:02,180
+the next thing that you're going to want to do is you're going to want to remove that thrombus.
+
+174
+00:08:02,260 --> 00:08:04,980
+That's the very final step of coagulation.
+
+175
+00:08:05,640 --> 00:08:11,080
+And the removal of the thrombus occurs via a molecule called plasmin.
+
+176
+00:08:11,500 --> 00:08:16,260
+Now, the idea here is that we activate a serum protein called plasminogen,
+
+177
+00:08:16,840 --> 00:08:18,640
+and we convert that to plasmin.
+
+178
+00:08:18,640 --> 00:08:25,080
+And the enzyme that does that is called TPA, tissue plasminogen activator.
+
+179
+00:08:25,500 --> 00:08:34,220
+And remember that TPA basically allows for the conversion of plasminogen to plasmin.
+
+180
+00:08:36,330 --> 00:08:36,630
+All right?
+
+181
+00:08:36,890 --> 00:08:40,350
+And plasmin is a key molecule that's involved in fibrinolysis.
+
+182
+00:08:40,730 --> 00:08:41,930
+Now, what does plasmin do?
+
+183
+00:08:42,010 --> 00:08:43,250
+It does three things.
+
+184
+00:08:43,810 --> 00:08:45,910
+Number one, it cleaves fibrin.
+
+185
+00:08:46,270 --> 00:08:48,990
+Now, remember that fibrin is what was holding together the thrombus.
+
+186
+00:08:48,990 --> 00:08:56,070
+And it cleaves serum fibrinogen, so it's as if it's almost trying to stop the production of any future thrombus as well.
+
+187
+00:08:56,390 --> 00:08:57,870
+So it's trying to shut down the whole system.
+
+188
+00:08:58,010 --> 00:09:00,630
+So it cleaves the fibrin, which is cross-linked, right?
+
+189
+00:09:00,890 --> 00:09:06,910
+And then it also cleaves the serum fibrinogen to get rid of the possibility of forming additional clot.
+
+190
+00:09:07,470 --> 00:09:09,610
+Number two, it destroys coagulation factors.
+
+191
+00:09:09,750 --> 00:09:15,310
+Again, shutting down the ability to form any additional blood clot or thrombus.
+
+192
+00:09:15,610 --> 00:09:17,870
+And number three, it blocks platelet aggregation.
+
+193
+00:09:17,870 --> 00:09:21,790
+So by blocking platelet aggregation, obviously, you wouldn't be able to form additional clot.
+
+194
+00:09:22,230 --> 00:09:28,090
+So it shuts down the ability to form additional clot and then lyses the clot that currently exists.
+
+195
+00:09:28,630 --> 00:09:35,990
+Now, it's important to note that, obviously, you don't want this molecule overactive because if it was overactive, you would never be able to form a thrombus.
+
+196
+00:09:35,990 --> 00:09:41,710
+And so we need to shut off plasmin as well and alpha-2-antiplasmin.
+
+197
+00:09:42,130 --> 00:09:46,530
+Alpha-2-antiplasmin is the molecule that inactivates plasmin.
+
+198
+00:09:46,630 --> 00:09:48,310
+And that's written in your text as well.
+
+199
+00:09:48,970 --> 00:09:49,150
+All right.
+
+200
+00:09:49,210 --> 00:09:53,570
+Now, in disorders of fibrinolysis, the problem is that you have plasmin overactivity.
+
+201
+00:09:53,570 --> 00:09:57,970
+Plasmin overactivity, however, is not occurring because you actually have a blood clot.
+
+202
+00:09:58,110 --> 00:10:01,830
+It's occurring because there's some sort of pathology that overactivates plasmin.
+
+203
+00:10:02,210 --> 00:10:06,030
+So when there's pathology that overactivates plasmin, there really is no clot to cleave.
+
+204
+00:10:06,410 --> 00:10:11,170
+Instead, what's going to happen is the plasmin is going to start knocking out coagulation factors.
+
+205
+00:10:11,490 --> 00:10:14,250
+It's going to start knocking out the ability of platelets to aggregate.
+
+206
+00:10:14,250 --> 00:10:19,610
+And it's going to start cleaving serum fibrinogen because that's something that it normally does.
+
+207
+00:10:19,950 --> 00:10:25,570
+And so that's important because this disorder is going to result in excessive cleavage of serum fibrinogen.
+
+208
+00:10:25,950 --> 00:10:27,090
+Now, what are some examples?
+
+209
+00:10:27,170 --> 00:10:30,490
+One example in which this can occur is radical prostatectomy.
+
+210
+00:10:31,030 --> 00:10:35,310
+One thing that can happen, theoretically can happen in a radical prostatectomy,
+
+211
+00:10:35,470 --> 00:10:38,790
+is that urokinase can be released while that procedure is ongoing.
+
+212
+00:10:39,290 --> 00:10:42,030
+That could then activate the plasmin.
+
+213
+00:10:42,030 --> 00:10:50,650
+And then the plasmin would then begin to chop up coagulation factors, would begin to chop up serum fibrinogen.
+
+214
+00:10:51,090 --> 00:10:56,570
+Similarly, if a patient has cirrhosis of the liver, the molecule that inactivates plasmin,
+
+215
+00:10:56,670 --> 00:11:00,990
+which is called alpha-2-antiplasmin, which is produced in the liver, would not be produced
+
+216
+00:11:00,990 --> 00:11:03,390
+or would be produced in less amount.
+
+217
+00:11:03,770 --> 00:11:08,230
+And so this can also then be an example of how we could have overactivity of plasmin.
+
+218
+00:11:08,230 --> 00:11:13,510
+Now, these patients, they present the same way that you would see a patient present with DIC.
+
+219
+00:11:14,010 --> 00:11:17,310
+So this is very important because this is the way examiners are going to go after this.
+
+220
+00:11:17,610 --> 00:11:20,530
+They're going to give you a clinical scenario that looks just like DIC,
+
+221
+00:11:20,950 --> 00:11:23,150
+but you're going to have to identify that it's not DIC.
+
+222
+00:11:23,430 --> 00:11:26,450
+Instead, it's some disorder of fibrinolysis.
+
+223
+00:11:26,910 --> 00:11:28,250
+Now, what are the lab findings going to be?
+
+224
+00:11:28,290 --> 00:11:29,330
+They're going to be very helpful here.
+
+225
+00:11:29,330 --> 00:11:31,230
+The PT and the PTT are going to be up.
+
+226
+00:11:31,310 --> 00:11:31,550
+Why?
+
+227
+00:11:31,950 --> 00:11:36,190
+Because remember, plasmin has the ability to cleave coagulation factors,
+
+228
+00:11:36,470 --> 00:11:38,670
+so the PT and the PTT will go up.
+
+229
+00:11:39,110 --> 00:11:40,490
+The bleeding time is going to go up.
+
+230
+00:11:40,830 --> 00:11:42,170
+Why is the bleeding type going to go up?
+
+231
+00:11:42,230 --> 00:11:47,230
+Because remember that plasmin has the ability to inhibit platelet aggregation,
+
+232
+00:11:47,550 --> 00:11:48,830
+so that would raise the bleeding time.
+
+233
+00:11:49,070 --> 00:11:50,910
+But of course, the platelet count would be normal.
+
+234
+00:11:51,310 --> 00:11:53,550
+Now, remember, in DIC, the platelet count would be low
+
+235
+00:11:53,550 --> 00:11:58,570
+because you would be using up the platelets in the formation of those platelet fibrin thrombi.
+
+236
+00:11:58,570 --> 00:12:03,370
+And then you're also going to have increased fibrinogen split products.
+
+237
+00:12:03,810 --> 00:12:07,470
+So the fibrinogen is going to be split into products.
+
+238
+00:12:07,510 --> 00:12:10,910
+Those are called fibrinogen split products, but there will be no D-dimer.
+
+239
+00:12:11,290 --> 00:12:12,850
+Now, remember that in this particular case,
+
+240
+00:12:13,270 --> 00:12:16,910
+the disorders are not due to any formation of thrombus.
+
+241
+00:12:16,970 --> 00:12:18,750
+We don't have any thrombus to begin with.
+
+242
+00:12:18,990 --> 00:12:24,490
+We've just over-activated plasminogen outside of the coagulation cascade.
+
+243
+00:12:24,490 --> 00:12:33,210
+And so the over-activation of plasminogen is going to cleave fibrinogen,
+
+244
+00:12:33,390 --> 00:12:38,030
+but there will be no fibrin to cleave because there really was no clot formed, right?
+
+245
+00:12:38,190 --> 00:12:40,590
+And so there will not be an increase in D-dimer.
+
+246
+00:12:41,010 --> 00:12:43,090
+So this is very important because, remember,
+
+247
+00:12:43,170 --> 00:12:46,070
+the best screening test for DIC was an increase in D-dimer.
+
+248
+00:12:46,070 --> 00:12:49,450
+And so if a patient's got symptoms that are very similar to DIC
+
+249
+00:12:49,450 --> 00:12:51,570
+but does not have an elevated D-dimer,
+
+250
+00:12:51,910 --> 00:12:55,190
+you really want to think about a disorder of fibrinolysis.
+
+251
+00:12:55,670 --> 00:12:58,330
+Now, the treatment is aminocoproic acid.
+
+252
+00:12:58,710 --> 00:13:02,530
+And aminocoproic acid blocks the activation of plasminogen
+
+253
+00:13:02,530 --> 00:13:05,490
+so that, therefore, plasmin could not be formed.
+
+254
+00:13:06,310 --> 00:13:08,190
+And that concludes this section.
+
+255
+00:13:08,310 --> 00:13:09,970
+The next section will deal with thrombosis.
+
+256
+00:13:09,970 --> 00:13:39,950
+The next section will be done with thrombosis.
+
