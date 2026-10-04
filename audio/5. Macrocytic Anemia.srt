@@ -1,0 +1,1216 @@
+1
+00:00:00,690 --> 00:00:03,610
+The next section that we want to discuss
+
+2
+00:00:03,610 --> 00:00:06,190
+concerns macrocytic anemia.
+
+3
+00:00:06,190 --> 00:00:09,190
+Now in macrocytic anemia, the idea is that
+
+4
+00:00:09,190 --> 00:00:11,510
+the patient develops an anemia, however,
+
+5
+00:00:11,510 --> 00:00:15,130
+the red blood cells are relatively bigger than normal.
+
+6
+00:00:15,130 --> 00:00:19,110
+Recall that the normal MCV is about 80 to 100,
+
+7
+00:00:19,110 --> 00:00:23,330
+and in a macrocytic anemia, the MCV is greater than 100.
+
+8
+00:00:23,330 --> 00:00:26,710
+We can ask ourselves, well, why would the MCV be big?
+
+9
+00:00:26,710 --> 00:00:30,490
+Or in other words, what's driving the cells to be large?
+
+10
+00:00:30,490 --> 00:00:32,890
+And the answer goes back to the paradigm
+
+11
+00:00:32,890 --> 00:00:35,110
+that we've already established in our discussion
+
+12
+00:00:35,110 --> 00:00:36,650
+of microcytic anemia.
+
+13
+00:00:36,650 --> 00:00:38,970
+Remember that I told you that in microcytic anemia,
+
+14
+00:00:38,970 --> 00:00:43,890
+the idea was that we started with a red blood cell precursor
+
+15
+00:00:43,890 --> 00:00:46,770
+in the bone marrow, and that that red blood cell precursor
+
+16
+00:00:46,770 --> 00:00:50,670
+in the bone marrow divides, divides, and divides,
+
+17
+00:00:50,670 --> 00:00:53,350
+and divides several times until it eventually
+
+18
+00:00:53,350 --> 00:00:55,410
+produces mature red blood cells.
+
+19
+00:00:55,410 --> 00:00:57,650
+Recall that I said that the red blood cell precursor
+
+20
+00:00:57,650 --> 00:01:00,490
+is a relatively large cell, and that each
+
+21
+00:01:00,490 --> 00:01:03,210
+time it divides, it becomes slightly smaller.
+
+22
+00:01:03,210 --> 00:01:07,450
+Now in a microcytic anemia, it's as if an extra division
+
+23
+00:01:07,450 --> 00:01:10,950
+occurs, making the cells just a little bit smaller than usual.
+
+24
+00:01:10,950 --> 00:01:14,870
+Well, in a macrocytic anemia, it's as if one less division
+
+25
+00:01:14,870 --> 00:01:18,430
+occurs, and when one less division occurs, the cells are going
+
+26
+00:01:18,430 --> 00:01:21,830
+to be larger than normal, and hence the MCV will be greater
+
+27
+00:01:21,830 --> 00:01:23,110
+than 100.
+
+28
+00:01:23,110 --> 00:01:27,390
+We can then ask the question, why would one less division occur?
+
+29
+00:01:27,390 --> 00:01:31,390
+And the answer here is that in a macrocytic anemia, there is usually
+
+30
+00:01:31,390 --> 00:01:34,990
+an upset in the production of DNA precursors.
+
+31
+00:01:34,990 --> 00:01:37,850
+Now remember that every time a cell divides, it requires DNA
+
+32
+00:01:37,850 --> 00:01:41,950
+precursors because each division requires a copying of the nucleus.
+
+33
+00:01:41,950 --> 00:01:46,650
+And so if there's a disruption in DNA precursors, the cell won't be
+
+34
+00:01:46,650 --> 00:01:50,650
+able to divide because it doesn't have the necessary precursors to
+
+35
+00:01:50,650 --> 00:01:52,030
+copy the nucleus.
+
+36
+00:01:52,030 --> 00:01:57,250
+One less division will occur, resulting in a macrocytic anemia.
+
+37
+00:01:57,250 --> 00:02:01,330
+Now this then raises the question of what are the major causes of
+
+38
+00:02:01,330 --> 00:02:02,770
+macrocytic anemia.
+
+39
+00:02:02,770 --> 00:02:06,030
+And of course, the major causes of macrocytic anemia will be those that
+
+40
+00:02:06,030 --> 00:02:10,290
+are related to the production of DNA precursors.
+
+41
+00:02:10,290 --> 00:02:16,130
+And so the two most common causes are folate deficiency and vitamin B12
+
+42
+00:02:16,130 --> 00:02:17,370
+deficiency.
+
+43
+00:02:17,370 --> 00:02:21,750
+Remember from biochemistry that both folate and vitamin B12 are necessary
+
+44
+00:02:21,750 --> 00:02:24,630
+for the synthesis of DNA precursor molecules.
+
+45
+00:02:24,630 --> 00:02:28,210
+And if folate or vitamin B12 is deficient, we won't be able to generate
+
+46
+00:02:28,210 --> 00:02:30,750
+appropriate DNA precursor molecules.
+
+47
+00:02:30,750 --> 00:02:35,290
+Decrease in DNA precursor molecules is going to lead to an inability of the
+
+48
+00:02:35,290 --> 00:02:41,070
+cell to divide one extra time, which is then going to lead to a large red blood
+
+49
+00:02:41,070 --> 00:02:44,790
+cell or a macrocytic red blood cell.
+
+50
+00:02:44,790 --> 00:02:50,670
+Here we can take a step back and remind ourselves of a little bit of biochemistry.
+
+51
+00:02:50,670 --> 00:02:57,770
+Remember that folate, when it comes into the body, comes into the body as tetrahydrofolate,
+
+52
+00:02:57,770 --> 00:03:02,290
+and it is quickly methylated, and I'll just abbreviate this with an M here.
+
+53
+00:03:02,290 --> 00:03:06,910
+Again, when folate comes into the body as tetrahydrofolate, it's quickly methylated.
+
+54
+00:03:06,910 --> 00:03:18,930
+Now, in order for tetrahydrofolate to go and to participate in the synthesis of DNA precursors,
+
+55
+00:03:18,930 --> 00:03:21,210
+it needs to lose this methyl group.
+
+56
+00:03:21,210 --> 00:03:28,670
+And so very quickly, folate will basically convince vitamin B12 to take the methyl group.
+
+57
+00:03:28,670 --> 00:03:34,370
+And so vitamin B12 will actually take this methyl group, tetrahydrofolate will lose the methyl
+
+58
+00:03:34,370 --> 00:03:40,390
+group, allowing tetrahydrofolate to participate in DNA precursor synthesis.
+
+59
+00:03:40,390 --> 00:03:45,610
+Now, once vitamin B12 takes the methyl group, it's as if vitamin B12 recognizes, hey, this
+
+60
+00:03:45,610 --> 00:03:49,750
+methyl group is not cool, I need to get rid of it, and it very quickly passes it on to
+
+61
+00:03:49,750 --> 00:03:51,170
+another molecule.
+
+62
+00:03:51,170 --> 00:03:55,210
+And that molecule that it passes it on to is homocysteine.
+
+63
+00:03:55,210 --> 00:04:01,870
+Now, homocysteine accepts the methyl group, and when homocysteine accepts the methyl group,
+
+64
+00:04:01,870 --> 00:04:06,300
+it becomes methionine.
+
+65
+00:04:06,300 --> 00:04:11,720
+And of course, you're well aware from biochemistry that methionine is important in the transfer
+
+66
+00:04:11,720 --> 00:04:16,100
+of methyl groups to various other important molecules, but we don't have time to discuss
+
+67
+00:04:16,100 --> 00:04:17,100
+that here.
+
+68
+00:04:17,100 --> 00:04:20,160
+That's more of a biochemistry notion.
+
+69
+00:04:20,160 --> 00:04:25,880
+So again, general principle, tetrahydrofolate needs to lose the methyl group to participate
+
+70
+00:04:25,880 --> 00:04:28,020
+in DNA precursor synthesis.
+
+71
+00:04:28,020 --> 00:04:32,780
+It hands the methyl group to vitamin B12, vitamin B12 then hands it to homocysteine.
+
+72
+00:04:32,780 --> 00:04:38,780
+Now, imagine if there is a folate deficiency, if folate is knocked out, then obviously DNA
+
+73
+00:04:38,780 --> 00:04:40,460
+precursors won't be made.
+
+74
+00:04:40,460 --> 00:04:47,000
+And also, if vitamin B12 is missing, tetrahydrofolate won't be able to pass this methyl group to vitamin
+
+75
+00:04:47,000 --> 00:04:53,120
+B12, and hence it will also not be able to participate in DNA precursor synthesis.
+
+76
+00:04:53,120 --> 00:04:59,360
+And once you understand that, it's now easy to understand why I said that anemia, a macrocytic
+
+77
+00:04:59,360 --> 00:05:04,100
+anemia, is most commonly due to folate or vitamin B12 deficiency.
+
+78
+00:05:04,100 --> 00:05:09,140
+Now it's worth taking a moment here to just understand a little bit of terminology.
+
+79
+00:05:09,140 --> 00:05:15,760
+And that is, when we have a folate or B12 deficiency, then the term that we apply to that anemia is
+
+80
+00:05:15,760 --> 00:05:18,700
+called a megaloblastic anemia.
+
+81
+00:05:18,700 --> 00:05:23,120
+And it's called a megaloblastic anemia because folate and vitamin B12 are obviously important
+
+82
+00:05:23,120 --> 00:05:26,680
+for DNA, for synthesis of DNA precursors.
+
+83
+00:05:26,680 --> 00:05:33,480
+And if we can't produce DNA precursors appropriately, not only will the red blood cells be affected,
+
+84
+00:05:33,480 --> 00:05:38,360
+but other cells in the body that are rapidly dividing will also be affected.
+
+85
+00:05:38,360 --> 00:05:44,960
+And so those cells can become big, i.e., the cells that are rapidly dividing can become big,
+
+86
+00:05:44,960 --> 00:05:49,520
+and so it's called a megaloblastic anemia.
+
+87
+00:05:49,520 --> 00:05:51,600
+So that's an important distinction in terminology.
+
+88
+00:05:51,600 --> 00:05:57,160
+There are some macrocytic anemias that are not due to folate or vitamin B12 deficiency,
+
+89
+00:05:57,160 --> 00:05:59,660
+and we'll briefly touch on those a little bit later.
+
+90
+00:05:59,660 --> 00:06:03,780
+So now I think with that background, we can walk through the slides.
+
+91
+00:06:03,780 --> 00:06:08,480
+So here I've told you in your text that folate and vitamin B12 are necessary for synthesis
+
+92
+00:06:08,480 --> 00:06:10,280
+of DNA precursors.
+
+93
+00:06:10,280 --> 00:06:14,700
+Recall that folate, when it comes into the body as tetrahydrofolate, it gets methylated.
+
+94
+00:06:14,700 --> 00:06:18,920
+The methyl group must be given to vitamin B12 before tetrahydrofolate can participate
+
+95
+00:06:18,920 --> 00:06:21,220
+in the synthesis of DNA precursors.
+
+96
+00:06:21,220 --> 00:06:28,340
+So therefore, both folate and vitamin B12 are necessary for this synthesis of DNA precursors.
+
+97
+00:06:28,340 --> 00:06:33,960
+A lack of folate or a lack of vitamin B12 is obviously going to impair the synthesis of
+
+98
+00:06:33,960 --> 00:06:38,120
+DNA precursors, and then that will result in certain changes.
+
+99
+00:06:38,120 --> 00:06:45,400
+We'll get a megaloblastic anemia with macrocytic red blood cells with an MCV greater than 100.
+
+100
+00:06:45,400 --> 00:06:52,440
+Also characteristic of vitamin B12 or folate deficiency will be hypersegmented neutrophils.
+
+101
+00:06:52,440 --> 00:06:56,780
+Hypersegmented neutrophils refer to neutrophils that have greater than five lobes.
+
+102
+00:06:56,780 --> 00:07:02,560
+Now normally the nucleus of the neutrophil has anywhere from three to five lobes and greater
+
+103
+00:07:02,560 --> 00:07:08,340
+than five lobes indicates that we're dealing with a hypersegmented neutrophil.
+
+104
+00:07:08,340 --> 00:07:13,360
+Another change that we're going to see if folate or B12 is deficient is megaloblastic change
+
+105
+00:07:13,360 --> 00:07:15,400
+in all rapidly dividing cells.
+
+106
+00:07:15,400 --> 00:07:20,620
+So for example, if we were to look at the gut, we would see enlargement of the epithelial
+
+107
+00:07:20,620 --> 00:07:23,180
+cells within the gut.
+
+108
+00:07:23,180 --> 00:07:28,920
+Here's a picture of a hypersegmented neutrophil, and basically the notion here is that this
+
+109
+00:07:28,920 --> 00:07:37,020
+neutrophil has one, two, three, four, five, six, seven lobes, and again anything greater
+
+110
+00:07:37,020 --> 00:07:39,420
+than five is abnormal.
+
+111
+00:07:39,420 --> 00:07:43,920
+In addition, you'll notice that most of these red blood cells are relatively normal in size,
+
+112
+00:07:43,920 --> 00:07:48,800
+but you can see that there's a large red blood cell here, and this would be an example of
+
+113
+00:07:48,800 --> 00:07:54,460
+a macroovallocyte, which is again a large red blood cell that would have an MCV greater
+
+114
+00:07:54,460 --> 00:07:59,360
+than 100, but tends to have a little bit of an oval shape to it.
+
+115
+00:07:59,360 --> 00:08:05,140
+These changes, both of these, the macrocytic cell along with the hypersegmented neutrophil,
+
+116
+00:08:05,140 --> 00:08:11,720
+are classic findings in a megaloblastic anemia, which would be due to folate or vitamin B12
+
+117
+00:08:11,720 --> 00:08:12,880
+deficiency.
+
+118
+00:08:12,880 --> 00:08:18,820
+If you have a macrocytic anemia due to other than folate or B12 deficiency, then we would
+
+119
+00:08:18,820 --> 00:08:21,200
+just simply call that a macrocytic anemia.
+
+120
+00:08:21,200 --> 00:08:23,960
+We would not call that a megaloblastic anemia.
+
+121
+00:08:23,960 --> 00:08:28,980
+And so a few other causes of macrocytic anemia to be familiar with include alcoholism, this
+
+122
+00:08:28,980 --> 00:08:34,300
+gives you a macrocytic anemia, liver disease can cause a macrocytic anemia, and there are certain
+
+123
+00:08:34,300 --> 00:08:38,560
+drugs, for example, 5-FU, that can cause a macrocytic anemia.
+
+124
+00:08:38,560 --> 00:08:43,680
+In the case of macrocytic anemia, we would see large red blood cells with an MCV greater
+
+125
+00:08:43,680 --> 00:08:48,780
+than 100, however, we would not see hypersegmented neutrophils, and we would not see megaloblastic
+
+126
+00:08:48,780 --> 00:08:52,440
+change in the other rapidly dividing cells.
+
+127
+00:08:52,440 --> 00:08:58,060
+That's the distinction between megaloblastic anemia and a macrocytic anemia.
+
+128
+00:08:58,060 --> 00:09:03,040
+We're going to focus, obviously, on the two major causes of megaloblastic anemia.
+
+129
+00:09:03,040 --> 00:09:05,220
+And the first is folate.
+
+130
+00:09:05,220 --> 00:09:10,300
+Folate is the most common cause of a macrocytic or megaloblastic anemia, and so we want to
+
+131
+00:09:10,300 --> 00:09:14,280
+understand a little bit about folate, in particular its biochemistry.
+
+132
+00:09:14,280 --> 00:09:19,680
+Recall that folate is obtained from green vegetables and fruits, i.e., it's obtained from the diet,
+
+133
+00:09:19,680 --> 00:09:21,940
+and it's absorbed in the jejunum.
+
+134
+00:09:21,940 --> 00:09:27,560
+It is important for the purposes of examinations to know where folate is absorbed.
+
+135
+00:09:27,560 --> 00:09:34,020
+Folate deficiency usually develops within months, and that's because the body stores are minimal.
+
+136
+00:09:34,020 --> 00:09:38,240
+There is not much folate that is stored within the body.
+
+137
+00:09:38,240 --> 00:09:40,780
+What are some causes of folate deficiency?
+
+138
+00:09:40,780 --> 00:09:41,740
+Poor diet.
+
+139
+00:09:41,740 --> 00:09:46,320
+Again, we have limited stores, and folate is obtained from the diet, so individuals with
+
+140
+00:09:46,320 --> 00:09:50,440
+a poor diet will have an increased risk of developing folate deficiency.
+
+141
+00:09:50,440 --> 00:09:56,340
+The classic examples are alcoholics, who tend to have a poor diet, and the elderly.
+
+142
+00:09:56,340 --> 00:10:01,500
+Another way by which folate deficiency can arise is by increased demand.
+
+143
+00:10:01,500 --> 00:10:05,680
+For example, if a woman is pregnant, she's making a baby, and each cell of the baby is
+
+144
+00:10:05,680 --> 00:10:09,080
+going to have nuclear material, so folate would be necessary.
+
+145
+00:10:09,080 --> 00:10:14,000
+If a patient has cancer, and cancer is generating cells that have nuclear material, folate would be
+
+146
+00:10:14,000 --> 00:10:15,540
+necessary.
+
+147
+00:10:15,540 --> 00:10:20,520
+And hemolytic anemia, where patients are rapidly turning over their bone marrow cells, would
+
+148
+00:10:20,520 --> 00:10:23,540
+require an increased amount of folate.
+
+149
+00:10:23,540 --> 00:10:28,040
+So increased demand can also cause a folate deficiency.
+
+150
+00:10:28,040 --> 00:10:33,620
+And the final way, or a third way, I should say, by which folate deficiency can arise is
+
+151
+00:10:33,620 --> 00:10:35,380
+via folate antagonists.
+
+152
+00:10:35,380 --> 00:10:41,740
+Now, recall that methotrexate from pharmacology inhibits dihydrofolate reductase, that's important
+
+153
+00:10:41,740 --> 00:10:42,740
+to know.
+
+154
+00:10:42,740 --> 00:10:49,060
+Methotrexate inhibits dihydrofolate reductase, which can then result in a folate deficiency.
+
+155
+00:10:49,060 --> 00:10:53,840
+And so these are some important causes of folate deficiency.
+
+156
+00:10:53,840 --> 00:10:58,180
+When a patient becomes folate deficient, there are certain clinical and laboratory findings
+
+157
+00:10:58,180 --> 00:10:59,180
+that would arise.
+
+158
+00:10:59,180 --> 00:11:05,060
+Obviously, the patients would have a macrocytic anemia, i.e., the cells would have an MCV greater
+
+159
+00:11:05,060 --> 00:11:10,480
+than 100, and we would see hypersegmented neutrophils on blood smear.
+
+160
+00:11:10,480 --> 00:11:15,880
+In addition, the patients classically have glossitis, which is inflammation of the tongue,
+
+161
+00:11:15,880 --> 00:11:20,160
+and that partially has to do with the fact that the cells of the tongue are not going
+
+162
+00:11:20,160 --> 00:11:26,220
+to be turning over as well, and so there will be discomfort in the tongue.
+
+163
+00:11:26,220 --> 00:11:28,560
+There will be a decreased serum folate.
+
+164
+00:11:28,560 --> 00:11:30,540
+I don't think that's hard to understand.
+
+165
+00:11:30,540 --> 00:11:34,200
+We're dealing with folate deficiency, and so in folate deficiency, the serum folate will
+
+166
+00:11:34,200 --> 00:11:35,340
+be low.
+
+167
+00:11:35,340 --> 00:11:40,840
+There will be an increased serum homocysteine, and this is very important.
+
+168
+00:11:40,840 --> 00:11:48,620
+Recall that I told you that tetrahydrofolate gains a methyl group when it gets absorbed
+
+169
+00:11:48,620 --> 00:11:50,080
+into the human body.
+
+170
+00:11:50,080 --> 00:11:58,280
+It then passes that methyl group onto vitamin B12, and then vitamin B12 then passes that
+
+171
+00:11:58,280 --> 00:12:02,640
+methyl group onto homocysteine.
+
+172
+00:12:02,640 --> 00:12:09,120
+And so imagine that if there is no folate, then there is no passing of methyl to vitamin
+
+173
+00:12:09,120 --> 00:12:16,280
+B12, then vitamin B12 cannot pass the methyl group to homocysteine to produce methionine,
+
+174
+00:12:16,280 --> 00:12:23,020
+and so if homocysteine cannot become transferred, cannot be converted to methionine, then homocysteine
+
+175
+00:12:23,020 --> 00:12:29,100
+is going to pile up or build up, and so there will be an increase in the serum homocysteine.
+
+176
+00:12:29,100 --> 00:12:33,600
+And because this ties into biochemistry, and because it's useful clinically, it is important
+
+177
+00:12:33,600 --> 00:12:34,600
+to know.
+
+178
+00:12:34,600 --> 00:12:39,460
+The final clinical laboratory finding is actually a negative finding, but it's a helpful finding,
+
+179
+00:12:39,460 --> 00:12:43,380
+and that is that the methylmalonic acid levels will be normal.
+
+180
+00:12:43,380 --> 00:12:49,480
+Now methylmalonic acid gets converted to succinyl-CoA, and the mechanism by which that conversion
+
+181
+00:12:49,480 --> 00:12:53,400
+occurs is via vitamin B12.
+
+182
+00:12:53,400 --> 00:13:01,060
+Otherwise stated, vitamin B12 is necessary to convert methylmalonic acid to succinyl-CoA.
+
+183
+00:13:01,060 --> 00:13:05,860
+Methylmalonic acid will be normal in these patients because this is not a vitamin B12 deficiency.
+
+184
+00:13:05,860 --> 00:13:07,880
+We're discussing folate deficiency.
+
+185
+00:13:07,880 --> 00:13:12,300
+But again, it's an important negative finding because when you have a megaloblastic anemia,
+
+186
+00:13:12,300 --> 00:13:17,680
+the differential diagnosis would be folate or vitamin B12, and by seeing a normal methylmalonic
+
+187
+00:13:17,680 --> 00:13:23,140
+acid, we would gain an understanding that the vitamin B12 levels are normal.
+
+188
+00:13:23,140 --> 00:13:28,440
+Of course, we could also measure the vitamin B12 levels directly as well.
+
+189
+00:13:28,440 --> 00:13:34,420
+That then brings us into a discussion of the second cause of megaloblastic anemia, and that
+
+190
+00:13:34,420 --> 00:13:37,200
+is vitamin B12 deficiency.
+
+191
+00:13:37,200 --> 00:13:43,480
+So let's discuss a little bit of the biochemistry of vitamin B12 in order to gain a better understanding
+
+192
+00:13:43,480 --> 00:13:50,480
+of how a patient can become vitamin B12 deficient and hence develop a megaloblastic anemia.
+
+193
+00:13:50,480 --> 00:13:57,880
+Vitamin B12 is complex to animal-derived proteins, for example, meat or eggs, and it comes into
+
+194
+00:13:57,880 --> 00:14:01,840
+the body attached to those animal-derived proteins.
+
+195
+00:14:01,840 --> 00:14:09,220
+Once it comes into the body, however, vitamin B12 will be cleaved from those animal proteins
+
+196
+00:14:09,220 --> 00:14:16,260
+and will be bound by a protein called R binder.
+
+197
+00:14:16,260 --> 00:14:22,120
+Now R binder is actually produced by the salivary gland, and so the salivary gland has the job
+
+198
+00:14:22,120 --> 00:14:26,180
+of producing this protein that will then be complex to vitamin B12.
+
+199
+00:14:26,180 --> 00:14:33,180
+R binder and vitamin B12 will then travel through the esophagus and travel through the stomach
+
+200
+00:14:33,180 --> 00:14:36,060
+until eventually they reach the small bowel.
+
+201
+00:14:36,060 --> 00:14:41,420
+When they reach the small bowel, R binder will be cleaved away from vitamin B12, and how
+
+202
+00:14:41,420 --> 00:14:43,060
+is that going to occur?
+
+203
+00:14:43,060 --> 00:14:46,280
+Via the proteases that are produced by the pancreas.
+
+204
+00:14:46,280 --> 00:14:53,560
+Once vitamin B12 is cleaved away from R binder, vitamin B12 will then, in the intestine, bind intrinsic
+
+205
+00:14:53,560 --> 00:14:54,560
+factor.
+
+206
+00:14:54,560 --> 00:15:00,520
+An intrinsic factor is a protein that's produced by the parietal cells in the body of the stomach.
+
+207
+00:15:00,520 --> 00:15:05,440
+Again intrinsic factor is a protein that's produced by the parietal cells in the body
+
+208
+00:15:05,440 --> 00:15:06,780
+of the stomach.
+
+209
+00:15:06,780 --> 00:15:11,540
+Once intrinsic factor binds vitamin B12, this complex will then go to the ileum and it will
+
+210
+00:15:11,540 --> 00:15:14,920
+be absorbed in the ileum.
+
+211
+00:15:14,920 --> 00:15:21,500
+This is the basic understanding of how vitamin B12 comes into the body.
+
+212
+00:15:21,500 --> 00:15:25,460
+Vitamin B12 deficiency is less common than folate deficiency.
+
+213
+00:15:25,460 --> 00:15:29,460
+And in addition, it takes years to develop a vitamin B12 deficiency.
+
+214
+00:15:29,460 --> 00:15:31,460
+Why does it take years?
+
+215
+00:15:31,460 --> 00:15:33,380
+Because there are large hepatic stores.
+
+216
+00:15:33,380 --> 00:15:39,760
+The liver is loaded with vitamin B12, and so if a patient were to absolutely not see any
+
+217
+00:15:39,760 --> 00:15:45,260
+animal protein, for example, a vegan, a very strict vegan who doesn't take milk, doesn't
+
+218
+00:15:45,260 --> 00:15:50,040
+take eggs, etc., that individual could become vitamin B12 deficient.
+
+219
+00:15:50,300 --> 00:15:54,380
+However, it would take years to develop due to large hepatic stores of vitamin B12.
+
+220
+00:15:54,380 --> 00:16:00,620
+The most common cause of vitamin B12 deficiency is pernicious anemia.
+
+221
+00:16:00,620 --> 00:16:06,200
+Pernicious anemia is a disease that arises when there is autoimmune destruction of the parietal
+
+222
+00:16:06,200 --> 00:16:07,200
+cells.
+
+223
+00:16:07,200 --> 00:16:11,460
+Remind ourselves that the parietal cells are present in the body of the stomach and they
+
+224
+00:16:11,460 --> 00:16:13,760
+produce intrinsic factor.
+
+225
+00:16:13,760 --> 00:16:19,060
+Recall that intrinsic factor is necessary to bind vitamin B12 because the ileum recognizes
+
+226
+00:16:19,060 --> 00:16:25,520
+the vitamin B12 intrinsic factor complex and that is what is absorbed by the ileum.
+
+227
+00:16:25,520 --> 00:16:29,840
+So if there is a loss of the parietal cells, there will be a loss of intrinsic factor.
+
+228
+00:16:29,840 --> 00:16:35,260
+And if there is a loss of intrinsic factor, there will be an inability to take up vitamin
+
+229
+00:16:35,260 --> 00:16:39,520
+B12 and so the patients will become vitamin B12 deficient.
+
+230
+00:16:39,520 --> 00:16:43,560
+And this happens to be the most common cause of vitamin B12 deficiency.
+
+231
+00:16:43,560 --> 00:16:48,420
+I'd like to take a step back here and also remind ourselves a little bit about the parietal
+
+232
+00:16:48,420 --> 00:16:49,860
+cells of the stomach.
+
+233
+00:16:49,860 --> 00:16:53,600
+The way I think about the parietal cells of the stomach is that it's associated with
+
+234
+00:16:53,600 --> 00:16:54,880
+a bunch of P's.
+
+235
+00:16:54,880 --> 00:16:59,640
+So obviously parietal cell begins with the letter P, but in addition, the parietal cells
+
+236
+00:16:59,640 --> 00:17:02,280
+are the ones that have the proton pumps.
+
+237
+00:17:02,280 --> 00:17:06,260
+They are the ones that make the acid in the body of the stomach.
+
+238
+00:17:06,260 --> 00:17:09,780
+In addition, the parietal cells are pink, so that's another P.
+
+239
+00:17:09,780 --> 00:17:10,940
+And what do I mean by pink?
+
+240
+00:17:10,940 --> 00:17:14,760
+When you look at the histology of the body of the stomach, you'll see chief cells and
+
+241
+00:17:14,760 --> 00:17:15,760
+parietal cells.
+
+242
+00:17:15,760 --> 00:17:20,080
+The chief cells look more blue and the parietal cells look more pink.
+
+243
+00:17:20,080 --> 00:17:25,080
+And then the third P is that the parietal cells are associated with pernicious anemia.
+
+244
+00:17:25,080 --> 00:17:29,520
+When you knock out the parietal cells due to autoimmune destruction, that results in
+
+245
+00:17:29,520 --> 00:17:31,560
+pernicious anemia.
+
+246
+00:17:31,560 --> 00:17:36,000
+There are some other causes of vitamin B deficiency and examiners like to go after these because
+
+247
+00:17:36,000 --> 00:17:42,200
+they allow the examiners to test you on the biochemistry of vitamin B12 absorption.
+
+248
+00:17:42,200 --> 00:17:48,360
+So, for example, pancreatic insufficiency could result in a vitamin B12 deficiency.
+
+249
+00:17:48,360 --> 00:17:49,520
+Why would this happen?
+
+250
+00:17:49,520 --> 00:17:54,520
+Because remember that the pancreas produces the enzymes necessary to cleave vitamin B12
+
+251
+00:17:54,520 --> 00:17:56,640
+away from our binder.
+
+252
+00:17:56,640 --> 00:18:02,720
+Go back and remind ourselves that vitamin B12 comes into the body, is then bound by our
+
+253
+00:18:02,720 --> 00:18:06,140
+binder in the mouth, which is produced by the salivary glands.
+
+254
+00:18:06,140 --> 00:18:12,420
+The R binder vitamin B12 complex then goes through the stomach and then goes into the small bowel.
+
+255
+00:18:12,420 --> 00:18:17,160
+And it's in the small bowel that the pancreatic enzymes, particularly the proteases, will cleave
+
+256
+00:18:17,160 --> 00:18:22,040
+away our binder, which will then allow intrinsic factor to bind vitamin B12.
+
+257
+00:18:22,040 --> 00:18:26,420
+If there's pancreatic insufficiency and the enzymes are not produced properly, this could
+
+258
+00:18:26,420 --> 00:18:28,740
+result in a vitamin B12 deficiency.
+
+259
+00:18:28,740 --> 00:18:34,620
+So that would be one additional cause of vitamin B12 deficiency.
+
+260
+00:18:34,620 --> 00:18:38,960
+Another cause of vitamin B12 deficiency would be damage to the terminal ileum.
+
+261
+00:18:38,960 --> 00:18:43,500
+Remember that vitamin B12 is absorbed in the ileum.
+
+262
+00:18:43,500 --> 00:18:47,720
+And so if there's damage, for example, to the terminal ileum, as would be seen in Crohn's
+
+263
+00:18:47,720 --> 00:18:55,620
+disease or as would be seen with fish tapeworm, then that would result in a vitamin B12 deficiency.
+
+264
+00:18:55,620 --> 00:18:59,740
+A third cause that I've listed here is dietary deficiency.
+
+265
+00:18:59,740 --> 00:19:04,060
+Recall, and I would like to really hit home on this point because, again, examiners like
+
+266
+00:19:04,060 --> 00:19:09,300
+to go after it, it's very rare to see dietary deficiency except in vegans.
+
+267
+00:19:09,300 --> 00:19:10,300
+And what are vegans?
+
+268
+00:19:10,300 --> 00:19:15,660
+These are strict vegetarians that do not eat anything that comes from an animal.
+
+269
+00:19:15,660 --> 00:19:19,000
+So for example, they will not eat an egg.
+
+270
+00:19:19,000 --> 00:19:22,880
+That could then lead to a dietary deficiency.
+
+271
+00:19:22,880 --> 00:19:28,260
+The clinical and laboratory findings of vitamin B12 deficiency are much of what we've already
+
+272
+00:19:28,260 --> 00:19:29,260
+covered.
+
+273
+00:19:29,260 --> 00:19:34,980
+So for example, there will be a macrocytic anemia with an MCV greater than 100 with hypersegmented
+
+274
+00:19:34,980 --> 00:19:35,980
+neutrophils.
+
+275
+00:19:35,980 --> 00:19:43,480
+There will also be glossitis due to poor turnover of the cells of the surface of the tongue.
+
+276
+00:19:43,480 --> 00:19:48,560
+And third, and very important in the context of this discussion, is that the patients can
+
+277
+00:19:48,560 --> 00:19:52,940
+get a subacute combined degeneration of the spinal cord.
+
+278
+00:19:52,940 --> 00:19:57,480
+Recall from biochemistry that there are only two chemical reactions that vitamin B12 is
+
+279
+00:19:57,480 --> 00:19:58,880
+involved in.
+
+280
+00:19:58,880 --> 00:20:03,040
+One is the reaction that involves a synthesis of DNA precursors.
+
+281
+00:20:03,040 --> 00:20:06,780
+Remember that folate transfers its methyl group to vitamin B12.
+
+282
+00:20:06,780 --> 00:20:11,620
+The second is the conversion of methylmalonic acid to succinyl-CoA.
+
+283
+00:20:11,620 --> 00:20:14,620
+This reaction requires vitamin B12.
+
+284
+00:20:14,620 --> 00:20:21,440
+If vitamin B12 is lacking, methylmalonic acid cannot be converted to succinyl-CoA and methylmalonic
+
+285
+00:20:21,440 --> 00:20:29,180
+acid will then subsequently build up, in particular, within the myelin of the spinal cord.
+
+286
+00:20:29,180 --> 00:20:35,540
+And as it builds up within the myelin of the spinal cord, it will cause degeneration of that,
+
+287
+00:20:35,540 --> 00:20:38,020
+of certain regions of the spinal cord.
+
+288
+00:20:38,020 --> 00:20:42,020
+And that's called subacute combined degeneration of the spinal cord.
+
+289
+00:20:42,020 --> 00:20:47,000
+It's very important to remember that vitamin B12 is associated with this neurologic finding,
+
+290
+00:20:47,000 --> 00:20:51,960
+and that this finding would not be seen in folate deficiency.
+
+291
+00:20:51,960 --> 00:20:56,420
+Laboratory findings would include a decrease in serum vitamin B12.
+
+292
+00:20:56,420 --> 00:21:01,000
+In addition, there would be an increase in serum homocysteine, same concept.
+
+293
+00:21:01,000 --> 00:21:07,740
+If you have tetrahydrofolate, which is folate that comes into the body, it quickly gets methylated.
+
+294
+00:21:07,740 --> 00:21:13,740
+After that methyl group gets attached to vitamin B12, and then vitamin B12 eventually takes that
+
+295
+00:21:13,740 --> 00:21:16,740
+methyl group and passes it on to homocysteine.
+
+296
+00:21:16,740 --> 00:21:21,740
+And homocysteine will then get converted to methionine.
+
+297
+00:21:21,740 --> 00:21:28,740
+So if vitamin B12 is not present, it will not be able to pass this methyl group to homocysteine,
+
+298
+00:21:28,740 --> 00:21:31,740
+and so homocysteine levels will rise.
+
+299
+00:21:31,740 --> 00:21:34,740
+And so the serum homocysteine will be high.
+
+300
+00:21:34,740 --> 00:21:39,740
+The third lab finding would be an increase in methylmalonic acid.
+
+301
+00:21:39,740 --> 00:21:48,740
+And I've already explained that vitamin B12 is necessary to convert methylmalonic acid to succinyl-CoA.
+
+302
+00:21:48,740 --> 00:21:54,740
+And, of course, that methylmalonic acid, as it builds up, will eventually damage the spinal cord.
+
+303
+00:21:54,740 --> 00:21:57,740
+And that concludes our discussion of macrocytic anemia.
+
+304
+00:21:57,740 --> 00:21:58,740
+And that concludes our discussion of macrocytic anemia.
+

@@ -1,0 +1,1468 @@
+1
+00:00:00,560 --> 00:00:04,360
+The first of the anemias that we're going to discuss are microcytic anemias.
+
+2
+00:00:05,220 --> 00:00:07,840
+In a microcytic anemia, the red blood cells are small.
+
+3
+00:00:08,740 --> 00:00:14,400
+And this size is actually measured by the MCV, or the mean corpuscular volume.
+
+4
+00:00:14,840 --> 00:00:18,360
+And so the MCV in a microcytic anemia will be less than 80.
+
+5
+00:00:18,700 --> 00:00:21,820
+Recall that the normal MCV is anywhere between 80 to 100.
+
+6
+00:00:22,300 --> 00:00:26,160
+And so in a small, when the cells are small, the MCV will be less than 80.
+
+7
+00:00:26,160 --> 00:00:32,360
+It is useful to have a little bit of an understanding of how the microcytosis occurs.
+
+8
+00:00:32,780 --> 00:00:39,160
+Because once you understand how the microcytosis occurs, you'll get a better understanding of the causes of microcytic anemia.
+
+9
+00:00:39,640 --> 00:00:47,080
+So let's go back and remind ourselves that the red blood cell is actually formed from a progenitor cell called the erythroblast.
+
+10
+00:00:47,160 --> 00:00:51,120
+The erythroblast is basically the cell that produces the red blood cells.
+
+11
+00:00:51,120 --> 00:00:55,780
+Now relatively speaking, the erythroblast is a large cell.
+
+12
+00:00:56,160 --> 00:01:03,680
+And it will divide, and then divide, and divide, and divide, and eventually it will produce small red blood cells.
+
+13
+00:01:04,000 --> 00:01:07,580
+So for example, if this is the erythroblast, it will divide into two cells.
+
+14
+00:01:08,000 --> 00:01:14,060
+And then it will divide, these two cells will each divide into cells, etc.
+
+15
+00:01:14,360 --> 00:01:17,900
+And so with each division, the cells become smaller.
+
+16
+00:01:17,900 --> 00:01:25,500
+And that's important when understanding a microcytic anemia, because it helps us to understand why the microcytosis is occurring.
+
+17
+00:01:26,040 --> 00:01:36,420
+So in particular, we should recognize that microcytic anemias occur because there is an extra division of the cell.
+
+18
+00:01:36,420 --> 00:01:40,720
+I.e., the erythroblast undergoes one extra division.
+
+19
+00:01:40,940 --> 00:01:47,200
+Or why don't we say that the cells, as they're generating from the erythroblast to become mature red blood cells,
+
+20
+00:01:47,340 --> 00:01:49,440
+they sort of undergo one extra division.
+
+21
+00:01:49,900 --> 00:01:51,660
+Now the next question we could ask is why.
+
+22
+00:01:51,760 --> 00:01:54,080
+Why would the red blood cells undergo an extra division?
+
+23
+00:01:54,080 --> 00:02:03,140
+And the answer, at least the way I think about it, is that microcytic anemia is always a problem of decreased production of hemoglobin.
+
+24
+00:02:03,940 --> 00:02:08,580
+So in each of the microcytic anemias, the problem is the decreased production of hemoglobin.
+
+25
+00:02:09,100 --> 00:02:12,980
+Now as the red blood cells are developing, if there is not enough hemoglobin,
+
+26
+00:02:13,280 --> 00:02:19,400
+one way by which the red blood cells can try to maintain the concentration of hemoglobin within the red blood cell
+
+27
+00:02:19,400 --> 00:02:21,280
+would be to divide one extra time.
+
+28
+00:02:21,280 --> 00:02:30,160
+Another way to think about this is that it is as if the red blood cell is trying to produce a nice, pretty, red-pink cell.
+
+29
+00:02:30,820 --> 00:02:35,220
+And if there is not enough hemoglobin, there will not be enough pink in the cell.
+
+30
+00:02:35,580 --> 00:02:40,440
+And so the red blood cell will divide one extra time in order to try to maintain its color,
+
+31
+00:02:40,700 --> 00:02:43,260
+i.e., the concentration of hemoglobin.
+
+32
+00:02:43,940 --> 00:02:47,420
+Okay, now with that in mind, you then have to understand a little bit of biochemistry
+
+33
+00:02:47,420 --> 00:02:49,560
+to understand the microcytic anemias.
+
+34
+00:02:49,560 --> 00:02:51,820
+So let's remind ourselves, what is hemoglobin?
+
+35
+00:02:52,180 --> 00:02:53,320
+Well, the name gives it away.
+
+36
+00:02:53,500 --> 00:02:55,860
+It's heme plus globin.
+
+37
+00:02:56,900 --> 00:02:58,340
+All right, and what is heme?
+
+38
+00:02:58,660 --> 00:03:03,540
+Heme is basically iron and protoporphyrin.
+
+39
+00:03:04,140 --> 00:03:09,260
+And so if I were to create just a simple understanding in your mind by doing the following,
+
+40
+00:03:09,400 --> 00:03:17,750
+I've told you that hemoglobin, we know that it equals heme plus globin.
+
+41
+00:03:17,750 --> 00:03:26,560
+All right, and you know that heme is essentially composed of iron plus protoporphyrin.
+
+42
+00:03:26,700 --> 00:03:29,100
+I'm just going to say proto here, P-R-O-T-O.
+
+43
+00:03:29,840 --> 00:03:36,080
+Then, if you understand this basic biochemistry, it's not hard to recognize the causes of microcytic anemia.
+
+44
+00:03:36,080 --> 00:03:41,540
+For example, let's say that there is a lack of iron, which is called iron deficiency.
+
+45
+00:03:42,020 --> 00:03:45,040
+If there's low iron, then there would be low heme.
+
+46
+00:03:45,460 --> 00:03:47,880
+And if there's low heme, there'll be low hemoglobin.
+
+47
+00:03:48,240 --> 00:03:51,060
+And if there's low hemoglobin, there'll be a microcytic anemia.
+
+48
+00:03:51,420 --> 00:03:54,580
+So one cause of a microcytic anemia is iron deficiency anemia.
+
+49
+00:03:55,580 --> 00:04:00,400
+Another way by which we could get microcytic anemia would be, let's say that there's iron,
+
+50
+00:04:00,560 --> 00:04:07,300
+but the iron cannot be used because the patient has a chronic inflammatory state,
+
+51
+00:04:07,480 --> 00:04:10,180
+and therefore the iron is being stored away in the macrophages.
+
+52
+00:04:10,540 --> 00:04:16,000
+So when iron is locked away in the macrophages, that is called anemia of chronic disease.
+
+53
+00:04:16,380 --> 00:04:19,300
+And the idea there is that iron is not available for use.
+
+54
+00:04:19,300 --> 00:04:23,740
+And so therefore, if there's low iron, then there's going to be low heme.
+
+55
+00:04:24,040 --> 00:04:26,740
+And if there's low heme, then there's going to be low hemoglobin.
+
+56
+00:04:26,860 --> 00:04:30,180
+And if there's low hemoglobin, there's going to be a microcytic anemia.
+
+57
+00:04:30,660 --> 00:04:34,540
+And so the second cause of microcytic anemia is actually anemia of chronic disease.
+
+58
+00:04:35,020 --> 00:04:40,160
+The third cause is any circumstance that would decrease the production of protoporphyrin.
+
+59
+00:04:40,540 --> 00:04:46,560
+And so the disease in which, or the anemia in which there is a decreased production of protoporphyrin,
+
+60
+00:04:46,560 --> 00:04:48,460
+is called sideroblastic anemia.
+
+61
+00:04:48,460 --> 00:04:53,800
+And so in sideroblastic anemia, there's low protoporphyrin, which results in low heme.
+
+62
+00:04:54,160 --> 00:04:56,240
+Low heme results in low hemoglobin.
+
+63
+00:04:56,640 --> 00:04:59,640
+And low hemoglobin then results in a microcytic anemia.
+
+64
+00:05:00,120 --> 00:05:04,920
+And then finally, the fourth cause of microcytic anemia is thalassemia.
+
+65
+00:05:05,020 --> 00:05:06,060
+And what's thalassemia?
+
+66
+00:05:06,440 --> 00:05:10,460
+Thalassemia is when there's decreased production of the globin chain.
+
+67
+00:05:10,900 --> 00:05:14,880
+Obviously, decreased production of the globin chain would result in decreased hemoglobin,
+
+68
+00:05:14,880 --> 00:05:18,120
+and decreased hemoglobin would result in a microcytic anemia.
+
+69
+00:05:18,660 --> 00:05:22,560
+So actually, this is not hard, if you understand a little bit of basic biochemistry.
+
+70
+00:05:23,140 --> 00:05:26,200
+And there really are four major causes of microcytic anemia.
+
+71
+00:05:26,660 --> 00:05:32,680
+Iron deficiency anemia, anemia of chronic disease, sideroblastic anemia, and thalassemia.
+
+72
+00:05:33,380 --> 00:05:37,060
+Now that's the global picture that you have to have sort of in your mind.
+
+73
+00:05:37,060 --> 00:05:42,180
+And if you keep this picture in your mind, you'll be very comfortable when dealing with microcytic anemias.
+
+74
+00:05:42,620 --> 00:05:46,080
+There are, of course, some details that we have to be familiar with.
+
+75
+00:05:46,500 --> 00:05:55,860
+And so we're going to spend the remainder of our time in this section now walking through each of these anemias individually and highlighting some important high yield principles.
+
+76
+00:05:55,860 --> 00:06:00,860
+So the first of the anemias that we want to discuss is iron deficiency anemia.
+
+77
+00:06:02,540 --> 00:06:07,600
+Iron deficiency anemia is due to decreased levels of iron within the body.
+
+78
+00:06:08,320 --> 00:06:10,440
+This is the most common type of anemia.
+
+79
+00:06:11,260 --> 00:06:14,800
+Lack of iron is actually the most common nutritional deficiency in the world.
+
+80
+00:06:14,800 --> 00:06:22,080
+The WHO estimates that approximately one-third of the entire world's population is deficient in iron.
+
+81
+00:06:22,520 --> 00:06:28,000
+And so iron deficiency anemia is something that all of us are going to encounter in our patients.
+
+82
+00:06:28,560 --> 00:06:30,620
+Now a little bit about the biochemistry of iron.
+
+83
+00:06:30,760 --> 00:06:35,120
+You do need to understand it to understand some of the high yields for this disease.
+
+84
+00:06:35,780 --> 00:06:42,080
+Iron is consumed in both heme, which is meat-derived, and non-heme, which is vegetable-derived, forms.
+
+85
+00:06:42,080 --> 00:06:46,440
+And the heme form, i.e. the meat-derived form, is more readily absorbed.
+
+86
+00:06:47,040 --> 00:06:49,540
+Absorption, of course, occurs in the duodenum.
+
+87
+00:06:49,680 --> 00:06:50,800
+You do need to know that.
+
+88
+00:06:50,920 --> 00:06:52,460
+Absorption occurs in the duodenum.
+
+89
+00:06:52,960 --> 00:06:54,580
+And it's the enterocyte.
+
+90
+00:06:54,660 --> 00:06:59,180
+Recall that the enterocyte histologically is the cell that lines the villi of the duodenum.
+
+91
+00:06:59,600 --> 00:07:02,760
+The enterocyte regulates the absorption of iron.
+
+92
+00:07:03,180 --> 00:07:06,620
+Basically, the enterocyte takes up iron from the gut
+
+93
+00:07:06,620 --> 00:07:14,380
+and then has the ability to transport it into the blood via a transporter called ferroportin.
+
+94
+00:07:14,760 --> 00:07:16,380
+Now let me draw this for you.
+
+95
+00:07:16,460 --> 00:07:18,920
+Let's pretend that this is the enterocyte.
+
+96
+00:07:19,980 --> 00:07:21,720
+And this is the lumen of the gut.
+
+97
+00:07:22,060 --> 00:07:23,820
+And over here would be a blood vessel.
+
+98
+00:07:24,380 --> 00:07:28,020
+The enterocyte basically takes up iron from the gut.
+
+99
+00:07:28,560 --> 00:07:31,200
+And then it makes a decision.
+
+100
+00:07:31,200 --> 00:07:35,220
+It decides, should I send iron into the blood or not?
+
+101
+00:07:35,940 --> 00:07:44,620
+The transporter that it uses to move iron from the enterocyte into the blood is called ferroportin.
+
+102
+00:07:46,040 --> 00:07:46,680
+Ferroportin.
+
+103
+00:07:47,080 --> 00:07:50,760
+And this is a key regulatory step in iron biochemistry.
+
+104
+00:07:51,440 --> 00:07:56,440
+The idea here is that the body has the ability to take up iron
+
+105
+00:07:56,440 --> 00:07:59,520
+but does not have the ability to get rid of iron.
+
+106
+00:07:59,520 --> 00:08:03,140
+There really is no way for the body to get rid of iron.
+
+107
+00:08:03,440 --> 00:08:07,600
+Now it's true that a little bit of iron gets lost when the skin is turning over.
+
+108
+00:08:08,000 --> 00:08:11,560
+And so as skin sloughs off the human being, iron is lost.
+
+109
+00:08:11,660 --> 00:08:12,920
+A tiny bit of iron is lost.
+
+110
+00:08:13,200 --> 00:08:16,940
+And it's also true that a female loses iron through the menstrual cycle.
+
+111
+00:08:17,320 --> 00:08:19,720
+However, generally speaking, physiologically,
+
+112
+00:08:19,900 --> 00:08:22,640
+the human body does not really have a way of getting rid of iron.
+
+113
+00:08:23,120 --> 00:08:28,200
+And so you only want to bring in iron when it's needed by the body.
+
+114
+00:08:28,200 --> 00:08:31,400
+And you don't want to allow excess iron to come into the body.
+
+115
+00:08:31,920 --> 00:08:37,420
+And so the enterocyte plays that important role of deciding whether or not iron should go into the blood.
+
+116
+00:08:38,020 --> 00:08:41,340
+And it uses ferroportin to make that decision.
+
+117
+00:08:41,540 --> 00:08:48,060
+So ferroportin is the key transporter that takes iron from the enterocyte and places it into the blood.
+
+118
+00:08:48,060 --> 00:08:51,860
+Now once iron gets into the blood, it's always bound.
+
+119
+00:08:52,200 --> 00:08:56,320
+Remember that iron has the ability to generate free radicals, so it will never be left alone.
+
+120
+00:08:56,420 --> 00:08:57,780
+It will always be bound to something.
+
+121
+00:08:58,300 --> 00:09:01,160
+In the blood, it's bound to a molecule called transferrin.
+
+122
+00:09:01,820 --> 00:09:08,680
+And transferrin transports iron and then delivers it to the liver and to the bone marrow macrophages for storage.
+
+123
+00:09:08,680 --> 00:09:17,500
+Once iron gets to the liver or the bone marrow macrophages, it's stored in the cell, but it's stored bound to ferritin.
+
+124
+00:09:17,800 --> 00:09:23,140
+So ferritin is the key molecule to which iron is bound when it is being stored.
+
+125
+00:09:23,540 --> 00:09:33,500
+And again, it's important to keep iron bound to ferritin because that binding prevents iron from generating free radicals via the Fenton reaction.
+
+126
+00:09:33,500 --> 00:09:38,960
+And we covered that in detail when we talked about free radicals in Chapter 1 of this text.
+
+127
+00:09:39,840 --> 00:09:45,820
+Now there are some laboratory measurements that allow you to determine the iron status of a patient.
+
+128
+00:09:46,220 --> 00:09:48,280
+And these are very high yield to be familiar with.
+
+129
+00:09:48,400 --> 00:09:51,560
+Both clinically they're useful and obviously on examinations.
+
+130
+00:09:51,900 --> 00:09:53,000
+So let's walk through them.
+
+131
+00:09:53,820 --> 00:09:59,680
+Now maybe it would be best to go back and just create a simple diagram so we can see what we're actually measuring.
+
+132
+00:09:59,680 --> 00:10:05,560
+So again, the idea here is that if you have iron in the blood, so this is the blood vessel,
+
+133
+00:10:05,980 --> 00:10:09,440
+iron in the blood is going to be bound to a molecule called transferrin.
+
+134
+00:10:09,880 --> 00:10:15,420
+Now generally speaking, for every three transferrin molecules, one, two, let's make a third one here,
+
+135
+00:10:15,800 --> 00:10:21,760
+for every three transferrin molecules, one of those transferrin molecules will be carrying an iron.
+
+136
+00:10:22,640 --> 00:10:28,940
+Eventually that iron is delivered to the macrophage, so let's call this the macrophage.
+
+137
+00:10:28,940 --> 00:10:34,440
+And when iron is present within the macrophage, iron is bound to ferritin.
+
+138
+00:10:34,760 --> 00:10:36,920
+So we'll connect it to ferritin over here.
+
+139
+00:10:37,300 --> 00:10:44,200
+Based on this understanding that I've sort of put here on the screen, we can measure a few pieces of information.
+
+140
+00:10:44,700 --> 00:10:49,280
+So for example, if we want to know how much iron is in the blood, we can measure the serum iron.
+
+141
+00:10:50,020 --> 00:10:53,320
+If we want to know how much iron is in the blood, we can measure the serum iron.
+
+142
+00:10:53,320 --> 00:10:59,880
+If we want to know how many transferrin molecules are present in the blood, whether they be bound or not doesn't matter.
+
+143
+00:11:00,220 --> 00:11:03,580
+If we want to know how many transferrin molecules are present in the blood,
+
+144
+00:11:03,920 --> 00:11:08,320
+we can measure something called the TIBC, which is the total iron binding capacity.
+
+145
+00:11:09,100 --> 00:11:12,580
+It tells you how many transferrin molecules are present in the blood.
+
+146
+00:11:13,080 --> 00:11:17,260
+If you want to know how many of the transferrin molecules are actually bound by iron,
+
+147
+00:11:17,540 --> 00:11:19,320
+we can calculate a percent saturation.
+
+148
+00:11:19,320 --> 00:11:27,580
+Finally, if you want to know how much iron is present in the storage sites, you can measure a serum ferritin.
+
+149
+00:11:27,960 --> 00:11:34,720
+And so ferritin would tell us how much iron is actually present in the bone marrow macrophages and within the liver.
+
+150
+00:11:35,580 --> 00:11:40,980
+So these are four key measurements, and they're going to come into play as we move forward in this discussion.
+
+151
+00:11:41,660 --> 00:11:48,680
+Now when we think about iron deficiency, we should understand that deficiency can be caused by a dietary lack or blood loss.
+
+152
+00:11:48,680 --> 00:11:54,000
+These are the two sort of common etiologies of how a patient can become iron deficient.
+
+153
+00:11:54,520 --> 00:12:01,640
+And it's in the context of these two etiologies that I like to think of iron deficiency according to the individual subsets of patients.
+
+154
+00:12:01,740 --> 00:12:06,440
+So for example, in an infant, an important cause of iron deficiency would be breastfeeding.
+
+155
+00:12:06,940 --> 00:12:10,600
+And that's because breast milk contains little to no iron.
+
+156
+00:12:10,960 --> 00:12:14,120
+And so infants can become iron deficient when they're breastfeeding.
+
+157
+00:12:14,120 --> 00:12:18,500
+In a child, iron deficiency can arise if there's a poor diet.
+
+158
+00:12:18,720 --> 00:12:24,260
+And so children, they're growing, they need iron, and sometimes the diet is not appropriate for that growth.
+
+159
+00:12:24,600 --> 00:12:29,140
+And so children can become iron deficient due to poor diet.
+
+160
+00:12:29,680 --> 00:12:36,360
+In adults, important classic causes of iron deficiency in a male, you think about peptic ulcer disease.
+
+161
+00:12:36,360 --> 00:12:39,420
+That's actually the most common cause in a middle-aged male.
+
+162
+00:12:39,880 --> 00:12:46,780
+And the most common cause in a middle-aged female would be menorrhagia, which is heavy menstrual bleeding, in which iron would be lost because blood is lost.
+
+163
+00:12:47,180 --> 00:12:47,920
+Or pregnancy.
+
+164
+00:12:48,300 --> 00:12:52,240
+In pregnancy, a woman needs a large amount of iron to grow the fetus.
+
+165
+00:12:52,580 --> 00:12:55,340
+And so these are two common causes in middle-aged adults.
+
+166
+00:12:55,740 --> 00:13:01,640
+In older adults, common causes in the Western world are colon polyps or carcinoma.
+
+167
+00:13:01,640 --> 00:13:07,260
+And in older adults, the most common cause in the developing world is actually a hookworm.
+
+168
+00:13:07,680 --> 00:13:17,920
+And if we go back to microbiology, recall that the two hookworms to be familiar with, one is a nicator, and the other is ancelostoma.
+
+169
+00:13:18,200 --> 00:13:27,340
+And so nicator and ancelostoma are two hookworms that are common causes of iron deficiency, again, because of the blood loss associated with hookworms.
+
+170
+00:13:27,340 --> 00:13:31,920
+These are common causes of iron deficiency in the developing world.
+
+171
+00:13:33,040 --> 00:13:35,320
+There are some other causes to be aware of.
+
+172
+00:13:36,100 --> 00:13:44,020
+Obviously, malnutrition could result in iron deficiency, but we kind of highlighted that with the notion of poor diet in a child.
+
+173
+00:13:45,300 --> 00:13:47,560
+Malabsorption could result in iron deficiency.
+
+174
+00:13:47,560 --> 00:13:55,340
+Let's say that a patient has a disease that disrupts the duodenum, like celiac disease, in which the villi of the duodenum are destroyed.
+
+175
+00:13:55,900 --> 00:13:58,360
+That can result in a certain degree of malabsorption.
+
+176
+00:13:58,480 --> 00:14:02,480
+And if there's malabsorption, the patient could obviously become iron deficient.
+
+177
+00:14:02,960 --> 00:14:05,060
+And then a third example would be gastrectomy.
+
+178
+00:14:05,140 --> 00:14:07,240
+And this actually is a kind of high-yield example.
+
+179
+00:14:07,240 --> 00:14:13,940
+And the reason this is high-yield is because it goes back to a little bit of biochemistry concerning iron.
+
+180
+00:14:14,320 --> 00:14:17,760
+And that is that iron can be present in an Fe2-plus state.
+
+181
+00:14:18,320 --> 00:14:21,380
+It can also be present in an Fe3-plus state.
+
+182
+00:14:21,860 --> 00:14:27,820
+And it's the Fe2-plus that is better, that is more easily absorbed by the body.
+
+183
+00:14:28,180 --> 00:14:34,120
+And the way I remember that, a little funny, but the way I remember that is Fe2 goes into the body.
+
+184
+00:14:34,620 --> 00:14:36,540
+Fe2 goes into the body.
+
+185
+00:14:36,540 --> 00:14:40,380
+Why is that important for this discussion of gastrectomy?
+
+186
+00:14:40,740 --> 00:14:44,880
+Well, the idea is that acid maintains the Fe2-plus state.
+
+187
+00:14:45,280 --> 00:14:50,720
+And so if there is acidity, the Fe2 remains in the two, the iron remains in the two-plus state.
+
+188
+00:14:51,020 --> 00:14:53,800
+And by remaining in the two-plus state, it's more readily absorbed.
+
+189
+00:14:54,520 --> 00:15:00,260
+Gastrectomy, where a patient would lose part of the stomach, may result in decreased acid.
+
+190
+00:15:00,260 --> 00:15:05,260
+And the decreased acid would result in decreased bioavailability of iron
+
+191
+00:15:05,260 --> 00:15:07,880
+because less iron would be in the two-plus state.
+
+192
+00:15:08,280 --> 00:15:12,280
+So this becomes important, again, because it ties into a little bit of biochemistry.
+
+193
+00:15:12,280 --> 00:15:17,940
+When a patient becomes iron deficient, they actually go through a series of phases.
+
+194
+00:15:18,620 --> 00:15:27,280
+And it's nice to understand these phases or stages because they will help you to better understand what's going on in iron deficiency.
+
+195
+00:15:27,480 --> 00:15:30,120
+So I'm actually going to take a moment to walk you through each of these.
+
+196
+00:15:30,120 --> 00:15:36,440
+Now, the very first thing, let's pretend that there's a normal patient, and they've got normal iron, and they're doing fine.
+
+197
+00:15:36,900 --> 00:15:42,760
+And then let's say that the patient, I don't know, they get a hookworm infection, and so now they're starting to lose blood.
+
+198
+00:15:43,220 --> 00:15:49,220
+So what's going to happen is that initially, as the bone marrow is trying to make red blood cells,
+
+199
+00:15:49,680 --> 00:15:51,900
+it's going to use up the stored iron.
+
+200
+00:15:51,900 --> 00:15:57,660
+That's the very first thing that it will do when there isn't sufficient iron being brought into the body.
+
+201
+00:15:58,180 --> 00:16:04,440
+So over time, the very early stage of iron deficiency is that the storage iron will be depleted.
+
+202
+00:16:05,000 --> 00:16:07,440
+Now recall, what is the measure of storage iron?
+
+203
+00:16:08,660 --> 00:16:09,180
+Ferritin.
+
+204
+00:16:09,580 --> 00:16:12,140
+Ferritin tells you how much iron is stored in the body.
+
+205
+00:16:12,600 --> 00:16:18,960
+Now, when the storage iron is depleted, what is going to happen to the ferritin, the serum ferritin?
+
+206
+00:16:18,960 --> 00:16:23,380
+Then the serum ferritin is going to go down, correct?
+
+207
+00:16:24,240 --> 00:16:27,500
+Because the storage iron is being consumed.
+
+208
+00:16:28,100 --> 00:16:36,620
+And as the serum ferritin goes down, one of the other things to bear in mind is that sort of always opposite of what ferritin does is TIBC.
+
+209
+00:16:36,900 --> 00:16:43,400
+So whenever the ferritin goes down, the total iron binding capacity is going to go up.
+
+210
+00:16:43,680 --> 00:16:46,460
+And what is the total iron binding capacity measuring again?
+
+211
+00:16:46,680 --> 00:16:48,520
+It's measuring transferrin.
+
+212
+00:16:49,360 --> 00:16:51,160
+This sort of makes sense in my mind.
+
+213
+00:16:51,160 --> 00:16:58,360
+Whenever the ferritin is down, then the macrophages and the liver will sort of recognize that the ferritin is down,
+
+214
+00:16:58,480 --> 00:17:01,680
+particularly because one of the storage sites of iron is the liver.
+
+215
+00:17:02,080 --> 00:17:07,480
+And then the liver will begin to pump out more transferrin molecules to go and try to find more iron.
+
+216
+00:17:07,480 --> 00:17:14,600
+And so any time the ferritin goes down, the TIBC, which is a measure of the number of transferrin molecules, will go up.
+
+217
+00:17:14,960 --> 00:17:20,740
+General principle, always, when the ferritin goes down, the TIBC will go up.
+
+218
+00:17:20,740 --> 00:17:23,740
+So that's really the first stage of iron deficiency.
+
+219
+00:17:24,440 --> 00:17:31,720
+Once the stored iron is used, then the next thing that's going to happen is the serum iron is going to be consumed.
+
+220
+00:17:32,140 --> 00:17:37,840
+And as the serum iron is going to be consumed, a few things are going to happen according to your laboratory studies.
+
+221
+00:17:37,840 --> 00:17:45,500
+Number one, the serum iron will go down because as serum iron is being used, obviously its levels are going to go down.
+
+222
+00:17:45,980 --> 00:17:51,780
+And number two, the percent saturation of iron will actually also go down.
+
+223
+00:17:51,780 --> 00:17:54,580
+Now the way to remember this is to just think about it.
+
+224
+00:17:54,660 --> 00:18:01,420
+So let's remind ourselves that if you have transferrin molecules, okay, let's draw here six transferrin molecules.
+
+225
+00:18:01,600 --> 00:18:05,060
+So one, two, three, four, five, six.
+
+226
+00:18:05,180 --> 00:18:07,040
+We've got six transferrin molecules, correct?
+
+227
+00:18:07,580 --> 00:18:12,540
+Now normally, when you think about transferrin, one out of every three is bound to iron.
+
+228
+00:18:13,040 --> 00:18:15,560
+So one out of every three is bound to iron.
+
+229
+00:18:15,860 --> 00:18:16,860
+So it looks like this.
+
+230
+00:18:16,860 --> 00:18:21,480
+Now if one out of every three is bound to iron, then what's the normal percent saturation?
+
+231
+00:18:21,780 --> 00:18:26,900
+Well, in this particular case, we've got two molecules of iron and six molecules of transferrin.
+
+232
+00:18:27,220 --> 00:18:32,860
+So the current saturation, I'm going to draw it up here in the left-hand side of your slide, is going to be two over six,
+
+233
+00:18:33,040 --> 00:18:39,940
+which really equals one-third, which equals 33%, which is the normal percent saturation.
+
+234
+00:18:40,480 --> 00:18:42,980
+All right, so the normal percent saturation is 33%.
+
+235
+00:18:42,980 --> 00:18:48,880
+Now let's assume that the patient is becoming iron deficient and the serum iron is depleted.
+
+236
+00:18:48,880 --> 00:18:57,000
+Well, if this iron molecule is consumed, now only one out of six transferrin molecules is bound by iron.
+
+237
+00:18:57,140 --> 00:19:03,100
+And so one over six equals, you know, 16%, roughly.
+
+238
+00:19:03,540 --> 00:19:06,700
+And so you can see that the percent saturation has gone down.
+
+239
+00:19:07,100 --> 00:19:12,720
+When serum iron is depleted, the serum iron will go down and the percent saturation will also go down.
+
+240
+00:19:13,060 --> 00:19:16,600
+So that's the next phase of iron deficiency.
+
+241
+00:19:16,600 --> 00:19:21,660
+Now the third stage or phase of iron deficiency is normalcytic anemia.
+
+242
+00:19:21,980 --> 00:19:22,920
+So what's the idea here?
+
+243
+00:19:23,260 --> 00:19:28,200
+Now as iron is being depleted from the storage sites and as iron is being depleted from the serum,
+
+244
+00:19:28,580 --> 00:19:31,780
+the bone marrow is still going to continue to try to make red blood cells.
+
+245
+00:19:31,880 --> 00:19:34,660
+And in order to make red blood cells, it needs to produce heme.
+
+246
+00:19:35,020 --> 00:19:37,300
+And in order to produce heme, it's going to need iron.
+
+247
+00:19:37,300 --> 00:19:42,760
+And so as the bone marrow begins to recognize that iron isn't available, it'll make a sacrifice.
+
+248
+00:19:43,080 --> 00:19:46,280
+It'll say, I prefer to make normal red blood cells.
+
+249
+00:19:46,420 --> 00:19:50,540
+I want nice, pretty, red, beautiful red blood cells.
+
+250
+00:19:51,120 --> 00:19:54,920
+However, because I can't make as many as I would like, I'll just make less.
+
+251
+00:19:55,400 --> 00:19:59,180
+And so initially, the patient will actually get a normalcytic anemia.
+
+252
+00:19:59,440 --> 00:20:03,140
+The cells will be normal in size, but there will be less of them made.
+
+253
+00:20:03,140 --> 00:20:05,480
+And so the patient will actually develop a normalcytic anemia.
+
+254
+00:20:05,880 --> 00:20:10,300
+The very early stage of iron deficiency anemia is actually normalcytic.
+
+255
+00:20:10,460 --> 00:20:14,820
+And examiners like you to know that because they want you to understand the sequence of what's going on.
+
+256
+00:20:15,100 --> 00:20:17,120
+And by the way, clinically, this is important as well.
+
+257
+00:20:17,460 --> 00:20:22,300
+Because you may find patients in your practice that are in very early stages of iron deficiency,
+
+258
+00:20:22,720 --> 00:20:27,220
+then you need to know that the initial stage of iron deficiency is actually a normalcytic anemia.
+
+259
+00:20:27,220 --> 00:20:33,360
+Now, eventually what will happen is the anemia or the iron deficiency will become so severe
+
+260
+00:20:33,360 --> 00:20:40,060
+that the patient will then develop the inability to produce normal red blood cells.
+
+261
+00:20:40,360 --> 00:20:45,720
+And so now the bone marrow will be forced to pump out cells that are smaller than normal
+
+262
+00:20:45,720 --> 00:20:51,140
+and that have less hemoglobin than normal and smaller than normal because they will have undergone an extra division.
+
+263
+00:20:51,600 --> 00:20:56,200
+And so these would be microcytic, i.e. smaller than normal, and hypochromic.
+
+264
+00:20:56,200 --> 00:21:01,040
+Hypochromic means that they contain less color than they normally should have.
+
+265
+00:21:01,480 --> 00:21:04,080
+And remember that when you consider the color of a red blood cell,
+
+266
+00:21:04,160 --> 00:21:07,820
+the normal red blood cell has a central area of pallor.
+
+267
+00:21:08,380 --> 00:21:13,860
+That central area of pallor will become expanded so that more of the red blood cell
+
+268
+00:21:13,860 --> 00:21:16,980
+does not have the red color of hemoglobin.
+
+269
+00:21:17,380 --> 00:21:19,740
+And so you get a microcytic hypochromic anemia.
+
+270
+00:21:20,760 --> 00:21:23,200
+And these are the key stages of iron deficiency.
+
+271
+00:21:23,200 --> 00:21:28,320
+Now, let's go through and remind ourselves of a couple clinical features of iron deficiency.
+
+272
+00:21:28,660 --> 00:21:30,360
+Obviously, the patients will become anemic.
+
+273
+00:21:30,840 --> 00:21:34,620
+Another finding, clinically, would be that the patients would have choelonychia,
+
+274
+00:21:34,760 --> 00:21:40,640
+which is sort of spoon-shaped nails.
+
+275
+00:21:41,200 --> 00:21:42,340
+And then they can have pica.
+
+276
+00:21:42,480 --> 00:21:43,160
+And what's pica?
+
+277
+00:21:43,300 --> 00:21:48,100
+Pica is an abnormality in which patients begin to chew on things abnormally,
+
+278
+00:21:48,100 --> 00:21:50,540
+like they may chew on dirt, they may chew on ice.
+
+279
+00:21:50,900 --> 00:21:55,960
+And the way I think about it is sort of a psychological drive to get iron from any source possible,
+
+280
+00:21:56,600 --> 00:22:00,280
+chewing on dirt, perhaps seeking iron within dirt, for example.
+
+281
+00:22:00,500 --> 00:22:01,640
+So that's called pica.
+
+282
+00:22:02,580 --> 00:22:05,460
+Now, what are the key laboratory findings in iron deficiency anemia?
+
+283
+00:22:05,880 --> 00:22:07,880
+Well, you know that they're going to have a microcytic,
+
+284
+00:22:07,880 --> 00:22:13,800
+so the MTV would be less than 80, hypochromic, the red cells will look less pink than they should,
+
+285
+00:22:14,280 --> 00:22:16,120
+with an increased RDW.
+
+286
+00:22:16,320 --> 00:22:18,140
+Now, this requires a little bit of discussion.
+
+287
+00:22:18,500 --> 00:22:19,640
+What is the RDW?
+
+288
+00:22:20,120 --> 00:22:24,380
+The RDW stands for the Red Blood Cell Distribution Width.
+
+289
+00:22:24,940 --> 00:22:27,020
+Red Blood Cell Distribution Width.
+
+290
+00:22:27,380 --> 00:22:33,800
+And basically, what the RDW measures is what is the spectrum of size of the red blood cells.
+
+291
+00:22:33,800 --> 00:22:38,260
+If all of the red blood cells are relatively the same size, then the RDW would be low.
+
+292
+00:22:38,620 --> 00:22:43,340
+And if there's a wide spectrum of red blood cell size, then the RDW would be high.
+
+293
+00:22:43,860 --> 00:22:51,040
+Now, in an iron deficiency anemia, recall that the initial phase of the bone marrow response to iron deficiency
+
+294
+00:22:51,040 --> 00:22:54,180
+is to try to make as many normal cells as possible.
+
+295
+00:22:54,800 --> 00:22:59,200
+And then, once the iron deficiency progresses, it will begin to make smaller cells.
+
+296
+00:22:59,660 --> 00:23:00,980
+So there's going to be a spectrum.
+
+297
+00:23:00,980 --> 00:23:04,260
+There's going to be some normal cells, and there's going to be some small cells.
+
+298
+00:23:04,800 --> 00:23:14,440
+And so that spectrum of normal cells and small cells is going to widen the distribution of the size of the red blood cells.
+
+299
+00:23:14,780 --> 00:23:21,920
+And so the RDW is going to increase because of this broad spectrum of varying sizes of the red blood cells.
+
+300
+00:23:22,440 --> 00:23:23,660
+So that's important to know.
+
+301
+00:23:23,840 --> 00:23:28,000
+It's classically seen in iron deficiency anemia.
+
+302
+00:23:28,000 --> 00:23:32,340
+Now, patients with iron deficiency anemia, let's think about this for a minute.
+
+303
+00:23:32,340 --> 00:23:36,920
+Their serum ferritin, sorry, their iron stores are going to be low, correct?
+
+304
+00:23:37,020 --> 00:23:40,180
+Because they're using up the iron, so the serum ferritin will be down.
+
+305
+00:23:40,600 --> 00:23:48,160
+Anytime the serum ferritin is down, the TIBC is going to be up, i.e., the liver will produce more transferrin molecules.
+
+306
+00:23:48,320 --> 00:23:49,860
+And so that's the measure of the TIBC.
+
+307
+00:23:49,860 --> 00:23:55,800
+Again, the serum iron will go down because the serum iron will be used.
+
+308
+00:23:56,140 --> 00:23:59,640
+And when the serum iron goes down, the percent saturation will also go down.
+
+309
+00:24:00,100 --> 00:24:04,020
+This I've kind of explained previously, so we don't need much detail here.
+
+310
+00:24:04,480 --> 00:24:10,240
+One aspect of lab findings that I haven't talked about is the free erythrocyte protoporphyrin.
+
+311
+00:24:10,240 --> 00:24:13,620
+And this actually is very high yield to be familiar with.
+
+312
+00:24:13,740 --> 00:24:17,060
+And it's actually a decent test for iron deficiency anemia.
+
+313
+00:24:17,560 --> 00:24:23,680
+And it's also a very good examiner's question because it takes you back to a little bit of biochemistry.
+
+314
+00:24:24,200 --> 00:24:28,240
+Now, what do I mean by the free erythrocyte protoporphyrin?
+
+315
+00:24:28,820 --> 00:24:35,420
+Recall that basically heme, correct, this is heme, heme consists of two components.
+
+316
+00:24:35,420 --> 00:24:39,720
+It consists of iron plus protoporphyrin.
+
+317
+00:24:41,920 --> 00:24:44,980
+In an iron deficiency anemia, the iron is down.
+
+318
+00:24:45,960 --> 00:24:50,700
+But is there any problem in iron deficiency anemia with the production of protoporphyrin?
+
+319
+00:24:51,100 --> 00:24:51,920
+The answer is no.
+
+320
+00:24:52,200 --> 00:24:53,540
+The protoporphyrin is normal.
+
+321
+00:24:54,040 --> 00:24:58,180
+And so if iron is down and the protoporphyrin is normal,
+
+322
+00:24:58,500 --> 00:25:02,340
+some of the protoporphyrin in the red blood cell will not be bound to iron.
+
+323
+00:25:02,500 --> 00:25:06,520
+It will be floating around free because there isn't iron to bind it to actually produce heme.
+
+324
+00:25:06,520 --> 00:25:11,920
+And so in the red blood cell, there will be free erythrocyte protoporphyrin.
+
+325
+00:25:12,300 --> 00:25:13,840
+And so that, again, is very high yield.
+
+326
+00:25:14,340 --> 00:25:15,760
+One, clinically it's useful.
+
+327
+00:25:16,140 --> 00:25:22,240
+And two, it allows examiners to test you on some integrated biochemistry
+
+328
+00:25:22,240 --> 00:25:25,780
+in the context of clinical findings and pathology.
+
+329
+00:25:26,280 --> 00:25:27,820
+So this is something to be well aware of.
+
+330
+00:25:28,320 --> 00:25:31,580
+Here's a classic blood smear from a patient with iron deficiency anemia.
+
+331
+00:25:32,000 --> 00:25:34,200
+And there's a few things to remind ourselves here.
+
+332
+00:25:34,200 --> 00:25:35,800
+Number one, this is a lymphocyte.
+
+333
+00:25:36,420 --> 00:25:41,460
+And the nucleus of the lymphocyte should represent the normal size of the red blood cell.
+
+334
+00:25:41,580 --> 00:25:46,640
+So red blood cells should normally be about the size of the nucleus of the lymphocyte.
+
+335
+00:25:47,100 --> 00:25:50,780
+And in this particular case, we can see that the red blood cells are small.
+
+336
+00:25:51,260 --> 00:25:53,300
+And some of them may be close to normal.
+
+337
+00:25:53,620 --> 00:25:54,560
+But there is a spectrum.
+
+338
+00:25:54,560 --> 00:25:57,620
+But there certainly are an increased number of small red blood cells.
+
+339
+00:25:58,660 --> 00:26:03,720
+And so this picture is highlighting for you a microcytic hypochromic anemia,
+
+340
+00:26:04,040 --> 00:26:08,020
+which would classically be the description of an iron deficiency anemia.
+
+341
+00:26:09,500 --> 00:26:12,320
+Treatment of iron deficiency anemia is very straightforward.
+
+342
+00:26:12,580 --> 00:26:13,860
+We give ferrous sulfate.
+
+343
+00:26:13,980 --> 00:26:17,000
+And the idea here is that we want to replace the iron.
+
+344
+00:26:17,000 --> 00:26:24,000
+However, remember that if there's some underlying cause that would explain the patient's iron deficiency anemia,
+
+345
+00:26:24,220 --> 00:26:25,440
+you need to treat that as well.
+
+346
+00:26:26,080 --> 00:26:30,800
+So, for example, if there's an older male and he has iron deficiency anemia,
+
+347
+00:26:31,060 --> 00:26:35,880
+it's very important to rule out colonic carcinoma in that patient.
+
+348
+00:26:36,020 --> 00:26:40,540
+So we don't simply just sort of figure out that there's an iron deficiency anemia and then give iron.
+
+349
+00:26:40,720 --> 00:26:42,560
+We need to ask the question, why?
+
+350
+00:26:42,560 --> 00:26:44,140
+Why is the patient iron deficient?
+
+351
+00:26:44,540 --> 00:26:48,720
+And that's important because if there's a cancer, we certainly want to detect it and treat that as well.
+
+352
+00:26:49,280 --> 00:26:53,080
+One associated syndrome to be familiar with, it's relatively high yield,
+
+353
+00:26:53,460 --> 00:26:56,060
+and so we're going to throw it in the context of this discussion.
+
+354
+00:26:56,300 --> 00:26:58,440
+It's called the Plummer-Vincent syndrome.
+
+355
+00:26:59,220 --> 00:27:07,860
+This is iron deficiency anemia that has an additional association of esophageal web and atrophic glossitis,
+
+356
+00:27:07,860 --> 00:27:12,680
+such that the patients present with anemia, dysphagia, and a beefy red tongue.
+
+357
+00:27:13,060 --> 00:27:17,640
+Let me just highlight what an esophageal web is to make this discussion a little more clear.
+
+358
+00:27:18,000 --> 00:27:19,180
+This is the esophagus.
+
+359
+00:27:19,300 --> 00:27:21,500
+You know that the esophagus is lined by a mucosa,
+
+360
+00:27:21,960 --> 00:27:25,980
+and the mucosa would be relatively tight up against the lumen of the esophagus.
+
+361
+00:27:26,360 --> 00:27:31,440
+However, there can be redundancy in the mucosa so that some of the mucosa outfolds in this way,
+
+362
+00:27:31,440 --> 00:27:37,500
+and that could potentially create an obstruction or a partial obstruction within the esophagus.
+
+363
+00:27:38,000 --> 00:27:44,340
+And so, for example, if a patient were to try to consume foods, in particular poorly chewed foods,
+
+364
+00:27:44,760 --> 00:27:51,480
+then these foods could actually get stuck as it's trying to move down the esophagus, resulting in dysphagia.
+
+365
+00:27:51,780 --> 00:27:55,700
+So this mucosal protrusion is called an esophageal web,
+
+366
+00:27:55,700 --> 00:27:58,500
+and esophageal webs can be seen in many circumstances,
+
+367
+00:27:59,020 --> 00:28:04,080
+but they're highly associated with Plummer-Vincent syndrome, especially on examinations.
+
