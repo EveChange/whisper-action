@@ -128,7 +128,11 @@ def resolve_audio_files(path_expr: str) -> List[str]:
     import glob
     SUPPORTED_EXTS = {".ogg", ".wav", ".mp3", ".m4a", ".aac", ".flac", ".wma", ".opus", ".mp4", ".mkv", ".webm"}
     files = []
-    parts = [p.strip() for p in path_expr.replace("\n", ",").split(",") if p.strip()]
+    # If the exact path exists on disk, treat it as a single target to allow commas in filenames
+    if os.path.exists(path_expr):
+        parts = [path_expr]
+    else:
+        parts = [p.strip() for p in path_expr.replace("\n", ",").split(",") if p.strip()]
     for part in parts:
         if os.path.isdir(part):
             for root, _, filenames in os.walk(part):
