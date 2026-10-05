@@ -1,0 +1,276 @@
+1
+00:00:00,000 --> 00:00:02,780
+Okay, the last section of this chapter deals with the pleura.
+
+2
+00:00:03,660 --> 00:00:05,920
+Let's remind ourselves that if this is the lung,
+
+3
+00:00:06,760 --> 00:00:10,680
+there attached to the lung is something called the visceral pleura.
+
+4
+00:00:11,900 --> 00:00:14,960
+And this then folds over, and when it folds over,
+
+5
+00:00:15,040 --> 00:00:18,320
+it attaches to the chest wall, and here we call it the parietal pleura.
+
+6
+00:00:18,700 --> 00:00:21,180
+So again, there's a parietal pleura and a visceral pleura.
+
+7
+00:00:21,540 --> 00:00:23,860
+In between that is the pleural space.
+
+8
+00:00:24,260 --> 00:00:27,340
+Now remember that both the parietal pleura and the visceral pleura
+
+9
+00:00:27,340 --> 00:00:29,440
+are lined by mesothelial cells.
+
+10
+00:00:30,000 --> 00:00:35,580
+The mesothelial cells produce a fluid that helps to lubricate the pleural space
+
+11
+00:00:35,580 --> 00:00:39,520
+to facilitate the movement of the lung against the chest wall.
+
+12
+00:00:40,200 --> 00:00:42,500
+The first disorder is called a pneumothorax.
+
+13
+00:00:42,580 --> 00:00:45,840
+This is where there's accumulation of air in the pleural space.
+
+14
+00:00:46,400 --> 00:00:49,580
+One type of pneumothorax is a spontaneous pneumothorax.
+
+15
+00:00:49,580 --> 00:00:53,120
+This is usually due to rupture of an emphyseminous bleb,
+
+16
+00:00:53,540 --> 00:00:55,000
+classically seen in young adults.
+
+17
+00:00:55,400 --> 00:00:57,720
+This results in collapse of a portion of the lung,
+
+18
+00:00:57,720 --> 00:01:00,860
+with the trachea shifting to the side of the collapse.
+
+19
+00:01:01,260 --> 00:01:03,200
+Here's a perfect picture that illustrates that.
+
+20
+00:01:03,440 --> 00:01:05,100
+This is the normal lung on this side,
+
+21
+00:01:05,480 --> 00:01:07,540
+and you can see that on this particular side,
+
+22
+00:01:07,620 --> 00:01:09,720
+the lung has actually collapsed,
+
+23
+00:01:09,920 --> 00:01:14,720
+and the thorax is full of air, hence the term pneumothorax.
+
+24
+00:01:14,720 --> 00:01:19,980
+Now, a tension pneumothorax arises with a penetrating chest wall injury,
+
+25
+00:01:20,440 --> 00:01:22,520
+and this is a medical emergency.
+
+26
+00:01:23,000 --> 00:01:24,740
+The idea here is the following.
+
+27
+00:01:25,160 --> 00:01:28,020
+So, imagine that if this is the lung,
+
+28
+00:01:28,660 --> 00:01:32,020
+and of course the lung has a pleura attached to it,
+
+29
+00:01:32,020 --> 00:01:35,420
+and now we've got the chest wall out here.
+
+30
+00:01:35,700 --> 00:01:37,480
+If the patient were to get an injury,
+
+31
+00:01:37,900 --> 00:01:39,600
+that would open the chest wall
+
+32
+00:01:39,600 --> 00:01:41,260
+so that when the patient breathed in,
+
+33
+00:01:41,380 --> 00:01:43,040
+air could come into the pleural space,
+
+34
+00:01:43,460 --> 00:01:45,860
+but when they breathe out, air cannot escape,
+
+35
+00:01:46,220 --> 00:01:47,560
+then every time they breathe in,
+
+36
+00:01:47,620 --> 00:01:50,120
+they'd essentially be putting air into the pleural space
+
+37
+00:01:50,120 --> 00:01:52,440
+as if they were pumping air into a basketball.
+
+38
+00:01:53,060 --> 00:01:54,660
+So, air would continue to enter,
+
+39
+00:01:54,960 --> 00:01:57,320
+which would eventually compress this lung down,
+
+40
+00:01:57,320 --> 00:01:59,180
+and as it compresses this lung down,
+
+41
+00:01:59,280 --> 00:02:02,700
+the pressure would also push the trachea to the opposite side.
+
+42
+00:02:03,300 --> 00:02:04,540
+This is a medical emergency
+
+43
+00:02:04,540 --> 00:02:06,480
+because this high tension within the thorax
+
+44
+00:02:06,480 --> 00:02:08,640
+can also create pressure on the heart
+
+45
+00:02:08,640 --> 00:02:10,220
+and other vital structures,
+
+46
+00:02:10,600 --> 00:02:12,680
+and that's called the tension pneumothorax,
+
+47
+00:02:12,720 --> 00:02:13,720
+and the way by which it's relieved
+
+48
+00:02:13,720 --> 00:02:14,920
+is putting in a chest tube,
+
+49
+00:02:15,060 --> 00:02:18,700
+which then allows the air to drain out from this pleural space.
+
+50
+00:02:19,180 --> 00:02:21,580
+The final lesion of the pleura is called mesothelioma.
+
+51
+00:02:21,740 --> 00:02:23,880
+You've heard about it previously in these discussions.
+
+52
+00:02:24,380 --> 00:02:26,820
+This is a mollegate neoplasma of mesothelial cells.
+
+53
+00:02:26,820 --> 00:02:30,180
+Again, highly associated with exposure to asbestos.
+
+54
+00:02:30,620 --> 00:02:32,500
+It presents with recurrent pleural effusions.
+
+55
+00:02:32,820 --> 00:02:33,440
+That makes sense
+
+56
+00:02:33,440 --> 00:02:35,900
+because the mesothelial cells normally make fluid,
+
+57
+00:02:36,320 --> 00:02:38,060
+which lubricates the pleural space,
+
+58
+00:02:38,140 --> 00:02:39,880
+and so the tumor will also make fluid,
+
+59
+00:02:39,980 --> 00:02:41,500
+producing recurrent pleural effusions.
+
+60
+00:02:41,980 --> 00:02:43,880
+Also, there's dyspnea and chest pain,
+
+61
+00:02:44,380 --> 00:02:46,520
+and then the tumor classically encases the lung
+
+62
+00:02:46,520 --> 00:02:48,180
+the same way that the mesothelium,
+
+63
+00:02:48,500 --> 00:02:50,920
+the normal mesothelium, normally surrounds the lung,
+
+64
+00:02:51,220 --> 00:02:52,120
+and so here's a picture.
+
+65
+00:02:52,320 --> 00:02:54,120
+This is the normal lung here,
+
+66
+00:02:54,460 --> 00:02:56,700
+and you can see that there's this tumor
+
+67
+00:02:56,700 --> 00:02:59,740
+which is massively encasing the lung,
+
+68
+00:03:00,200 --> 00:03:02,720
+and this is a classic picture of a mesothelioma,
+
+69
+00:03:03,060 --> 00:03:05,380
+and that concludes this section and the chapter.
+

@@ -1,0 +1,1012 @@
+1
+00:00:00,000 --> 00:00:05,120
+Okay, moving on to lung cancer, this is the most common cause of cancer mortality in the United States.
+
+2
+00:00:05,580 --> 00:00:10,400
+Remember that by incidence, the most common cancers are, number one, breast or prostate,
+
+3
+00:00:10,660 --> 00:00:12,860
+depending on whether we're dealing with a female or a male.
+
+4
+00:00:13,460 --> 00:00:18,060
+Number two is lung cancer, and number three is colorectal carcinoma.
+
+5
+00:00:18,500 --> 00:00:24,580
+However, lung cancer moves up to become the most common cause of cancer mortality or death in the United States.
+
+6
+00:00:25,040 --> 00:00:27,720
+The average age of presentation is about 60 years of age.
+
+7
+00:00:27,720 --> 00:00:31,160
+Among the risk factors, the first is cigarette smoke.
+
+8
+00:00:31,600 --> 00:00:34,340
+85% of lung cancer occurs in smokers.
+
+9
+00:00:34,740 --> 00:00:37,780
+Cigarette smoke contains over 60 different carcinogens.
+
+10
+00:00:38,300 --> 00:00:43,440
+Particularly mutagenic within cigarette smoke are polycyclic aromatic hydrocarbons.
+
+11
+00:00:43,580 --> 00:00:44,240
+That's high yield.
+
+12
+00:00:44,860 --> 00:00:50,620
+Polycyclic aromatic hydrocarbons are especially mutagenic, and also present in cigarette smoke is arsenic.
+
+13
+00:00:50,660 --> 00:00:56,400
+And you'll recall from our neoplasia lecture that arsenic increases the risk for squamous cell carcinoma of the lung.
+
+14
+00:00:56,400 --> 00:01:03,680
+Of course, risk is related to the duration and the amount of smoking, and that can be summarized as the pack year measurement.
+
+15
+00:01:04,380 --> 00:01:12,100
+And so we ask patients how many packs of cigarettes they smoke per day, and for how many years they've been smoking that number of packs.
+
+16
+00:01:12,100 --> 00:01:15,520
+So these are all the key features concerning cigarette smoke.
+
+17
+00:01:16,020 --> 00:01:21,780
+As far as radon is concerned, the way I think about radon is sort of the radon-uranium sequence.
+
+18
+00:01:22,300 --> 00:01:29,000
+Now, radon is generated from radioactive decay of uranium, and uranium is present in the soil all around us.
+
+19
+00:01:29,000 --> 00:01:33,620
+This normally goes up into the atmosphere and doesn't really cause any problems.
+
+20
+00:01:34,240 --> 00:01:40,760
+However, it can accumulate in closed spaces, such as basements, as a colorless, odorless gas called radon.
+
+21
+00:01:41,260 --> 00:01:45,840
+And of course, that would eventually go into the lung, increasing the risk of lung cancer.
+
+22
+00:01:46,440 --> 00:01:55,040
+Now, if you remember this radon-uranium sequence, it also helps you to remember that the risk of lung cancer is increased in uranium miners as well.
+
+23
+00:01:55,040 --> 00:01:59,340
+And of course, they would also be breathing in this type of gas.
+
+24
+00:02:00,440 --> 00:02:11,520
+The third risk factor is asbestos, and the most important thing to state here is that patients who are exposed to asbestos are much more likely to develop lung cancer than they are to develop mesothelioma.
+
+25
+00:02:11,840 --> 00:02:14,840
+I've mentioned that a few times in prior lectures as well.
+
+26
+00:02:16,060 --> 00:02:19,660
+Now, patients who present with lung cancer, they present with nonspecific symptoms.
+
+27
+00:02:19,660 --> 00:02:27,460
+For example, they may present with cough, weight loss, hemoptysis, post-obstructive pneumonia, etc.
+
+28
+00:02:28,140 --> 00:02:32,800
+Whatever it might be, especially in a smoker, when you have these nonspecific types of symptoms,
+
+29
+00:02:32,940 --> 00:02:37,500
+the next thing that's going to happen is that the patient's going to get some sort of imaging, usually a chest x-ray.
+
+30
+00:02:38,000 --> 00:02:43,360
+And a chest x-ray would classically reveal something called a coin lesion, or a solitary nodule.
+
+31
+00:02:43,860 --> 00:02:48,880
+A coin lesion, again, is a solitary nodule that measures about anywhere from 2 to 5 centimeters.
+
+32
+00:02:48,880 --> 00:02:54,020
+And once a patient has a solitary nodule, examiners like to ask you, what's the next step?
+
+33
+00:02:54,560 --> 00:02:59,900
+So the next step after finding a solitary nodule is to go back and compare against a prior x-ray.
+
+34
+00:03:00,280 --> 00:03:07,900
+Often these patients will have had several x-rays in the past, and you can review those x-rays to see whether this solitary nodule or coin lesion has been stable.
+
+35
+00:03:08,320 --> 00:03:16,100
+If the coin lesion has been present over a long period of time and is unchanged, it's much more likely that this coin lesion represents something benign.
+
+36
+00:03:16,100 --> 00:03:27,680
+However, if the coin lesion is new, or the coin lesion is growing, that would raise the concern and potentially prompt a biopsy in order to try to make a diagnosis of cancer.
+
+37
+00:03:28,080 --> 00:03:30,740
+Of course, a biopsy would be necessary for such a diagnosis.
+
+38
+00:03:31,620 --> 00:03:36,440
+Now, it is possible for patients to have benign lesions that could present as coin lesions.
+
+39
+00:03:36,980 --> 00:03:39,300
+Benign lesions are much more common in young patients.
+
+40
+00:03:39,300 --> 00:03:46,080
+In fact, a young patient with a coin lesion, let's say less than the age of 40, is much more likely to have a benign lesion than they are to have cancer.
+
+41
+00:03:46,640 --> 00:03:50,180
+And the two high-yield benign lesions to be aware of are, number one, granuloma.
+
+42
+00:03:50,600 --> 00:03:53,100
+So granulomas can actually present as a coin lesion.
+
+43
+00:03:53,540 --> 00:04:02,420
+Classically, a granuloma would be due to TB or fungus, and especially in the Midwest, you would think about histoplasma as the cause of a coin lesion.
+
+44
+00:04:02,720 --> 00:04:04,460
+And again, that's particularly high-yield.
+
+45
+00:04:04,460 --> 00:04:12,140
+Another lesion that can present as a coin lesion that ends up being benign is a bronchial hematoma.
+
+46
+00:04:12,540 --> 00:04:13,540
+Now, a few important things.
+
+47
+00:04:13,620 --> 00:04:15,100
+First of all, what is a hematoma?
+
+48
+00:04:15,520 --> 00:04:21,620
+A hematoma is a benign mass that is comprised of tissue that normally belongs in that location.
+
+49
+00:04:21,860 --> 00:04:23,260
+However, it's disorganized.
+
+50
+00:04:23,700 --> 00:04:27,680
+And so the bronchial hematoma actually contains lung tissue and cartilage.
+
+51
+00:04:27,880 --> 00:04:28,540
+That's high-yield.
+
+52
+00:04:28,720 --> 00:04:31,060
+Lung tissue plus cartilage.
+
+53
+00:04:31,260 --> 00:04:34,040
+And this lesion is often calcified on imaging.
+
+54
+00:04:34,680 --> 00:04:38,420
+And so this is another potential cause of a benign coin lesion.
+
+55
+00:04:39,800 --> 00:04:48,600
+Now, if malignant cells are seen in biopsy, then the classic division of lung carcinoma is small cell carcinoma versus non-small cell carcinoma.
+
+56
+00:04:49,340 --> 00:04:53,880
+This distinction is made by the pathologist by looking at the cells under the microscope.
+
+57
+00:04:53,880 --> 00:04:59,860
+There are some characteristic features of small cell carcinoma, classically with the cells being small.
+
+58
+00:05:00,300 --> 00:05:04,320
+And if the cells are not small, then it would be called non-small cell carcinoma.
+
+59
+00:05:04,420 --> 00:05:07,780
+And we'll talk about that subtype in a little more detail in a moment.
+
+60
+00:05:08,220 --> 00:05:10,640
+Now, why is this initial distinction so important?
+
+61
+00:05:10,640 --> 00:05:15,860
+It's important because small cell carcinoma is usually not amenable to surgical resection.
+
+62
+00:05:16,180 --> 00:05:17,660
+Instead, it's treated with chemotherapy.
+
+63
+00:05:18,440 --> 00:05:25,860
+Whereas non-small cell carcinoma is actually treated up front with surgical resection and usually does not respond well to chemotherapy.
+
+64
+00:05:25,860 --> 00:05:37,820
+If you're having trouble remembering this, one of my students once said, it's as if the cells of small cell carcinoma are so small that the surgeon can't see them, i.e. they're not amenable to surgical resection.
+
+65
+00:05:37,820 --> 00:05:44,160
+As far as non-small cell carcinoma is concerned, that can be divided into several major subtypes.
+
+66
+00:05:44,600 --> 00:05:54,120
+So when you're looking at the slide, if you see glands or mucous production, these are the two key features of adenocarcinoma and are high yield to understand.
+
+67
+00:05:54,600 --> 00:06:00,200
+If you see glands or mucous production, then we call that an adenocarcinoma.
+
+68
+00:06:00,200 --> 00:06:07,900
+Whereas if we see keratin pearls or intercellular bridges, we call that a squamous cell carcinoma.
+
+69
+00:06:08,300 --> 00:06:17,920
+If we don't see glands and we don't see mucin and we don't see keratin pearls and we don't see intercellular bridges, then we simply call that large cell carcinoma.
+
+70
+00:06:18,260 --> 00:06:23,100
+There is another subtype of non-small cell carcinoma called a carcinoid tumor.
+
+71
+00:06:23,620 --> 00:06:27,080
+That's a little bit of a special subtype and we'll discuss that at the very end.
+
+72
+00:06:27,080 --> 00:06:34,760
+With that background in mind, let's review some of the major histologic subtypes of lung cancer present in this table in your text.
+
+73
+00:06:35,220 --> 00:06:37,780
+The first that I mention is small cell carcinoma.
+
+74
+00:06:38,060 --> 00:06:42,740
+Of course, we always start there because we want to divide small cell carcinoma from everything else.
+
+75
+00:06:43,120 --> 00:06:50,820
+And that's because, again, small cell carcinoma is treated up front with chemotherapy, as opposed to the others which would be treated up front with surgery.
+
+76
+00:06:50,820 --> 00:06:56,900
+Now, small cell carcinoma's characteristic histology will be poorly differentiated small cells.
+
+77
+00:06:57,440 --> 00:07:03,900
+Often, the tumor is mitotically active and exhibits necrosis and then has characteristic features of small cell carcinoma.
+
+78
+00:07:04,460 --> 00:07:07,660
+This is going to be highly associated with male smokers.
+
+79
+00:07:08,120 --> 00:07:18,780
+It will be a central tumor and it will have particular perineoplastic syndrome, such as antidiuretic hormone or ACTH production, giving the patient Cushing syndrome.
+
+80
+00:07:18,780 --> 00:07:30,940
+Or it can also be associated with a syndrome called Eaton-Lambert syndrome, in which patients develop antibodies against presynaptic calcium channels, resulting in the possibility of muscle weakness.
+
+81
+00:07:30,940 --> 00:07:42,460
+Now, let me just give you a little mnemonic here that some people feel is useful, and that is when the tumor starts with an S, in this case, small cell, then it's going to be highly associated with smoking.
+
+82
+00:07:43,000 --> 00:07:49,000
+It's going to be central, which starts with the S sound, and it will be associated with perineoplastic syndromes.
+
+83
+00:07:49,000 --> 00:07:53,020
+So, again, small cell, smokers, central syndromes.
+
+84
+00:07:53,320 --> 00:08:00,060
+So, again, all of that starts with S, and that's one way by which people try to keep this information organized in their mind.
+
+85
+00:08:00,640 --> 00:08:03,100
+Here's a histologic image of small cell carcinoma.
+
+86
+00:08:03,440 --> 00:08:05,160
+These are relatively small cells.
+
+87
+00:08:05,280 --> 00:08:08,340
+They sort of mimic lymphocytes in their size.
+
+88
+00:08:08,940 --> 00:08:12,460
+There's also a significant degree of mitotic activity.
+
+89
+00:08:12,460 --> 00:08:16,700
+And so, these are some of the features of small cell carcinoma.
+
+90
+00:08:17,440 --> 00:08:22,640
+Now, moving beyond small cell carcinoma, the next tumor to be aware of is squamous cell carcinoma.
+
+91
+00:08:23,080 --> 00:08:26,340
+Of course, squamous cell carcinoma will be defined by one of two things.
+
+92
+00:08:26,660 --> 00:08:32,220
+We either have to see keratin, pearls, or intercellular bridges on the histology.
+
+93
+00:08:32,700 --> 00:08:34,020
+Now, I'd like to make a note here.
+
+94
+00:08:34,380 --> 00:08:36,540
+Your book says intracellular.
+
+95
+00:08:36,640 --> 00:08:41,200
+It should read inter, I-N-T-E-R, cellular bridges.
+
+96
+00:08:41,200 --> 00:08:42,960
+And so, please make that correction.
+
+97
+00:08:43,420 --> 00:08:49,080
+Again, squamous cell carcinoma is defined by the presence of keratin, pearls, or intercellular bridges.
+
+98
+00:08:49,540 --> 00:08:53,420
+So, we can use our mnemonic to remind ourselves that this is an S tumor.
+
+99
+00:08:53,600 --> 00:08:54,580
+It starts with the letter S.
+
+100
+00:08:54,860 --> 00:08:58,060
+So, therefore, it's going to be highly associated with male smokers.
+
+101
+00:08:58,200 --> 00:09:00,960
+In fact, it's the most common tumor in male smokers.
+
+102
+00:09:01,540 --> 00:09:03,880
+It'll be central, which starts with the S sound.
+
+103
+00:09:04,200 --> 00:09:10,300
+And it'll have an associated syndrome, which is the production of parathyroid hormone-related peptide,
+
+104
+00:09:10,300 --> 00:09:12,260
+giving the patients hypercalcemia.
+
+105
+00:09:12,620 --> 00:09:16,460
+Now, this is really only seen in a small subset of patients with squamous cell carcinoma,
+
+106
+00:09:16,640 --> 00:09:21,280
+but it's very classically seen in patients, especially on board exams.
+
+107
+00:09:21,760 --> 00:09:28,120
+So, you do need to be aware of the fact that squamous cell carcinoma can produce parathyroid hormone-related peptide.
+
+108
+00:09:28,120 --> 00:09:36,020
+Moving to a couple images, this is a picture of a lung cancer, and we can clearly see that it's producing these pink keratin pearls.
+
+109
+00:09:36,540 --> 00:09:40,300
+And so, hence, this would be an example of a squamous cell carcinoma.
+
+110
+00:09:40,740 --> 00:09:47,220
+In addition, in this particular case, we can see that the tumor cells are exhibiting intercellular bridges.
+
+111
+00:09:47,220 --> 00:09:50,200
+You can see these lines connecting the cells together.
+
+112
+00:09:50,340 --> 00:09:56,360
+These are called intercellular bridges, and they represent the desmosomal connections between the squamous cells.
+
+113
+00:09:56,720 --> 00:09:59,440
+Now, remember that squamous cells are normally connected by desmosomes,
+
+114
+00:09:59,820 --> 00:10:02,440
+and so as the cells are pulled apart from one another,
+
+115
+00:10:02,920 --> 00:10:06,560
+you can actually see the bridges of the connections between the desmosomes.
+
+116
+00:10:06,880 --> 00:10:10,220
+And, of course, desmosomes would indicate that we're dealing with squamous cells.
+
+117
+00:10:10,540 --> 00:10:14,660
+So, hence, intracellular bridges are a sign of squamous cell carcinoma.
+
+118
+00:10:14,660 --> 00:10:17,380
+Here's another example of a squamous cell carcinoma.
+
+119
+00:10:17,720 --> 00:10:21,760
+Notice that this is a large airway, and this tumor is growing central.
+
+120
+00:10:22,300 --> 00:10:27,420
+And so, remember that squamous cell carcinoma, most common tumor in male smokers,
+
+121
+00:10:27,680 --> 00:10:35,420
+it is going to be central, and its paraneoplastic syndrome is going to be the production of parathyroid hormone-related peptide.
+
+122
+00:10:36,320 --> 00:10:38,700
+Now, the next type of tumor is adenocarcinoma.
+
+123
+00:10:38,840 --> 00:10:41,840
+This is defined by glands or mucin production.
+
+124
+00:10:41,840 --> 00:10:45,320
+So, either of these two features would define adenocarcinoma.
+
+125
+00:10:45,800 --> 00:10:48,720
+This is the most common tumor in non-smokers.
+
+126
+00:10:48,960 --> 00:10:49,680
+That's high yield.
+
+127
+00:10:50,020 --> 00:10:53,680
+And it's also the most common tumor in female smokers.
+
+128
+00:10:53,980 --> 00:10:58,360
+Most common tumor in non-smokers and most common tumor in female smokers.
+
+129
+00:10:58,820 --> 00:11:02,080
+This is classically located in a peripheral location,
+
+130
+00:11:02,500 --> 00:11:05,880
+and it's not associated with any paraneoplastic syndrome.
+
+131
+00:11:05,880 --> 00:11:09,060
+Here's a classic image of an adenocarcinoma.
+
+132
+00:11:09,500 --> 00:11:14,880
+Here in the center, you can clearly see that the tumor cells are forming a glandular-like space.
+
+133
+00:11:15,260 --> 00:11:20,780
+Here as well, you can see that the tumor cells are forming this glandular-like space.
+
+134
+00:11:21,260 --> 00:11:27,280
+In addition, you can see that some of the tumor cells actually have this blue-gray mucus within the cytoplasm,
+
+135
+00:11:27,280 --> 00:11:32,500
+which is called a mucin, and that is also indicative of an adenocarcinoma.
+
+136
+00:11:32,960 --> 00:11:35,040
+Here's a classic image that can show up on an exam.
+
+137
+00:11:35,380 --> 00:11:36,660
+Notice that this is a tumor.
+
+138
+00:11:36,820 --> 00:11:39,240
+You can clearly see the tumor here within the lung.
+
+139
+00:11:39,500 --> 00:11:42,920
+And notice that it's way out at the edge of the lung, up against the pleura.
+
+140
+00:11:43,380 --> 00:11:48,480
+And so, again, this is a peripheral location, and adenocarcinomas are classically peripheral.
+
+141
+00:11:48,480 --> 00:11:51,980
+Now, remember that if we have a non-small cell carcinoma,
+
+142
+00:11:52,320 --> 00:11:57,060
+and there are no keratin pearls, no intracellular bridges, no glands, or no mucin,
+
+143
+00:11:57,360 --> 00:11:59,680
+then we call that large cell carcinoma.
+
+144
+00:11:59,980 --> 00:12:04,620
+So this is comprised of poorly differentiated large cells with no keratin pearls,
+
+145
+00:12:04,760 --> 00:12:07,800
+no intracellular bridges, no glands, or no mucin.
+
+146
+00:12:08,280 --> 00:12:09,900
+It is associated with smoking.
+
+147
+00:12:10,180 --> 00:12:13,400
+It can be central or peripheral, and it has a poor prognosis.
+
+148
+00:12:13,880 --> 00:12:16,920
+So this is another subtype of lung cancer to be aware of.
+
+149
+00:12:16,920 --> 00:12:20,220
+Now, there are a few special subtypes that are particularly high-yield,
+
+150
+00:12:20,300 --> 00:12:21,640
+so I'd like to touch on each of them.
+
+151
+00:12:22,000 --> 00:12:25,620
+The first is called bronchiolo-alveolar carcinoma.
+
+152
+00:12:26,440 --> 00:12:29,500
+Bronchiolo means that we're dealing with the small airways,
+
+153
+00:12:29,840 --> 00:12:32,240
+and alveolar means that we're dealing with the air sacs.
+
+154
+00:12:32,600 --> 00:12:39,760
+And this is a tumor that just grows along pre-existing small airways, bronchioles, and alveoli.
+
+155
+00:12:40,320 --> 00:12:43,760
+It arises from a cell called the Clara cell in the lung.
+
+156
+00:12:44,120 --> 00:12:45,440
+It's not related to smoking.
+
+157
+00:12:45,440 --> 00:12:49,520
+It's classically peripheral, and one of the very important features to be aware of
+
+158
+00:12:49,520 --> 00:12:53,940
+is that this tumor can present with pneumonia-like consolidation on imaging,
+
+159
+00:12:54,140 --> 00:12:56,320
+but it has an excellent prognosis.
+
+160
+00:12:56,920 --> 00:13:01,620
+And so, again, these are a few classic features of bronchiolo-alveolar carcinoma.
+
+161
+00:13:01,880 --> 00:13:03,880
+Here's a picture of this type of tumor.
+
+162
+00:13:04,400 --> 00:13:07,740
+Here, you can see that this is the normal alveolar air sac.
+
+163
+00:13:07,740 --> 00:13:11,160
+And here, you can see that this wall of the alveolar air sac,
+
+164
+00:13:11,320 --> 00:13:13,940
+here and throughout the rest of the image here,
+
+165
+00:13:14,320 --> 00:13:18,420
+the walls of the alveolar air sac are all replaced by these tall columnar cells.
+
+166
+00:13:18,840 --> 00:13:22,840
+And so, this basically represents bronchiolo-alveolar carcinoma.
+
+167
+00:13:23,240 --> 00:13:28,480
+Again, classically presents with pneumonia-like consolidation on imaging,
+
+168
+00:13:29,040 --> 00:13:31,340
+and has an excellent prognosis.
+
+169
+00:13:31,340 --> 00:13:35,920
+Another special subtype of lung cancer to be aware of is called a carcinoid tumor.
+
+170
+00:13:36,460 --> 00:13:40,120
+This is a tumor of well-differentiated neuroendocrine cells.
+
+171
+00:13:40,460 --> 00:13:45,000
+Very important for purposes of board examination, it is chromogranin positive.
+
+172
+00:13:46,020 --> 00:13:47,600
+Again, it's a neuroendocrine cell,
+
+173
+00:13:47,680 --> 00:13:52,080
+and neuroendocrine cells contain neurosecretory granules within the cytoplasm.
+
+174
+00:13:52,540 --> 00:13:57,540
+Those neurosecretory granules on immunohistochemistry will stain chromogranin positive.
+
+175
+00:13:57,540 --> 00:14:04,160
+And board examiners like you to know that there will be chromogranin positivity in neuroendocrine tumors.
+
+176
+00:14:04,660 --> 00:14:09,720
+So, just as a reminder, this is the second type of neuroendocrine tumor that we've talked about.
+
+177
+00:14:10,060 --> 00:14:14,980
+Remember that small cell carcinoma was a poorly differentiated neuroendocrine tumor,
+
+178
+00:14:15,480 --> 00:14:19,700
+and that carcinoid tumor is a well-differentiated neuroendocrine tumor.
+
+179
+00:14:20,880 --> 00:14:22,920
+And both would be chromogranin positive.
+
+180
+00:14:23,580 --> 00:14:26,040
+Now, carcinoid tumors are not related to smoking.
+
+181
+00:14:26,040 --> 00:14:32,660
+They can be central or peripheral, but the classic tumor forms a polyp-like mass in the bronchus,
+
+182
+00:14:32,720 --> 00:14:35,180
+and that's the way it shows up on examinations as well.
+
+183
+00:14:35,680 --> 00:14:40,400
+This is a low-grade malignancy, and it rarely can cause carcinoid syndrome.
+
+184
+00:14:40,560 --> 00:14:41,780
+Now, usually it doesn't.
+
+185
+00:14:42,040 --> 00:14:43,840
+However, on examinations it can.
+
+186
+00:14:44,340 --> 00:14:46,780
+And so, it rarely can cause carcinoid syndrome.
+
+187
+00:14:47,520 --> 00:14:49,160
+Here's a picture of a carcinoid tumor.
+
+188
+00:14:49,500 --> 00:14:54,060
+This is the gross picture showing you a polyp-like mass in the bronchus.
+
+189
+00:14:54,060 --> 00:14:56,700
+Here's a picture of the tumor on histology.
+
+190
+00:14:57,120 --> 00:15:02,040
+You have nests of cells, which is a characteristic growth pattern of neuroendocrine cells.
+
+191
+00:15:02,360 --> 00:15:04,740
+And you can see that these cells are not mitotically active.
+
+192
+00:15:04,880 --> 00:15:05,900
+There is no necrosis.
+
+193
+00:15:06,320 --> 00:15:09,900
+And each group of tumor cells is sort of growing in these nests,
+
+194
+00:15:10,200 --> 00:15:12,220
+and that's characteristic of a carcinoid tumor.
+
+195
+00:15:12,620 --> 00:15:16,080
+Here is the chromogranin positivity that shows up on board examinations.
+
+196
+00:15:16,080 --> 00:15:20,340
+Now, remember that carcinoid tumors are neuroendocrine-type tumors,
+
+197
+00:15:20,840 --> 00:15:25,440
+and hence they will stay positive for chromogranin by immunohistochemistry.
+
+198
+00:15:25,640 --> 00:15:29,300
+Last point that I would like to make concerning the types of lung cancer
+
+199
+00:15:29,300 --> 00:15:31,680
+is that we can also have metastasis to the lung.
+
+200
+00:15:32,140 --> 00:15:35,740
+The most common sources are breast and colon carcinoma.
+
+201
+00:15:36,420 --> 00:15:38,480
+When patients have metastasis to the lung,
+
+202
+00:15:38,800 --> 00:15:42,160
+it usually presents as multiple cannonball nodules on imaging,
+
+203
+00:15:42,160 --> 00:15:46,020
+so that you have multiple circular nodules within the lung,
+
+204
+00:15:46,440 --> 00:15:49,760
+and metastasis is more common than primary tumors.
+
+205
+00:15:50,500 --> 00:15:54,560
+And so the lung is a common site for metastatic disease.
+
+206
+00:15:55,260 --> 00:15:57,680
+Now, when patients have primary carcinoma of the lung,
+
+207
+00:15:57,840 --> 00:15:59,960
+we have to perform TNM staging.
+
+208
+00:16:00,440 --> 00:16:03,520
+The T is based on the size and local extension of the tumor.
+
+209
+00:16:04,080 --> 00:16:07,220
+The N is based on spread to the regional lymph nodes,
+
+210
+00:16:07,300 --> 00:16:09,500
+in particular the hylar and mediastinal nodes,
+
+211
+00:16:09,820 --> 00:16:11,420
+and the M is based on metastasis.
+
+212
+00:16:11,420 --> 00:16:14,520
+One very high-yield point to be aware of,
+
+213
+00:16:14,640 --> 00:16:16,180
+especially for board examination,
+
+214
+00:16:16,640 --> 00:16:20,800
+is that the adrenal gland is a unique site for lung metastasis.
+
+215
+00:16:21,340 --> 00:16:24,460
+The lung likes to metastasize to the adrenal gland.
+
+216
+00:16:24,920 --> 00:16:27,900
+The overall five-year survival for lung cancer is fairly poor,
+
+217
+00:16:28,300 --> 00:16:31,020
+and that's because it presents so late in the course.
+
+218
+00:16:31,560 --> 00:16:33,920
+Any cancer that presents late in the course
+
+219
+00:16:33,920 --> 00:16:37,420
+will often have a very poor survival.
+
+220
+00:16:37,420 --> 00:16:41,460
+And, of course, we do not have effective screening methods for lung cancer,
+
+221
+00:16:41,560 --> 00:16:44,180
+which is one reason why it presents so late in the course.
+
+222
+00:16:44,840 --> 00:16:49,060
+Now, local complications are related to local extension of the tumor.
+
+223
+00:16:49,480 --> 00:16:52,400
+So, for example, we can see pleural involvement.
+
+224
+00:16:52,400 --> 00:16:55,000
+Which tumor would classically involve the pleura?
+
+225
+00:16:55,000 --> 00:16:57,420
+The answer would be adenocarcinoma,
+
+226
+00:16:57,720 --> 00:17:00,100
+and that's because adenocarcinoma is usually peripheral.
+
+227
+00:17:00,480 --> 00:17:04,720
+So, remember that adenocarcinoma is the most common tumor seen in non-smokers
+
+228
+00:17:04,720 --> 00:17:06,640
+and female smokers,
+
+229
+00:17:06,700 --> 00:17:07,820
+and it's usually peripheral,
+
+230
+00:17:08,260 --> 00:17:09,620
+hence the pleura could be involved.
+
+231
+00:17:10,140 --> 00:17:12,260
+We can see obstruction of the superior vena cava.
+
+232
+00:17:12,760 --> 00:17:13,600
+When that occurs,
+
+233
+00:17:13,680 --> 00:17:16,460
+we get something called the superior vena cava syndrome.
+
+234
+00:17:16,460 --> 00:17:19,600
+This is where the patients have distended head and neck veins
+
+235
+00:17:19,600 --> 00:17:22,800
+with edema and blue discoloration of the arms and face.
+
+236
+00:17:23,480 --> 00:17:25,120
+Again, not too commonly seen,
+
+237
+00:17:25,360 --> 00:17:26,820
+except on board examinations.
+
+238
+00:17:27,560 --> 00:17:30,300
+You can also get involvement of the recurrent laryngeal nerve,
+
+239
+00:17:30,540 --> 00:17:31,800
+which would create hoarseness,
+
+240
+00:17:32,200 --> 00:17:33,240
+or the phrenic nerve,
+
+241
+00:17:33,500 --> 00:17:35,580
+which would create diaphragmatic paralysis.
+
+242
+00:17:36,940 --> 00:17:39,880
+And finally, the tumor can compress the sympathetic chain,
+
+243
+00:17:40,260 --> 00:17:43,120
+particularly when it's located in the apex of the lung.
+
+244
+00:17:43,120 --> 00:17:45,360
+That's also called a pancos tumor,
+
+245
+00:17:45,560 --> 00:17:47,800
+i.e. a tumor located in the apex of the lung
+
+246
+00:17:47,800 --> 00:17:49,300
+is also called a pancos tumor.
+
+247
+00:17:49,700 --> 00:17:51,420
+And when you compress the sympathetic chain,
+
+248
+00:17:51,760 --> 00:17:53,900
+we get ptosis, which is drooping of the eyelid.
+
+249
+00:17:54,280 --> 00:17:55,680
+We get pinpoint pupil,
+
+250
+00:17:56,440 --> 00:17:57,460
+and anhidrosis,
+
+251
+00:17:57,540 --> 00:17:58,640
+which would be lack of sweating,
+
+252
+00:17:58,740 --> 00:17:59,900
+particularly of the forehead.
+
+253
+00:18:00,460 --> 00:18:02,680
+And that concludes our discussion of lung cancer.
+

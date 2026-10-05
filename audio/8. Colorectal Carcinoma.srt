@@ -1,0 +1,1268 @@
+1
+00:00:00,000 --> 00:00:02,800
+The last section in the GI pathology chapter
+
+2
+00:00:02,800 --> 00:00:04,340
+is colorectal carcinoma.
+
+3
+00:00:04,800 --> 00:00:06,780
+This is a carcinoma that arises
+
+4
+00:00:06,780 --> 00:00:08,600
+from the colonic or rectal mucosa.
+
+5
+00:00:09,020 --> 00:00:11,700
+The peak incidence is about 60 to 70 years of age.
+
+6
+00:00:12,040 --> 00:00:13,500
+Recall that colorectal carcinoma
+
+7
+00:00:13,500 --> 00:00:15,440
+is the third most common site of cancer
+
+8
+00:00:15,440 --> 00:00:16,580
+when you exclude skin,
+
+9
+00:00:17,020 --> 00:00:19,160
+and it's also the third most common cause
+
+10
+00:00:19,160 --> 00:00:20,400
+of cancer-related death.
+
+11
+00:00:20,880 --> 00:00:22,840
+Now, when you think about the molecular mechanism
+
+12
+00:00:22,840 --> 00:00:25,080
+by which colorectal carcinoma can arise,
+
+13
+00:00:25,420 --> 00:00:27,620
+there's really two major molecular pathways.
+
+14
+00:00:27,620 --> 00:00:31,700
+The first molecular pathway is the adenoma carcinoma sequence,
+
+15
+00:00:31,800 --> 00:00:34,000
+and we discussed the adenoma carcinoma sequence
+
+16
+00:00:34,000 --> 00:00:36,360
+in extensive detail in the prior lecture.
+
+17
+00:00:36,700 --> 00:00:39,260
+However, this is the most common pathway
+
+18
+00:00:39,260 --> 00:00:41,140
+by which colorectal carcinoma would arise,
+
+19
+00:00:41,400 --> 00:00:43,620
+and it probably represents about 80%
+
+20
+00:00:43,620 --> 00:00:45,300
+of colorectal carcinoma.
+
+21
+00:00:45,640 --> 00:00:47,580
+There's a second important molecular pathway,
+
+22
+00:00:47,920 --> 00:00:50,280
+and that's the microsatellite instability pathway.
+
+23
+00:00:50,720 --> 00:00:52,460
+Now, what is this pathway?
+
+24
+00:00:52,820 --> 00:00:54,540
+Well, let's begin by reminding ourselves
+
+25
+00:00:54,540 --> 00:00:56,360
+about what microsatellites are.
+
+26
+00:00:56,360 --> 00:00:58,560
+So, microsatellites are repeating sequences
+
+27
+00:00:58,560 --> 00:00:59,860
+of non-coding DNA.
+
+28
+00:01:00,140 --> 00:01:01,120
+They're present in our DNA,
+
+29
+00:01:01,620 --> 00:01:03,680
+and every time we have cell division
+
+30
+00:01:03,680 --> 00:01:05,200
+and we copy our DNA,
+
+31
+00:01:05,400 --> 00:01:07,420
+we also copy the microsatellites.
+
+32
+00:01:07,760 --> 00:01:09,260
+Normally, when we have cell division,
+
+33
+00:01:09,400 --> 00:01:10,800
+we will copy the microsatellites
+
+34
+00:01:10,800 --> 00:01:12,080
+exactly the way they are,
+
+35
+00:01:12,360 --> 00:01:14,460
+and we call that microsatellite stability.
+
+36
+00:01:15,280 --> 00:01:16,740
+Now, let's pretend, for example,
+
+37
+00:01:16,820 --> 00:01:17,900
+or let's assume, for example,
+
+38
+00:01:17,900 --> 00:01:19,860
+that the patient has some defect
+
+39
+00:01:19,860 --> 00:01:21,380
+in DNA copy mechanisms.
+
+40
+00:01:21,800 --> 00:01:23,060
+For example, they have a problem
+
+41
+00:01:23,060 --> 00:01:25,200
+with their DNA mismatch repair enzymes.
+
+42
+00:01:25,200 --> 00:01:26,800
+Well, in that particular case,
+
+43
+00:01:26,880 --> 00:01:28,240
+they may not be able to maintain
+
+44
+00:01:28,240 --> 00:01:30,080
+the stability of their microsatellites
+
+45
+00:01:30,080 --> 00:01:32,540
+as they copy the DNA over and over again,
+
+46
+00:01:32,980 --> 00:01:33,780
+and this would introduce
+
+47
+00:01:33,780 --> 00:01:34,980
+something called instability,
+
+48
+00:01:35,480 --> 00:01:36,760
+and that's exactly what we mean
+
+49
+00:01:36,760 --> 00:01:39,080
+when we say that there is a molecular pathway
+
+50
+00:01:39,080 --> 00:01:40,700
+called microsatellite instability,
+
+51
+00:01:41,280 --> 00:01:42,760
+i.e., there are problems
+
+52
+00:01:42,760 --> 00:01:45,420
+with the DNA copy mechanism
+
+53
+00:01:45,420 --> 00:01:47,740
+so that the microsatellites become unstable.
+
+54
+00:01:48,140 --> 00:01:48,580
+Now, of course,
+
+55
+00:01:48,660 --> 00:01:49,920
+if the microsatellites are unstable,
+
+56
+00:01:50,020 --> 00:01:51,460
+that's a sign that other genes
+
+57
+00:01:51,460 --> 00:01:52,660
+would also be unstable,
+
+58
+00:01:52,660 --> 00:01:56,340
+and therefore, mutations in other genes
+
+59
+00:01:56,340 --> 00:01:57,580
+could potentially lead
+
+60
+00:01:57,580 --> 00:01:59,420
+to the development
+
+61
+00:01:59,420 --> 00:02:01,040
+of a colorectal carcinoma.
+
+62
+00:02:01,940 --> 00:02:03,220
+The prototypic example
+
+63
+00:02:03,220 --> 00:02:05,560
+of this particular pathway,
+
+64
+00:02:05,840 --> 00:02:07,840
+of the microsatellite instability pathway,
+
+65
+00:02:07,940 --> 00:02:09,000
+is called hereditary
+
+66
+00:02:09,000 --> 00:02:11,660
+nonpolyposis colorectal carcinoma.
+
+67
+00:02:12,740 --> 00:02:13,800
+Now, hereditary implies
+
+68
+00:02:13,800 --> 00:02:14,660
+that it's an inherited problem,
+
+69
+00:02:15,540 --> 00:02:16,040
+and in fact,
+
+70
+00:02:16,100 --> 00:02:16,660
+it's an inherited mutation
+
+71
+00:02:17,220 --> 00:02:19,460
+in the DNA mismatch repair enzymes.
+
+72
+00:02:19,920 --> 00:02:21,660
+Nonpolyposis indicates
+
+73
+00:02:21,660 --> 00:02:24,060
+that the tumors usually arise de novo,
+
+74
+00:02:24,460 --> 00:02:25,960
+meaning you don't get an adenoma
+
+75
+00:02:25,960 --> 00:02:27,140
+that becomes a carcinoma.
+
+76
+00:02:27,260 --> 00:02:29,540
+You simply get the carcinoma over time.
+
+77
+00:02:30,020 --> 00:02:31,340
+And then colorectal carcinoma
+
+78
+00:02:31,340 --> 00:02:32,860
+indicates what type of tumor
+
+79
+00:02:32,860 --> 00:02:33,740
+these patients get.
+
+80
+00:02:33,880 --> 00:02:34,700
+They have an increased risk
+
+81
+00:02:34,700 --> 00:02:35,900
+for colorectal carcinoma.
+
+82
+00:02:36,260 --> 00:02:36,580
+However,
+
+83
+00:02:36,920 --> 00:02:38,920
+because there is an inherited defect
+
+84
+00:02:38,920 --> 00:02:39,920
+in all of the cells,
+
+85
+00:02:40,200 --> 00:02:41,600
+there is also an increased risk
+
+86
+00:02:41,600 --> 00:02:42,740
+in a couple other organs.
+
+87
+00:02:42,740 --> 00:02:43,660
+In particular,
+
+88
+00:02:43,860 --> 00:02:44,520
+it's worth knowing
+
+89
+00:02:44,520 --> 00:02:46,040
+that patients with HNPCC
+
+90
+00:02:46,040 --> 00:02:47,740
+also have an increased risk
+
+91
+00:02:47,740 --> 00:02:50,100
+of ovarian and endometrial carcinoma.
+
+92
+00:02:50,420 --> 00:02:51,140
+And that's particularly
+
+93
+00:02:51,140 --> 00:02:52,120
+high yield to know
+
+94
+00:02:52,120 --> 00:02:53,320
+that these patients get
+
+95
+00:02:53,320 --> 00:02:54,860
+basically three types of tumors,
+
+96
+00:02:55,060 --> 00:02:56,580
+colorectal, ovarian,
+
+97
+00:02:56,960 --> 00:02:58,600
+and endometrial carcinomas.
+
+98
+00:02:59,180 --> 00:03:00,400
+So these are the two pathways
+
+99
+00:03:00,400 --> 00:03:03,220
+by which colon cancer can arise.
+
+100
+00:03:03,440 --> 00:03:04,800
+And it's probably important to note
+
+101
+00:03:04,800 --> 00:03:05,520
+that there's sort of
+
+102
+00:03:05,520 --> 00:03:07,220
+a couple other patients
+
+103
+00:03:07,220 --> 00:03:08,700
+that classically also get
+
+104
+00:03:08,700 --> 00:03:09,900
+colorectal carcinoma
+
+105
+00:03:09,900 --> 00:03:11,360
+that you also want to think about
+
+106
+00:03:11,360 --> 00:03:13,080
+when you think about pathways, per se.
+
+107
+00:03:13,080 --> 00:03:14,920
+One would be to remember
+
+108
+00:03:14,920 --> 00:03:17,260
+that patients with ulcerative colitis
+
+109
+00:03:17,260 --> 00:03:18,300
+have an increased risk
+
+110
+00:03:18,300 --> 00:03:19,740
+for colorectal carcinoma,
+
+111
+00:03:20,020 --> 00:03:21,940
+and that sort of occurs independently.
+
+112
+00:03:22,540 --> 00:03:24,240
+It's really the chronic inflammation
+
+113
+00:03:24,240 --> 00:03:26,100
+that leads to the increased risk
+
+114
+00:03:26,100 --> 00:03:27,320
+for development of cancer.
+
+115
+00:03:27,720 --> 00:03:28,780
+And then remember that patients
+
+116
+00:03:28,780 --> 00:03:29,980
+with Putz-Jager syndrome
+
+117
+00:03:29,980 --> 00:03:31,400
+also have an increased risk
+
+118
+00:03:31,400 --> 00:03:32,580
+for colorectal carcinoma.
+
+119
+00:03:32,820 --> 00:03:33,880
+So there are a few others.
+
+120
+00:03:34,020 --> 00:03:34,940
+However, of course,
+
+121
+00:03:35,020 --> 00:03:36,100
+the two major pathways
+
+122
+00:03:36,100 --> 00:03:37,460
+and what represents
+
+123
+00:03:37,460 --> 00:03:38,300
+the vast majority
+
+124
+00:03:38,300 --> 00:03:39,760
+of colorectal carcinoma
+
+125
+00:03:39,760 --> 00:03:41,840
+is the adenoma carcinoma sequence.
+
+126
+00:03:41,840 --> 00:03:43,220
+That's one example.
+
+127
+00:03:43,740 --> 00:03:44,940
+And then the other one
+
+128
+00:03:44,940 --> 00:03:46,740
+would be the microsatellite
+
+129
+00:03:46,740 --> 00:03:47,760
+instability pathway,
+
+130
+00:03:48,200 --> 00:03:49,720
+the prototypic example
+
+131
+00:03:49,720 --> 00:03:51,520
+of which is HNPCC.
+
+132
+00:03:52,760 --> 00:03:54,680
+Now, screening for colorectal carcinoma,
+
+133
+00:03:54,780 --> 00:03:55,800
+just generally speaking,
+
+134
+00:03:55,940 --> 00:03:57,420
+it occurs via two mechanisms.
+
+135
+00:03:57,820 --> 00:03:59,660
+Number one is colonoscopy.
+
+136
+00:04:00,240 --> 00:04:01,560
+And I note here
+
+137
+00:04:01,560 --> 00:04:03,860
+that your book actually says endoscopy,
+
+138
+00:04:04,020 --> 00:04:05,880
+and I'm purposely highlighting this for you.
+
+139
+00:04:05,920 --> 00:04:07,240
+It should not say endoscopy.
+
+140
+00:04:07,340 --> 00:04:08,560
+It should say colonoscopy.
+
+141
+00:04:08,880 --> 00:04:10,100
+So please do correct that.
+
+142
+00:04:10,100 --> 00:04:11,960
+So again, the first mechanism
+
+143
+00:04:11,960 --> 00:04:13,820
+for screening for colorectal carcinoma
+
+144
+00:04:13,820 --> 00:04:15,500
+occurs via colonoscopy.
+
+145
+00:04:16,020 --> 00:04:16,900
+And the second is
+
+146
+00:04:16,900 --> 00:04:18,120
+fecal occult blood testing.
+
+147
+00:04:18,480 --> 00:04:19,480
+Usually we begin screening
+
+148
+00:04:19,480 --> 00:04:20,360
+at the age of 50.
+
+149
+00:04:20,700 --> 00:04:22,320
+The idea for colonoscopy
+
+150
+00:04:22,320 --> 00:04:24,880
+is to remove adenominus polyps.
+
+151
+00:04:25,260 --> 00:04:26,760
+Again, you want to remove all polyps
+
+152
+00:04:26,760 --> 00:04:27,460
+because you can't tell
+
+153
+00:04:27,460 --> 00:04:28,640
+which ones are adenominus
+
+154
+00:04:28,640 --> 00:04:29,920
+when you do the colonoscopy.
+
+155
+00:04:30,340 --> 00:04:32,840
+However, the goal was
+
+156
+00:04:32,840 --> 00:04:34,300
+to remove the adenominus ones.
+
+157
+00:04:34,680 --> 00:04:36,600
+And so we remove the adenominus polyps
+
+158
+00:04:36,600 --> 00:04:38,000
+before they can become cancer.
+
+159
+00:04:38,000 --> 00:04:39,280
+And at the same time,
+
+160
+00:04:39,360 --> 00:04:40,800
+we also try to detect cancer
+
+161
+00:04:40,800 --> 00:04:42,560
+before it presents any clinical symptoms.
+
+162
+00:04:43,000 --> 00:04:44,500
+So that's the goal of colonoscopy.
+
+163
+00:04:44,940 --> 00:04:46,300
+Fecal occult blood testing
+
+164
+00:04:46,300 --> 00:04:47,560
+does the same thing.
+
+165
+00:04:47,620 --> 00:04:48,620
+It also has the ability
+
+166
+00:04:48,620 --> 00:04:49,520
+to detect bleeding.
+
+167
+00:04:49,900 --> 00:04:51,400
+And bleeding could be seen with polyps
+
+168
+00:04:51,400 --> 00:04:53,020
+and it could be seen with cancer.
+
+169
+00:04:53,380 --> 00:04:54,180
+So it's a mechanism
+
+170
+00:04:54,180 --> 00:04:55,180
+by which we are, again,
+
+171
+00:04:55,240 --> 00:04:56,640
+trying to detect both polyps
+
+172
+00:04:56,640 --> 00:04:59,540
+and, again, also trying to detect cancer
+
+173
+00:04:59,540 --> 00:05:01,680
+before clinical symptoms arise.
+
+174
+00:05:02,580 --> 00:05:04,300
+Now, it's important to also note
+
+175
+00:05:04,300 --> 00:05:05,300
+that cancer can develop
+
+176
+00:05:05,300 --> 00:05:07,560
+anywhere along the entire length of the colon.
+
+177
+00:05:08,120 --> 00:05:09,700
+Left-sided carcinoma
+
+178
+00:05:09,700 --> 00:05:11,780
+usually grows as a napkin ring lesion.
+
+179
+00:05:11,880 --> 00:05:12,640
+And the idea here is
+
+180
+00:05:12,640 --> 00:05:14,140
+that if you've got a left-sided cancer,
+
+181
+00:05:14,440 --> 00:05:16,160
+it tends to grow circumferentially
+
+182
+00:05:16,160 --> 00:05:17,520
+around the entire lumen
+
+183
+00:05:17,520 --> 00:05:19,440
+and it squeezes down on the lumen
+
+184
+00:05:19,440 --> 00:05:22,580
+as if a ring would squeeze on a napkin.
+
+185
+00:05:23,100 --> 00:05:25,080
+And so they call that a napkin ring lesion.
+
+186
+00:05:25,500 --> 00:05:27,140
+Now, the classical clinical features
+
+187
+00:05:27,140 --> 00:05:28,420
+of such a lesion would be
+
+188
+00:05:28,420 --> 00:05:29,960
+that there would be decreased stool caliber.
+
+189
+00:05:30,080 --> 00:05:31,020
+Now, imagine if the stool
+
+190
+00:05:31,020 --> 00:05:31,900
+is coming through here,
+
+191
+00:05:31,900 --> 00:05:33,920
+as it gets squeezed to the napkin ring,
+
+192
+00:05:34,220 --> 00:05:36,580
+it will create pencil-thin stools.
+
+193
+00:05:36,980 --> 00:05:38,720
+And so the stool caliber would decrease.
+
+194
+00:05:39,060 --> 00:05:40,800
+There could be left lower quadrant pain.
+
+195
+00:05:41,100 --> 00:05:43,300
+There could also be blood streaking on the stool.
+
+196
+00:05:43,600 --> 00:05:45,360
+But I think the number one thing is here,
+
+197
+00:05:45,640 --> 00:05:47,060
+the decreased stool caliber.
+
+198
+00:05:47,860 --> 00:05:49,100
+Also important to note
+
+199
+00:05:49,100 --> 00:05:50,800
+that the adenoma carcinoma sequence
+
+200
+00:05:50,800 --> 00:05:52,880
+tends to be more on the left side
+
+201
+00:05:52,880 --> 00:05:54,100
+than it is on the right side.
+
+202
+00:05:55,100 --> 00:05:55,880
+At the same time,
+
+203
+00:05:55,940 --> 00:05:57,860
+we can also develop right-sided carcinoma.
+
+204
+00:05:58,120 --> 00:05:58,880
+And the interesting thing
+
+205
+00:05:58,880 --> 00:06:00,460
+about right-sided carcinoma
+
+206
+00:06:00,460 --> 00:06:02,420
+is that it tends to grow as a raised lesion.
+
+207
+00:06:02,540 --> 00:06:03,680
+So if this is the right side,
+
+208
+00:06:03,940 --> 00:06:06,160
+it tends to grow as this kind of bump
+
+209
+00:06:06,160 --> 00:06:07,180
+or raised lesion
+
+210
+00:06:07,180 --> 00:06:09,580
+on the surface of the colonic mucosa.
+
+211
+00:06:09,940 --> 00:06:11,340
+Now, again, this isn't a polyp.
+
+212
+00:06:11,380 --> 00:06:13,400
+It's not arising from an adenomatous polyp.
+
+213
+00:06:13,480 --> 00:06:14,740
+It just simply grows
+
+214
+00:06:14,740 --> 00:06:16,900
+as a raised lesion on the surface.
+
+215
+00:06:17,720 --> 00:06:20,400
+And this would then result
+
+216
+00:06:20,400 --> 00:06:22,340
+in iron deficiency anemia.
+
+217
+00:06:22,800 --> 00:06:23,720
+The right-sided colon
+
+218
+00:06:23,720 --> 00:06:27,680
+has a much larger luminal caliber
+
+219
+00:06:27,680 --> 00:06:29,000
+than the left side.
+
+220
+00:06:29,140 --> 00:06:30,840
+And so you don't really get obstructive symptoms.
+
+221
+00:06:30,960 --> 00:06:31,660
+You get bleeding.
+
+222
+00:06:32,180 --> 00:06:33,300
+And in particular,
+
+223
+00:06:33,700 --> 00:06:35,740
+you can see small amounts of bleeding
+
+224
+00:06:35,740 --> 00:06:37,080
+which would slowly over time
+
+225
+00:06:37,080 --> 00:06:39,140
+result in an iron deficiency anemia.
+
+226
+00:06:39,500 --> 00:06:41,040
+And you would also get vague pain.
+
+227
+00:06:41,640 --> 00:06:43,420
+Now, again, right-sided carcinoma
+
+228
+00:06:43,420 --> 00:06:45,200
+is more classically associated
+
+229
+00:06:45,200 --> 00:06:47,620
+with the microsatellite instability pathway.
+
+230
+00:06:47,920 --> 00:06:48,960
+Again, important to note,
+
+231
+00:06:49,080 --> 00:06:51,020
+left-sided usually associated
+
+232
+00:06:51,020 --> 00:06:52,660
+with adenoma carcinoma sequence
+
+233
+00:06:52,660 --> 00:06:54,800
+and right-sided usually associated
+
+234
+00:06:54,800 --> 00:06:57,240
+with the microsatellite instability pathway.
+
+235
+00:06:57,680 --> 00:06:58,600
+Generally speaking,
+
+236
+00:06:58,680 --> 00:07:00,560
+when patients have colorectal carcinoma,
+
+237
+00:07:00,820 --> 00:07:02,600
+there is an overall increased risk
+
+238
+00:07:02,600 --> 00:07:04,820
+for streptococcus bovis endocarditis
+
+239
+00:07:04,820 --> 00:07:06,240
+so that if you have a patient
+
+240
+00:07:06,240 --> 00:07:07,740
+and they have endocarditis
+
+241
+00:07:07,740 --> 00:07:09,380
+and there's streptococcus bovis
+
+242
+00:07:09,380 --> 00:07:10,380
+growing in the blood,
+
+243
+00:07:10,680 --> 00:07:11,880
+you better really think twice
+
+244
+00:07:11,880 --> 00:07:13,200
+about colorectal carcinoma.
+
+245
+00:07:13,520 --> 00:07:14,600
+And you can guarantee yourself
+
+246
+00:07:14,600 --> 00:07:15,720
+that this is the type of thing
+
+247
+00:07:15,720 --> 00:07:17,560
+that examiners love to ask about.
+
+248
+00:07:17,920 --> 00:07:18,960
+They give you a history of a patient
+
+249
+00:07:18,960 --> 00:07:19,840
+with endocarditis,
+
+250
+00:07:20,120 --> 00:07:21,780
+they tell you that it's streptococcus bovis,
+
+251
+00:07:21,780 --> 00:07:22,600
+and then they ask you
+
+252
+00:07:22,600 --> 00:07:23,540
+what you need to do next.
+
+253
+00:07:23,540 --> 00:07:24,760
+And of course you need to examine
+
+254
+00:07:24,760 --> 00:07:25,840
+the GI tract,
+
+255
+00:07:25,920 --> 00:07:26,920
+in particular the colon.
+
+256
+00:07:27,720 --> 00:07:29,620
+Now the staging for colorectal carcinoma,
+
+257
+00:07:29,760 --> 00:07:30,920
+the T stage is based
+
+258
+00:07:30,920 --> 00:07:31,900
+on the depth of invasion.
+
+259
+00:07:32,300 --> 00:07:33,320
+Again, generally speaking,
+
+260
+00:07:33,400 --> 00:07:34,700
+when you have a hollow tube
+
+261
+00:07:34,700 --> 00:07:36,080
+and you have a cancer growing
+
+262
+00:07:36,080 --> 00:07:36,860
+in that hollow tube,
+
+263
+00:07:37,240 --> 00:07:38,260
+depth of invasion becomes
+
+264
+00:07:38,260 --> 00:07:39,340
+particularly important
+
+265
+00:07:39,340 --> 00:07:40,440
+for that T staging.
+
+266
+00:07:41,040 --> 00:07:42,040
+At the same time,
+
+267
+00:07:42,380 --> 00:07:43,920
+the end stage is based
+
+268
+00:07:43,920 --> 00:07:45,440
+on spread to regional lymph nodes,
+
+269
+00:07:45,480 --> 00:07:46,100
+as it would be
+
+270
+00:07:46,100 --> 00:07:47,100
+in almost every organ.
+
+271
+00:07:47,100 --> 00:07:48,640
+And then the M,
+
+272
+00:07:48,960 --> 00:07:49,760
+or metastasis,
+
+273
+00:07:50,100 --> 00:07:51,460
+is based on distant spread.
+
+274
+00:07:51,640 --> 00:07:53,340
+And it's important to note
+
+275
+00:07:53,340 --> 00:07:54,700
+that the most common site
+
+276
+00:07:54,700 --> 00:07:56,040
+of distant metastasis
+
+277
+00:07:56,040 --> 00:07:57,060
+is actually the liver.
+
+278
+00:07:57,360 --> 00:07:58,840
+So that's where colorectal carcinoma
+
+279
+00:07:58,840 --> 00:07:59,360
+would go
+
+280
+00:07:59,360 --> 00:08:01,020
+once it leaves the region.
+
+281
+00:08:02,120 --> 00:08:03,200
+An important tumor marker
+
+282
+00:08:03,200 --> 00:08:04,780
+is CEA.
+
+283
+00:08:05,280 --> 00:08:06,080
+Now, remember,
+
+284
+00:08:06,200 --> 00:08:06,660
+tumor markers,
+
+285
+00:08:06,780 --> 00:08:07,360
+generally speaking,
+
+286
+00:08:07,480 --> 00:08:08,900
+can have three possible benefits.
+
+287
+00:08:09,020 --> 00:08:09,900
+You can use tumor markers
+
+288
+00:08:09,900 --> 00:08:10,460
+for screening,
+
+289
+00:08:10,600 --> 00:08:11,180
+you can use them
+
+290
+00:08:11,180 --> 00:08:12,840
+to assess treatment response,
+
+291
+00:08:12,920 --> 00:08:13,840
+and you can also use them
+
+292
+00:08:13,840 --> 00:08:15,460
+to assess or detect recurrence.
+
+293
+00:08:15,940 --> 00:08:16,880
+In this particular case,
+
+294
+00:08:16,880 --> 00:08:18,800
+CEA is not useful for screening.
+
+295
+00:08:19,280 --> 00:08:20,720
+It is useful for detecting,
+
+296
+00:08:21,460 --> 00:08:21,820
+sorry,
+
+297
+00:08:21,980 --> 00:08:22,720
+it is useful
+
+298
+00:08:22,720 --> 00:08:24,540
+for assessing treatment response.
+
+299
+00:08:24,640 --> 00:08:26,380
+If the patient has an elevated CEA
+
+300
+00:08:26,380 --> 00:08:27,960
+at the time of diagnosis,
+
+301
+00:08:28,260 --> 00:08:29,480
+you would look for the CEA
+
+302
+00:08:29,480 --> 00:08:30,940
+to decrease after response.
+
+303
+00:08:31,520 --> 00:08:31,860
+And also,
+
+304
+00:08:31,940 --> 00:08:33,380
+if the patient had an elevated CEA
+
+305
+00:08:33,380 --> 00:08:34,340
+at the time of diagnosis
+
+306
+00:08:34,340 --> 00:08:35,660
+and is then treated
+
+307
+00:08:35,660 --> 00:08:36,760
+and then comes back
+
+308
+00:08:36,760 --> 00:08:37,680
+with signs and symptoms
+
+309
+00:08:37,680 --> 00:08:38,900
+that are worrisome
+
+310
+00:08:38,900 --> 00:08:39,920
+for recurrence,
+
+311
+00:08:40,100 --> 00:08:40,820
+you could use it
+
+312
+00:08:40,820 --> 00:08:41,920
+to detect recurrence.
+
+313
+00:08:42,280 --> 00:08:43,440
+So these are the two benefits
+
+314
+00:08:43,440 --> 00:08:44,580
+of CEA.
+
+315
+00:08:45,100 --> 00:08:45,840
+And with that,
+
+316
+00:08:45,900 --> 00:08:46,440
+we close off
+
+317
+00:08:46,440 --> 00:08:48,000
+our GI pathology chapter.
+

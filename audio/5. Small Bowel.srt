@@ -1,0 +1,2968 @@
+1
+00:00:00,000 --> 00:00:02,520
+Okay, next discussion concerns the small bowel.
+
+2
+00:00:02,660 --> 00:00:04,640
+The first disorder is duodenal atresia.
+
+3
+00:00:04,760 --> 00:00:08,760
+Again, when you have something that's atretic, it ends in a blind loop.
+
+4
+00:00:08,860 --> 00:00:12,040
+And so basically the idea here is that the duodenum ends in a blind loop.
+
+5
+00:00:12,360 --> 00:00:14,160
+The reason why we get this is congenital,
+
+6
+00:00:14,440 --> 00:00:17,080
+and it's failure of the small bowel to actually canalize,
+
+7
+00:00:17,420 --> 00:00:19,080
+highly associated with Down syndrome.
+
+8
+00:00:19,220 --> 00:00:21,860
+That's a high-yield association for examination purposes.
+
+9
+00:00:22,500 --> 00:00:25,600
+Now the clinical features are all based on the fact that you're going to have this blind loop.
+
+10
+00:00:25,600 --> 00:00:29,200
+So for example, this is the esophagus, and then you've got the stomach coming off,
+
+11
+00:00:29,200 --> 00:00:30,840
+and then eventually you have the duodenum.
+
+12
+00:00:31,140 --> 00:00:32,760
+The duodenum is ending in a blind loop.
+
+13
+00:00:33,140 --> 00:00:35,700
+So one problem that's going to occur is polyhydramnios.
+
+14
+00:00:35,820 --> 00:00:38,220
+Now polyhydramnios means too much amniotic fluid.
+
+15
+00:00:38,600 --> 00:00:43,140
+Remember that the amniotic fluid, the major component, is generated from the urine of the baby,
+
+16
+00:00:43,340 --> 00:00:47,100
+so that the urine of the baby is the major component of the amniotic fluid.
+
+17
+00:00:47,420 --> 00:00:50,740
+And at the same time, the way by which we resorb some of that amniotic fluid
+
+18
+00:00:50,740 --> 00:00:52,860
+is by swallowing it and digesting it,
+
+19
+00:00:52,860 --> 00:00:56,020
+so that the baby is swallowing and digesting amniotic fluid,
+
+20
+00:00:56,140 --> 00:00:58,640
+and that helps to decrease the volume of amniotic fluid.
+
+21
+00:00:58,640 --> 00:01:01,680
+If we don't have that physiologic swallowing and digesting,
+
+22
+00:01:01,680 --> 00:01:04,380
+we're going to get too much amniotic fluid, or polyhydramnios.
+
+23
+00:01:04,700 --> 00:01:08,680
+And of course, in this particular case, the babies can bring in a little bit of that amniotic fluid,
+
+24
+00:01:08,840 --> 00:01:10,880
+but they can't pass it through the rest of the gut.
+
+25
+00:01:11,040 --> 00:01:14,360
+So this would be one problem that could arise in these babies.
+
+26
+00:01:14,780 --> 00:01:17,160
+Another problem is that they get bilious vomiting,
+
+27
+00:01:17,320 --> 00:01:21,380
+and the idea here is that as you get building up of the food within this tract,
+
+28
+00:01:21,440 --> 00:01:22,960
+of course it ends in a blind loop,
+
+29
+00:01:22,960 --> 00:01:25,720
+and of course the bile is coming in from the duodenum,
+
+30
+00:01:26,000 --> 00:01:28,840
+and so this is going to end up being regurgitated out,
+
+31
+00:01:28,960 --> 00:01:30,260
+and that's going to result in vomiting,
+
+32
+00:01:30,440 --> 00:01:34,540
+and it'll be bilious because it's got bile coming in at the level of the duodenum.
+
+33
+00:01:34,800 --> 00:01:36,300
+So that's an important clinical feature.
+
+34
+00:01:36,400 --> 00:01:39,760
+And the third important clinical feature is that you're going to get distension of the stomach,
+
+35
+00:01:40,000 --> 00:01:42,560
+and you're also going to get distension of the duodenum.
+
+36
+00:01:42,560 --> 00:01:47,680
+And in between here is the pyloric sphincter, which is going to remain tight.
+
+37
+00:01:47,940 --> 00:01:52,680
+And so that's going to produce two separate areas of distension,
+
+38
+00:01:53,080 --> 00:01:54,980
+and that is called the double bubble sign.
+
+39
+00:01:55,200 --> 00:01:56,800
+It's best visualized by imaging.
+
+40
+00:01:57,140 --> 00:01:58,960
+So here you've got the stomach, for example.
+
+41
+00:01:59,340 --> 00:02:03,560
+There's a tightening here where you have the pyloric sphincter,
+
+42
+00:02:04,280 --> 00:02:07,020
+and then here you've got the duodenum,
+
+43
+00:02:07,220 --> 00:02:10,500
+so two bubbles, bubble number one and then bubble number two,
+
+44
+00:02:10,500 --> 00:02:13,880
+double bubble sign, very high yield for examination purposes.
+
+45
+00:02:14,980 --> 00:02:19,640
+Meckel's diverticulum, remember that a diverticulum is an outpouching of a wall.
+
+46
+00:02:19,900 --> 00:02:20,820
+That's the first point.
+
+47
+00:02:21,100 --> 00:02:24,640
+And in this particular case, you get outpouching of all of the layers of the ball wall.
+
+48
+00:02:24,900 --> 00:02:27,160
+So that's called a true diverticulum.
+
+49
+00:02:27,520 --> 00:02:29,540
+Remember that you can also have false diverticulums.
+
+50
+00:02:29,620 --> 00:02:33,200
+For example, the one diverticulum that we've covered in this chapter so far
+
+51
+00:02:33,200 --> 00:02:34,580
+was a Zenker's diverticulum,
+
+52
+00:02:34,580 --> 00:02:38,420
+in which you had outpouching of the mucosa through the muscle wall,
+
+53
+00:02:38,680 --> 00:02:39,760
+or through the muscle layer.
+
+54
+00:02:39,760 --> 00:02:42,140
+And so that was a false diverticulum.
+
+55
+00:02:42,440 --> 00:02:44,020
+This is a true diverticulum,
+
+56
+00:02:44,100 --> 00:02:47,980
+and it's one of the few true diverticulums that we're going to study.
+
+57
+00:02:48,620 --> 00:02:53,120
+Now this arises embryologically due to a failure of the vitalin duct to involute.
+
+58
+00:02:53,440 --> 00:02:55,260
+Let's talk about the vitalin duct for a moment.
+
+59
+00:02:55,880 --> 00:02:58,080
+Remember that in early embryonic development,
+
+60
+00:02:58,440 --> 00:03:01,960
+the midgut actually receives its nutrients from the yolk sac.
+
+61
+00:03:02,260 --> 00:03:05,460
+So early in life, when we're developing the baby or the fetus,
+
+62
+00:03:05,460 --> 00:03:09,160
+the midgut is actually going to receive its nutrients from the yolk sac.
+
+63
+00:03:09,500 --> 00:03:13,180
+And the way by which it receives those nutrients is via the vitalin duct.
+
+64
+00:03:13,300 --> 00:03:18,880
+So we could say that the vitalin duct is vital for receiving nutrients during early development.
+
+65
+00:03:19,260 --> 00:03:21,440
+This duct normally forms in about the fourth week.
+
+66
+00:03:21,720 --> 00:03:24,500
+It then involutes by about the seventh week of gestation.
+
+67
+00:03:24,840 --> 00:03:26,780
+And if you have persistence of the duct,
+
+68
+00:03:27,060 --> 00:03:29,640
+that results in something called a Meckel's diverticulum.
+
+69
+00:03:29,640 --> 00:03:31,960
+So it's really persistence of the vitalin duct.
+
+70
+00:03:32,300 --> 00:03:34,460
+It's interesting, you can have a couple problems here.
+
+71
+00:03:34,720 --> 00:03:39,900
+One problem is that you can have the fact that the duct does not involute at all,
+
+72
+00:03:40,200 --> 00:03:44,480
+and that would result in the passing of meconium via the umbilicus at birth.
+
+73
+00:03:44,740 --> 00:03:50,820
+So if they gave you an examination question in which the patient is passing meconium via the umbilicus,
+
+74
+00:03:50,960 --> 00:03:55,860
+that means that there was failure of the vitalin duct to resolve completely,
+
+75
+00:03:55,860 --> 00:04:00,640
+meaning that there was no resorption or no involution of that duct at all.
+
+76
+00:04:00,980 --> 00:04:04,420
+But it's also possible that you can get a slight closing of that duct,
+
+77
+00:04:04,520 --> 00:04:06,320
+but it fails to involute completely,
+
+78
+00:04:06,480 --> 00:04:09,100
+and that would result in something called a Meckel's diverticulum.
+
+79
+00:04:09,420 --> 00:04:12,540
+One of the interesting things that may be seen, especially on examination,
+
+80
+00:04:12,700 --> 00:04:14,380
+when you do a clinical exam on these patients,
+
+81
+00:04:14,740 --> 00:04:18,820
+is you can kind of feel the umbilical area, and it feels like there's stool.
+
+82
+00:04:18,980 --> 00:04:21,540
+It feels like there's something firm but soft,
+
+83
+00:04:21,960 --> 00:04:25,040
+or something solid but soft within the umbilical area,
+
+84
+00:04:25,040 --> 00:04:27,780
+and that's because there's stool caught up in the Meckel's diverticulum.
+
+85
+00:04:28,160 --> 00:04:30,900
+So that's an important, interesting finding as well.
+
+86
+00:04:31,940 --> 00:04:34,860
+Now, this is what the Meckel's diverticulum looks like.
+
+87
+00:04:35,080 --> 00:04:37,260
+This is basically the diverticulum here.
+
+88
+00:04:37,460 --> 00:04:39,820
+It's an outpouching coming off the intestine,
+
+89
+00:04:39,920 --> 00:04:41,800
+and the intestine, of course, would be running this way.
+
+90
+00:04:42,200 --> 00:04:45,240
+Now, there's some rules of twos that are highly associated with the Meckel's,
+
+91
+00:04:45,240 --> 00:04:46,700
+and you do need to be familiar with them.
+
+92
+00:04:46,700 --> 00:04:52,080
+They help you to remember some of the important clinical and epidemiologic features.
+
+93
+00:04:52,080 --> 00:04:54,580
+Number one, it's seen in 2% of the population.
+
+94
+00:04:54,780 --> 00:04:58,120
+It's the most common congenital anomaly of the GI tract.
+
+95
+00:04:58,340 --> 00:05:01,360
+It's usually 2 inches long, and it's usually located in the small bowel,
+
+96
+00:05:01,620 --> 00:05:04,540
+about 2 feet from the ileocecal valve.
+
+97
+00:05:04,880 --> 00:05:09,260
+And again, by here, you can imagine that this would be 2 inches long.
+
+98
+00:05:09,260 --> 00:05:11,640
+So those are the rules of twos.
+
+99
+00:05:11,640 --> 00:05:12,480
+There's a few more.
+
+100
+00:05:12,480 --> 00:05:16,220
+First of all, this usually occurs, usually it's asymptomatic,
+
+101
+00:05:16,220 --> 00:05:19,820
+but if it does present, it can present within the first two years of life.
+
+102
+00:05:19,820 --> 00:05:23,800
+And the way by which it can present includes bleeding, volvulus,
+
+103
+00:05:23,800 --> 00:05:28,060
+and a volvulus is where you get a twisting of the bowel on its mesentery.
+
+104
+00:05:28,060 --> 00:05:29,860
+It can present with intussusception,
+
+105
+00:05:29,860 --> 00:05:32,980
+and intussusception is when you get telescoping of the bowel,
+
+106
+00:05:32,980 --> 00:05:34,660
+or it can present with obstruction.
+
+107
+00:05:35,200 --> 00:05:36,840
+This bleeding is particularly important,
+
+108
+00:05:36,840 --> 00:05:41,420
+and that's because you need to know that within a Meckel's eye reticulum,
+
+109
+00:05:41,420 --> 00:05:43,880
+you can also have heterotopic gastric mucosa.
+
+110
+00:05:43,880 --> 00:05:46,000
+Now, that gastric mucosa would produce acid,
+
+111
+00:05:46,000 --> 00:05:49,180
+and then you'd get acidic damage to the Meckel's eye reticulum,
+
+112
+00:05:49,180 --> 00:05:50,880
+which would then present as bleeding.
+
+113
+00:05:52,100 --> 00:05:54,300
+All right, next disorder is a volvulus.
+
+114
+00:05:55,300 --> 00:05:58,000
+This is when you get twisting of the bowel along its mesentery.
+
+115
+00:05:58,180 --> 00:05:59,880
+Now, remember that if you've got bowel,
+
+116
+00:05:59,880 --> 00:06:02,380
+the blood supply is coming in through the mesentery.
+
+117
+00:06:02,500 --> 00:06:05,080
+So if you twist the bowel along its mesentery,
+
+118
+00:06:05,080 --> 00:06:06,380
+you're going to create two problems.
+
+119
+00:06:06,380 --> 00:06:08,380
+Number one, you're going to obstruct the bowel,
+
+120
+00:06:08,380 --> 00:06:10,960
+and number two, you're going to disrupt the blood supply.
+
+121
+00:06:10,960 --> 00:06:14,420
+And of course, a disruption of blood supply will result in infarction.
+
+122
+00:06:14,420 --> 00:06:16,420
+Now, the most common locations are those locations
+
+123
+00:06:16,420 --> 00:06:17,920
+where you have a ton of mesentery,
+
+124
+00:06:17,920 --> 00:06:21,020
+so that there's some redundancy that allows for this twisting.
+
+125
+00:06:21,020 --> 00:06:26,220
+So in the elderly, the classic location is the sigmoid colon.
+
+126
+00:06:26,220 --> 00:06:30,220
+And in the young adult, the classic location is the cecum.
+
+127
+00:06:30,220 --> 00:06:31,540
+Here's what a volvulus looks like.
+
+128
+00:06:31,540 --> 00:06:33,700
+Basically, this area here has been twisted,
+
+129
+00:06:34,120 --> 00:06:37,280
+and this area is normal, and this area is normal as well.
+
+130
+00:06:37,280 --> 00:06:40,120
+And so when this twisted, there was infarction of that area,
+
+131
+00:06:40,240 --> 00:06:43,700
+and you can clearly see that this is a hemorrhagic infarction of the bowel.
+
+132
+00:06:44,620 --> 00:06:48,240
+Now, intussusception refers to telescoping of a proximal segment of bowel
+
+133
+00:06:48,240 --> 00:06:49,300
+into the distal segment.
+
+134
+00:06:49,680 --> 00:06:50,740
+Now, here's basically the idea.
+
+135
+00:06:50,740 --> 00:06:55,200
+Let's pretend that this is the bowel, and the flow is moving this way.
+
+136
+00:06:55,200 --> 00:07:00,180
+The idea is that you kind of drag in the bowel along the direction of flow,
+
+137
+00:07:00,320 --> 00:07:02,200
+along the direction of peristalsis.
+
+138
+00:07:02,600 --> 00:07:03,860
+So that's called intussusception,
+
+139
+00:07:04,100 --> 00:07:08,180
+the telescoping of a proximal segment into a distal segment.
+
+140
+00:07:08,740 --> 00:07:11,300
+Now, what's important to note about intussusception is that,
+
+141
+00:07:11,580 --> 00:07:14,160
+obviously, when you drag in the bowel,
+
+142
+00:07:14,280 --> 00:07:16,400
+you're going to be dragging in the blood supply as well.
+
+143
+00:07:17,160 --> 00:07:19,960
+And so that dragging in of the blood supply is going to result in infarction.
+
+144
+00:07:19,960 --> 00:07:24,100
+And these patients classically present with obstruction or with infarction,
+
+145
+00:07:24,240 --> 00:07:28,860
+and that infarction can often present itself with something called current jelly stools.
+
+146
+00:07:29,600 --> 00:07:32,180
+Now, it's important to note that whenever you have intussusception,
+
+147
+00:07:32,420 --> 00:07:34,420
+usually it's associated with a leading edge.
+
+148
+00:07:34,720 --> 00:07:38,000
+Now, remember I said that basically it's in the direction of peristalsis.
+
+149
+00:07:38,300 --> 00:07:41,880
+So there's got to be something that the peristalsis can kind of hook on
+
+150
+00:07:41,880 --> 00:07:44,260
+and grab the bowel and drag it forward.
+
+151
+00:07:44,640 --> 00:07:47,860
+And so you want to ask yourself the question when you have an intussusception is,
+
+152
+00:07:47,860 --> 00:07:52,760
+what was the underlying cause that allowed the bowel to get dragged forward?
+
+153
+00:07:53,200 --> 00:07:56,580
+And in children, the most common cause is lymphoid hyperplasia.
+
+154
+00:07:57,020 --> 00:08:01,060
+So remember that there are a ton of perist patches within the intestine,
+
+155
+00:08:01,220 --> 00:08:06,260
+and those perist patches are particularly prevalent within the terminal ilium.
+
+156
+00:08:06,560 --> 00:08:08,720
+So the idea is the patient gets some sort of,
+
+157
+00:08:08,720 --> 00:08:10,740
+or the child gets some sort of viral infection,
+
+158
+00:08:10,840 --> 00:08:12,440
+they get massive lymphoid hyperplasia,
+
+159
+00:08:12,440 --> 00:08:16,940
+and the terminal ilium gets dragged into the cecum because of the thickness of its wall.
+
+160
+00:08:17,940 --> 00:08:21,940
+In adults, you'd classically think about tumor as being the leading edge
+
+161
+00:08:21,940 --> 00:08:24,640
+that allows for an intussusception to occur.
+
+162
+00:08:25,360 --> 00:08:26,420
+Small bowel infarction,
+
+163
+00:08:26,660 --> 00:08:30,300
+we should know that the small bowel is very susceptible to ischemic injury.
+
+164
+00:08:30,640 --> 00:08:33,200
+Remember that the small bowel needs a lot of ATP
+
+165
+00:08:33,200 --> 00:08:34,960
+because it's doing a ton of digestion.
+
+166
+00:08:35,220 --> 00:08:36,440
+It does a lot of the absorption
+
+167
+00:08:36,440 --> 00:08:40,940
+and a lot of the digestion necessary to be able to bring nutrients into the body.
+
+168
+00:08:40,940 --> 00:08:44,520
+And so it's going to be highly susceptible to ischemic injury.
+
+169
+00:08:45,480 --> 00:08:47,380
+Now when you get ischemia of the small bowel,
+
+170
+00:08:47,480 --> 00:08:49,380
+there's a couple possibilities of what could occur.
+
+171
+00:08:49,920 --> 00:08:52,480
+One possibility is that you can get a transmural infarction.
+
+172
+00:08:52,860 --> 00:08:53,840
+And this is going to occur,
+
+173
+00:08:53,940 --> 00:08:56,820
+let's pretend that this is the bowel and this is the blood supply coming in,
+
+174
+00:08:57,260 --> 00:08:59,080
+and this is the blood supply coming out.
+
+175
+00:08:59,140 --> 00:09:00,760
+So you've got an artery and you've got a vein.
+
+176
+00:09:01,240 --> 00:09:03,620
+Now, transmural infarction is going to occur
+
+177
+00:09:03,620 --> 00:09:07,340
+when you get thrombosis or embolism of the artery,
+
+178
+00:09:07,340 --> 00:09:12,220
+and it's got to be the superior mesenteric artery,
+
+179
+00:09:12,720 --> 00:09:14,820
+or if you get thrombosis of the vein.
+
+180
+00:09:14,880 --> 00:09:17,340
+It's kind of that same paradigm that we keep talking about.
+
+181
+00:09:17,700 --> 00:09:18,800
+Now let's ask a couple questions.
+
+182
+00:09:18,920 --> 00:09:21,360
+How would we get embolism of the artery?
+
+183
+00:09:21,520 --> 00:09:23,980
+Well, one way by which we could get embolism would be
+
+184
+00:09:23,980 --> 00:09:25,620
+if the patient has atrial fib.
+
+185
+00:09:26,160 --> 00:09:28,040
+Remember, if the patient has atrial fibrillation,
+
+186
+00:09:28,200 --> 00:09:31,660
+then basically the idea would be that they can develop a thrombus
+
+187
+00:09:31,660 --> 00:09:34,480
+because of the lack of motility of the atrium,
+
+188
+00:09:34,480 --> 00:09:37,100
+and that thrombus could break off and then embolize,
+
+189
+00:09:37,180 --> 00:09:38,780
+and that would be called a thromboembolist,
+
+190
+00:09:38,900 --> 00:09:42,920
+and that could lodge itself in the SMA and then create an infarction.
+
+191
+00:09:43,480 --> 00:09:47,100
+The other possibility would be that the patient, for example, has a vasculitis.
+
+192
+00:09:47,580 --> 00:09:49,220
+And so if the patient gets a vasculitis,
+
+193
+00:09:49,320 --> 00:09:52,400
+that can increase the risk for thrombosis and subsequent infarction.
+
+194
+00:09:53,060 --> 00:09:57,400
+For example, one classic example would be polyarteritis nodosa,
+
+195
+00:09:57,800 --> 00:10:00,660
+in which the patient's actually had melanoma and abdominal pain.
+
+196
+00:10:00,860 --> 00:10:03,060
+And if you go back and review polyarteritis nodosa,
+
+197
+00:10:03,060 --> 00:10:08,980
+you'll see that one of the features was abdominal complaints.
+
+198
+00:10:10,060 --> 00:10:13,320
+And then the third way would be to get thrombosis of the mesenteric vein.
+
+199
+00:10:13,640 --> 00:10:15,700
+And how would you get thrombosis of the mesenteric vein?
+
+200
+00:10:15,980 --> 00:10:19,260
+Well, one classic mechanism would be something called polycythemia vera,
+
+201
+00:10:19,480 --> 00:10:21,000
+where you have a red blood cell disorder,
+
+202
+00:10:21,080 --> 00:10:22,780
+where you're producing too many red blood cells,
+
+203
+00:10:22,820 --> 00:10:26,640
+which makes the blood thick and increases the risk for thrombosis.
+
+204
+00:10:26,960 --> 00:10:30,480
+Another classic example would be if the patient has a lupus anticoagulant.
+
+205
+00:10:30,480 --> 00:10:33,380
+That would increase the risk for thrombosis as well.
+
+206
+00:10:34,120 --> 00:10:36,840
+So in these particular cases, when you're going to block the blood supply,
+
+207
+00:10:37,080 --> 00:10:41,180
+that's going to result in a transmural infarction so that the entire wall gets infarcted.
+
+208
+00:10:41,500 --> 00:10:44,480
+Now the other possibility is that you can get a mucosal infarction.
+
+209
+00:10:44,920 --> 00:10:48,880
+And the way that by which that would occur is that if you've got this blood supply going to the wall,
+
+210
+00:10:48,940 --> 00:10:53,400
+and you've got a mucosa and a submucosa, etc., and here's the blood supply,
+
+211
+00:10:53,400 --> 00:10:57,380
+imagine that you don't cut the blood supply completely, but that you decrease it slightly.
+
+212
+00:10:57,740 --> 00:11:01,440
+If you decrease it slightly, then the mucosa, which is furthest away from the blood supply,
+
+213
+00:11:01,760 --> 00:11:06,400
+would actually become ischemic, and you'd get infarction only of the mucosa.
+
+214
+00:11:06,720 --> 00:11:08,400
+And that occurs when you have marked hypotension.
+
+215
+00:11:09,140 --> 00:11:12,060
+So when there's hypotension, then you can get mucosal infarction
+
+216
+00:11:12,060 --> 00:11:14,940
+instead of a complete transmural infarction.
+
+217
+00:11:16,040 --> 00:11:19,540
+The clinical features, of course, will be abdominal pain with bloody diarrhea.
+
+218
+00:11:19,540 --> 00:11:24,240
+These are the key features of infarction, and there will also be decreased bowel sounds
+
+219
+00:11:24,240 --> 00:11:25,960
+as the bowel becomes less active.
+
+220
+00:11:26,520 --> 00:11:29,320
+The next disorder we want to discuss is lactose intolerance.
+
+221
+00:11:29,460 --> 00:11:33,220
+This is due to a decreased function of the lactase enzyme
+
+222
+00:11:33,220 --> 00:11:36,180
+that's present in the brush border of the enterocytes.
+
+223
+00:11:36,520 --> 00:11:39,380
+Before we can understand this, we need to do a little review of physiology.
+
+224
+00:11:39,820 --> 00:11:43,040
+Let's remind ourselves that one of the nutrients that we want to take from the gut
+
+225
+00:11:43,040 --> 00:11:45,880
+and bring into the blood is going to be sugar or carbohydrates.
+
+226
+00:11:45,880 --> 00:11:50,720
+Remember that carbohydrates are broken down into oligosaccharides by the amylases
+
+227
+00:11:50,720 --> 00:11:55,740
+in the salivary gland and the pancreas, and also into disaccharides,
+
+228
+00:11:56,100 --> 00:11:58,140
+such as lactose and sucrose.
+
+229
+00:11:58,680 --> 00:12:01,660
+Now, eventually, you can only absorb monosaccharides,
+
+230
+00:12:01,740 --> 00:12:04,400
+and so you've got to break down all of those oligosaccharides,
+
+231
+00:12:04,480 --> 00:12:08,640
+and you've got to break down the lactose and the sucrose as well into monosaccharides.
+
+232
+00:12:08,700 --> 00:12:11,840
+And remember from biochemistry that there are three monosaccharides
+
+233
+00:12:11,840 --> 00:12:15,120
+that are going to be absorbed, glucose, galactose, and fructose.
+
+234
+00:12:15,120 --> 00:12:19,960
+Now, in order to break down lactose, we have an enzyme present on the brush border
+
+235
+00:12:19,960 --> 00:12:24,140
+of our enterocytes, which line the small bowel, and that is called lactase.
+
+236
+00:12:24,180 --> 00:12:26,860
+And you need this lactase enzyme to break down lactose.
+
+237
+00:12:27,240 --> 00:12:30,200
+If there is a decreased function of the lactase enzyme,
+
+238
+00:12:30,500 --> 00:12:33,360
+then what's going to happen is that the lactose will remain
+
+239
+00:12:33,360 --> 00:12:37,620
+within the lumen of the small bowel, and lactose is osmotically active.
+
+240
+00:12:37,720 --> 00:12:40,540
+It will draw water towards it, and that will create a diarrhea.
+
+241
+00:12:41,100 --> 00:12:42,280
+So how will these patients present?
+
+242
+00:12:42,280 --> 00:12:46,240
+They present with abdominal distension and diarrhea when they consume milk products,
+
+243
+00:12:46,300 --> 00:12:49,740
+and that's because milk products contain a ton of lactose.
+
+244
+00:12:50,060 --> 00:12:53,060
+Now, when you get deficiency, it can be congenital or acquired.
+
+245
+00:12:53,420 --> 00:12:55,340
+The congenital deficiency is rare.
+
+246
+00:12:55,760 --> 00:13:01,160
+It would basically be a child who was born without the enzyme.
+
+247
+00:13:01,260 --> 00:13:01,980
+That's super rare.
+
+248
+00:13:02,360 --> 00:13:05,800
+You can also get acquired deficiency, and acquired deficiency occurs in two ways.
+
+249
+00:13:06,160 --> 00:13:09,620
+One way by which patients get acquired deficiency is simply as they age,
+
+250
+00:13:09,620 --> 00:13:14,460
+they just become intolerant, and this classically would occur, for example, in a child,
+
+251
+00:13:14,620 --> 00:13:18,880
+so maybe a 10-year-old, 15-year-old child who was normal up to that age,
+
+252
+00:13:19,080 --> 00:13:21,180
+and then all of a sudden becomes lactose intolerant.
+
+253
+00:13:21,220 --> 00:13:23,920
+And, of course, they would be lactose intolerant for the rest of their life.
+
+254
+00:13:24,620 --> 00:13:28,680
+Another acquired way to get lactose intolerant would be after any GI infection.
+
+255
+00:13:28,800 --> 00:13:32,880
+When you get a GI tract infection, for example, a viral infection of the small bowel,
+
+256
+00:13:32,880 --> 00:13:39,280
+that can destroy the enzyme, and therefore the patients can become lactose intolerant,
+
+257
+00:13:39,380 --> 00:13:43,640
+but, of course, that would be temporary until the small bowel would actually heal.
+
+258
+00:13:44,460 --> 00:13:46,260
+The next disorder is celiac disease.
+
+259
+00:13:46,400 --> 00:13:50,160
+This is immune-mediated damage of the small bowel villi, so that's the key thing.
+
+260
+00:13:50,200 --> 00:13:53,880
+You're going to knock out the small bowel villi, and it's due to gluten exposure.
+
+261
+00:13:54,240 --> 00:13:56,600
+Basically, this is a hypersensitivity.
+
+262
+00:13:56,600 --> 00:14:00,780
+There is an antigen out in the environment that, when it hits the bowel,
+
+263
+00:14:01,100 --> 00:14:03,320
+results in destruction of the small bowel villi.
+
+264
+00:14:03,820 --> 00:14:09,680
+It is associated with HLA-DQ2 and HLA-DQ8.
+
+265
+00:14:10,380 --> 00:14:15,320
+Now, the key component that is going to result in this hypersensitivity is something called gluten,
+
+266
+00:14:15,680 --> 00:14:20,120
+and gluten is present in wheat and grains and is in very many foods that we consume.
+
+267
+00:14:20,300 --> 00:14:25,120
+The most pathologic component of gluten, you have to know for examination purposes, is gliadin,
+
+268
+00:14:25,120 --> 00:14:28,280
+and you also need to know that gliadin gets deamidated.
+
+269
+00:14:28,680 --> 00:14:32,300
+Now, when this occurs, it occurs by a tissue transglutaminase.
+
+270
+00:14:32,700 --> 00:14:37,060
+Now, this changed or altered gliadin is then grabbed by the antigen-presenting cells
+
+271
+00:14:37,060 --> 00:14:41,440
+and then presented via MHC class II to the helper T cells,
+
+272
+00:14:41,700 --> 00:14:44,340
+and it's the helper T cells that mediate the tissue damage.
+
+273
+00:14:44,600 --> 00:14:47,200
+So, it's the T cells that are creating the problem here.
+
+274
+00:14:47,740 --> 00:14:50,560
+Now, clinically, this can have a very broad presentation,
+
+275
+00:14:50,560 --> 00:14:55,800
+but the classic finding in children would be abdominal distension, diarrhea, and failure to thrive,
+
+276
+00:14:56,120 --> 00:14:58,940
+and in adults, it would be chronic diarrhea and bloating.
+
+277
+00:14:59,480 --> 00:15:05,620
+So, these are the ways by which we would classically see a presentation of this particular disorder.
+
+278
+00:15:06,060 --> 00:15:09,620
+Now, one associated finding is something called dermatitis repetiformis,
+
+279
+00:15:09,620 --> 00:15:12,400
+and the idea here is that if we draw a picture of skin,
+
+280
+00:15:12,860 --> 00:15:15,200
+now, this is the epidermis up here,
+
+281
+00:15:15,560 --> 00:15:16,980
+all right, so this is the epidermis,
+
+282
+00:15:17,200 --> 00:15:18,520
+and underneath it is the dermis,
+
+283
+00:15:18,560 --> 00:15:20,540
+and remember that we have dermal papillae here.
+
+284
+00:15:20,980 --> 00:15:24,420
+Now, recall that the blood supply of the skin is all in the dermis.
+
+285
+00:15:24,520 --> 00:15:26,540
+There are no blood vessels in the epidermis.
+
+286
+00:15:26,740 --> 00:15:28,500
+So, as blood vessels come up here,
+
+287
+00:15:28,940 --> 00:15:31,000
+now, one of the things that can happen in this disorder
+
+288
+00:15:31,000 --> 00:15:35,460
+is you can get deposition of IgA at the tips of these dermal papillae.
+
+289
+00:15:35,460 --> 00:15:39,040
+Now, the deposition of IgA at the tips of the dermal papillae
+
+290
+00:15:39,040 --> 00:15:41,520
+will result in destruction of the connection
+
+291
+00:15:41,520 --> 00:15:44,320
+between the epidermis and the dermis at that point,
+
+292
+00:15:44,440 --> 00:15:47,760
+so that what you'll get is a little blister or vesicle right here
+
+293
+00:15:47,760 --> 00:15:49,140
+at the tip of the dermal papillae,
+
+294
+00:15:49,260 --> 00:15:54,720
+and then you'll get another tiny little vesicle here,
+
+295
+00:15:54,860 --> 00:15:57,280
+and then another tiny vesicle at the dermal papillae here.
+
+296
+00:15:57,620 --> 00:16:00,020
+Now, these are little tiny vesicles, so they look like herpes,
+
+297
+00:16:00,500 --> 00:16:02,980
+and so that's why it's called herpetiformis.
+
+298
+00:16:02,980 --> 00:16:07,820
+You get very similar herpes looking like blisters,
+
+299
+00:16:08,400 --> 00:16:12,180
+and so what's important to note is that it's due to IgA deposition
+
+300
+00:16:12,180 --> 00:16:13,660
+at the tips of the dermal papillae,
+
+301
+00:16:13,900 --> 00:16:16,560
+and that it resolves with a gluten-free diet.
+
+302
+00:16:17,380 --> 00:16:20,220
+Now, the laboratory findings are that you get IgA antibodies
+
+303
+00:16:20,220 --> 00:16:21,480
+against a few things.
+
+304
+00:16:21,560 --> 00:16:22,740
+Number one, endomysium.
+
+305
+00:16:22,940 --> 00:16:25,020
+Endomysium is the connective tissue
+
+306
+00:16:25,020 --> 00:16:27,700
+that ensheets each individual muscle fiber.
+
+307
+00:16:28,120 --> 00:16:31,560
+In this particular disorder, there is no problem with the endomysium,
+
+308
+00:16:31,560 --> 00:16:34,600
+but it so happens that they develop antibodies against endomysium,
+
+309
+00:16:34,700 --> 00:16:36,240
+and so that's one thing we can test for.
+
+310
+00:16:36,600 --> 00:16:39,140
+They also can get IgA against tissue transglutaminase,
+
+311
+00:16:39,340 --> 00:16:41,040
+or IgA against gliadin.
+
+312
+00:16:41,180 --> 00:16:43,740
+So these are the classic laboratory findings.
+
+313
+00:16:44,080 --> 00:16:46,320
+Now, what's interesting about patients with celiac disease
+
+314
+00:16:46,320 --> 00:16:49,280
+is that a subset of these patients can be IgA deficient.
+
+315
+00:16:49,640 --> 00:16:54,460
+Remember that when we talked about IgA deficiency in your immune lecture,
+
+316
+00:16:54,460 --> 00:16:58,440
+I mentioned at that point that there's an increased incidence of IgA deficiency
+
+317
+00:16:58,440 --> 00:17:00,100
+in patients with celiac disease.
+
+318
+00:17:00,500 --> 00:17:02,080
+And so if they're IgA deficient,
+
+319
+00:17:02,140 --> 00:17:04,480
+then you're not going to be able to find the IgA antibodies.
+
+320
+00:17:04,700 --> 00:17:08,580
+And so it's also important to test for IgG antibodies
+
+321
+00:17:08,580 --> 00:17:10,680
+because those would be useful for diagnosis
+
+322
+00:17:10,680 --> 00:17:13,000
+in patients that have an IgA deficiency.
+
+323
+00:17:13,160 --> 00:17:14,480
+Obviously, if you have an IgA deficiency,
+
+324
+00:17:14,620 --> 00:17:17,460
+you won't have IgA against these particular antigens.
+
+325
+00:17:17,460 --> 00:17:21,020
+And so in those patients, we want to look for IgG antibodies
+
+326
+00:17:21,020 --> 00:17:24,280
+against, for example, tissue transglutaminase.
+
+327
+00:17:24,280 --> 00:17:25,360
+This is just one example.
+
+328
+00:17:25,980 --> 00:17:27,440
+Now, the way by which we make the diagnosis
+
+329
+00:17:27,440 --> 00:17:29,540
+is also to do a duodenal biopsy.
+
+330
+00:17:29,880 --> 00:17:31,820
+The biopsy will show flattening of the villi
+
+331
+00:17:31,820 --> 00:17:33,280
+and hyperplasia of the crypts.
+
+332
+00:17:33,540 --> 00:17:34,700
+Let's go back and remind ourselves
+
+333
+00:17:34,700 --> 00:17:36,180
+that this is the small bowel surface.
+
+334
+00:17:36,400 --> 00:17:38,160
+You've got these villi that go up,
+
+335
+00:17:38,180 --> 00:17:40,080
+and you've got these tiny crypts that come down.
+
+336
+00:17:40,380 --> 00:17:43,580
+So villi that go up, and then tiny crypts that come down.
+
+337
+00:17:43,960 --> 00:17:45,360
+Now, what happens in this disorder
+
+338
+00:17:45,360 --> 00:17:46,940
+is you get flattening of these villi,
+
+339
+00:17:46,940 --> 00:17:48,200
+so you're going to lose these villi.
+
+340
+00:17:48,440 --> 00:17:50,500
+You're going to get hyperplasia of these crypts,
+
+341
+00:17:50,520 --> 00:17:51,940
+so the crypts are going to become deeper,
+
+342
+00:17:52,220 --> 00:17:53,740
+and then you're going to see lymphocytes
+
+343
+00:17:53,740 --> 00:17:55,240
+within the epithelium.
+
+344
+00:17:55,340 --> 00:17:56,580
+So you get an increased number
+
+345
+00:17:56,580 --> 00:17:58,360
+of intraepithelial lymphocytes.
+
+346
+00:17:58,700 --> 00:17:59,760
+And here's what it looks like.
+
+347
+00:18:00,000 --> 00:18:00,900
+You've got flattening.
+
+348
+00:18:00,960 --> 00:18:01,620
+Here's the surface.
+
+349
+00:18:01,760 --> 00:18:02,600
+There are no villi,
+
+350
+00:18:02,660 --> 00:18:03,880
+so you've got flattening of the villi,
+
+351
+00:18:03,940 --> 00:18:06,320
+but you've got hyperplasia of these crypts,
+
+352
+00:18:06,320 --> 00:18:08,320
+and then you've got all these lymphocytes present.
+
+353
+00:18:08,800 --> 00:18:10,300
+Now, in particular, you would see them
+
+354
+00:18:10,300 --> 00:18:12,580
+within the epithelium up here.
+
+355
+00:18:13,760 --> 00:18:15,700
+Now, this is the normal histology,
+
+356
+00:18:15,700 --> 00:18:16,620
+just to remind you that
+
+357
+00:18:16,620 --> 00:18:18,620
+you normally should have these nice, tall villi,
+
+358
+00:18:18,760 --> 00:18:20,820
+and then these crypts should be very minimal.
+
+359
+00:18:21,300 --> 00:18:22,240
+All right, and so, again,
+
+360
+00:18:22,300 --> 00:18:26,100
+we're losing all of these villi in celiac disease.
+
+361
+00:18:26,580 --> 00:18:27,800
+Now, one more important point
+
+362
+00:18:27,800 --> 00:18:28,940
+that I make here in the notes,
+
+363
+00:18:29,060 --> 00:18:30,440
+and that is the distribution,
+
+364
+00:18:30,620 --> 00:18:31,680
+which is super high yield.
+
+365
+00:18:32,000 --> 00:18:34,140
+The damage is mostly in the duodenum,
+
+366
+00:18:34,400 --> 00:18:37,120
+and the jejunum and ilium are less involved.
+
+367
+00:18:37,440 --> 00:18:38,540
+I can't repeat that enough.
+
+368
+00:18:38,660 --> 00:18:41,460
+Remember that the damage is mostly in the duodenum,
+
+369
+00:18:41,460 --> 00:18:44,480
+and the jejunum and ilium are less involved.
+
+370
+00:18:44,480 --> 00:18:46,620
+All right, of course, as I've already mentioned,
+
+371
+00:18:46,680 --> 00:18:48,460
+the symptoms resolve if you put the patient
+
+372
+00:18:48,460 --> 00:18:49,640
+on a gluten-free diet.
+
+373
+00:18:49,960 --> 00:18:52,280
+Now, let's say that on an examination in particular,
+
+374
+00:18:52,660 --> 00:18:54,860
+the patient's on a gluten-free diet for many years,
+
+375
+00:18:54,960 --> 00:18:56,040
+and they swear up and down
+
+376
+00:18:56,040 --> 00:18:57,800
+that they've been maintaining that diet.
+
+377
+00:18:58,120 --> 00:19:00,640
+Now, all of a sudden, they start getting disease.
+
+378
+00:19:00,820 --> 00:19:02,440
+Again, refractory disease,
+
+379
+00:19:02,520 --> 00:19:04,880
+despite the fact that they claim good dietary control,
+
+380
+00:19:05,000 --> 00:19:07,320
+and they've had good dietary control for several years.
+
+381
+00:19:07,800 --> 00:19:09,980
+Then you need to think about two particular complications
+
+382
+00:19:09,980 --> 00:19:12,720
+that could be leading to this refractory disease.
+
+383
+00:19:12,720 --> 00:19:14,360
+The first would be that the patient
+
+384
+00:19:14,360 --> 00:19:16,140
+could have developed small bowel carcinoma.
+
+385
+00:19:16,520 --> 00:19:17,640
+So there's an increased risk
+
+386
+00:19:17,640 --> 00:19:19,600
+for development of small bowel carcinoma
+
+387
+00:19:19,600 --> 00:19:21,300
+in patients with celiac disease,
+
+388
+00:19:21,400 --> 00:19:23,560
+especially with long-standing celiac disease.
+
+389
+00:19:24,120 --> 00:19:25,500
+And then second, it's a possibility
+
+390
+00:19:25,500 --> 00:19:27,060
+that the patient developed a lymphoma.
+
+391
+00:19:27,340 --> 00:19:28,300
+But what's interesting here
+
+392
+00:19:28,300 --> 00:19:30,940
+is that these patients can develop a T-cell lymphoma.
+
+393
+00:19:31,260 --> 00:19:32,020
+And that's kind of rare
+
+394
+00:19:32,020 --> 00:19:34,520
+because we haven't talked about many T-cell lymphomas.
+
+395
+00:19:34,580 --> 00:19:36,420
+We've talked about a lot of B-cell lymphomas
+
+396
+00:19:36,420 --> 00:19:37,760
+throughout this course.
+
+397
+00:19:38,160 --> 00:19:39,320
+And so it's important to know
+
+398
+00:19:39,320 --> 00:19:42,540
+that these patients can develop a T-cell lymphoma.
+
+399
+00:19:43,100 --> 00:19:45,480
+And that T-cell lymphoma is also called EATL,
+
+400
+00:19:45,680 --> 00:19:48,080
+E-A-T-L.
+
+401
+00:19:48,360 --> 00:19:49,200
+And that stands for
+
+402
+00:19:49,200 --> 00:19:52,320
+Enteropathy Associated T-cell Lymphoma.
+
+403
+00:19:52,600 --> 00:19:54,100
+But anyway, I think the most important thing
+
+404
+00:19:54,100 --> 00:19:55,220
+for you to note is that
+
+405
+00:19:55,220 --> 00:19:56,540
+if there's refractory disease,
+
+406
+00:19:56,660 --> 00:19:58,460
+think about cancer, think about lymphoma,
+
+407
+00:19:58,720 --> 00:20:00,580
+and in particular, a T-cell lymphoma.
+
+408
+00:20:01,200 --> 00:20:04,020
+Now, tropical sprue is another disorder
+
+409
+00:20:04,020 --> 00:20:04,880
+that's very similar
+
+410
+00:20:04,880 --> 00:20:07,060
+in that you get damage to the small bowel villi.
+
+411
+00:20:07,400 --> 00:20:09,460
+And when you get damage to the small bowel villi,
+
+412
+00:20:09,460 --> 00:20:11,520
+in this particular case,
+
+413
+00:20:11,600 --> 00:20:13,220
+it's due to an unknown organism.
+
+414
+00:20:13,560 --> 00:20:15,120
+Of course, it results in malabsorption.
+
+415
+00:20:15,240 --> 00:20:16,540
+Whenever you knock out the villi,
+
+416
+00:20:16,620 --> 00:20:18,600
+you're gonna get malabsorption and diarrhea.
+
+417
+00:20:19,200 --> 00:20:21,300
+Now, this is very similar to celiac disease
+
+418
+00:20:21,300 --> 00:20:22,360
+with a couple exceptions.
+
+419
+00:20:22,920 --> 00:20:23,880
+Exception number one,
+
+420
+00:20:23,980 --> 00:20:25,920
+it occurs in tropical regions like the Caribbean.
+
+421
+00:20:26,080 --> 00:20:26,500
+And of course,
+
+422
+00:20:26,560 --> 00:20:28,380
+that's because it's due to some infectious agent,
+
+423
+00:20:28,500 --> 00:20:29,820
+and that's where the infectious agent
+
+424
+00:20:29,820 --> 00:20:30,780
+tends to be located.
+
+425
+00:20:31,420 --> 00:20:32,060
+Now, number two,
+
+426
+00:20:32,060 --> 00:20:34,240
+it arises after infectious diarrhea.
+
+427
+00:20:34,240 --> 00:20:36,100
+So, you clearly have an infection,
+
+428
+00:20:36,560 --> 00:20:39,300
+and then the patient develops this tropical sprue.
+
+429
+00:20:39,660 --> 00:20:41,520
+And it also responds to antibiotics,
+
+430
+00:20:41,680 --> 00:20:43,100
+indicating that it's being driven
+
+431
+00:20:43,100 --> 00:20:44,520
+by this infectious agent.
+
+432
+00:20:44,860 --> 00:20:46,380
+But here's the super high yield point
+
+433
+00:20:46,380 --> 00:20:47,120
+that I wanna make.
+
+434
+00:20:47,480 --> 00:20:49,180
+And that is that in tropical sprue,
+
+435
+00:20:49,320 --> 00:20:52,400
+the damage is more in the jejunum and the ileum,
+
+436
+00:20:52,660 --> 00:20:54,280
+whereas in celiac disease,
+
+437
+00:20:54,620 --> 00:20:56,260
+the damage was more in the duodenum.
+
+438
+00:20:56,580 --> 00:20:58,520
+But the duodenum is less commonly involved
+
+439
+00:20:58,520 --> 00:21:00,180
+in tropical sprue.
+
+440
+00:21:00,500 --> 00:21:01,880
+So, the predominant disease
+
+441
+00:21:01,880 --> 00:21:03,480
+is in the jejunum and the ileum.
+
+442
+00:21:03,860 --> 00:21:04,860
+Now, because the disease
+
+443
+00:21:04,860 --> 00:21:06,860
+is predominantly in the jejunum and the ileum,
+
+444
+00:21:06,940 --> 00:21:08,980
+you can also get nutritional deficiencies
+
+445
+00:21:08,980 --> 00:21:10,800
+based on what is occurring
+
+446
+00:21:10,800 --> 00:21:12,140
+in the jejunum and the ileum.
+
+447
+00:21:12,480 --> 00:21:14,180
+So, remember that in the jejunum,
+
+448
+00:21:14,520 --> 00:21:15,460
+that is the key place
+
+449
+00:21:15,460 --> 00:21:17,460
+where we absorb folic acid.
+
+450
+00:21:17,600 --> 00:21:19,220
+So, we can get folic acid deficiency.
+
+451
+00:21:19,700 --> 00:21:22,100
+And also, the ileum is the key place
+
+452
+00:21:22,100 --> 00:21:23,680
+where we absorb vitamin B12.
+
+453
+00:21:23,680 --> 00:21:26,060
+So, we can potentially develop,
+
+454
+00:21:26,160 --> 00:21:27,060
+theoretically develop,
+
+455
+00:21:27,340 --> 00:21:29,000
+a vitamin B12 deficiency.
+
+456
+00:21:30,320 --> 00:21:30,560
+Okay.
+
+457
+00:21:30,560 --> 00:21:32,600
+Next disorder is called Whipple's disease.
+
+458
+00:21:32,940 --> 00:21:34,500
+This is a systemic disease
+
+459
+00:21:34,500 --> 00:21:37,340
+in which you get macrophages
+
+460
+00:21:37,340 --> 00:21:39,740
+loaded with T. whippelli organisms.
+
+461
+00:21:40,220 --> 00:21:41,460
+Okay, what's the idea here?
+
+462
+00:21:41,620 --> 00:21:43,560
+The patient gets a T. whippelli infection.
+
+463
+00:21:44,000 --> 00:21:45,840
+The macrophages begin to eat away
+
+464
+00:21:45,840 --> 00:21:46,800
+at the T. whippelli,
+
+465
+00:21:46,920 --> 00:21:47,680
+trying to kill them.
+
+466
+00:21:47,880 --> 00:21:49,020
+But instead of killing them,
+
+467
+00:21:49,140 --> 00:21:50,800
+they can only partially destroy them.
+
+468
+00:21:51,100 --> 00:21:53,020
+And because they can only partially destroy them,
+
+469
+00:21:53,020 --> 00:21:54,800
+the organism remains within
+
+470
+00:21:54,800 --> 00:21:57,000
+the macrophage lysosomes.
+
+471
+00:21:57,640 --> 00:21:59,320
+And so, that's an important consideration
+
+472
+00:21:59,320 --> 00:22:00,420
+because in this disorder,
+
+473
+00:22:00,560 --> 00:22:02,200
+you're going to get tons of macrophages
+
+474
+00:22:02,200 --> 00:22:03,880
+loaded with the bugs.
+
+475
+00:22:04,380 --> 00:22:05,600
+Now, the classic site of involvement
+
+476
+00:22:05,600 --> 00:22:08,060
+is the lamina propria of the small bowel.
+
+477
+00:22:08,420 --> 00:22:09,260
+And that's very important
+
+478
+00:22:09,260 --> 00:22:10,480
+because that's then going to lead
+
+479
+00:22:10,480 --> 00:22:12,240
+to the classic symptoms of this disorder,
+
+480
+00:22:12,360 --> 00:22:14,600
+which is fat malabsorption and steatorrhea.
+
+481
+00:22:14,960 --> 00:22:16,280
+But before we can understand that,
+
+482
+00:22:16,320 --> 00:22:17,800
+we need to take a little step back.
+
+483
+00:22:18,040 --> 00:22:19,040
+So, let's remind ourselves
+
+484
+00:22:19,040 --> 00:22:20,500
+that when you think about the small bowel,
+
+485
+00:22:20,500 --> 00:22:21,860
+you've got these villi, correct?
+
+486
+00:22:21,860 --> 00:22:24,120
+And the villi have these enterocytes.
+
+487
+00:22:24,720 --> 00:22:26,300
+And the enterocytes are sitting
+
+488
+00:22:26,300 --> 00:22:27,980
+on a lamina propria.
+
+489
+00:22:28,080 --> 00:22:29,820
+The connective tissue of the villus
+
+490
+00:22:29,820 --> 00:22:31,140
+is called a lamina propria.
+
+491
+00:22:31,520 --> 00:22:33,240
+So, that's the first point that I want to make.
+
+492
+00:22:33,520 --> 00:22:34,780
+Now, I'm going to go back and draw that
+
+493
+00:22:34,780 --> 00:22:35,980
+with that background in mind.
+
+494
+00:22:36,040 --> 00:22:37,100
+So, you've got these enterocytes
+
+495
+00:22:37,100 --> 00:22:38,480
+and then you've got the lamina propria.
+
+496
+00:22:38,840 --> 00:22:40,920
+Now, let's talk a little bit about fat digestion.
+
+497
+00:22:41,440 --> 00:22:42,940
+So, lipids are obviously broken down
+
+498
+00:22:42,940 --> 00:22:45,020
+by lipases from the salaried gland
+
+499
+00:22:45,020 --> 00:22:46,780
+and lipases from the pancreas.
+
+500
+00:22:46,780 --> 00:22:49,520
+And then they're emulsified into smaller droplets
+
+501
+00:22:49,520 --> 00:22:51,640
+in the stomach and the small bowel.
+
+502
+00:22:52,060 --> 00:22:53,240
+And bile, of course, helps
+
+503
+00:22:53,240 --> 00:22:54,600
+in that emulsification process.
+
+504
+00:22:55,040 --> 00:22:57,640
+The end result is the production of a micelle
+
+505
+00:22:57,640 --> 00:23:00,660
+that easily diffuses across the cellular membrane,
+
+506
+00:23:00,980 --> 00:23:04,880
+which then brings in the fatty acids
+
+507
+00:23:04,880 --> 00:23:06,740
+into the enterocyte.
+
+508
+00:23:07,200 --> 00:23:09,600
+And once you have fatty acid within the enterocyte,
+
+509
+00:23:09,720 --> 00:23:10,960
+then the next thing that's going to happen
+
+510
+00:23:10,960 --> 00:23:12,820
+is you're going to repackage those fatty acids
+
+511
+00:23:12,820 --> 00:23:13,960
+into chylomicrons.
+
+512
+00:23:14,380 --> 00:23:16,520
+Now, chylomicrons are relatively big molecules
+
+513
+00:23:16,520 --> 00:23:19,060
+and they're going to come out into the lamina propria.
+
+514
+00:23:19,280 --> 00:23:20,520
+They can't go into the blood.
+
+515
+00:23:20,820 --> 00:23:22,540
+And when they go into the lamina propria,
+
+516
+00:23:22,660 --> 00:23:23,840
+they're going to be resorbed
+
+517
+00:23:23,840 --> 00:23:26,620
+in these small little lymphatic spaces called lacteals.
+
+518
+00:23:27,620 --> 00:23:29,660
+So, the chylomicrons are going to be brought in
+
+519
+00:23:29,660 --> 00:23:31,560
+to these lacteals.
+
+520
+00:23:31,700 --> 00:23:33,680
+And then, of course, they go into the lacteals,
+
+521
+00:23:33,800 --> 00:23:34,660
+into the lymphatics,
+
+522
+00:23:34,740 --> 00:23:36,220
+and the lymphatics eventually drain
+
+523
+00:23:36,220 --> 00:23:40,500
+via the thoracic duct into the blood.
+
+524
+00:23:40,500 --> 00:23:42,520
+So, that's the way by which the chylomicrons
+
+525
+00:23:42,520 --> 00:23:43,500
+are brought into the blood.
+
+526
+00:23:43,600 --> 00:23:44,980
+They can't go directly into the blood.
+
+527
+00:23:44,980 --> 00:23:46,420
+They have to go into the lymphatics
+
+528
+00:23:46,420 --> 00:23:48,280
+and then eventually they land in the blood
+
+529
+00:23:48,280 --> 00:23:49,380
+because of their size.
+
+530
+00:23:49,940 --> 00:23:51,920
+Now, what's going to happen in this particular disorder,
+
+531
+00:23:52,060 --> 00:23:52,940
+which is Whipple's disease,
+
+532
+00:23:53,220 --> 00:23:55,360
+is that you're going to get a ton of macrophages.
+
+533
+00:23:55,460 --> 00:23:57,340
+So, let's just make them with squares, okay?
+
+534
+00:23:57,600 --> 00:23:59,440
+You get a ton of macrophages present
+
+535
+00:23:59,440 --> 00:24:01,080
+within this lamina propria.
+
+536
+00:24:01,420 --> 00:24:04,080
+Now, all those macrophages are going to pile up
+
+537
+00:24:04,080 --> 00:24:05,620
+and they're going to eventually compress
+
+538
+00:24:05,620 --> 00:24:07,380
+these thin-walled lacteals.
+
+539
+00:24:07,900 --> 00:24:09,700
+So, if you compress these thin-walled lacteals,
+
+540
+00:24:09,760 --> 00:24:11,620
+you can't bring the chylomicrons in anymore.
+
+541
+00:24:11,620 --> 00:24:13,580
+And if you can't bring in the chylomicrons,
+
+542
+00:24:13,680 --> 00:24:15,860
+the patients are going to get a fat malabsorption.
+
+543
+00:24:16,080 --> 00:24:18,640
+And that's exactly the mechanism by which they get
+
+544
+00:24:18,640 --> 00:24:20,940
+fat malabsorption and steatorrhea.
+
+545
+00:24:21,480 --> 00:24:22,680
+All right, here's what it looks like.
+
+546
+00:24:22,740 --> 00:24:24,480
+This is the small bowel villus here.
+
+547
+00:24:24,880 --> 00:24:26,860
+All right, and these are the enterocytes here.
+
+548
+00:24:27,120 --> 00:24:29,840
+And you can see that there's all these foamy macrophages
+
+549
+00:24:29,840 --> 00:24:31,280
+within the lamina propria,
+
+550
+00:24:31,380 --> 00:24:32,560
+as I've just sort of outlined.
+
+551
+00:24:32,680 --> 00:24:34,920
+Again, foamy macrophages in the lamina propria.
+
+552
+00:24:35,180 --> 00:24:37,120
+Now, I could prove that these are macrophages
+
+553
+00:24:37,120 --> 00:24:38,160
+loaded with the organisms
+
+554
+00:24:38,160 --> 00:24:40,700
+by doing a special stain called a PAS stain,
+
+555
+00:24:40,780 --> 00:24:42,660
+which would show me the little organisms.
+
+556
+00:24:42,900 --> 00:24:45,420
+And this dark pink material within the macrophages
+
+557
+00:24:45,420 --> 00:24:48,400
+indicates that I'm actually dealing with Whipple's disease
+
+558
+00:24:48,400 --> 00:24:50,340
+because I can clearly see the little fragments
+
+559
+00:24:50,340 --> 00:24:51,360
+of the organisms.
+
+560
+00:24:52,600 --> 00:24:54,380
+Now, remember that this is a systemic disease,
+
+561
+00:24:54,480 --> 00:24:55,600
+so that the most common site
+
+562
+00:24:55,600 --> 00:24:57,240
+is the lamina propria of the small bowel.
+
+563
+00:24:57,500 --> 00:25:00,460
+But it can also involve the joints giving you arthritis,
+
+564
+00:25:00,920 --> 00:25:02,140
+in particular the synovium,
+
+565
+00:25:02,140 --> 00:25:04,880
+the cardiac valves, the lymph nodes, and the CNS.
+
+566
+00:25:05,300 --> 00:25:07,180
+So that's something to bear in the back of your mind.
+
+567
+00:25:07,980 --> 00:25:09,600
+The next disorder that we're going to talk about
+
+568
+00:25:09,600 --> 00:25:11,300
+is A-beta lipoproteinemia.
+
+569
+00:25:11,640 --> 00:25:12,500
+A means without,
+
+570
+00:25:12,860 --> 00:25:15,060
+and this is without your beta lipoproteins.
+
+571
+00:25:15,380 --> 00:25:16,700
+Now, the idea here is that you get
+
+572
+00:25:16,700 --> 00:25:18,460
+an autosomal recessive deficiency
+
+573
+00:25:18,460 --> 00:25:21,640
+of apolipoprotein B48 and B100.
+
+574
+00:25:22,100 --> 00:25:23,720
+Now, what's B48 important for?
+
+575
+00:25:24,000 --> 00:25:26,160
+You need B48 to make the chylomicron.
+
+576
+00:25:26,420 --> 00:25:27,700
+So if you can't make the chylomicron,
+
+577
+00:25:27,780 --> 00:25:28,780
+you can't absorb fat,
+
+578
+00:25:28,860 --> 00:25:30,200
+and they're going to get a malabsorption.
+
+579
+00:25:30,200 --> 00:25:32,000
+At the same time, you need B100
+
+580
+00:25:32,000 --> 00:25:35,500
+to be able to produce your VLDL and your LDL,
+
+581
+00:25:35,500 --> 00:25:37,300
+and so therefore, these patients are going to have
+
+582
+00:25:37,300 --> 00:25:40,160
+absent plasma VLDL and LDL.
+
+583
+00:25:40,840 --> 00:25:41,740
+All right, moving along,
+
+584
+00:25:41,800 --> 00:25:43,440
+we're going to talk about carcinoid tumor.
+
+585
+00:25:43,860 --> 00:25:45,900
+Carcinoid tumor is a malignant proliferation
+
+586
+00:25:45,900 --> 00:25:47,040
+of neuroendocrine cells.
+
+587
+00:25:47,200 --> 00:25:48,740
+It's a low-grade malignancy.
+
+588
+00:25:49,240 --> 00:25:50,200
+Now, let's remind ourselves
+
+589
+00:25:50,200 --> 00:25:51,440
+that when you think about tumors
+
+590
+00:25:51,440 --> 00:25:52,460
+of neuroendocrine cells,
+
+591
+00:25:52,680 --> 00:25:53,980
+you can kind of have a spectrum.
+
+592
+00:25:54,300 --> 00:25:56,320
+The worst tumor in the highest grade
+
+593
+00:25:56,320 --> 00:25:59,200
+and the worst tumor of a neuroendocrine cell
+
+594
+00:25:59,200 --> 00:26:00,640
+is called small cell carcinoma,
+
+595
+00:26:00,800 --> 00:26:01,880
+and that occurred in the lung,
+
+596
+00:26:01,880 --> 00:26:03,060
+and we've already talked about it,
+
+597
+00:26:03,420 --> 00:26:06,940
+but remember that sort of the lowest form
+
+598
+00:26:06,940 --> 00:26:09,200
+of malignancy of a neuroendocrine cell
+
+599
+00:26:09,200 --> 00:26:10,600
+is called a carcinoid tumor.
+
+600
+00:26:11,560 --> 00:26:12,660
+Now, a carcinoid tumor,
+
+601
+00:26:12,900 --> 00:26:13,800
+it's important to note
+
+602
+00:26:13,800 --> 00:26:15,480
+that those tumors are neuroendocrine,
+
+603
+00:26:15,580 --> 00:26:16,660
+and so they're going to be filled
+
+604
+00:26:16,660 --> 00:26:17,940
+with neuroendocrine granules,
+
+605
+00:26:18,140 --> 00:26:21,020
+and very high yield that shows up on exams often
+
+606
+00:26:21,020 --> 00:26:23,200
+is the fact that these tumor cells
+
+607
+00:26:23,200 --> 00:26:25,720
+will be positive for an immunohistochemical stain
+
+608
+00:26:25,720 --> 00:26:27,200
+called chromogranin.
+
+609
+00:26:27,460 --> 00:26:28,400
+This is very high yield.
+
+610
+00:26:28,460 --> 00:26:29,640
+It likes to show up on exams.
+
+611
+00:26:29,640 --> 00:26:31,580
+So neuroendocrine tumors,
+
+612
+00:26:31,880 --> 00:26:33,520
+in particular the carcinoid tumor,
+
+613
+00:26:33,620 --> 00:26:34,760
+but this would also be true
+
+614
+00:26:34,760 --> 00:26:36,560
+of a small cell carcinoma of the lung,
+
+615
+00:26:36,720 --> 00:26:38,760
+would be positive for chromogranin.
+
+616
+00:26:39,440 --> 00:26:41,380
+Now, carcinoid tumors can occur
+
+617
+00:26:41,380 --> 00:26:42,400
+anywhere along the gut,
+
+618
+00:26:42,520 --> 00:26:44,380
+but the small bowel is the most common site.
+
+619
+00:26:44,600 --> 00:26:45,720
+The way I remember that
+
+620
+00:26:45,720 --> 00:26:48,320
+is to remind myself that every site has cancer.
+
+621
+00:26:48,440 --> 00:26:49,880
+For example, in esophagus,
+
+622
+00:26:49,960 --> 00:26:51,360
+we talked about esophageal cancer.
+
+623
+00:26:51,600 --> 00:26:53,400
+In the stomach, we talked about stomach cancer.
+
+624
+00:26:53,680 --> 00:26:54,400
+When we do the colon,
+
+625
+00:26:54,500 --> 00:26:55,620
+we'll talk about colon cancer,
+
+626
+00:26:55,800 --> 00:26:59,380
+but there really is no common small bowel cancer.
+
+627
+00:26:59,380 --> 00:27:01,400
+Remember that I told you earlier in our discussion
+
+628
+00:27:01,400 --> 00:27:03,900
+that small bowel carcinoma is very rare.
+
+629
+00:27:04,460 --> 00:27:05,740
+And so the way I remember this
+
+630
+00:27:05,740 --> 00:27:07,540
+is that we've got to give the small bowel something,
+
+631
+00:27:07,760 --> 00:27:09,300
+and so we'll give it the carcinoid tumor.
+
+632
+00:27:09,640 --> 00:27:11,220
+So it's sort of just, I don't know,
+
+633
+00:27:11,240 --> 00:27:12,740
+a funny way to remember something
+
+634
+00:27:12,740 --> 00:27:13,980
+that you do need to know.
+
+635
+00:27:14,300 --> 00:27:15,340
+Now, these normally grow
+
+636
+00:27:15,340 --> 00:27:17,540
+as submucosal polyp-like nodules,
+
+637
+00:27:17,620 --> 00:27:18,600
+and this is what it looks like.
+
+638
+00:27:18,620 --> 00:27:21,100
+You get these little raised protrusions
+
+639
+00:27:21,100 --> 00:27:22,380
+that are actually submucosal,
+
+640
+00:27:23,240 --> 00:27:25,520
+but are creating these little polyps.
+
+641
+00:27:26,440 --> 00:27:28,220
+Now, they often secrete serotonin,
+
+642
+00:27:28,260 --> 00:27:29,240
+and this is very important.
+
+643
+00:27:29,620 --> 00:27:31,000
+So when you have a carcinoid tumor,
+
+644
+00:27:31,100 --> 00:27:32,160
+what's going to happen is,
+
+645
+00:27:32,200 --> 00:27:33,480
+let's pretend that this is the tumor,
+
+646
+00:27:33,760 --> 00:27:36,180
+the tumor is going to dump into the portal vein,
+
+647
+00:27:36,560 --> 00:27:38,200
+and when it dumps into the portal vein,
+
+648
+00:27:38,280 --> 00:27:39,760
+that is going to feed to the liver.
+
+649
+00:27:40,220 --> 00:27:41,640
+And so when it feeds to the liver,
+
+650
+00:27:41,640 --> 00:27:44,940
+then the liver is going to process that serotonin, right?
+
+651
+00:27:45,020 --> 00:27:46,320
+Because, let's start over,
+
+652
+00:27:46,420 --> 00:27:47,840
+the tumor secretes serotonin,
+
+653
+00:27:47,940 --> 00:27:49,180
+dumps it into the portal vein,
+
+654
+00:27:49,240 --> 00:27:51,260
+the portal vein will then send it to the liver,
+
+655
+00:27:51,260 --> 00:27:52,640
+in the liver it will be processed
+
+656
+00:27:52,640 --> 00:27:56,620
+by an enzyme called monoamine oxidase, MAO.
+
+657
+00:27:57,060 --> 00:27:59,060
+Monoamine oxidase will break down the serotonin
+
+658
+00:27:59,060 --> 00:28:02,520
+into 5-HIAA, which is a metabolite of serotonin,
+
+659
+00:28:02,640 --> 00:28:04,940
+and that will then be excreted in the urine.
+
+660
+00:28:05,360 --> 00:28:06,360
+Now, this is very important
+
+661
+00:28:06,360 --> 00:28:09,660
+because when these tumors secrete serotonin,
+
+662
+00:28:09,940 --> 00:28:11,860
+the only thing you're going to have at this point
+
+663
+00:28:11,860 --> 00:28:14,100
+is an increase in 5-HIAA.
+
+664
+00:28:14,440 --> 00:28:16,720
+There will not be carcinoid syndrome.
+
+665
+00:28:17,180 --> 00:28:19,960
+Carcinoid syndrome requires that the serotonin
+
+666
+00:28:19,960 --> 00:28:21,600
+go into the systemic circuit.
+
+667
+00:28:21,980 --> 00:28:23,200
+However, in this particular case,
+
+668
+00:28:23,320 --> 00:28:26,580
+all of the serotonin has been destroyed by the liver.
+
+669
+00:28:26,940 --> 00:28:29,180
+Now, let's pretend that this carcinoid tumor
+
+670
+00:28:29,180 --> 00:28:32,740
+metastasizes so that now the carcinoid tumor itself
+
+671
+00:28:32,740 --> 00:28:33,820
+spreads to the liver.
+
+672
+00:28:33,960 --> 00:28:35,080
+So here's the carcinoid tumor.
+
+673
+00:28:35,200 --> 00:28:37,040
+It's now metastatic into the liver.
+
+674
+00:28:37,560 --> 00:28:39,300
+Well, once it's metastatic into the liver,
+
+675
+00:28:39,600 --> 00:28:42,620
+now the carcinoid tumor can dump its serotonin
+
+676
+00:28:42,620 --> 00:28:44,300
+into the hepatic vein.
+
+677
+00:28:44,300 --> 00:28:47,120
+And when it dumps the serotonin into the hepatic vein,
+
+678
+00:28:47,200 --> 00:28:48,960
+it's important to note that the hepatic vein
+
+679
+00:28:48,960 --> 00:28:51,620
+has tiny connections with the systemic circuit
+
+680
+00:28:51,620 --> 00:28:55,100
+so that now this serotonin can actually get
+
+681
+00:28:55,100 --> 00:28:57,700
+into the systemic circuit and hit places
+
+682
+00:28:57,700 --> 00:28:59,620
+such as the lung and the skin
+
+683
+00:28:59,620 --> 00:29:03,100
+and create the classic picture of carcinoid syndrome,
+
+684
+00:29:03,300 --> 00:29:05,680
+which again is defined as bronchospasm,
+
+685
+00:29:06,080 --> 00:29:08,120
+diarrhea, and flushing of the skin.
+
+686
+00:29:08,980 --> 00:29:11,420
+All right, so it's important to note a general principle
+
+687
+00:29:11,420 --> 00:29:14,120
+that only when you have metastasis to the liver
+
+688
+00:29:14,120 --> 00:29:17,560
+will you actually get the carcinoid syndrome.
+
+689
+00:29:17,960 --> 00:29:19,580
+I can't emphasize that enough.
+
+690
+00:29:19,900 --> 00:29:22,580
+Now at the same time, because you've got metastasis to the liver
+
+691
+00:29:22,580 --> 00:29:24,180
+and you're dumping it to the hepatic vein,
+
+692
+00:29:24,460 --> 00:29:27,200
+the hepatic vein will eventually feed into the right heart
+
+693
+00:29:27,200 --> 00:29:28,360
+via the vena cava.
+
+694
+00:29:28,700 --> 00:29:31,720
+And when you get serotonin hitting the right heart,
+
+695
+00:29:31,960 --> 00:29:34,240
+that's going to create fibrosis of the heart valves,
+
+696
+00:29:34,300 --> 00:29:36,240
+and that's called carcinoid heart disease.
+
+697
+00:29:36,800 --> 00:29:39,380
+So again, I'd like to highlight one central principle,
+
+698
+00:29:39,380 --> 00:29:41,660
+and that is you don't get carcinoid syndrome
+
+699
+00:29:41,660 --> 00:29:43,680
+and you don't get carcinoid heart disease
+
+700
+00:29:43,680 --> 00:29:47,200
+until the tumor actually metastasizes to the liver.
+
+701
+00:29:47,900 --> 00:29:49,920
+Carcinoid syndrome, of course, is bronchospasm,
+
+702
+00:29:50,060 --> 00:29:51,760
+diarrhea, and flushing of the skin.
+
+703
+00:29:52,140 --> 00:29:53,400
+These symptoms can be triggered
+
+704
+00:29:53,400 --> 00:29:56,000
+by drinking of alcohol or emotional stress.
+
+705
+00:29:56,260 --> 00:29:58,000
+Both alcohol and emotional stress
+
+706
+00:29:58,000 --> 00:30:00,560
+can actually cause release of the hormone,
+
+707
+00:30:00,920 --> 00:30:04,360
+of the serotonin from the tumor.
+
+708
+00:30:05,000 --> 00:30:07,500
+At the same time, the patients can get carcinoid heart disease
+
+709
+00:30:07,500 --> 00:30:11,000
+when there is metastasis of the carcinoid tumor
+
+710
+00:30:11,000 --> 00:30:12,280
+to the liver,
+
+711
+00:30:12,620 --> 00:30:15,500
+and that's going to result in a right-sided valvular fibrosis.
+
+712
+00:30:15,780 --> 00:30:17,800
+It's important to note that the notion here
+
+713
+00:30:17,800 --> 00:30:19,560
+is that you're going to get deposition of collagen
+
+714
+00:30:19,560 --> 00:30:20,600
+within the valves.
+
+715
+00:30:20,900 --> 00:30:22,800
+That deposition of collagen within the valves
+
+716
+00:30:22,800 --> 00:30:24,540
+can lead to tricuspid regurgitation
+
+717
+00:30:24,540 --> 00:30:26,760
+and pulmonary valve stenosis.
+
+718
+00:30:27,200 --> 00:30:28,800
+So those are the two key complications.
+
+719
+00:30:29,280 --> 00:30:32,000
+Now let me just make one point here very clear
+
+720
+00:30:32,000 --> 00:30:34,500
+because it's also high yield for board examinations,
+
+721
+00:30:34,860 --> 00:30:37,240
+and that is you don't get left-sided valvular disease.
+
+722
+00:30:37,780 --> 00:30:39,780
+And the reason you don't get left-sided valvular disease
+
+723
+00:30:39,780 --> 00:30:42,320
+is because when the serotonin goes into the right heart,
+
+724
+00:30:42,620 --> 00:30:44,640
+it'll then get pumped into the lung,
+
+725
+00:30:44,900 --> 00:30:47,580
+and the lung also has monoamine oxidase.
+
+726
+00:30:47,660 --> 00:30:49,040
+Very important, very high yield.
+
+727
+00:30:49,340 --> 00:30:51,660
+The lung also has monoamine oxidase,
+
+728
+00:30:52,000 --> 00:30:55,000
+and therefore patients won't get left-sided valvular fibrosis
+
+729
+00:30:55,000 --> 00:30:57,540
+because the serotonin will have been converted
+
+730
+00:30:57,540 --> 00:31:02,460
+to 5-HIAA before it gets to the left side of the heart.
+
+731
+00:31:02,840 --> 00:31:05,740
+All right, so you won't get left-sided valvular fibrosis.
+
+732
+00:31:05,920 --> 00:31:08,380
+And that closes off our discussion on small bowel.
+
+733
+00:31:08,380 --> 00:31:10,360
+Have a great day of life.
+
+734
+00:31:10,600 --> 00:31:11,160
+Let's wait for years todop.
+
+735
+00:31:11,160 --> 00:31:12,220
+Let's wait for years not to kill.
+
+736
+00:31:12,500 --> 00:31:14,200
+Let's wait for years not to kill.
+
+737
+00:31:14,200 --> 00:31:15,120
+Let's wait for years not to kill.
+
+738
+00:31:15,120 --> 00:31:16,700
+All right, so Paul is not my nephew.
+
+739
+00:31:16,720 --> 00:31:17,180
+Let's wait for years not to kill.
+
+740
+00:31:17,220 --> 00:31:19,280
+Let's wait for years not to kill.
+
+741
+00:31:19,280 --> 00:31:21,100
+Let's wait for years not to kill.
+
+742
+00:31:21,100 --> 00:31:23,240
+Please keep seeing uzk と that samequeаци dessus.
+

@@ -1,0 +1,10340 @@
+1
+00:00:00,000 --> 00:00:01,040
+Okay, welcome back.
+
+2
+00:00:01,340 --> 00:00:02,940
+The next section is going to deal with
+
+3
+00:00:02,940 --> 00:00:04,660
+chronic obstructive pulmonary disease,
+
+4
+00:00:05,080 --> 00:00:07,580
+and the idea here is that these are chronic diseases
+
+5
+00:00:07,580 --> 00:00:09,880
+that obviously affect the lung,
+
+6
+00:00:10,240 --> 00:00:13,880
+and that the key underlying premise in all of these diseases,
+
+7
+00:00:14,020 --> 00:00:15,360
+and there's going to be four total,
+
+8
+00:00:15,780 --> 00:00:17,080
+is that we have obstruction.
+
+9
+00:00:17,620 --> 00:00:18,780
+Now, what do we mean by obstruction?
+
+10
+00:00:19,040 --> 00:00:22,620
+It is an obstruction to getting air out of the lung.
+
+11
+00:00:23,000 --> 00:00:25,960
+That's the notion that we have to carry in the back of our mind
+
+12
+00:00:25,960 --> 00:00:27,880
+when we're thinking about these diseases.
+
+13
+00:00:27,880 --> 00:00:30,920
+In each of these disorders, there will be an obstruction
+
+14
+00:00:30,920 --> 00:00:33,060
+to getting air out of the lung.
+
+15
+00:00:33,860 --> 00:00:36,900
+Airway obstruction is the hallmark of these diseases,
+
+16
+00:00:37,080 --> 00:00:38,620
+as I've already highlighted to you,
+
+17
+00:00:39,040 --> 00:00:40,560
+and when you think about airway obstruction,
+
+18
+00:00:40,900 --> 00:00:43,900
+you should recognize that this airway obstruction in the patient
+
+19
+00:00:43,900 --> 00:00:47,700
+is clinically going to manifest with changes in spirometry.
+
+20
+00:00:48,260 --> 00:00:51,120
+Now, spirometry is the way by which we measure lung volumes,
+
+21
+00:00:51,320 --> 00:00:53,180
+and if you go back to normal physiology,
+
+22
+00:00:53,540 --> 00:00:56,780
+you'll recall that there are a series of measurements
+
+23
+00:00:56,780 --> 00:00:58,780
+that we can obtain from spirometry.
+
+24
+00:00:59,340 --> 00:01:01,060
+It's not the purpose of this discussion
+
+25
+00:01:01,060 --> 00:01:03,180
+to go into a detailed talk about spirometry,
+
+26
+00:01:03,460 --> 00:01:04,640
+but what I would like to highlight
+
+27
+00:01:04,640 --> 00:01:06,640
+are the key take-homes that you have to know,
+
+28
+00:01:06,980 --> 00:01:08,880
+especially in the context of disease,
+
+29
+00:01:09,380 --> 00:01:12,860
+from your understanding of spirometry.
+
+30
+00:01:13,820 --> 00:01:15,380
+So let's begin with one idea here,
+
+31
+00:01:15,680 --> 00:01:17,780
+and that is that if we've got airway obstruction,
+
+32
+00:01:18,160 --> 00:01:20,020
+and the problem is getting air out of the lung,
+
+33
+00:01:20,240 --> 00:01:23,080
+then the forced vital capacity will go down.
+
+34
+00:01:23,500 --> 00:01:24,880
+What's the forced vital capacity?
+
+35
+00:01:24,880 --> 00:01:27,420
+This is the amount of air that you can blow out
+
+36
+00:01:27,420 --> 00:01:29,480
+when you breathe all the way in
+
+37
+00:01:29,480 --> 00:01:31,340
+and then blow out as much as you can.
+
+38
+00:01:31,560 --> 00:01:33,700
+So it's a maximal expiration.
+
+39
+00:01:34,440 --> 00:01:36,760
+Otherwise stated, if you want to think about it another way,
+
+40
+00:01:36,840 --> 00:01:39,180
+if I asked you to blow out candles on a birthday cake,
+
+41
+00:01:39,480 --> 00:01:40,660
+you would use the FVC.
+
+42
+00:01:41,040 --> 00:01:42,800
+You would breathe in as deeply as possible
+
+43
+00:01:42,800 --> 00:01:44,680
+and then blow out as much as you could.
+
+44
+00:01:45,020 --> 00:01:46,600
+So in this particular set of diseases,
+
+45
+00:01:46,780 --> 00:01:47,800
+because there's obstruction,
+
+46
+00:01:48,040 --> 00:01:48,880
+the forced vital capacity,
+
+47
+00:01:49,620 --> 00:01:51,600
+the amount of air that you could blow out maximally,
+
+48
+00:01:51,820 --> 00:01:52,640
+is going to go down.
+
+49
+00:01:52,640 --> 00:01:55,880
+In addition, what's also going to go down is the FEV1.
+
+50
+00:01:56,320 --> 00:01:58,820
+The FEV1 is the forced expiratory volume,
+
+51
+00:01:59,060 --> 00:02:00,880
+and that's the amount of volume that you can get out
+
+52
+00:02:00,880 --> 00:02:03,920
+in a one-second period, hence the designation 1.
+
+53
+00:02:04,500 --> 00:02:06,460
+And so this represents the amount of air
+
+54
+00:02:06,460 --> 00:02:08,860
+that comes out of the lung with a forced expiration
+
+55
+00:02:08,860 --> 00:02:11,980
+in the very first second of that expiration.
+
+56
+00:02:13,020 --> 00:02:14,160
+This will also go down,
+
+57
+00:02:14,400 --> 00:02:17,180
+but it will go down more than the forced vital capacity.
+
+58
+00:02:17,540 --> 00:02:19,360
+And that's actually very important to understand,
+
+59
+00:02:19,360 --> 00:02:21,880
+because that translates in a key finding
+
+60
+00:02:21,880 --> 00:02:23,500
+that almost defines the disease,
+
+61
+00:02:23,640 --> 00:02:24,900
+which is that there is a decrease
+
+62
+00:02:24,900 --> 00:02:27,620
+in the FEV1 to FVC ratio.
+
+63
+00:02:28,060 --> 00:02:29,720
+It's probably easier to understand this
+
+64
+00:02:29,720 --> 00:02:30,580
+with a couple numbers,
+
+65
+00:02:30,700 --> 00:02:32,180
+so let's just plug in some numbers
+
+66
+00:02:32,180 --> 00:02:33,880
+to understand what I'm talking about.
+
+67
+00:02:34,420 --> 00:02:37,300
+Let me remind you that your normal forced vital capacity,
+
+68
+00:02:37,500 --> 00:02:39,540
+the normal amount of air that you could blow out
+
+69
+00:02:39,540 --> 00:02:40,880
+in a maximal expiration,
+
+70
+00:02:41,320 --> 00:02:42,560
+is about 5 liters.
+
+71
+00:02:43,280 --> 00:02:44,060
+That's the normal.
+
+72
+00:02:44,060 --> 00:02:48,440
+Now, of that 5 liters, about 4 liters
+
+73
+00:02:48,440 --> 00:02:52,280
+is what is removed within the first one second.
+
+74
+00:02:52,880 --> 00:02:56,160
+So that ratio, 4 over 5, is about 80%,
+
+75
+00:02:56,160 --> 00:02:57,660
+and that's the normal.
+
+76
+00:02:58,300 --> 00:03:00,560
+Now, let's say that a patient has COPD.
+
+77
+00:03:01,080 --> 00:03:03,560
+Well, obviously, this number is gonna go down,
+
+78
+00:03:04,000 --> 00:03:06,000
+and this number is really gonna go down,
+
+79
+00:03:06,280 --> 00:03:07,800
+and that's gonna change the percentage
+
+80
+00:03:07,800 --> 00:03:10,300
+so that the ratio decreases, for example.
+
+81
+00:03:10,740 --> 00:03:11,880
+In a patient with COPD,
+
+82
+00:03:11,880 --> 00:03:14,620
+we might expect that the forced vital capacity
+
+83
+00:03:14,620 --> 00:03:16,680
+goes down by one liter to four liters,
+
+84
+00:03:17,160 --> 00:03:19,400
+and we would expect that the FEV1
+
+85
+00:03:19,400 --> 00:03:21,760
+would significantly decrease from four liters
+
+86
+00:03:21,760 --> 00:03:23,040
+to maybe two liters,
+
+87
+00:03:23,520 --> 00:03:25,740
+and so now that ratio is 50%,
+
+88
+00:03:25,740 --> 00:03:27,820
+and so these patients have had a decrease
+
+89
+00:03:27,820 --> 00:03:30,460
+in their FEV1 to FVC ratio,
+
+90
+00:03:31,040 --> 00:03:32,600
+and that's a very important
+
+91
+00:03:32,600 --> 00:03:36,260
+high-yield physiology association for COPD.
+
+92
+00:03:36,740 --> 00:03:38,000
+It's very important to be aware of.
+
+93
+00:03:38,900 --> 00:03:40,400
+An additional finding in COPD
+
+94
+00:03:40,400 --> 00:03:42,540
+will be that the total lung capacity
+
+95
+00:03:42,540 --> 00:03:43,380
+will be increased.
+
+96
+00:03:43,780 --> 00:03:44,760
+The total lung capacity
+
+97
+00:03:44,760 --> 00:03:46,300
+is the total amount of air
+
+98
+00:03:46,300 --> 00:03:48,500
+that you can have within the lung
+
+99
+00:03:48,500 --> 00:03:51,160
+at the maximally,
+
+100
+00:03:51,580 --> 00:03:53,060
+and so that total lung capacity
+
+101
+00:03:53,060 --> 00:03:54,200
+is going to be increased
+
+102
+00:03:54,200 --> 00:03:55,720
+because there's gonna be air trapping.
+
+103
+00:03:55,840 --> 00:03:57,220
+If you can't get air out of the lung,
+
+104
+00:03:57,400 --> 00:03:58,620
+some air will be trapped in the lung,
+
+105
+00:03:58,940 --> 00:04:00,160
+and so the total amount of air
+
+106
+00:04:00,160 --> 00:04:02,040
+present within the lung maximally
+
+107
+00:04:02,040 --> 00:04:03,180
+will actually increase,
+
+108
+00:04:03,280 --> 00:04:04,660
+and that's the total lung capacity.
+
+109
+00:04:05,260 --> 00:04:06,120
+Generally speaking,
+
+110
+00:04:06,300 --> 00:04:06,980
+if you wanna know,
+
+111
+00:04:07,460 --> 00:04:08,960
+if you wanna think about this
+
+112
+00:04:08,960 --> 00:04:09,720
+with some numbers,
+
+113
+00:04:10,080 --> 00:04:11,480
+the normal total lung capacity
+
+114
+00:04:11,480 --> 00:04:12,560
+is about seven liters,
+
+115
+00:04:13,080 --> 00:04:14,540
+and in COPD,
+
+116
+00:04:14,680 --> 00:04:16,200
+it goes up to about eight liters.
+
+117
+00:04:16,600 --> 00:04:18,320
+So here's some very high-yield physiology
+
+118
+00:04:18,320 --> 00:04:20,460
+tie-in for this particular discussion.
+
+119
+00:04:21,140 --> 00:04:22,920
+Now, the very first of these diseases
+
+120
+00:04:22,920 --> 00:04:24,460
+is called chronic bronchitis.
+
+121
+00:04:25,520 --> 00:04:26,980
+Chronic bronchitis is interesting
+
+122
+00:04:26,980 --> 00:04:28,500
+because it's defined clinically.
+
+123
+00:04:29,100 --> 00:04:30,180
+Basically, the notion is
+
+124
+00:04:30,180 --> 00:04:31,880
+that the patient has a productive cough,
+
+125
+00:04:32,220 --> 00:04:33,320
+and that productive cough
+
+126
+00:04:33,320 --> 00:04:34,780
+lasts at least three months
+
+127
+00:04:34,780 --> 00:04:36,720
+over a minimum of two years.
+
+128
+00:04:36,720 --> 00:04:38,740
+This cough is so productive
+
+129
+00:04:38,740 --> 00:04:40,120
+that when the patient comes to you,
+
+130
+00:04:40,380 --> 00:04:40,980
+they will tell you
+
+131
+00:04:40,980 --> 00:04:43,100
+that they are coughing up cups of mucus,
+
+132
+00:04:43,460 --> 00:04:44,500
+tons and tons of mucus.
+
+133
+00:04:44,580 --> 00:04:45,600
+Some patients will come to you
+
+134
+00:04:45,600 --> 00:04:47,700
+saying they cough up buckets of mucus.
+
+135
+00:04:48,160 --> 00:04:49,240
+That's how much mucus
+
+136
+00:04:49,240 --> 00:04:50,500
+is produced in these patients.
+
+137
+00:04:51,020 --> 00:04:52,320
+Now, the next question would be why.
+
+138
+00:04:52,440 --> 00:04:53,500
+What drives this disease?
+
+139
+00:04:53,940 --> 00:04:56,080
+Basically, it's a smoking-related disease.
+
+140
+00:04:56,540 --> 00:04:57,420
+To understand this,
+
+141
+00:04:57,460 --> 00:04:58,440
+you actually have to understand
+
+142
+00:04:58,440 --> 00:04:59,780
+a little bit of normal histology,
+
+143
+00:04:59,900 --> 00:05:01,480
+so let me take you back one step.
+
+144
+00:05:01,900 --> 00:05:04,380
+Here is the lumen of the bronchus,
+
+145
+00:05:04,380 --> 00:05:05,660
+and this is chronic bronchitis,
+
+146
+00:05:05,760 --> 00:05:07,380
+so it would involve large airways
+
+147
+00:05:07,380 --> 00:05:08,080
+like the bronchus,
+
+148
+00:05:08,360 --> 00:05:09,860
+so this is the lumen of the bronchus,
+
+149
+00:05:10,260 --> 00:05:11,360
+and then you're well aware
+
+150
+00:05:11,360 --> 00:05:14,700
+that the epithelium that lines this region
+
+151
+00:05:14,700 --> 00:05:16,480
+is called respiratory epithelium,
+
+152
+00:05:16,900 --> 00:05:18,680
+and remember that respiratory epithelium
+
+153
+00:05:18,680 --> 00:05:19,760
+is pseudostratified,
+
+154
+00:05:19,880 --> 00:05:21,460
+which means that some nuclei are high
+
+155
+00:05:21,460 --> 00:05:22,760
+and some nuclei are low,
+
+156
+00:05:23,560 --> 00:05:24,920
+and it's called pseudostratified
+
+157
+00:05:24,920 --> 00:05:25,940
+because all the cells
+
+158
+00:05:25,940 --> 00:05:27,560
+really do touch the basement membrane.
+
+159
+00:05:28,100 --> 00:05:29,700
+So that's pseudostratified columnar,
+
+160
+00:05:29,800 --> 00:05:30,580
+the cells are tall,
+
+161
+00:05:30,980 --> 00:05:32,580
+ciliated, the cells have cilia,
+
+162
+00:05:32,580 --> 00:05:34,040
+epithelium,
+
+163
+00:05:34,420 --> 00:05:34,760
+and again,
+
+164
+00:05:34,880 --> 00:05:35,560
+all of these cells
+
+165
+00:05:35,560 --> 00:05:36,640
+sit on a basement membrane,
+
+166
+00:05:37,560 --> 00:05:38,720
+and that's the epithelium.
+
+167
+00:05:38,840 --> 00:05:39,860
+Underneath that epithelium
+
+168
+00:05:39,860 --> 00:05:40,940
+is a lamina propria,
+
+169
+00:05:41,340 --> 00:05:42,040
+and recall that
+
+170
+00:05:42,040 --> 00:05:42,900
+in the lamina propria,
+
+171
+00:05:43,020 --> 00:05:44,660
+you have very large caliber
+
+172
+00:05:44,660 --> 00:05:45,820
+blood vessels,
+
+173
+00:05:46,000 --> 00:05:46,860
+venules basically,
+
+174
+00:05:47,260 --> 00:05:48,020
+and these venules,
+
+175
+00:05:48,180 --> 00:05:49,260
+they bring warm blood
+
+176
+00:05:49,260 --> 00:05:50,100
+into the region,
+
+177
+00:05:50,320 --> 00:05:51,520
+which then allows the air
+
+178
+00:05:51,520 --> 00:05:52,180
+to be warmed
+
+179
+00:05:52,180 --> 00:05:53,160
+before it goes down
+
+180
+00:05:53,160 --> 00:05:54,220
+to the bottom of the lung
+
+181
+00:05:54,220 --> 00:05:54,920
+for exchange,
+
+182
+00:05:55,460 --> 00:05:56,740
+and so that's the lamina propria,
+
+183
+00:05:56,820 --> 00:05:57,380
+and then underneath
+
+184
+00:05:57,380 --> 00:05:58,200
+the lamina propria,
+
+185
+00:05:58,300 --> 00:05:58,980
+you have something called
+
+186
+00:05:58,980 --> 00:05:59,820
+the submucosa,
+
+187
+00:06:00,260 --> 00:06:00,860
+and remember that
+
+188
+00:06:00,860 --> 00:06:02,440
+the submucosa contains glands
+
+189
+00:06:02,440 --> 00:06:03,720
+and there's two types of glands.
+
+190
+00:06:04,100 --> 00:06:04,980
+One gland is called
+
+191
+00:06:04,980 --> 00:06:05,800
+the serous gland
+
+192
+00:06:05,800 --> 00:06:06,800
+and that serous gland
+
+193
+00:06:06,800 --> 00:06:08,080
+produces watery fluid
+
+194
+00:06:08,080 --> 00:06:10,000
+that helps to humidify the air.
+
+195
+00:06:10,360 --> 00:06:11,080
+The watery fluid
+
+196
+00:06:11,080 --> 00:06:11,840
+goes up here
+
+197
+00:06:11,840 --> 00:06:13,260
+and then humidifies the air
+
+198
+00:06:13,260 --> 00:06:14,140
+before it goes down
+
+199
+00:06:14,140 --> 00:06:14,660
+into the lung,
+
+200
+00:06:15,040 --> 00:06:15,460
+and of course,
+
+201
+00:06:15,560 --> 00:06:16,880
+the purpose of humidifying the air
+
+202
+00:06:16,880 --> 00:06:17,600
+is that you don't want
+
+203
+00:06:17,600 --> 00:06:18,340
+to turn the lung
+
+204
+00:06:18,340 --> 00:06:19,420
+into a dry sponge.
+
+205
+00:06:19,980 --> 00:06:20,880
+At the same time,
+
+206
+00:06:20,960 --> 00:06:22,000
+there are mucinous glands
+
+207
+00:06:22,000 --> 00:06:22,900
+and the mucinous glands
+
+208
+00:06:22,900 --> 00:06:24,200
+produce mucus-like fluid,
+
+209
+00:06:24,560 --> 00:06:25,320
+which then goes
+
+210
+00:06:25,320 --> 00:06:26,980
+and lines the epithelial surface,
+
+211
+00:06:27,240 --> 00:06:28,360
+and that mucusy fluid
+
+212
+00:06:28,360 --> 00:06:29,540
+acts as a filter
+
+213
+00:06:29,540 --> 00:06:30,200
+for particles
+
+214
+00:06:30,200 --> 00:06:31,340
+as you're breathing in
+
+215
+00:06:31,340 --> 00:06:32,120
+because you don't want
+
+216
+00:06:32,120 --> 00:06:33,180
+the pollution and junk
+
+217
+00:06:33,180 --> 00:06:34,160
+from the outside ear
+
+218
+00:06:34,160 --> 00:06:35,100
+to actually come down
+
+219
+00:06:35,100 --> 00:06:35,640
+into the lung.
+
+220
+00:06:36,120 --> 00:06:36,840
+So that's the purpose
+
+221
+00:06:36,840 --> 00:06:37,780
+of the mucinous glands.
+
+222
+00:06:38,440 --> 00:06:38,960
+And then, of course,
+
+223
+00:06:39,040 --> 00:06:40,060
+underneath the submucosa
+
+224
+00:06:40,060 --> 00:06:41,360
+in a large airway
+
+225
+00:06:41,360 --> 00:06:42,020
+like the bronchus
+
+226
+00:06:42,020 --> 00:06:42,720
+would be cartilage.
+
+227
+00:06:43,620 --> 00:06:44,960
+Now, let me just remind you
+
+228
+00:06:44,960 --> 00:06:46,300
+that normally,
+
+229
+00:06:46,800 --> 00:06:49,020
+the ratio of these glands here
+
+230
+00:06:49,020 --> 00:06:50,920
+to the entire thickness
+
+231
+00:06:50,920 --> 00:06:51,580
+of the wall
+
+232
+00:06:51,580 --> 00:06:53,460
+is less than 40%,
+
+233
+00:06:53,460 --> 00:06:54,980
+i.e.,
+
+234
+00:06:54,980 --> 00:06:55,520
+basically,
+
+235
+00:06:55,720 --> 00:06:56,720
+the mucinous glands
+
+236
+00:06:56,720 --> 00:06:58,840
+take up about 40%
+
+237
+00:06:58,840 --> 00:06:59,500
+or less
+
+238
+00:06:59,500 --> 00:07:00,100
+of the thickness
+
+239
+00:07:00,100 --> 00:07:00,640
+of the wall.
+
+240
+00:07:01,080 --> 00:07:01,720
+Now, let's imagine
+
+241
+00:07:01,720 --> 00:07:02,340
+that there's a patient
+
+242
+00:07:02,340 --> 00:07:03,000
+that smokes.
+
+243
+00:07:03,100 --> 00:07:03,740
+If they smoke,
+
+244
+00:07:03,820 --> 00:07:04,500
+they're going to be bringing
+
+245
+00:07:04,500 --> 00:07:06,380
+in a ton of pollutants,
+
+246
+00:07:06,460 --> 00:07:07,960
+a ton of foreign particles
+
+247
+00:07:07,960 --> 00:07:08,680
+into their lung.
+
+248
+00:07:09,140 --> 00:07:09,820
+And in response,
+
+249
+00:07:09,960 --> 00:07:10,480
+the lung is going
+
+250
+00:07:10,480 --> 00:07:11,520
+to try to respond
+
+251
+00:07:11,520 --> 00:07:12,720
+to deal with all
+
+252
+00:07:12,720 --> 00:07:14,280
+that foreign material
+
+253
+00:07:14,280 --> 00:07:15,260
+by increasing
+
+254
+00:07:15,260 --> 00:07:16,500
+the amount of mucus produced.
+
+255
+00:07:16,880 --> 00:07:17,400
+So if you need
+
+256
+00:07:17,400 --> 00:07:17,840
+to increase
+
+257
+00:07:17,840 --> 00:07:18,820
+the amount of mucus produced,
+
+258
+00:07:18,920 --> 00:07:19,560
+you're going to undergo
+
+259
+00:07:19,560 --> 00:07:20,440
+hyperplasia
+
+260
+00:07:20,440 --> 00:07:22,000
+and hypertrophy
+
+261
+00:07:22,000 --> 00:07:23,420
+of these mucinous glands.
+
+262
+00:07:24,020 --> 00:07:24,960
+So as we get
+
+263
+00:07:24,960 --> 00:07:26,420
+excess mucinous glands
+
+264
+00:07:26,420 --> 00:07:27,920
+because of the smoking,
+
+265
+00:07:27,920 --> 00:07:29,720
+then these excess
+
+266
+00:07:29,720 --> 00:07:30,440
+mucinous glands
+
+267
+00:07:30,440 --> 00:07:31,900
+are going to take over,
+
+268
+00:07:32,700 --> 00:07:33,540
+why don't we say this,
+
+269
+00:07:33,600 --> 00:07:34,580
+the excess mucinous glands
+
+270
+00:07:34,580 --> 00:07:35,320
+are going to increase
+
+271
+00:07:35,320 --> 00:07:35,880
+in thickness
+
+272
+00:07:35,880 --> 00:07:37,200
+relative to the overall
+
+273
+00:07:37,200 --> 00:07:38,140
+thickness of the wall.
+
+274
+00:07:38,620 --> 00:07:39,640
+And so the mucinous glands,
+
+275
+00:07:39,800 --> 00:07:40,260
+their thickness
+
+276
+00:07:40,260 --> 00:07:41,120
+will become greater
+
+277
+00:07:41,120 --> 00:07:43,060
+than 50%
+
+278
+00:07:43,060 --> 00:07:44,500
+of the overall wall.
+
+279
+00:07:44,880 --> 00:07:45,580
+And that's important
+
+280
+00:07:45,580 --> 00:07:46,600
+because that's called
+
+281
+00:07:46,600 --> 00:07:48,800
+the read index.
+
+282
+00:07:49,380 --> 00:07:50,560
+The read index measures
+
+283
+00:07:50,560 --> 00:07:51,060
+the thickness
+
+284
+00:07:51,060 --> 00:07:52,000
+of the mucinous glands
+
+285
+00:07:52,000 --> 00:07:53,680
+relative to the entire
+
+286
+00:07:53,680 --> 00:07:54,580
+thickness of the wall.
+
+287
+00:07:54,960 --> 00:07:56,340
+And in chronic bronchitis,
+
+288
+00:07:56,460 --> 00:07:57,440
+it becomes greater
+
+289
+00:07:57,440 --> 00:07:58,360
+than 50%.
+
+290
+00:07:58,360 --> 00:07:59,800
+Now what's also important
+
+291
+00:07:59,800 --> 00:08:00,340
+to note is that
+
+292
+00:08:00,340 --> 00:08:01,020
+if we've got all
+
+293
+00:08:01,020 --> 00:08:01,880
+of these mucinous glands
+
+294
+00:08:01,880 --> 00:08:02,560
+and they're producing
+
+295
+00:08:02,560 --> 00:08:03,280
+a ton of mucus,
+
+296
+00:08:03,440 --> 00:08:04,220
+guess where all that mucus
+
+297
+00:08:04,220 --> 00:08:04,840
+is going to go?
+
+298
+00:08:04,940 --> 00:08:05,620
+Into the lumen.
+
+299
+00:08:06,000 --> 00:08:06,920
+And guess how the patient
+
+300
+00:08:06,920 --> 00:08:07,700
+is going to get rid of it?
+
+301
+00:08:07,900 --> 00:08:08,560
+Well some of it
+
+302
+00:08:08,560 --> 00:08:09,600
+is going to be coughed up
+
+303
+00:08:09,600 --> 00:08:10,400
+which is then going to
+
+304
+00:08:10,400 --> 00:08:11,900
+create the chronic bronchitis
+
+305
+00:08:11,900 --> 00:08:14,000
+with the productive cough
+
+306
+00:08:14,000 --> 00:08:14,880
+that lasts at least
+
+307
+00:08:14,880 --> 00:08:15,400
+three months
+
+308
+00:08:15,400 --> 00:08:16,060
+over a minimum
+
+309
+00:08:16,060 --> 00:08:17,840
+of two years.
+
+310
+00:08:18,220 --> 00:08:19,180
+And at the same time,
+
+311
+00:08:19,580 --> 00:08:20,240
+some of the mucus
+
+312
+00:08:20,240 --> 00:08:21,340
+is also going to go back
+
+313
+00:08:21,340 --> 00:08:21,820
+and it's going to
+
+314
+00:08:21,820 --> 00:08:22,660
+plug the airways.
+
+315
+00:08:22,760 --> 00:08:23,240
+And when it plugs
+
+316
+00:08:23,240 --> 00:08:23,800
+the airways,
+
+317
+00:08:23,860 --> 00:08:24,800
+there's going to be trapping
+
+318
+00:08:24,800 --> 00:08:25,660
+and there's going to be
+
+319
+00:08:25,660 --> 00:08:26,320
+an obstruction
+
+320
+00:08:26,320 --> 00:08:27,360
+to getting air
+
+321
+00:08:27,360 --> 00:08:28,040
+out of the lung.
+
+322
+00:08:28,660 --> 00:08:29,740
+With all of that background,
+
+323
+00:08:29,940 --> 00:08:30,740
+now you can understand
+
+324
+00:08:30,740 --> 00:08:31,260
+the disease.
+
+325
+00:08:32,160 --> 00:08:33,060
+So what did I say?
+
+326
+00:08:33,140 --> 00:08:34,020
+I told you that it is
+
+327
+00:08:34,020 --> 00:08:34,800
+highly associated
+
+328
+00:08:34,800 --> 00:08:35,380
+with smoking.
+
+329
+00:08:35,720 --> 00:08:36,680
+That should make sense.
+
+330
+00:08:37,100 --> 00:08:37,940
+At the same time,
+
+331
+00:08:38,000 --> 00:08:39,040
+I tell you in your text,
+
+332
+00:08:39,120 --> 00:08:39,540
+and go back
+
+333
+00:08:39,540 --> 00:08:40,420
+and read the text now,
+
+334
+00:08:40,720 --> 00:08:41,540
+there's hypertrophy
+
+335
+00:08:41,540 --> 00:08:43,120
+of the bronchial mucinous glands.
+
+336
+00:08:43,520 --> 00:08:44,820
+This increases the thickness
+
+337
+00:08:44,820 --> 00:08:46,140
+of the mucus glands
+
+338
+00:08:46,140 --> 00:08:47,680
+relative to the overall
+
+339
+00:08:47,680 --> 00:08:48,680
+bronchial wall thickness
+
+340
+00:08:48,680 --> 00:08:50,220
+and the read index
+
+341
+00:08:50,220 --> 00:08:51,840
+becomes greater than 50%.
+
+342
+00:08:51,840 --> 00:08:52,760
+Again, normally
+
+343
+00:08:52,760 --> 00:08:54,180
+it should be less than 40%.
+
+344
+00:08:54,180 --> 00:08:55,600
+Let's illustrate that again
+
+345
+00:08:55,600 --> 00:08:57,240
+with a real histologic image.
+
+346
+00:08:57,880 --> 00:08:58,920
+What I've tried to do
+
+347
+00:08:58,920 --> 00:08:59,420
+in this image
+
+348
+00:08:59,420 --> 00:09:00,340
+is I've tried to capture
+
+349
+00:09:00,340 --> 00:09:01,500
+the entire wall thickness.
+
+350
+00:09:01,720 --> 00:09:03,020
+So we start up here
+
+351
+00:09:03,020 --> 00:09:03,960
+at the very top.
+
+352
+00:09:04,300 --> 00:09:05,700
+That's the respiratory epithelium
+
+353
+00:09:05,700 --> 00:09:06,600
+in the upper right-hand
+
+354
+00:09:06,600 --> 00:09:08,060
+side of this slide.
+
+355
+00:09:08,600 --> 00:09:09,180
+This is sitting
+
+356
+00:09:09,180 --> 00:09:10,100
+on a basement membrane.
+
+357
+00:09:10,520 --> 00:09:11,520
+Underneath the basement membrane
+
+358
+00:09:11,520 --> 00:09:12,660
+is a lamina propria
+
+359
+00:09:12,660 --> 00:09:14,840
+which contains dilated venules
+
+360
+00:09:14,840 --> 00:09:16,100
+which basically bring in
+
+361
+00:09:16,100 --> 00:09:16,700
+warm blood
+
+362
+00:09:16,700 --> 00:09:18,220
+in order to humidify the air.
+
+363
+00:09:18,680 --> 00:09:19,880
+These are the mucinous glands
+
+364
+00:09:19,880 --> 00:09:20,620
+from here
+
+365
+00:09:20,620 --> 00:09:21,540
+all the way here.
+
+366
+00:09:21,540 --> 00:09:22,160
+You can see
+
+367
+00:09:22,160 --> 00:09:23,520
+all these little circular spaces
+
+368
+00:09:23,520 --> 00:09:24,320
+that are lined
+
+369
+00:09:24,320 --> 00:09:25,360
+by mucinous cells
+
+370
+00:09:25,360 --> 00:09:26,480
+and these cells
+
+371
+00:09:26,480 --> 00:09:27,620
+basically produce mucus
+
+372
+00:09:27,620 --> 00:09:28,580
+which goes up
+
+373
+00:09:28,580 --> 00:09:30,040
+and then goes out
+
+374
+00:09:30,040 --> 00:09:31,280
+into the luminal space.
+
+375
+00:09:31,800 --> 00:09:33,960
+Now, it's important to note
+
+376
+00:09:33,960 --> 00:09:35,520
+that normally
+
+377
+00:09:35,520 --> 00:09:36,100
+the thickness
+
+378
+00:09:36,100 --> 00:09:37,640
+of these mucinous glands
+
+379
+00:09:37,640 --> 00:09:38,400
+should be about
+
+380
+00:09:38,400 --> 00:09:40,440
+40% or less
+
+381
+00:09:40,440 --> 00:09:41,700
+of the entire wall thickness.
+
+382
+00:09:42,140 --> 00:09:43,340
+Here's the cartilage down here.
+
+383
+00:09:43,660 --> 00:09:44,400
+If I look at this
+
+384
+00:09:44,400 --> 00:09:45,540
+entire wall thickness
+
+385
+00:09:45,540 --> 00:09:46,080
+up here
+
+386
+00:09:46,080 --> 00:09:47,520
+and I ask you
+
+387
+00:09:47,520 --> 00:09:48,200
+a simple question.
+
+388
+00:09:48,360 --> 00:09:49,200
+What percentage
+
+389
+00:09:49,200 --> 00:09:49,880
+of that thickness
+
+390
+00:09:49,880 --> 00:09:50,580
+is taken over
+
+391
+00:09:50,580 --> 00:09:51,760
+by the mucinous glands
+
+392
+00:09:51,760 --> 00:09:52,880
+I think you would agree
+
+393
+00:09:52,880 --> 00:09:53,220
+with me
+
+394
+00:09:53,220 --> 00:09:53,940
+that it's certainly
+
+395
+00:09:53,940 --> 00:09:55,060
+greater than 50%
+
+396
+00:09:55,060 --> 00:09:56,120
+and so
+
+397
+00:09:56,120 --> 00:09:57,420
+greater than 50%
+
+398
+00:09:57,420 --> 00:09:58,760
+thickness of the mucinous glands
+
+399
+00:09:58,760 --> 00:09:59,940
+is an increase
+
+400
+00:09:59,940 --> 00:10:00,800
+in the read index
+
+401
+00:10:00,800 --> 00:10:01,820
+which is one of the
+
+402
+00:10:01,820 --> 00:10:02,720
+classic findings
+
+403
+00:10:02,720 --> 00:10:03,880
+in chronic bronchitis.
+
+404
+00:10:04,600 --> 00:10:05,380
+Now, these patients
+
+405
+00:10:05,380 --> 00:10:06,540
+with chronic bronchitis
+
+406
+00:10:06,540 --> 00:10:07,180
+are going to present
+
+407
+00:10:07,180 --> 00:10:08,220
+with a productive cough
+
+408
+00:10:08,220 --> 00:10:09,100
+but that makes sense
+
+409
+00:10:09,100 --> 00:10:09,960
+because they're making
+
+410
+00:10:09,960 --> 00:10:10,780
+a ton of mucus
+
+411
+00:10:10,780 --> 00:10:12,000
+and that ton of mucus
+
+412
+00:10:12,000 --> 00:10:12,760
+is going to come out
+
+413
+00:10:12,760 --> 00:10:13,340
+as a cough.
+
+414
+00:10:13,340 --> 00:10:14,460
+So that's the
+
+415
+00:10:14,460 --> 00:10:16,020
+classic clinical feature
+
+416
+00:10:16,020 --> 00:10:16,520
+and there's no
+
+417
+00:10:16,520 --> 00:10:17,480
+rocket science here.
+
+418
+00:10:18,080 --> 00:10:19,100
+Another important finding
+
+419
+00:10:19,100 --> 00:10:19,680
+is that they're going
+
+420
+00:10:19,680 --> 00:10:20,400
+to get an increase
+
+421
+00:10:20,400 --> 00:10:21,600
+in the PaCO2
+
+422
+00:10:21,600 --> 00:10:22,480
+and a decrease
+
+423
+00:10:22,480 --> 00:10:23,640
+in the PaO2
+
+424
+00:10:23,640 --> 00:10:24,560
+and that's going
+
+425
+00:10:24,560 --> 00:10:25,760
+to present a cyanosis
+
+426
+00:10:25,760 --> 00:10:27,420
+or blue discoloration
+
+427
+00:10:27,420 --> 00:10:28,720
+in the patient.
+
+428
+00:10:29,360 --> 00:10:31,320
+Now, in order to understand
+
+429
+00:10:31,320 --> 00:10:32,140
+that we can probably
+
+430
+00:10:32,140 --> 00:10:33,020
+go back a step
+
+431
+00:10:33,020 --> 00:10:33,740
+and remind ourselves
+
+432
+00:10:33,740 --> 00:10:34,560
+that the goal
+
+433
+00:10:34,560 --> 00:10:35,100
+of the lung
+
+434
+00:10:35,100 --> 00:10:36,140
+is to generate
+
+435
+00:10:36,140 --> 00:10:38,180
+a partial pressure
+
+436
+00:10:38,180 --> 00:10:39,040
+of oxygen
+
+437
+00:10:39,040 --> 00:10:41,620
+in this alveolar airspace
+
+438
+00:10:41,620 --> 00:10:42,640
+of P big AO2
+
+439
+00:10:42,640 --> 00:10:44,200
+and that P big AO2
+
+440
+00:10:44,200 --> 00:10:45,100
+produces a pressure
+
+441
+00:10:45,100 --> 00:10:46,360
+that squeezes oxygen
+
+442
+00:10:46,360 --> 00:10:48,100
+into the blood vessels
+
+443
+00:10:48,100 --> 00:10:48,880
+and when it squeezes
+
+444
+00:10:48,880 --> 00:10:50,100
+oxygen into the blood vessels
+
+445
+00:10:50,100 --> 00:10:52,660
+that creates a P small aO2
+
+446
+00:10:52,660 --> 00:10:53,860
+within these blood vessels.
+
+447
+00:10:54,620 --> 00:10:56,200
+So, that's the normal.
+
+448
+00:10:56,740 --> 00:10:57,380
+Now, of course,
+
+449
+00:10:57,520 --> 00:10:58,460
+you don't want to have
+
+450
+00:10:58,460 --> 00:10:59,280
+carbon dioxide
+
+451
+00:10:59,280 --> 00:11:00,840
+or as soon as you pick up
+
+452
+00:11:00,840 --> 00:11:01,640
+any carbon dioxide
+
+453
+00:11:01,640 --> 00:11:02,600
+in the alveolar space
+
+454
+00:11:02,600 --> 00:11:03,640
+you don't want to keep it there
+
+455
+00:11:03,640 --> 00:11:04,560
+you want to blow it out
+
+456
+00:11:04,560 --> 00:11:07,480
+because there is a limit
+
+457
+00:11:07,480 --> 00:11:08,400
+to the amount of pressure
+
+458
+00:11:08,400 --> 00:11:09,240
+that you can generate
+
+459
+00:11:09,240 --> 00:11:10,220
+within this region
+
+460
+00:11:10,220 --> 00:11:11,460
+and you want all
+
+461
+00:11:11,460 --> 00:11:12,060
+of that pressure
+
+462
+00:11:12,060 --> 00:11:13,760
+to be pressure of oxygen.
+
+463
+00:11:14,300 --> 00:11:15,440
+If you start putting
+
+464
+00:11:15,440 --> 00:11:16,820
+carbon dioxide here
+
+465
+00:11:16,820 --> 00:11:17,920
+so that you now generate
+
+466
+00:11:17,920 --> 00:11:19,440
+a P ACO2
+
+467
+00:11:19,440 --> 00:11:20,640
+that's significant
+
+468
+00:11:20,640 --> 00:11:22,680
+that increase in P ACO2
+
+469
+00:11:22,680 --> 00:11:23,800
+will automatically
+
+470
+00:11:23,800 --> 00:11:25,340
+decrease the P AO2
+
+471
+00:11:25,340 --> 00:11:26,460
+and that decrease
+
+472
+00:11:26,460 --> 00:11:27,300
+in P AO2
+
+473
+00:11:27,300 --> 00:11:28,180
+will mean that there's
+
+474
+00:11:28,180 --> 00:11:28,880
+less pressure
+
+475
+00:11:28,880 --> 00:11:30,440
+to squeeze the oxygen
+
+476
+00:11:30,440 --> 00:11:32,200
+across that barrier
+
+477
+00:11:32,200 --> 00:11:33,900
+into the blood
+
+478
+00:11:33,900 --> 00:11:36,040
+and so the P small aO2
+
+479
+00:11:36,040 --> 00:11:37,160
+will also decrease.
+
+480
+00:11:37,480 --> 00:11:38,900
+And so basically
+
+481
+00:11:38,900 --> 00:11:39,920
+this is the summary
+
+482
+00:11:39,920 --> 00:11:41,460
+of what's going to happen
+
+483
+00:11:41,460 --> 00:11:42,060
+lab-wise.
+
+484
+00:11:42,200 --> 00:11:43,380
+The P big ACO2
+
+485
+00:11:43,380 --> 00:11:43,960
+will go up
+
+486
+00:11:43,960 --> 00:11:45,980
+along with the P small aCO2
+
+487
+00:11:45,980 --> 00:11:49,020
+and the P big AO2
+
+488
+00:11:49,020 --> 00:11:50,280
+will go down
+
+489
+00:11:50,280 --> 00:11:52,640
+along with the P small aO2.
+
+490
+00:11:53,220 --> 00:11:54,120
+So that's the summary
+
+491
+00:11:54,120 --> 00:11:55,740
+of how the patients
+
+492
+00:11:55,740 --> 00:11:56,400
+become cyanotic
+
+493
+00:11:57,020 --> 00:11:57,920
+and why they get
+
+494
+00:11:57,920 --> 00:11:59,900
+these particular lab findings.
+
+495
+00:12:00,480 --> 00:12:01,560
+Another important thing
+
+496
+00:12:01,560 --> 00:12:02,340
+to be familiar with
+
+497
+00:12:02,340 --> 00:12:03,180
+is that there's an increased
+
+498
+00:12:03,180 --> 00:12:03,940
+risk of infection.
+
+499
+00:12:04,340 --> 00:12:04,900
+Here's a general
+
+500
+00:12:04,900 --> 00:12:05,840
+pathology principle.
+
+501
+00:12:05,960 --> 00:12:06,800
+Anytime you have a tube
+
+502
+00:12:06,800 --> 00:12:07,460
+and you block it
+
+503
+00:12:07,460 --> 00:12:08,060
+you're going to get
+
+504
+00:12:08,060 --> 00:12:09,060
+an infection behind
+
+505
+00:12:09,060 --> 00:12:09,620
+that block.
+
+506
+00:12:10,100 --> 00:12:10,740
+So for example
+
+507
+00:12:10,740 --> 00:12:11,920
+patients who have BPH
+
+508
+00:12:11,920 --> 00:12:12,960
+they're not able
+
+509
+00:12:12,960 --> 00:12:13,800
+to get urine out
+
+510
+00:12:13,800 --> 00:12:14,640
+very well
+
+511
+00:12:14,640 --> 00:12:15,960
+and so the urine piles up
+
+512
+00:12:15,960 --> 00:12:16,720
+in the bladder
+
+513
+00:12:16,720 --> 00:12:17,520
+and there's an increased
+
+514
+00:12:17,520 --> 00:12:18,620
+risk of bladder infection
+
+515
+00:12:18,620 --> 00:12:19,420
+in those patients.
+
+516
+00:12:19,920 --> 00:12:20,600
+Similarly here
+
+517
+00:12:20,600 --> 00:12:21,800
+if you've got airways
+
+518
+00:12:21,800 --> 00:12:23,080
+and you can imagine
+
+519
+00:12:23,080 --> 00:12:23,780
+that the airways
+
+520
+00:12:23,780 --> 00:12:24,520
+as they branch
+
+521
+00:12:24,520 --> 00:12:25,540
+if there's mucus plugging
+
+522
+00:12:25,540 --> 00:12:26,540
+you're going to get
+
+523
+00:12:26,540 --> 00:12:28,300
+infection behind that block
+
+524
+00:12:28,300 --> 00:12:29,560
+and so there's an increased
+
+525
+00:12:29,560 --> 00:12:30,300
+risk of infection
+
+526
+00:12:30,300 --> 00:12:31,060
+in these patients.
+
+527
+00:12:31,060 --> 00:12:34,040
+And the final thing
+
+528
+00:12:34,040 --> 00:12:34,700
+to be aware of
+
+529
+00:12:34,700 --> 00:12:35,560
+is that there's a risk
+
+530
+00:12:35,560 --> 00:12:36,440
+of core pulmonale
+
+531
+00:12:36,440 --> 00:12:37,360
+in these patients.
+
+532
+00:12:37,840 --> 00:12:38,780
+So what's core pulmonale?
+
+533
+00:12:38,880 --> 00:12:39,880
+That requires a little bit
+
+534
+00:12:39,880 --> 00:12:40,840
+of understanding
+
+535
+00:12:40,840 --> 00:12:41,540
+of physiology.
+
+536
+00:12:42,100 --> 00:12:42,700
+Now recall that
+
+537
+00:12:42,700 --> 00:12:43,320
+the blood vessels
+
+538
+00:12:43,320 --> 00:12:43,960
+in the lung
+
+539
+00:12:43,960 --> 00:12:45,260
+they are designed
+
+540
+00:12:45,260 --> 00:12:46,560
+to recognize
+
+541
+00:12:46,560 --> 00:12:47,600
+that if there is
+
+542
+00:12:47,600 --> 00:12:48,700
+a lack of oxygen
+
+543
+00:12:48,700 --> 00:12:49,940
+in a particular region
+
+544
+00:12:49,940 --> 00:12:50,480
+of the lung
+
+545
+00:12:50,480 --> 00:12:51,960
+that they should actually
+
+546
+00:12:51,960 --> 00:12:52,880
+clamp down
+
+547
+00:12:52,880 --> 00:12:53,600
+to shut down
+
+548
+00:12:53,600 --> 00:12:54,100
+that region
+
+549
+00:12:54,100 --> 00:12:54,620
+and instead
+
+550
+00:12:54,620 --> 00:12:55,320
+shunt the blood
+
+551
+00:12:55,320 --> 00:12:56,240
+in another direction.
+
+552
+00:12:56,780 --> 00:12:57,240
+Let's just take
+
+553
+00:12:57,240 --> 00:12:57,900
+a simple example.
+
+554
+00:12:58,020 --> 00:12:58,600
+Let's say a patient
+
+555
+00:12:58,600 --> 00:12:59,220
+has pneumonia.
+
+556
+00:12:59,720 --> 00:13:01,960
+It's in the left upper lobe.
+
+557
+00:13:02,260 --> 00:13:02,700
+If they've got
+
+558
+00:13:02,700 --> 00:13:03,720
+a left upper lobe pneumonia
+
+559
+00:13:03,720 --> 00:13:04,700
+there's really not much
+
+560
+00:13:04,700 --> 00:13:05,680
+oxygen getting in there
+
+561
+00:13:05,680 --> 00:13:06,600
+because the lung
+
+562
+00:13:06,600 --> 00:13:07,440
+is basically loaded
+
+563
+00:13:07,440 --> 00:13:07,980
+with pus
+
+564
+00:13:07,980 --> 00:13:09,040
+and inflammatory debris.
+
+565
+00:13:09,580 --> 00:13:10,280
+So in response
+
+566
+00:13:10,280 --> 00:13:11,760
+what the capillaries
+
+567
+00:13:11,760 --> 00:13:13,140
+of the alveolar air sacs do
+
+568
+00:13:13,140 --> 00:13:14,080
+actually this happens
+
+569
+00:13:14,080 --> 00:13:14,460
+at the level
+
+570
+00:13:14,460 --> 00:13:15,340
+of the arterioles
+
+571
+00:13:15,340 --> 00:13:16,560
+but what the arterioles
+
+572
+00:13:16,560 --> 00:13:18,060
+do is they squeeze down
+
+573
+00:13:18,060 --> 00:13:19,260
+to decrease the amount
+
+574
+00:13:19,260 --> 00:13:19,860
+of blood going
+
+575
+00:13:19,860 --> 00:13:21,080
+to the left upper lobe
+
+576
+00:13:21,080 --> 00:13:21,880
+and instead
+
+577
+00:13:21,880 --> 00:13:22,840
+blood will be shunted
+
+578
+00:13:22,840 --> 00:13:23,720
+to other parts
+
+579
+00:13:23,720 --> 00:13:24,220
+of the lung
+
+580
+00:13:24,220 --> 00:13:25,100
+with the hope
+
+581
+00:13:25,100 --> 00:13:25,820
+that that blood
+
+582
+00:13:25,820 --> 00:13:26,280
+will be able
+
+583
+00:13:26,280 --> 00:13:27,140
+to meet oxygen
+
+584
+00:13:27,140 --> 00:13:27,880
+and to be able
+
+585
+00:13:27,880 --> 00:13:28,400
+to carry out
+
+586
+00:13:28,400 --> 00:13:29,280
+the exchange
+
+587
+00:13:29,280 --> 00:13:30,560
+that is the purpose
+
+588
+00:13:30,560 --> 00:13:31,140
+of the lung.
+
+589
+00:13:31,640 --> 00:13:32,780
+So that makes sense
+
+590
+00:13:32,780 --> 00:13:33,560
+and that's very good
+
+591
+00:13:33,560 --> 00:13:34,600
+because if I've got
+
+592
+00:13:34,600 --> 00:13:35,580
+an upper lobe pneumonia
+
+593
+00:13:35,580 --> 00:13:36,460
+in the left lobe
+
+594
+00:13:36,460 --> 00:13:37,980
+I don't want my blood
+
+595
+00:13:37,980 --> 00:13:38,540
+going there
+
+596
+00:13:38,540 --> 00:13:39,580
+looking for oxygen
+
+597
+00:13:39,580 --> 00:13:40,100
+and instead
+
+598
+00:13:40,100 --> 00:13:41,020
+I'd like to send it
+
+599
+00:13:41,020 --> 00:13:41,680
+to another part
+
+600
+00:13:41,680 --> 00:13:42,040
+of the lung.
+
+601
+00:13:42,620 --> 00:13:43,140
+But imagine
+
+602
+00:13:43,140 --> 00:13:43,760
+that if you have
+
+603
+00:13:43,760 --> 00:13:44,360
+a disease
+
+604
+00:13:44,360 --> 00:13:45,720
+where you're not
+
+605
+00:13:45,720 --> 00:13:46,840
+oxygenating properly
+
+606
+00:13:46,840 --> 00:13:48,080
+and so you start
+
+607
+00:13:48,080 --> 00:13:48,820
+clamping down
+
+608
+00:13:48,820 --> 00:13:50,180
+and every area
+
+609
+00:13:50,180 --> 00:13:50,640
+of the lung
+
+610
+00:13:50,640 --> 00:13:51,380
+clamps down
+
+611
+00:13:51,380 --> 00:13:52,140
+thinking that
+
+612
+00:13:52,140 --> 00:13:53,220
+blood should go
+
+613
+00:13:53,220 --> 00:13:53,880
+to another part
+
+614
+00:13:53,880 --> 00:13:54,240
+of the lung
+
+615
+00:13:54,240 --> 00:13:54,900
+not knowing
+
+616
+00:13:54,900 --> 00:13:55,720
+that there's disease
+
+617
+00:13:55,720 --> 00:13:56,400
+in another part
+
+618
+00:13:56,400 --> 00:13:56,800
+of the lung
+
+619
+00:13:56,800 --> 00:13:58,060
+everybody's clamping
+
+620
+00:13:58,060 --> 00:13:58,480
+down
+
+621
+00:13:58,480 --> 00:13:59,760
+and trying to send
+
+622
+00:13:59,760 --> 00:14:00,440
+the blood
+
+623
+00:14:00,440 --> 00:14:01,340
+in a different direction
+
+624
+00:14:01,340 --> 00:14:02,240
+but there's disease
+
+625
+00:14:02,240 --> 00:14:03,420
+throughout the entire lung
+
+626
+00:14:03,420 --> 00:14:04,560
+so that's a problem
+
+627
+00:14:04,560 --> 00:14:05,620
+and all of that
+
+628
+00:14:05,620 --> 00:14:06,200
+clamping down
+
+629
+00:14:06,200 --> 00:14:07,000
+of the blood vessels
+
+630
+00:14:07,000 --> 00:14:08,040
+has to be dealt
+
+631
+00:14:08,040 --> 00:14:09,180
+with by the right heart
+
+632
+00:14:09,180 --> 00:14:09,760
+the right heart
+
+633
+00:14:09,760 --> 00:14:10,140
+is going to have
+
+634
+00:14:10,140 --> 00:14:10,760
+to pump against
+
+635
+00:14:10,760 --> 00:14:11,340
+all of that
+
+636
+00:14:11,340 --> 00:14:12,140
+high blood pressure
+
+637
+00:14:12,140 --> 00:14:13,100
+and so that's
+
+638
+00:14:13,100 --> 00:14:13,560
+going to result
+
+639
+00:14:13,560 --> 00:14:14,640
+in initially
+
+640
+00:14:14,640 --> 00:14:16,400
+right ventricular
+
+641
+00:14:16,400 --> 00:14:17,100
+hypertrophy
+
+642
+00:14:17,100 --> 00:14:18,800
+and eventually
+
+643
+00:14:18,800 --> 00:14:19,560
+the patients
+
+644
+00:14:19,560 --> 00:14:20,180
+will fail
+
+645
+00:14:20,180 --> 00:14:21,000
+the right heart
+
+646
+00:14:21,000 --> 00:14:21,780
+and that's called
+
+647
+00:14:21,780 --> 00:14:22,560
+core pulmonale
+
+648
+00:14:22,560 --> 00:14:23,760
+so that's a very
+
+649
+00:14:23,760 --> 00:14:24,500
+high yield
+
+650
+00:14:24,500 --> 00:14:25,060
+sort of
+
+651
+00:14:25,060 --> 00:14:26,140
+sort of
+
+652
+00:14:26,140 --> 00:14:27,060
+paradigm
+
+653
+00:14:27,060 --> 00:14:27,840
+to be familiar
+
+654
+00:14:27,840 --> 00:14:28,180
+with
+
+655
+00:14:28,180 --> 00:14:29,800
+so emphysema
+
+656
+00:14:29,800 --> 00:14:30,840
+is the next
+
+657
+00:14:30,840 --> 00:14:31,360
+of the chronic
+
+658
+00:14:31,360 --> 00:14:32,180
+obstructive pulmonary
+
+659
+00:14:32,180 --> 00:14:32,720
+diseases
+
+660
+00:14:32,720 --> 00:14:33,560
+and in this
+
+661
+00:14:33,560 --> 00:14:34,420
+particular case
+
+662
+00:14:34,420 --> 00:14:35,300
+there's destruction
+
+663
+00:14:35,300 --> 00:14:36,440
+of the alveolar
+
+664
+00:14:36,440 --> 00:14:37,440
+air sacs
+
+665
+00:14:37,440 --> 00:14:38,480
+now remember
+
+666
+00:14:38,480 --> 00:14:39,220
+from your normal
+
+667
+00:14:39,220 --> 00:14:39,780
+histology
+
+668
+00:14:39,780 --> 00:14:40,420
+that the lung
+
+669
+00:14:40,420 --> 00:14:41,000
+is sort of like
+
+670
+00:14:41,000 --> 00:14:41,700
+an upside down
+
+671
+00:14:41,700 --> 00:14:42,140
+tree
+
+672
+00:14:42,140 --> 00:14:43,220
+so that if this
+
+673
+00:14:43,220 --> 00:14:44,180
+is the main stem
+
+674
+00:14:44,180 --> 00:14:44,780
+bronchus
+
+675
+00:14:44,780 --> 00:14:45,540
+and then the bronchus
+
+676
+00:14:45,540 --> 00:14:46,160
+kind of branches
+
+677
+00:14:46,160 --> 00:14:46,960
+off into these
+
+678
+00:14:46,960 --> 00:14:47,600
+bronchioles
+
+679
+00:14:47,600 --> 00:14:48,140
+and eventually
+
+680
+00:14:48,140 --> 00:14:48,780
+the bronchioles
+
+681
+00:14:48,780 --> 00:14:49,500
+branch off into
+
+682
+00:14:49,500 --> 00:14:50,460
+terminal bronchioles
+
+683
+00:14:50,460 --> 00:14:51,280
+and eventually
+
+684
+00:14:51,280 --> 00:14:52,020
+you produce these
+
+685
+00:14:52,560 --> 00:14:53,740
+alveolar air sacs
+
+686
+00:14:53,740 --> 00:14:54,240
+which is where
+
+687
+00:14:54,240 --> 00:14:55,460
+the exchange occurs
+
+688
+00:14:55,460 --> 00:14:56,220
+now
+
+689
+00:14:56,220 --> 00:14:57,920
+I call it an upside down
+
+690
+00:14:57,920 --> 00:14:58,500
+tree because
+
+691
+00:14:58,500 --> 00:14:59,240
+this is sort of
+
+692
+00:14:59,240 --> 00:15:00,000
+the trunk up here
+
+693
+00:15:00,000 --> 00:15:00,500
+and then you've got
+
+694
+00:15:00,500 --> 00:15:01,340
+all these branches
+
+695
+00:15:01,340 --> 00:15:01,860
+and eventually
+
+696
+00:15:01,860 --> 00:15:03,020
+the leaves are like
+
+697
+00:15:03,020 --> 00:15:04,560
+the air sacs
+
+698
+00:15:04,560 --> 00:15:04,920
+they're sort of
+
+699
+00:15:04,920 --> 00:15:05,840
+tiny little leaves
+
+700
+00:15:05,840 --> 00:15:07,420
+at the very tips
+
+701
+00:15:07,420 --> 00:15:08,300
+of the branches
+
+702
+00:15:08,300 --> 00:15:10,180
+and so what happens
+
+703
+00:15:10,180 --> 00:15:10,980
+in emphysema
+
+704
+00:15:10,980 --> 00:15:11,800
+is that you get
+
+705
+00:15:11,800 --> 00:15:12,360
+destruction
+
+706
+00:15:12,360 --> 00:15:13,560
+of these alveolar
+
+707
+00:15:13,560 --> 00:15:14,200
+air sacs
+
+708
+00:15:14,200 --> 00:15:14,700
+and as you get
+
+709
+00:15:14,700 --> 00:15:15,340
+destruction of the
+
+710
+00:15:15,340 --> 00:15:16,620
+alveolar air sacs
+
+711
+00:15:16,620 --> 00:15:17,540
+that results
+
+712
+00:15:17,540 --> 00:15:18,660
+in a chronic
+
+713
+00:15:18,660 --> 00:15:19,580
+obstructive pulmonary
+
+714
+00:15:19,580 --> 00:15:20,060
+disease
+
+715
+00:15:20,060 --> 00:15:21,280
+now you could ask
+
+716
+00:15:22,560 --> 00:15:23,760
+example you could
+
+717
+00:15:23,760 --> 00:15:24,680
+stop me here
+
+718
+00:15:24,680 --> 00:15:25,420
+and you could say
+
+719
+00:15:25,420 --> 00:15:26,240
+well what are you
+
+720
+00:15:26,240 --> 00:15:26,960
+talking about
+
+721
+00:15:26,960 --> 00:15:27,740
+you said
+
+722
+00:15:27,740 --> 00:15:28,520
+that these are
+
+723
+00:15:28,520 --> 00:15:29,520
+obstructive diseases
+
+724
+00:15:29,520 --> 00:15:30,860
+I don't see any
+
+725
+00:15:30,860 --> 00:15:32,100
+obstruction in this
+
+726
+00:15:32,100 --> 00:15:32,520
+disease
+
+727
+00:15:32,520 --> 00:15:34,200
+that's true
+
+728
+00:15:34,200 --> 00:15:35,640
+you don't see any
+
+729
+00:15:35,640 --> 00:15:37,300
+anatomic obstruction
+
+730
+00:15:37,300 --> 00:15:38,080
+and you don't really
+
+731
+00:15:38,080 --> 00:15:38,860
+see any
+
+732
+00:15:38,860 --> 00:15:40,540
+mucus plugging
+
+733
+00:15:40,540 --> 00:15:41,140
+or anything
+
+734
+00:15:41,140 --> 00:15:42,060
+of that nature
+
+735
+00:15:42,060 --> 00:15:42,720
+which would create
+
+736
+00:15:42,720 --> 00:15:43,280
+an obstruction
+
+737
+00:15:43,280 --> 00:15:44,320
+but the obstruction
+
+738
+00:15:44,320 --> 00:15:45,020
+here is a little
+
+739
+00:15:45,020 --> 00:15:46,140
+more physiologic
+
+740
+00:15:46,140 --> 00:15:47,460
+and that's going to be
+
+741
+00:15:47,460 --> 00:15:48,300
+important to understand
+
+742
+00:15:48,300 --> 00:15:49,200
+because it ties into
+
+743
+00:15:49,200 --> 00:15:49,960
+a few high yield
+
+744
+00:15:49,960 --> 00:15:50,380
+principles
+
+745
+00:15:50,380 --> 00:15:51,380
+so let me remind
+
+746
+00:15:51,380 --> 00:15:52,560
+you of a couple
+
+747
+00:15:52,560 --> 00:15:52,960
+things
+
+748
+00:15:52,960 --> 00:15:53,900
+first of all
+
+749
+00:15:53,900 --> 00:15:54,480
+what's happening
+
+750
+00:15:54,480 --> 00:15:55,080
+in this disease
+
+751
+00:15:55,080 --> 00:15:55,860
+is you've got
+
+752
+00:15:55,860 --> 00:15:57,020
+you know
+
+753
+00:15:57,020 --> 00:15:57,560
+you've got all
+
+754
+00:15:57,560 --> 00:15:58,180
+these alveolar
+
+755
+00:15:58,180 --> 00:15:58,980
+air sacs
+
+756
+00:15:58,980 --> 00:15:59,900
+at the very
+
+757
+00:15:59,900 --> 00:16:01,680
+distal portion
+
+758
+00:16:01,680 --> 00:16:02,220
+of the lung
+
+759
+00:16:02,220 --> 00:16:03,260
+and these alveolar
+
+760
+00:16:03,260 --> 00:16:04,040
+air sacs are like
+
+761
+00:16:04,040 --> 00:16:04,740
+tiny balloons
+
+762
+00:16:04,740 --> 00:16:05,500
+they fill up
+
+763
+00:16:05,500 --> 00:16:05,960
+with air
+
+764
+00:16:05,960 --> 00:16:06,800
+and as soon as
+
+765
+00:16:06,800 --> 00:16:07,240
+they fill up
+
+766
+00:16:07,240 --> 00:16:08,120
+with air
+
+767
+00:16:08,120 --> 00:16:08,960
+they immediately
+
+768
+00:16:08,960 --> 00:16:09,840
+snap back
+
+769
+00:16:09,840 --> 00:16:10,300
+due to their
+
+770
+00:16:10,300 --> 00:16:11,160
+elastic recoil
+
+771
+00:16:11,160 --> 00:16:11,740
+and then they
+
+772
+00:16:11,740 --> 00:16:12,800
+blow the air out
+
+773
+00:16:12,800 --> 00:16:13,720
+so you breathe in
+
+774
+00:16:13,720 --> 00:16:14,180
+and you fill up
+
+775
+00:16:14,180 --> 00:16:14,580
+the balloon
+
+776
+00:16:14,580 --> 00:16:15,680
+and then you relax
+
+777
+00:16:15,680 --> 00:16:16,980
+and then the air
+
+778
+00:16:16,980 --> 00:16:17,720
+is squeezed out
+
+779
+00:16:17,720 --> 00:16:18,920
+so first of all
+
+780
+00:16:18,920 --> 00:16:20,100
+imagine if we lost
+
+781
+00:16:20,100 --> 00:16:21,180
+this elastic recoil
+
+782
+00:16:21,180 --> 00:16:22,320
+because we destroyed
+
+783
+00:16:22,320 --> 00:16:23,340
+some of the walls
+
+784
+00:16:23,340 --> 00:16:23,840
+of the lung
+
+785
+00:16:23,840 --> 00:16:25,000
+then instead of having
+
+786
+00:16:25,000 --> 00:16:26,140
+a bunch of little balloons
+
+787
+00:16:26,140 --> 00:16:27,120
+what we'd really have
+
+788
+00:16:27,120 --> 00:16:28,440
+is one big shopping bag
+
+789
+00:16:28,440 --> 00:16:29,600
+and that shopping bag
+
+790
+00:16:29,600 --> 00:16:30,260
+is not going to have
+
+791
+00:16:30,260 --> 00:16:31,280
+good elastic recoil
+
+792
+00:16:31,280 --> 00:16:32,020
+and so you're not going
+
+793
+00:16:32,020 --> 00:16:32,620
+to be able to get
+
+794
+00:16:32,620 --> 00:16:33,460
+air out of the lung
+
+795
+00:16:33,460 --> 00:16:34,060
+very well
+
+796
+00:16:34,060 --> 00:16:35,540
+I mean just take
+
+797
+00:16:35,540 --> 00:16:36,140
+a simple example
+
+798
+00:16:36,140 --> 00:16:37,120
+if I gave you a balloon
+
+799
+00:16:37,120 --> 00:16:38,320
+and asked you to blow it up
+
+800
+00:16:38,320 --> 00:16:39,460
+and then you let go of it
+
+801
+00:16:39,460 --> 00:16:40,260
+it's going to shoot air
+
+802
+00:16:40,260 --> 00:16:41,080
+back in your face
+
+803
+00:16:41,080 --> 00:16:42,080
+but if I give you
+
+804
+00:16:42,080 --> 00:16:42,780
+a shopping bag
+
+805
+00:16:42,780 --> 00:16:43,400
+and blow it up
+
+806
+00:16:43,400 --> 00:16:44,540
+and then ask you to
+
+807
+00:16:44,540 --> 00:16:45,420
+let go of it
+
+808
+00:16:45,420 --> 00:16:46,320
+air is not going
+
+809
+00:16:46,320 --> 00:16:46,800
+to shoot back
+
+810
+00:16:46,800 --> 00:16:47,360
+in your face
+
+811
+00:16:47,360 --> 00:16:48,320
+so instead of having
+
+812
+00:16:48,320 --> 00:16:49,340
+a bunch of little balloons
+
+813
+00:16:49,340 --> 00:16:50,480
+it's as if the lung
+
+814
+00:16:50,480 --> 00:16:51,280
+develops a bunch
+
+815
+00:16:51,280 --> 00:16:52,420
+of big shopping bags
+
+816
+00:16:52,420 --> 00:16:53,800
+so that's one reason
+
+817
+00:16:53,800 --> 00:16:54,840
+why they're not able
+
+818
+00:16:54,840 --> 00:16:55,700
+to get air out
+
+819
+00:16:55,700 --> 00:16:56,940
+i.e. they're obstructed
+
+820
+00:16:56,940 --> 00:16:57,900
+from getting air out
+
+821
+00:16:57,900 --> 00:17:00,100
+a second reason
+
+822
+00:17:00,100 --> 00:17:01,200
+why they're obstructed
+
+823
+00:17:01,200 --> 00:17:02,100
+from getting air out
+
+824
+00:17:02,100 --> 00:17:03,080
+is the following
+
+825
+00:17:03,080 --> 00:17:04,360
+and this requires
+
+826
+00:17:04,360 --> 00:17:05,220
+a little bit of
+
+827
+00:17:05,220 --> 00:17:05,780
+physiology
+
+828
+00:17:05,780 --> 00:17:07,180
+so let me take you
+
+829
+00:17:07,180 --> 00:17:08,600
+back a step
+
+830
+00:17:08,600 --> 00:17:09,580
+and just remind you
+
+831
+00:17:09,580 --> 00:17:10,500
+the lung
+
+832
+00:17:10,500 --> 00:17:11,660
+is an upside down tree
+
+833
+00:17:11,660 --> 00:17:12,280
+and you've got
+
+834
+00:17:12,280 --> 00:17:13,580
+this main stem bronchus
+
+835
+00:17:13,580 --> 00:17:14,080
+and then you've got
+
+836
+00:17:14,080 --> 00:17:15,060
+all these branches
+
+837
+00:17:15,060 --> 00:17:15,860
+and then you've
+
+838
+00:17:15,860 --> 00:17:16,220
+sort of got
+
+839
+00:17:16,220 --> 00:17:17,180
+all these little balloons
+
+840
+00:17:17,180 --> 00:17:19,140
+now as you've got
+
+841
+00:17:19,140 --> 00:17:20,000
+millions and millions
+
+842
+00:17:20,000 --> 00:17:21,060
+of these air sacs
+
+843
+00:17:21,060 --> 00:17:22,420
+and as you breathe out
+
+844
+00:17:22,420 --> 00:17:22,900
+you're going to
+
+845
+00:17:22,900 --> 00:17:23,960
+accelerate air
+
+846
+00:17:23,960 --> 00:17:25,240
+up through this system
+
+847
+00:17:25,240 --> 00:17:26,060
+and as you accelerate
+
+848
+00:17:26,060 --> 00:17:27,220
+air up through this system
+
+849
+00:17:27,220 --> 00:17:28,600
+you're really going to
+
+850
+00:17:28,600 --> 00:17:29,460
+kind of narrow
+
+851
+00:17:29,460 --> 00:17:30,460
+the number of tubes
+
+852
+00:17:30,460 --> 00:17:31,360
+so that eventually
+
+853
+00:17:31,360 --> 00:17:32,720
+you shoot all the air
+
+854
+00:17:32,720 --> 00:17:34,140
+through one large caliber
+
+855
+00:17:34,140 --> 00:17:35,860
+one large caliber
+
+856
+00:17:35,860 --> 00:17:37,600
+conducting airway
+
+857
+00:17:37,600 --> 00:17:38,820
+now that
+
+858
+00:17:38,820 --> 00:17:39,580
+as you're blowing
+
+859
+00:17:39,580 --> 00:17:40,440
+all that air through
+
+860
+00:17:40,440 --> 00:17:41,020
+that creates
+
+861
+00:17:41,020 --> 00:17:41,920
+a significant amount
+
+862
+00:17:41,920 --> 00:17:42,520
+of acceleration
+
+863
+00:17:42,520 --> 00:17:43,520
+of the air
+
+864
+00:17:43,520 --> 00:17:44,540
+and you can imagine
+
+865
+00:17:44,540 --> 00:17:45,480
+that as air
+
+866
+00:17:45,480 --> 00:17:46,300
+is being shot out
+
+867
+00:17:46,300 --> 00:17:46,740
+this way
+
+868
+00:17:46,740 --> 00:17:47,940
+it's also going
+
+869
+00:17:47,940 --> 00:17:48,960
+to drag
+
+870
+00:17:48,960 --> 00:17:50,180
+on the wall
+
+871
+00:17:50,180 --> 00:17:51,020
+of the tube
+
+872
+00:17:51,020 --> 00:17:52,100
+and when it drags
+
+873
+00:17:52,100 --> 00:17:52,520
+on the wall
+
+874
+00:17:52,520 --> 00:17:52,960
+of the tube
+
+875
+00:17:52,960 --> 00:17:53,480
+there's going to be
+
+876
+00:17:53,480 --> 00:17:53,920
+a tendency
+
+877
+00:17:53,920 --> 00:17:54,900
+to cause that tube
+
+878
+00:17:54,900 --> 00:17:55,540
+to collapse
+
+879
+00:17:55,540 --> 00:17:56,720
+now up here
+
+880
+00:17:56,720 --> 00:17:57,800
+in the larger airways
+
+881
+00:17:57,800 --> 00:17:58,840
+you have cartilage
+
+882
+00:17:58,840 --> 00:17:59,580
+in the wall
+
+883
+00:17:59,580 --> 00:18:00,780
+and the reason
+
+884
+00:18:00,780 --> 00:18:01,760
+for having cartilage
+
+885
+00:18:01,760 --> 00:18:02,400
+in the wall
+
+886
+00:18:02,400 --> 00:18:03,000
+is because
+
+887
+00:18:03,000 --> 00:18:04,380
+you want that
+
+888
+00:18:04,380 --> 00:18:05,080
+airway
+
+889
+00:18:05,080 --> 00:18:05,520
+to be able
+
+890
+00:18:05,520 --> 00:18:06,420
+to remain open
+
+891
+00:18:06,420 --> 00:18:06,820
+when you're
+
+892
+00:18:06,820 --> 00:18:07,400
+breathing out
+
+893
+00:18:07,400 --> 00:18:08,600
+and accelerating air
+
+894
+00:18:08,600 --> 00:18:09,400
+across that tube
+
+895
+00:18:09,400 --> 00:18:10,520
+so the cartilage
+
+896
+00:18:10,520 --> 00:18:11,420
+helps to keep
+
+897
+00:18:11,420 --> 00:18:12,440
+that wall open
+
+898
+00:18:12,440 --> 00:18:13,160
+as air
+
+899
+00:18:13,160 --> 00:18:14,120
+is shooting up
+
+900
+00:18:14,120 --> 00:18:15,100
+out through it
+
+901
+00:18:15,100 --> 00:18:15,760
+again
+
+902
+00:18:15,760 --> 00:18:16,380
+you don't want
+
+903
+00:18:16,380 --> 00:18:16,720
+that wall
+
+904
+00:18:16,720 --> 00:18:17,320
+to collapse
+
+905
+00:18:17,320 --> 00:18:18,680
+now down here
+
+906
+00:18:18,680 --> 00:18:19,320
+remember that
+
+907
+00:18:19,320 --> 00:18:19,880
+the defining
+
+908
+00:18:19,880 --> 00:18:20,560
+distinction
+
+909
+00:18:20,560 --> 00:18:22,540
+between a bronchus
+
+910
+00:18:22,540 --> 00:18:23,200
+and a bronchial
+
+911
+00:18:23,200 --> 00:18:24,260
+is a lack of cartilage
+
+912
+00:18:24,260 --> 00:18:25,060
+there's no cartilage
+
+913
+00:18:25,060 --> 00:18:25,800
+in the bronchioles
+
+914
+00:18:25,800 --> 00:18:26,980
+the bronchioles
+
+915
+00:18:26,980 --> 00:18:27,400
+instead
+
+916
+00:18:27,400 --> 00:18:28,700
+the way they stay open
+
+917
+00:18:28,700 --> 00:18:29,700
+is that there are
+
+918
+00:18:29,700 --> 00:18:31,840
+a bunch of alveolar air sacs
+
+919
+00:18:31,840 --> 00:18:32,320
+for example
+
+920
+00:18:32,320 --> 00:18:32,960
+here and here
+
+921
+00:18:32,960 --> 00:18:34,000
+why don't I clear this
+
+922
+00:18:34,000 --> 00:18:34,780
+and draw this again
+
+923
+00:18:34,780 --> 00:18:35,600
+you know
+
+924
+00:18:35,600 --> 00:18:37,140
+this is a bronchial now
+
+925
+00:18:37,140 --> 00:18:37,800
+and the way
+
+926
+00:18:37,800 --> 00:18:38,840
+the bronchial stays open
+
+927
+00:18:38,840 --> 00:18:39,400
+is that you've got
+
+928
+00:18:39,400 --> 00:18:40,500
+these air sacs
+
+929
+00:18:40,500 --> 00:18:41,360
+and the air sacs
+
+930
+00:18:41,360 --> 00:18:42,540
+have elastic recoil
+
+931
+00:18:42,540 --> 00:18:43,980
+and that elastic recoil
+
+932
+00:18:43,980 --> 00:18:45,040
+actually pulls
+
+933
+00:18:45,040 --> 00:18:46,160
+open these walls
+
+934
+00:18:46,160 --> 00:18:47,480
+now normally
+
+935
+00:18:47,480 --> 00:18:48,500
+when I breathe out
+
+936
+00:18:48,500 --> 00:18:49,460
+I'm going to accelerate
+
+937
+00:18:49,460 --> 00:18:51,060
+air across this tube
+
+938
+00:18:51,060 --> 00:18:52,380
+when I accelerate air
+
+939
+00:18:52,380 --> 00:18:53,080
+across this tube
+
+940
+00:18:53,080 --> 00:18:53,860
+I'm going to actually
+
+941
+00:18:53,860 --> 00:18:54,700
+create a force
+
+942
+00:18:54,700 --> 00:18:55,160
+on the wall
+
+943
+00:18:55,160 --> 00:18:55,560
+of the tube
+
+944
+00:18:55,560 --> 00:18:56,240
+that's going to suck
+
+945
+00:18:56,240 --> 00:18:57,240
+that tube closed
+
+946
+00:18:57,240 --> 00:18:58,040
+however
+
+947
+00:18:58,040 --> 00:18:59,380
+these air sacs
+
+948
+00:18:59,380 --> 00:18:59,880
+are going to keep
+
+949
+00:18:59,880 --> 00:19:00,760
+that tube open
+
+950
+00:19:00,760 --> 00:19:01,820
+because they have
+
+951
+00:19:01,820 --> 00:19:02,620
+elastic recoil
+
+952
+00:19:02,620 --> 00:19:03,560
+and they're pulling
+
+953
+00:19:03,560 --> 00:19:04,360
+at the tube
+
+954
+00:19:04,360 --> 00:19:05,120
+keeping it open
+
+955
+00:19:05,120 --> 00:19:06,280
+let's imagine
+
+956
+00:19:06,280 --> 00:19:07,040
+that I destroy
+
+957
+00:19:07,040 --> 00:19:07,720
+these walls
+
+958
+00:19:07,720 --> 00:19:08,620
+so that now
+
+959
+00:19:08,620 --> 00:19:09,220
+I don't have
+
+960
+00:19:09,220 --> 00:19:10,260
+that elastic recoil
+
+961
+00:19:10,260 --> 00:19:11,440
+well when I lose
+
+962
+00:19:11,440 --> 00:19:12,380
+that elastic recoil
+
+963
+00:19:12,380 --> 00:19:13,480
+as I shoot air up
+
+964
+00:19:13,480 --> 00:19:13,940
+this way
+
+965
+00:19:13,940 --> 00:19:15,020
+I'm going to actually
+
+966
+00:19:15,020 --> 00:19:16,620
+drag the wall
+
+967
+00:19:16,620 --> 00:19:17,820
+along with it
+
+968
+00:19:17,820 --> 00:19:18,580
+and when I drag
+
+969
+00:19:18,580 --> 00:19:19,640
+the wall along with it
+
+970
+00:19:19,640 --> 00:19:20,040
+boom
+
+971
+00:19:20,040 --> 00:19:21,600
+this wall is going to close
+
+972
+00:19:21,600 --> 00:19:23,200
+and when this wall
+
+973
+00:19:23,200 --> 00:19:23,720
+closes
+
+974
+00:19:23,720 --> 00:19:24,800
+that's going to result
+
+975
+00:19:24,800 --> 00:19:25,440
+in obstruction
+
+976
+00:19:25,440 --> 00:19:28,060
+this is a very high yield
+
+977
+00:19:28,060 --> 00:19:29,280
+principle to understand
+
+978
+00:19:29,280 --> 00:19:30,140
+because it goes back
+
+979
+00:19:30,140 --> 00:19:31,200
+to normal physiology
+
+980
+00:19:31,200 --> 00:19:32,540
+it ties in a little bit
+
+981
+00:19:32,540 --> 00:19:33,220
+of histology
+
+982
+00:19:33,220 --> 00:19:35,220
+and it also reminds you
+
+983
+00:19:35,220 --> 00:19:35,880
+of the reason
+
+984
+00:19:35,880 --> 00:19:36,920
+why there's obstruction
+
+985
+00:19:36,920 --> 00:19:38,020
+basically
+
+986
+00:19:38,020 --> 00:19:38,940
+the patients
+
+987
+00:19:38,940 --> 00:19:39,960
+they get collapse
+
+988
+00:19:39,960 --> 00:19:41,300
+of the small airways
+
+989
+00:19:41,300 --> 00:19:42,400
+due to loss
+
+990
+00:19:42,400 --> 00:19:43,500
+of the elastic recoil
+
+991
+00:19:43,500 --> 00:19:45,140
+of the alveolar air sacs
+
+992
+00:19:45,140 --> 00:19:46,300
+let's go back
+
+993
+00:19:46,300 --> 00:19:46,940
+and read together
+
+994
+00:19:46,940 --> 00:19:47,820
+so what do I say
+
+995
+00:19:47,820 --> 00:19:48,880
+I say that emphysema
+
+996
+00:19:48,880 --> 00:19:49,540
+is a destruction
+
+997
+00:19:49,540 --> 00:19:51,280
+of the alveolar air sacs
+
+998
+00:19:51,280 --> 00:19:52,280
+there's loss
+
+999
+00:19:52,280 --> 00:19:53,220
+of elastic recoil
+
+1000
+00:19:53,220 --> 00:19:53,880
+and collapse
+
+1001
+00:19:53,880 --> 00:19:54,840
+of the small airways
+
+1002
+00:19:54,840 --> 00:19:55,480
+and this leads
+
+1003
+00:19:55,480 --> 00:19:56,300
+to air trapping
+
+1004
+00:19:56,300 --> 00:19:57,120
+so I've already
+
+1005
+00:19:57,120 --> 00:19:57,900
+explained that
+
+1006
+00:19:57,900 --> 00:19:59,040
+here's what a picture
+
+1007
+00:19:59,040 --> 00:19:59,580
+of emphysema
+
+1008
+00:19:59,580 --> 00:20:00,120
+looks like
+
+1009
+00:20:00,120 --> 00:20:01,280
+but here you can
+
+1010
+00:20:01,280 --> 00:20:01,740
+clearly see
+
+1011
+00:20:01,740 --> 00:20:02,200
+that you're seeing
+
+1012
+00:20:02,200 --> 00:20:03,340
+all these spongy holes
+
+1013
+00:20:03,340 --> 00:20:04,080
+within the lung
+
+1014
+00:20:04,080 --> 00:20:05,200
+and that's because
+
+1015
+00:20:05,200 --> 00:20:06,140
+those normal
+
+1016
+00:20:06,140 --> 00:20:07,060
+little tiny balloons
+
+1017
+00:20:07,060 --> 00:20:07,900
+have been converted
+
+1018
+00:20:07,900 --> 00:20:08,660
+to quote unquote
+
+1019
+00:20:08,660 --> 00:20:09,520
+shopping bags
+
+1020
+00:20:09,520 --> 00:20:10,900
+and so this spongy
+
+1021
+00:20:10,900 --> 00:20:11,460
+appearance
+
+1022
+00:20:11,460 --> 00:20:11,980
+to the lung
+
+1023
+00:20:11,980 --> 00:20:13,080
+this porous spongy
+
+1024
+00:20:13,080 --> 00:20:13,460
+appearance
+
+1025
+00:20:13,460 --> 00:20:14,380
+is classic
+
+1026
+00:20:14,380 --> 00:20:15,220
+for emphysema
+
+1027
+00:20:15,220 --> 00:20:17,080
+now going one step
+
+1028
+00:20:17,080 --> 00:20:17,420
+further
+
+1029
+00:20:17,420 --> 00:20:18,660
+we can look at this
+
+1030
+00:20:18,660 --> 00:20:19,360
+histologically
+
+1031
+00:20:19,360 --> 00:20:19,900
+and we'll see
+
+1032
+00:20:19,900 --> 00:20:20,820
+the same process
+
+1033
+00:20:20,820 --> 00:20:22,200
+let's just take
+
+1034
+00:20:22,200 --> 00:20:22,880
+for example here
+
+1035
+00:20:22,880 --> 00:20:23,840
+the bottom left hand
+
+1036
+00:20:23,840 --> 00:20:24,640
+corner of the screen
+
+1037
+00:20:24,640 --> 00:20:25,240
+let's say that
+
+1038
+00:20:25,240 --> 00:20:26,480
+that's a normal air sac
+
+1039
+00:20:26,480 --> 00:20:27,580
+so there are a few
+
+1040
+00:20:27,580 --> 00:20:28,760
+rare normal air sacs
+
+1041
+00:20:28,760 --> 00:20:29,420
+in this picture
+
+1042
+00:20:29,420 --> 00:20:30,960
+now look at these air sacs
+
+1043
+00:20:30,960 --> 00:20:32,680
+these are way too dilated
+
+1044
+00:20:32,680 --> 00:20:33,620
+these are huge
+
+1045
+00:20:33,620 --> 00:20:34,760
+dilated air sacs
+
+1046
+00:20:34,760 --> 00:20:35,260
+and that's because
+
+1047
+00:20:35,260 --> 00:20:35,860
+we've lost
+
+1048
+00:20:35,860 --> 00:20:37,220
+alveolar air sac
+
+1049
+00:20:37,220 --> 00:20:38,100
+and so we've converted
+
+1050
+00:20:38,100 --> 00:20:39,220
+those tiny balloons
+
+1051
+00:20:39,220 --> 00:20:40,340
+into shopping bags
+
+1052
+00:20:40,340 --> 00:20:42,200
+so why does this occur
+
+1053
+00:20:42,200 --> 00:20:42,940
+why do patients
+
+1054
+00:20:42,940 --> 00:20:43,700
+get emphysema
+
+1055
+00:20:43,700 --> 00:20:45,040
+and to understand this
+
+1056
+00:20:45,040 --> 00:20:45,800
+you have to recognize
+
+1057
+00:20:45,800 --> 00:20:46,440
+that there's a
+
+1058
+00:20:46,440 --> 00:20:47,780
+in emphysema
+
+1059
+00:20:47,780 --> 00:20:48,660
+there's an imbalance
+
+1060
+00:20:48,660 --> 00:20:49,800
+between proteases
+
+1061
+00:20:49,800 --> 00:20:51,020
+and antiproteases
+
+1062
+00:20:51,020 --> 00:20:51,800
+that's what really
+
+1063
+00:20:51,800 --> 00:20:52,780
+causes the disease
+
+1064
+00:20:52,780 --> 00:20:54,200
+so what does that mean
+
+1065
+00:20:54,200 --> 00:20:55,460
+let me just remind you
+
+1066
+00:20:55,460 --> 00:20:56,020
+that every time
+
+1067
+00:21:00,960 --> 00:21:01,960
+in the lung
+
+1068
+00:21:01,960 --> 00:21:02,960
+particularly the mucus
+
+1069
+00:21:02,960 --> 00:21:03,960
+within the lung
+
+1070
+00:21:03,960 --> 00:21:04,960
+and that allows us
+
+1071
+00:21:04,960 --> 00:21:05,960
+to keep whatever
+
+1072
+00:21:05,960 --> 00:21:06,960
+whatever goes down
+
+1073
+00:21:06,960 --> 00:21:07,960
+into the very
+
+1074
+00:21:07,960 --> 00:21:08,960
+distal portions
+
+1075
+00:21:08,960 --> 00:21:09,960
+of the lung
+
+1076
+00:21:09,960 --> 00:21:10,960
+clean
+
+1077
+00:21:10,960 --> 00:21:11,960
+now when you get
+
+1078
+00:21:11,960 --> 00:21:12,960
+to the bottom of the lung
+
+1079
+00:21:12,960 --> 00:21:13,960
+you don't have those
+
+1080
+00:21:13,960 --> 00:21:14,960
+defense mechanisms
+
+1081
+00:21:14,960 --> 00:21:15,960
+so the only way
+
+1082
+00:21:15,960 --> 00:21:16,960
+by which we can
+
+1083
+00:21:16,960 --> 00:21:17,960
+defend ourselves
+
+1084
+00:21:17,960 --> 00:21:18,960
+at the very bottom
+
+1085
+00:21:18,960 --> 00:21:19,960
+of the lung
+
+1086
+00:21:19,960 --> 00:21:20,960
+is a cell called
+
+1087
+00:21:20,960 --> 00:21:21,960
+the alveolar macrophage
+
+1088
+00:21:21,960 --> 00:21:22,960
+it sort of eats things
+
+1089
+00:21:22,960 --> 00:21:23,960
+that might happen
+
+1090
+00:21:23,960 --> 00:21:24,960
+to get way down
+
+1091
+00:21:24,960 --> 00:21:25,960
+at the very bottom
+
+1092
+00:21:25,960 --> 00:21:26,960
+of the lung
+
+1093
+00:21:26,960 --> 00:21:27,960
+it's not common
+
+1094
+00:21:27,960 --> 00:21:28,960
+for particles to get down
+
+1095
+00:21:28,960 --> 00:21:29,960
+there but it is possible
+
+1096
+00:21:29,960 --> 00:21:30,960
+now on occasion
+
+1097
+00:21:30,960 --> 00:21:31,960
+there will be some things
+
+1098
+00:21:31,960 --> 00:21:32,960
+that will come down
+
+1099
+00:21:32,960 --> 00:21:33,960
+to that part of the lung
+
+1100
+00:21:33,960 --> 00:21:34,960
+the macrophages
+
+1101
+00:21:34,960 --> 00:21:35,960
+will eat them
+
+1102
+00:21:35,960 --> 00:21:36,960
+and when the macrophages
+
+1103
+00:21:36,960 --> 00:21:37,960
+eat them
+
+1104
+00:21:37,960 --> 00:21:38,960
+that induces a little bit
+
+1105
+00:21:38,960 --> 00:21:39,960
+of inflammation
+
+1106
+00:21:39,960 --> 00:21:40,960
+so otherwise stated
+
+1107
+00:21:40,960 --> 00:21:41,960
+it's common
+
+1108
+00:21:41,960 --> 00:21:42,960
+to have some degree
+
+1109
+00:21:42,960 --> 00:21:43,960
+of inflammation
+
+1110
+00:21:43,960 --> 00:21:44,960
+present
+
+1111
+00:21:44,960 --> 00:21:45,960
+within the
+
+1112
+00:21:45,960 --> 00:21:46,960
+alveolar air sacs
+
+1113
+00:21:46,960 --> 00:21:47,960
+now that little bit
+
+1114
+00:21:47,960 --> 00:21:48,960
+of inflammation
+
+1115
+00:21:48,960 --> 00:21:49,960
+in the alveolar air sacs
+
+1116
+00:21:49,960 --> 00:21:50,960
+is going to produce
+
+1117
+00:21:50,960 --> 00:21:51,960
+proteases
+
+1118
+00:21:51,960 --> 00:21:52,960
+that's a byproduct
+
+1119
+00:21:52,960 --> 00:21:53,960
+of inflammation
+
+1120
+00:21:53,960 --> 00:21:54,960
+that would be damaging
+
+1121
+00:21:54,960 --> 00:21:55,960
+to the lung
+
+1122
+00:21:55,960 --> 00:21:56,960
+but
+
+1123
+00:21:56,960 --> 00:21:57,960
+but the body
+
+1124
+00:21:57,960 --> 00:21:58,960
+produces a protein
+
+1125
+00:21:58,960 --> 00:21:59,960
+that protects against proteases
+
+1126
+00:21:59,960 --> 00:22:00,960
+and those are called
+
+1127
+00:22:00,960 --> 00:22:01,960
+the anti-proteases
+
+1128
+00:22:01,960 --> 00:22:02,960
+the most important
+
+1129
+00:22:02,960 --> 00:22:03,960
+of which
+
+1130
+00:22:03,960 --> 00:22:04,960
+is one called
+
+1131
+00:22:04,960 --> 00:22:08,960
+alpha-1 antitrypsin
+
+1132
+00:22:08,960 --> 00:22:09,960
+so otherwise stated
+
+1133
+00:22:09,960 --> 00:22:11,960
+we constantly have
+
+1134
+00:22:11,960 --> 00:22:12,960
+a small level
+
+1135
+00:22:12,960 --> 00:22:13,960
+of inflammation
+
+1136
+00:22:13,960 --> 00:22:14,960
+ongoing
+
+1137
+00:22:14,960 --> 00:22:15,960
+within the
+
+1138
+00:22:15,960 --> 00:22:16,960
+alveolar air sacs
+
+1139
+00:22:16,960 --> 00:22:17,960
+that small level
+
+1140
+00:22:17,960 --> 00:22:18,960
+of inflammation
+
+1141
+00:22:18,960 --> 00:22:19,960
+results in the
+
+1142
+00:22:19,960 --> 00:22:20,960
+production of proteases
+
+1143
+00:22:20,960 --> 00:22:21,960
+which are a
+
+1144
+00:22:21,960 --> 00:22:22,960
+byproduct of inflammation
+
+1145
+00:22:22,960 --> 00:22:23,960
+causing tissue damage
+
+1146
+00:22:23,960 --> 00:22:24,960
+in order to protect
+
+1147
+00:22:24,960 --> 00:22:25,960
+ourselves
+
+1148
+00:22:25,960 --> 00:22:26,960
+against those proteases
+
+1149
+00:22:26,960 --> 00:22:27,960
+we have anti-proteases
+
+1150
+00:22:27,960 --> 00:22:28,960
+the most important
+
+1151
+00:22:28,960 --> 00:22:29,960
+of which
+
+1152
+00:22:29,960 --> 00:22:30,960
+is alpha-1 antitrypsin
+
+1153
+00:22:30,960 --> 00:22:31,960
+now this
+
+1154
+00:22:31,960 --> 00:22:32,960
+normally exists
+
+1155
+00:22:32,960 --> 00:22:33,960
+in a balance
+
+1156
+00:22:33,960 --> 00:22:34,960
+so that the proteases
+
+1157
+00:22:34,960 --> 00:22:36,960
+and the anti-proteases
+
+1158
+00:22:36,960 --> 00:22:37,960
+are present
+
+1159
+00:22:37,960 --> 00:22:38,960
+in balance
+
+1160
+00:22:38,960 --> 00:22:39,960
+so that whatever proteases
+
+1161
+00:22:39,960 --> 00:22:40,960
+are produced
+
+1162
+00:22:40,960 --> 00:22:41,960
+we have enough
+
+1163
+00:22:41,960 --> 00:22:42,960
+anti-proteases
+
+1164
+00:22:42,960 --> 00:22:43,960
+to handle those
+
+1165
+00:22:43,960 --> 00:22:45,960
+in emphysema
+
+1166
+00:22:45,960 --> 00:22:46,960
+the problem
+
+1167
+00:22:46,960 --> 00:22:47,960
+is either
+
+1168
+00:22:47,960 --> 00:22:48,960
+an over production
+
+1169
+00:22:48,960 --> 00:22:49,960
+of proteases
+
+1170
+00:22:49,960 --> 00:22:51,960
+or a decreased production
+
+1171
+00:22:51,960 --> 00:22:52,960
+of anti-proteases
+
+1172
+00:22:52,960 --> 00:22:53,960
+now there's basically
+
+1173
+00:22:53,960 --> 00:22:54,960
+two classic diseases
+
+1174
+00:22:54,960 --> 00:22:56,960
+that give you emphysema
+
+1175
+00:22:56,960 --> 00:22:57,960
+and each one
+
+1176
+00:22:57,960 --> 00:22:58,960
+and what each one
+
+1177
+00:22:58,960 --> 00:22:59,960
+covers a particular
+
+1178
+00:22:59,960 --> 00:23:00,960
+aspect of this
+
+1179
+00:23:00,960 --> 00:23:01,960
+paradigm
+
+1180
+00:23:01,960 --> 00:23:02,960
+for example
+
+1181
+00:23:02,960 --> 00:23:03,960
+one group of patients
+
+1182
+00:23:03,960 --> 00:23:04,960
+and the most common
+
+1183
+00:23:04,960 --> 00:23:05,960
+group of patients
+
+1184
+00:23:05,960 --> 00:23:06,960
+to develop emphysema
+
+1185
+00:23:06,960 --> 00:23:07,960
+are those that have
+
+1186
+00:23:07,960 --> 00:23:08,960
+a tremendous amount
+
+1187
+00:23:08,960 --> 00:23:09,960
+of inflammation
+
+1188
+00:23:09,960 --> 00:23:10,960
+going on
+
+1189
+00:23:10,960 --> 00:23:11,960
+in the distal portions
+
+1190
+00:23:11,960 --> 00:23:12,960
+of the lung
+
+1191
+00:23:12,960 --> 00:23:13,960
+and guess who those
+
+1192
+00:23:13,960 --> 00:23:14,960
+patients are
+
+1193
+00:23:14,960 --> 00:23:15,960
+smokers
+
+1194
+00:23:15,960 --> 00:23:16,960
+smoking is the most
+
+1195
+00:23:16,960 --> 00:23:17,960
+common cause of
+
+1196
+00:23:17,960 --> 00:23:18,960
+emphysema
+
+1197
+00:23:18,960 --> 00:23:19,960
+smokers bring a ton
+
+1198
+00:23:19,960 --> 00:23:20,960
+of garbage into their
+
+1199
+00:23:20,960 --> 00:23:21,960
+lung
+
+1200
+00:23:21,960 --> 00:23:22,960
+there's a ton of
+
+1201
+00:23:22,960 --> 00:23:23,960
+protease activity
+
+1202
+00:23:23,960 --> 00:23:24,960
+overrides
+
+1203
+00:23:24,960 --> 00:23:25,960
+the anti-protease
+
+1204
+00:23:25,960 --> 00:23:26,960
+activity
+
+1205
+00:23:26,960 --> 00:23:27,960
+and these patients
+
+1206
+00:23:27,960 --> 00:23:28,960
+then develop
+
+1207
+00:23:28,960 --> 00:23:29,960
+emphysema
+
+1208
+00:23:29,960 --> 00:23:30,960
+because those proteases
+
+1209
+00:23:30,960 --> 00:23:31,960
+destroy the alveolar
+
+1210
+00:23:31,960 --> 00:23:32,960
+air sacs
+
+1211
+00:23:32,960 --> 00:23:33,960
+so that's one group
+
+1212
+00:23:33,960 --> 00:23:34,960
+of patients
+
+1213
+00:23:34,960 --> 00:23:35,960
+that develops emphysema
+
+1214
+00:23:35,960 --> 00:23:36,960
+the second group
+
+1215
+00:23:36,960 --> 00:23:37,960
+of patients
+
+1216
+00:23:37,960 --> 00:23:38,960
+that develop emphysema
+
+1217
+00:23:38,960 --> 00:23:39,960
+are those patients
+
+1218
+00:23:39,960 --> 00:23:40,960
+when you consider
+
+1219
+00:23:40,960 --> 00:23:41,960
+this balance
+
+1220
+00:23:41,960 --> 00:23:42,960
+of proteases
+
+1221
+00:23:42,960 --> 00:23:43,960
+and anti-proteases
+
+1222
+00:23:43,960 --> 00:23:44,960
+the second group
+
+1223
+00:23:44,960 --> 00:23:45,960
+of patients
+
+1224
+00:23:45,960 --> 00:23:46,960
+are those patients
+
+1225
+00:23:46,960 --> 00:23:47,960
+that have decreased
+
+1226
+00:23:47,960 --> 00:23:48,960
+anti-proteases
+
+1227
+00:23:48,960 --> 00:23:49,960
+and the classic disease
+
+1228
+00:23:49,960 --> 00:23:50,960
+which is relatively
+
+1229
+00:23:50,960 --> 00:23:51,960
+rare clinically
+
+1230
+00:23:51,960 --> 00:23:52,960
+but is very common
+
+1231
+00:23:52,960 --> 00:23:53,960
+on examinations
+
+1232
+00:23:53,960 --> 00:23:54,960
+is where patients
+
+1233
+00:23:54,960 --> 00:23:56,960
+have an alpha-1
+
+1234
+00:23:56,960 --> 00:23:58,960
+anti-trypsin deficiency
+
+1235
+00:23:58,960 --> 00:24:00,960
+now if patients
+
+1236
+00:24:00,960 --> 00:24:01,960
+don't have good
+
+1237
+00:24:01,960 --> 00:24:02,960
+alpha-1 anti-trypsin
+
+1238
+00:24:02,960 --> 00:24:03,960
+floating around
+
+1239
+00:24:03,960 --> 00:24:04,960
+in the blood
+
+1240
+00:24:04,960 --> 00:24:05,960
+then they won't
+
+1241
+00:24:05,960 --> 00:24:06,960
+be able to protect
+
+1242
+00:24:06,960 --> 00:24:07,960
+against the protease
+
+1243
+00:24:07,960 --> 00:24:08,960
+damage that occurs
+
+1244
+00:24:08,960 --> 00:24:09,960
+normally
+
+1245
+00:24:09,960 --> 00:24:10,960
+so over time
+
+1246
+00:24:10,960 --> 00:24:11,960
+there's a chance
+
+1247
+00:24:11,960 --> 00:24:12,960
+that they could
+
+1248
+00:24:12,960 --> 00:24:13,960
+develop emphysema
+
+1249
+00:24:13,960 --> 00:24:14,960
+so that's the second
+
+1250
+00:24:14,960 --> 00:24:15,960
+disease that's going
+
+1251
+00:24:15,960 --> 00:24:16,960
+to result in emphysema
+
+1252
+00:24:16,960 --> 00:24:17,960
+and that's alpha-1
+
+1253
+00:24:17,960 --> 00:24:18,960
+anti-trypsin deficiency
+
+1254
+00:24:18,960 --> 00:24:20,960
+anti-trypsin deficiency
+
+1255
+00:24:20,960 --> 00:24:21,960
+now let's read together
+
+1256
+00:24:21,960 --> 00:24:22,960
+what do I say
+
+1257
+00:24:22,960 --> 00:24:23,960
+in the book
+
+1258
+00:24:23,960 --> 00:24:24,960
+I say smoking
+
+1259
+00:24:24,960 --> 00:24:25,960
+is the most common
+
+1260
+00:24:25,960 --> 00:24:26,960
+cause of emphysema
+
+1261
+00:24:26,960 --> 00:24:27,960
+that I've already
+
+1262
+00:24:27,960 --> 00:24:28,960
+explained
+
+1263
+00:24:28,960 --> 00:24:29,960
+and it results
+
+1264
+00:24:29,960 --> 00:24:30,960
+in sentry acinar
+
+1265
+00:24:30,960 --> 00:24:31,960
+emphysema
+
+1266
+00:24:31,960 --> 00:24:32,960
+which is more severe
+
+1267
+00:24:32,960 --> 00:24:33,960
+in the upper lobes
+
+1268
+00:24:33,960 --> 00:24:34,960
+this requires
+
+1269
+00:24:34,960 --> 00:24:35,960
+a little bit of
+
+1270
+00:24:35,960 --> 00:24:36,960
+explanation
+
+1271
+00:24:36,960 --> 00:24:37,960
+now what is
+
+1272
+00:24:37,960 --> 00:24:38,960
+sentry acinar
+
+1273
+00:24:38,960 --> 00:24:39,960
+emphysema
+
+1274
+00:24:39,960 --> 00:24:40,960
+so why don't I
+
+1275
+00:24:40,960 --> 00:24:41,960
+take a step back
+
+1276
+00:24:41,960 --> 00:24:42,960
+and remind you
+
+1277
+00:24:42,960 --> 00:24:43,960
+that there are two
+
+1278
+00:24:43,960 --> 00:24:44,960
+major categories
+
+1279
+00:24:44,960 --> 00:24:45,960
+of emphysema
+
+1280
+00:24:45,960 --> 00:24:46,960
+there's a sentry acinar
+
+1281
+00:24:46,960 --> 00:24:49,960
+pan-acinar emphysema
+
+1282
+00:24:49,960 --> 00:24:50,960
+in order to understand
+
+1283
+00:24:50,960 --> 00:24:51,960
+this concept
+
+1284
+00:24:51,960 --> 00:24:52,960
+you need to understand
+
+1285
+00:24:52,960 --> 00:24:53,960
+the acinous
+
+1286
+00:24:53,960 --> 00:24:54,960
+so let's go back here
+
+1287
+00:24:54,960 --> 00:24:55,960
+and remind ourselves
+
+1288
+00:24:55,960 --> 00:24:56,960
+that the functional unit
+
+1289
+00:24:56,960 --> 00:24:57,960
+of the lung
+
+1290
+00:24:57,960 --> 00:24:58,960
+is called the acinous
+
+1291
+00:24:58,960 --> 00:24:59,960
+remember that we get
+
+1292
+00:24:59,960 --> 00:25:00,960
+a terminal bronchial
+
+1293
+00:25:00,960 --> 00:25:01,960
+and the terminal bronchial
+
+1294
+00:25:01,960 --> 00:25:02,960
+eventually opens up
+
+1295
+00:25:02,960 --> 00:25:04,960
+into the alveolar air sacs
+
+1296
+00:25:04,960 --> 00:25:05,960
+so this is sort of
+
+1297
+00:25:05,960 --> 00:25:06,960
+the functional unit
+
+1298
+00:25:06,960 --> 00:25:07,960
+of the lung
+
+1299
+00:25:07,960 --> 00:25:08,960
+this whole thing
+
+1300
+00:25:08,960 --> 00:25:10,960
+that I'm outlining here
+
+1301
+00:25:10,960 --> 00:25:11,960
+that's called the acinous
+
+1302
+00:25:11,960 --> 00:25:12,960
+now let's pretend
+
+1303
+00:25:12,960 --> 00:25:13,960
+that a patient
+
+1304
+00:25:13,960 --> 00:25:14,960
+is a smoker
+
+1305
+00:25:14,960 --> 00:25:15,960
+so that you know
+
+1306
+00:25:15,960 --> 00:25:16,960
+the smoke is coming down
+
+1307
+00:25:16,960 --> 00:25:17,960
+the central airway
+
+1308
+00:25:17,960 --> 00:25:18,960
+eventually branches
+
+1309
+00:25:18,960 --> 00:25:19,960
+and comes into the
+
+1310
+00:25:19,960 --> 00:25:20,960
+terminal bronchial
+
+1311
+00:25:20,960 --> 00:25:21,960
+obviously there would be
+
+1312
+00:25:21,960 --> 00:25:22,960
+multiple branches here
+
+1313
+00:25:22,960 --> 00:25:23,960
+I'm just simplifying this image
+
+1314
+00:25:23,960 --> 00:25:24,960
+eventually comes into
+
+1315
+00:25:24,960 --> 00:25:25,960
+the terminal bronchial
+
+1316
+00:25:25,960 --> 00:25:27,960
+and then hits the acinous
+
+1317
+00:25:27,960 --> 00:25:28,960
+let me ask you
+
+1318
+00:25:28,960 --> 00:25:29,960
+a very simple question
+
+1319
+00:25:29,960 --> 00:25:30,960
+which part of this acinous
+
+1320
+00:25:30,960 --> 00:25:31,960
+is going to be
+
+1321
+00:25:31,960 --> 00:25:32,960
+most hit by the smoke
+
+1322
+00:25:32,960 --> 00:25:33,960
+of course
+
+1323
+00:25:33,960 --> 00:25:34,960
+the central part
+
+1324
+00:25:34,960 --> 00:25:35,960
+of the acinous
+
+1325
+00:25:35,960 --> 00:25:36,960
+and so guess
+
+1326
+00:25:36,960 --> 00:25:37,960
+what type of
+
+1327
+00:25:37,960 --> 00:25:38,960
+emphysema
+
+1328
+00:25:38,960 --> 00:25:39,960
+smokers are going to get
+
+1329
+00:25:39,960 --> 00:25:41,960
+sentry acinar emphysema
+
+1330
+00:25:41,960 --> 00:25:42,960
+very easy
+
+1331
+00:25:42,960 --> 00:25:43,960
+and of course
+
+1332
+00:25:43,960 --> 00:25:44,960
+the other one is called
+
+1333
+00:25:44,960 --> 00:25:45,960
+panacinar
+
+1334
+00:25:45,960 --> 00:25:46,960
+and panacinar means
+
+1335
+00:25:46,960 --> 00:25:47,960
+that you disrupt
+
+1336
+00:25:47,960 --> 00:25:48,960
+the entire acinous
+
+1337
+00:25:48,960 --> 00:25:49,960
+and the patients
+
+1338
+00:25:49,960 --> 00:25:50,960
+who get panacinar
+
+1339
+00:25:50,960 --> 00:25:51,960
+emphysema
+
+1340
+00:25:51,960 --> 00:25:52,960
+are those who are
+
+1341
+00:25:52,960 --> 00:25:53,960
+alpha 1 antitrypsin
+
+1342
+00:25:53,960 --> 00:25:54,960
+deficient
+
+1343
+00:25:54,960 --> 00:25:55,960
+but the way I remember this
+
+1344
+00:25:55,960 --> 00:25:56,960
+I only remember the
+
+1345
+00:25:56,960 --> 00:25:57,960
+smoking related
+
+1346
+00:25:57,960 --> 00:25:58,960
+is sentry acinar
+
+1347
+00:25:58,960 --> 00:25:59,960
+because it makes sense to me
+
+1348
+00:25:59,960 --> 00:26:00,960
+and then I know
+
+1349
+00:26:00,960 --> 00:26:01,960
+the other one is panacinar
+
+1350
+00:26:01,960 --> 00:26:02,960
+and so I associate that
+
+1351
+00:26:02,960 --> 00:26:04,960
+with alpha 1 antitrypsin
+
+1352
+00:26:04,960 --> 00:26:05,960
+now one more important
+
+1353
+00:26:05,960 --> 00:26:06,960
+principle
+
+1354
+00:26:06,960 --> 00:26:07,960
+and that is
+
+1355
+00:26:07,960 --> 00:26:08,960
+that patients who smoke
+
+1356
+00:26:08,960 --> 00:26:09,960
+not only do they get
+
+1357
+00:26:09,960 --> 00:26:11,960
+sentry acinar emphysema
+
+1358
+00:26:11,960 --> 00:26:13,960
+but it's also more severe
+
+1359
+00:26:13,960 --> 00:26:14,960
+in the upper lobes
+
+1360
+00:26:14,960 --> 00:26:15,960
+but again there's no
+
+1361
+00:26:15,960 --> 00:26:16,960
+rocket science here
+
+1362
+00:26:16,960 --> 00:26:17,960
+if I give you a match
+
+1363
+00:26:17,960 --> 00:26:18,960
+and I blow it out
+
+1364
+00:26:18,960 --> 00:26:19,960
+which way is the smoke
+
+1365
+00:26:19,960 --> 00:26:20,960
+going to go
+
+1366
+00:26:20,960 --> 00:26:21,960
+it's going to go up
+
+1367
+00:26:21,960 --> 00:26:22,960
+obviously
+
+1368
+00:26:22,960 --> 00:26:23,960
+and so when a patient smokes
+
+1369
+00:26:23,960 --> 00:26:24,960
+guess which way the smoke
+
+1370
+00:26:24,960 --> 00:26:25,960
+is going to go
+
+1371
+00:26:25,960 --> 00:26:26,960
+when it goes in the lung
+
+1372
+00:26:26,960 --> 00:26:27,960
+it's going to go up
+
+1373
+00:26:27,960 --> 00:26:28,960
+it's one way to remember this
+
+1374
+00:26:28,960 --> 00:26:29,960
+right
+
+1375
+00:26:29,960 --> 00:26:30,960
+so these patients are going to get
+
+1376
+00:26:30,960 --> 00:26:32,960
+sentry acinar emphysema
+
+1377
+00:26:32,960 --> 00:26:33,960
+that's more severe
+
+1378
+00:26:33,960 --> 00:26:35,960
+in the upper lobes
+
+1379
+00:26:35,960 --> 00:26:36,960
+so that should be now
+
+1380
+00:26:36,960 --> 00:26:37,960
+fairly easy to understand
+
+1381
+00:26:37,960 --> 00:26:38,960
+and let's read together
+
+1382
+00:26:38,960 --> 00:26:41,960
+I say that smoking is the most common cause of emphysema
+
+1383
+00:26:41,960 --> 00:26:44,960
+it results in sentry acinar emphysema
+
+1384
+00:26:44,960 --> 00:26:46,960
+that is more severe in the upper lobes
+
+1385
+00:26:46,960 --> 00:26:48,960
+then I say in your text
+
+1386
+00:26:48,960 --> 00:26:50,960
+that alpha 1 antitrypsin deficiency
+
+1387
+00:26:50,960 --> 00:26:52,960
+is a rare cause of emphysema
+
+1388
+00:26:52,960 --> 00:26:55,960
+it results in panacinar emphysema
+
+1389
+00:26:55,960 --> 00:26:57,960
+more common in the lower lobes
+
+1390
+00:26:57,960 --> 00:26:59,960
+again it's opposite of smoking
+
+1391
+00:26:59,960 --> 00:27:01,960
+we're going to see it more commonly
+
+1392
+00:27:01,960 --> 00:27:02,960
+in the lower lobes
+
+1393
+00:27:02,960 --> 00:27:03,960
+now here's one more point
+
+1394
+00:27:03,960 --> 00:27:04,960
+to be discussed
+
+1395
+00:27:04,960 --> 00:27:05,960
+and that's that patients
+
+1396
+00:27:05,960 --> 00:27:07,960
+who have alpha 1 antitrypsin deficiency
+
+1397
+00:27:07,960 --> 00:27:10,960
+may also develop liver cirrhosis
+
+1398
+00:27:10,960 --> 00:27:11,960
+what I want to remind you
+
+1399
+00:27:11,960 --> 00:27:13,960
+is that in alpha 1 antitrypsin deficiency
+
+1400
+00:27:13,960 --> 00:27:15,960
+the deficiency is that
+
+1401
+00:27:15,960 --> 00:27:17,960
+the protein is not in the blood
+
+1402
+00:27:17,960 --> 00:27:18,960
+however the liver
+
+1403
+00:27:18,960 --> 00:27:20,960
+is still making the protein
+
+1404
+00:27:20,960 --> 00:27:22,960
+and what happens in this particular disease
+
+1405
+00:27:22,960 --> 00:27:24,960
+is that alpha 1 antitrypsin
+
+1406
+00:27:24,960 --> 00:27:25,960
+is produced by the liver
+
+1407
+00:27:25,960 --> 00:27:27,960
+but the mutation results
+
+1408
+00:27:27,960 --> 00:27:29,960
+in a misfolding of the protein
+
+1409
+00:27:29,960 --> 00:27:31,960
+so that the protein begins to accumulate
+
+1410
+00:27:31,960 --> 00:27:33,960
+within the endoplasmic reticulum
+
+1411
+00:27:33,960 --> 00:27:34,960
+of hepatocytes
+
+1412
+00:27:34,960 --> 00:27:35,960
+and when it accumulates
+
+1413
+00:27:35,960 --> 00:27:36,960
+within the endoplasmic reticulum
+
+1414
+00:27:36,960 --> 00:27:37,960
+of hepatocytes
+
+1415
+00:27:37,960 --> 00:27:38,960
+it begins to pile up
+
+1416
+00:27:38,960 --> 00:27:39,960
+in the liver cells
+
+1417
+00:27:39,960 --> 00:27:40,960
+and eventually damages
+
+1418
+00:27:40,960 --> 00:27:41,960
+the cells
+
+1419
+00:27:41,960 --> 00:27:42,960
+resulting in cirrhosis
+
+1420
+00:27:42,960 --> 00:27:44,960
+and that's why liver cirrhosis
+
+1421
+00:27:44,960 --> 00:27:45,960
+may be present
+
+1422
+00:27:45,960 --> 00:27:46,960
+and here's the high yield
+
+1423
+00:27:46,960 --> 00:27:48,960
+way by which examiners
+
+1424
+00:27:48,960 --> 00:27:49,960
+like to ask this
+
+1425
+00:27:49,960 --> 00:27:51,960
+so these are all hepatocytes
+
+1426
+00:27:51,960 --> 00:27:53,960
+this is a biopsy of the liver
+
+1427
+00:27:53,960 --> 00:27:54,960
+and you can clearly see
+
+1428
+00:27:54,960 --> 00:27:55,960
+that for example
+
+1429
+00:27:55,960 --> 00:27:56,960
+in this hepatocyte
+
+1430
+00:27:56,960 --> 00:27:57,960
+there are these round
+
+1431
+00:27:57,960 --> 00:28:00,960
+purple or pink colored globules
+
+1432
+00:28:00,960 --> 00:28:04,960
+and so these purple or pink colored globules
+
+1433
+00:28:04,960 --> 00:28:07,960
+these actually represent alpha 1 antitrypsin
+
+1434
+00:28:07,960 --> 00:28:09,960
+that's building up in the hepatocyte
+
+1435
+00:28:09,960 --> 00:28:13,960
+very high yield picture for examinations
+
+1436
+00:28:13,960 --> 00:28:15,960
+what I'd like to also remind you of
+
+1437
+00:28:15,960 --> 00:28:17,960
+is that these globules
+
+1438
+00:28:17,960 --> 00:28:19,960
+they are PAS positive
+
+1439
+00:28:19,960 --> 00:28:21,960
+PAS is a special stain
+
+1440
+00:28:21,960 --> 00:28:22,960
+that we use in histology
+
+1441
+00:28:22,960 --> 00:28:23,960
+and they're PAS positive
+
+1442
+00:28:23,960 --> 00:28:25,960
+and examiners like you to know that as well
+
+1443
+00:28:25,960 --> 00:28:30,960
+so pink PAS positive globules
+
+1444
+00:28:30,960 --> 00:28:32,960
+and that's all the key summaries
+
+1445
+00:28:32,960 --> 00:28:34,960
+for this particular slide
+
+1446
+00:28:34,960 --> 00:28:35,960
+now one more thing
+
+1447
+00:28:35,960 --> 00:28:37,960
+that we have to be familiar with
+
+1448
+00:28:37,960 --> 00:28:38,960
+and that is the genetics
+
+1449
+00:28:38,960 --> 00:28:40,960
+behind alpha 1 antitrypsin deficiency
+
+1450
+00:28:40,960 --> 00:28:42,960
+let me remind you
+
+1451
+00:28:42,960 --> 00:28:44,960
+that alpha 1 antitrypsin gene
+
+1452
+00:28:44,960 --> 00:28:45,960
+comes in multiple alleles
+
+1453
+00:28:45,960 --> 00:28:47,960
+the most common allele
+
+1454
+00:28:47,960 --> 00:28:49,960
+or subtype is called PIM
+
+1455
+00:28:49,960 --> 00:28:50,960
+so that most patients
+
+1456
+00:28:50,960 --> 00:28:52,960
+actually have PIM
+
+1457
+00:28:52,960 --> 00:28:54,960
+and then another copy of PIM
+
+1458
+00:28:54,960 --> 00:28:57,960
+and most people
+
+1459
+00:28:57,960 --> 00:28:59,960
+are actually possessing this allele
+
+1460
+00:28:59,960 --> 00:29:01,960
+and this is the normal allele
+
+1461
+00:29:01,960 --> 00:29:03,960
+and so there's no problem
+
+1462
+00:29:03,960 --> 00:29:05,960
+the mutations are multiple
+
+1463
+00:29:05,960 --> 00:29:07,960
+there are many many many mutations
+
+1464
+00:29:07,960 --> 00:29:09,960
+however the most common clinical mutation
+
+1465
+00:29:09,960 --> 00:29:10,960
+to be aware of
+
+1466
+00:29:10,960 --> 00:29:12,960
+is the PIZ allele
+
+1467
+00:29:12,960 --> 00:29:15,960
+PIZ is going to result
+
+1468
+00:29:15,960 --> 00:29:16,960
+in a mutation
+
+1469
+00:29:16,960 --> 00:29:18,960
+such that you get malformation
+
+1470
+00:29:18,960 --> 00:29:20,960
+or misfolding of the protein
+
+1471
+00:29:20,960 --> 00:29:21,960
+I should say
+
+1472
+00:29:21,960 --> 00:29:22,960
+and the protein is going to accumulate
+
+1473
+00:29:22,960 --> 00:29:25,960
+in the endoplasmic reticulum
+
+1474
+00:29:25,960 --> 00:29:26,960
+alright
+
+1475
+00:29:26,960 --> 00:29:27,960
+board point
+
+1476
+00:29:27,960 --> 00:29:28,960
+endoplasmic reticulum
+
+1477
+00:29:28,960 --> 00:29:29,960
+now
+
+1478
+00:29:29,960 --> 00:29:30,960
+one possibility
+
+1479
+00:29:30,960 --> 00:29:31,960
+is that the patients
+
+1480
+00:29:31,960 --> 00:29:32,960
+could be heterozygates
+
+1481
+00:29:32,960 --> 00:29:33,960
+they could have one normal allele
+
+1482
+00:29:33,960 --> 00:29:34,960
+the M allele
+
+1483
+00:29:34,960 --> 00:29:35,960
+and one abnormal allele
+
+1484
+00:29:35,960 --> 00:29:36,960
+the Z allele
+
+1485
+00:29:36,960 --> 00:29:37,960
+these patients are usually
+
+1486
+00:29:37,960 --> 00:29:38,960
+asymptomatic
+
+1487
+00:29:38,960 --> 00:29:39,960
+but there will be
+
+1488
+00:29:39,960 --> 00:29:40,960
+a decreased circulating level
+
+1489
+00:29:40,960 --> 00:29:42,960
+of alpha 1 antitrypsin
+
+1490
+00:29:42,960 --> 00:29:43,960
+that's because
+
+1491
+00:29:43,960 --> 00:29:44,960
+they're only producing
+
+1492
+00:29:44,960 --> 00:29:45,960
+half of the normal
+
+1493
+00:29:45,960 --> 00:29:47,960
+these patients usually are fine
+
+1494
+00:29:47,960 --> 00:29:48,960
+however
+
+1495
+00:29:48,960 --> 00:29:49,960
+if the patient smokes
+
+1496
+00:29:49,960 --> 00:29:51,960
+there's a really high risk
+
+1497
+00:29:51,960 --> 00:29:52,960
+for the development
+
+1498
+00:29:52,960 --> 00:29:53,960
+of emphysema
+
+1499
+00:29:53,960 --> 00:29:54,960
+and so the way by which
+
+1500
+00:29:54,960 --> 00:29:55,960
+we would treat these patients
+
+1501
+00:29:55,960 --> 00:29:56,960
+is to make sure
+
+1502
+00:29:56,960 --> 00:29:57,960
+make sure
+
+1503
+00:29:57,960 --> 00:29:58,960
+make sure
+
+1504
+00:29:58,960 --> 00:29:59,960
+that they don't smoke
+
+1505
+00:29:59,960 --> 00:30:00,960
+so that's the
+
+1506
+00:30:00,960 --> 00:30:02,960
+the PIMZ heterozygates
+
+1507
+00:30:02,960 --> 00:30:04,960
+now it's also possible
+
+1508
+00:30:04,960 --> 00:30:05,960
+for a patient to have
+
+1509
+00:30:05,960 --> 00:30:06,960
+PIZZ
+
+1510
+00:30:06,960 --> 00:30:07,960
+i.e. they're homozygous
+
+1511
+00:30:07,960 --> 00:30:08,960
+for the mutation
+
+1512
+00:30:08,960 --> 00:30:09,960
+if they're homozygous
+
+1513
+00:30:09,960 --> 00:30:10,960
+for the mutation
+
+1514
+00:30:10,960 --> 00:30:11,960
+these are the classic patients
+
+1515
+00:30:11,960 --> 00:30:12,960
+who get
+
+1516
+00:30:12,960 --> 00:30:13,960
+panacinar emphysema
+
+1517
+00:30:13,960 --> 00:30:15,960
+and cirrhosis
+
+1518
+00:30:15,960 --> 00:30:16,960
+so this is the classic patient
+
+1519
+00:30:16,960 --> 00:30:17,960
+who's going to get
+
+1520
+00:30:17,960 --> 00:30:19,960
+panacinar emphysema
+
+1521
+00:30:19,960 --> 00:30:20,960
+plus cirrhosis
+
+1522
+00:30:20,960 --> 00:30:21,960
+and i've already explained
+
+1523
+00:30:21,960 --> 00:30:23,960
+the cirrhosis to you
+
+1524
+00:30:23,960 --> 00:30:24,960
+now clinically
+
+1525
+00:30:24,960 --> 00:30:25,960
+the features are going
+
+1526
+00:30:25,960 --> 00:30:26,960
+to be the following
+
+1527
+00:30:26,960 --> 00:30:27,960
+the patients will have
+
+1528
+00:30:27,960 --> 00:30:28,960
+dyspnea
+
+1529
+00:30:28,960 --> 00:30:29,960
+shortness of breath
+
+1530
+00:30:29,960 --> 00:30:30,960
+they're going to have
+
+1531
+00:30:30,960 --> 00:30:31,960
+cough but they won't
+
+1532
+00:30:31,960 --> 00:30:32,960
+produce sputum
+
+1533
+00:30:32,960 --> 00:30:33,960
+this is not chronic
+
+1534
+00:30:33,960 --> 00:30:34,960
+bronchitis
+
+1535
+00:30:34,960 --> 00:30:35,960
+so they're not going to
+
+1536
+00:30:35,960 --> 00:30:36,960
+be coughing up
+
+1537
+00:30:36,960 --> 00:30:37,960
+a ton of mucus
+
+1538
+00:30:37,960 --> 00:30:38,960
+the patients are going
+
+1539
+00:30:38,960 --> 00:30:39,960
+to have prolonged
+
+1540
+00:30:39,960 --> 00:30:41,960
+expiration with pursed lips
+
+1541
+00:30:41,960 --> 00:30:42,960
+this is very very
+
+1542
+00:30:42,960 --> 00:30:43,960
+very high yield
+
+1543
+00:30:43,960 --> 00:30:44,960
+so again when you think
+
+1544
+00:30:44,960 --> 00:30:45,960
+about this
+
+1545
+00:30:45,960 --> 00:30:47,960
+if this is a small airway
+
+1546
+00:30:47,960 --> 00:30:48,960
+and you know that the
+
+1547
+00:30:48,960 --> 00:30:49,960
+problem is that they lost
+
+1548
+00:30:49,960 --> 00:30:50,960
+the elastic recoil
+
+1549
+00:30:50,960 --> 00:30:51,960
+that was holding this
+
+1550
+00:30:51,960 --> 00:30:52,960
+airway open
+
+1551
+00:30:52,960 --> 00:30:53,960
+because of the emphysema
+
+1552
+00:30:53,960 --> 00:30:54,960
+so that now when they
+
+1553
+00:30:54,960 --> 00:30:55,960
+accelerate air
+
+1554
+00:30:55,960 --> 00:30:56,960
+they're also going to be
+
+1555
+00:30:56,960 --> 00:30:57,960
+dragging this wall
+
+1556
+00:30:57,960 --> 00:30:58,960
+and this wall is going
+
+1557
+00:30:58,960 --> 00:30:59,960
+to collapse shut
+
+1558
+00:30:59,960 --> 00:31:01,960
+imagine if the patient
+
+1559
+00:31:01,960 --> 00:31:03,960
+is creating pursed lips
+
+1560
+00:31:03,960 --> 00:31:04,960
+so that they increase
+
+1561
+00:31:04,960 --> 00:31:05,960
+the back pressure
+
+1562
+00:31:05,960 --> 00:31:06,960
+from above
+
+1563
+00:31:06,960 --> 00:31:07,960
+then that's going to
+
+1564
+00:31:07,960 --> 00:31:08,960
+create a little bit
+
+1565
+00:31:08,960 --> 00:31:09,960
+of back pressure here
+
+1566
+00:31:09,960 --> 00:31:10,960
+and that back pressure
+
+1567
+00:31:10,960 --> 00:31:11,960
+is going to force
+
+1568
+00:31:11,960 --> 00:31:12,960
+these walls open
+
+1569
+00:31:12,960 --> 00:31:13,960
+so by creating a little
+
+1570
+00:31:13,960 --> 00:31:14,960
+bit of back pressure
+
+1571
+00:31:14,960 --> 00:31:15,960
+and forcing the walls
+
+1572
+00:31:15,960 --> 00:31:16,960
+open
+
+1573
+00:31:16,960 --> 00:31:17,960
+the patient will then
+
+1574
+00:31:17,960 --> 00:31:18,960
+be able to get air
+
+1575
+00:31:18,960 --> 00:31:19,960
+out
+
+1576
+00:31:19,960 --> 00:31:20,960
+albeit slowly
+
+1577
+00:31:20,960 --> 00:31:21,960
+but they'll at least
+
+1578
+00:31:21,960 --> 00:31:22,960
+be able to get air out
+
+1579
+00:31:22,960 --> 00:31:23,960
+and so what these patients
+
+1580
+00:31:23,960 --> 00:31:24,960
+do clinically
+
+1581
+00:31:24,960 --> 00:31:25,960
+is that they
+
+1582
+00:31:25,960 --> 00:31:27,960
+prolong their expiration
+
+1583
+00:31:27,960 --> 00:31:28,960
+and they purse their lips
+
+1584
+00:31:28,960 --> 00:31:29,960
+so that they generate
+
+1585
+00:31:29,960 --> 00:31:30,960
+a little bit of back
+
+1586
+00:31:30,960 --> 00:31:31,960
+pressure
+
+1587
+00:31:31,960 --> 00:31:32,960
+which will then
+
+1588
+00:31:32,960 --> 00:31:33,960
+allow air
+
+1589
+00:31:33,960 --> 00:31:34,960
+to be able to move
+
+1590
+00:31:34,960 --> 00:31:35,960
+in and out
+
+1591
+00:31:35,960 --> 00:31:36,960
+and so they can maintain
+
+1592
+00:31:36,960 --> 00:31:37,960
+their oxygenation
+
+1593
+00:31:37,960 --> 00:31:38,960
+but they have to breathe
+
+1594
+00:31:38,960 --> 00:31:39,960
+in this funny way
+
+1595
+00:31:39,960 --> 00:31:40,960
+and so that's why
+
+1596
+00:31:40,960 --> 00:31:41,960
+they're called pink puffers
+
+1597
+00:31:41,960 --> 00:31:42,960
+they stay pink
+
+1598
+00:31:42,960 --> 00:31:43,960
+because they're oxygenating
+
+1599
+00:31:43,960 --> 00:31:44,960
+because they can
+
+1600
+00:31:44,960 --> 00:31:46,960
+overcome that obstruction
+
+1601
+00:31:46,960 --> 00:31:47,960
+but they have that
+
+1602
+00:31:47,960 --> 00:31:48,960
+particular pursed lip
+
+1603
+00:31:48,960 --> 00:31:49,960
+appearance
+
+1604
+00:31:49,960 --> 00:31:50,960
+now of course this requires
+
+1605
+00:31:50,960 --> 00:31:51,960
+a tremendous amount
+
+1606
+00:31:51,960 --> 00:31:52,960
+of work
+
+1607
+00:31:52,960 --> 00:31:53,960
+they've got to breathe
+
+1608
+00:31:53,960 --> 00:31:54,960
+slowly
+
+1609
+00:31:54,960 --> 00:31:55,960
+and breathe in a very
+
+1610
+00:31:55,960 --> 00:31:56,960
+mechanical way
+
+1611
+00:31:56,960 --> 00:31:57,960
+or you know
+
+1612
+00:31:57,960 --> 00:31:58,960
+in a very particular way
+
+1613
+00:31:58,960 --> 00:31:59,960
+and that requires
+
+1614
+00:31:59,960 --> 00:32:00,960
+basically exercise
+
+1615
+00:32:00,960 --> 00:32:01,960
+and so they lose weight
+
+1616
+00:32:01,960 --> 00:32:03,960
+and classically
+
+1617
+00:32:03,960 --> 00:32:04,960
+you'll recall
+
+1618
+00:32:04,960 --> 00:32:05,960
+that these patients
+
+1619
+00:32:05,960 --> 00:32:06,960
+they're very very thin
+
+1620
+00:32:06,960 --> 00:32:07,960
+and then the final change
+
+1621
+00:32:07,960 --> 00:32:08,960
+that we're going to see
+
+1622
+00:32:08,960 --> 00:32:09,960
+in these patients
+
+1623
+00:32:09,960 --> 00:32:10,960
+is that there's going
+
+1624
+00:32:10,960 --> 00:32:11,960
+to be an increased
+
+1625
+00:32:11,960 --> 00:32:12,960
+AP diameter
+
+1626
+00:32:12,960 --> 00:32:13,960
+of the chest
+
+1627
+00:32:13,960 --> 00:32:14,960
+this is super high yield
+
+1628
+00:32:14,960 --> 00:32:15,960
+as well
+
+1629
+00:32:15,960 --> 00:32:16,960
+let me remind you
+
+1630
+00:32:16,960 --> 00:32:17,960
+from normal physiology
+
+1631
+00:32:17,960 --> 00:32:18,960
+that the tendency
+
+1632
+00:32:18,960 --> 00:32:19,960
+of the lung
+
+1633
+00:32:19,960 --> 00:32:20,960
+is to collapse in
+
+1634
+00:32:20,960 --> 00:32:21,960
+the alveoli
+
+1635
+00:32:21,960 --> 00:32:22,960
+have elastic recoil
+
+1636
+00:32:22,960 --> 00:32:23,960
+and they would like
+
+1637
+00:32:23,960 --> 00:32:24,960
+to collapse in
+
+1638
+00:32:24,960 --> 00:32:25,960
+and the tendency
+
+1639
+00:32:25,960 --> 00:32:26,960
+of the chest wall
+
+1640
+00:32:26,960 --> 00:32:27,960
+is to expand out
+
+1641
+00:32:27,960 --> 00:32:28,960
+and so normally
+
+1642
+00:32:28,960 --> 00:32:29,960
+the collapsing
+
+1643
+00:32:29,960 --> 00:32:30,960
+in tendency
+
+1644
+00:32:30,960 --> 00:32:31,960
+of the lung
+
+1645
+00:32:31,960 --> 00:32:32,960
+is in balance
+
+1646
+00:32:32,960 --> 00:32:34,960
+with the expanding
+
+1647
+00:32:34,960 --> 00:32:35,960
+out desire
+
+1648
+00:32:35,960 --> 00:32:37,960
+of the chest wall
+
+1649
+00:32:37,960 --> 00:32:38,960
+now do you know
+
+1650
+00:32:38,960 --> 00:32:39,960
+that point
+
+1651
+00:32:39,960 --> 00:32:40,960
+those two meet
+
+1652
+00:32:40,960 --> 00:32:41,960
+so there's two curves
+
+1653
+00:32:41,960 --> 00:32:42,960
+and those two curves
+
+1654
+00:32:42,960 --> 00:32:43,960
+meet at a particular point
+
+1655
+00:32:43,960 --> 00:32:44,960
+which board examiners
+
+1656
+00:32:44,960 --> 00:32:45,960
+love to ask you
+
+1657
+00:32:45,960 --> 00:32:46,960
+what's that set point
+
+1658
+00:32:46,960 --> 00:32:47,960
+called
+
+1659
+00:32:47,960 --> 00:32:48,960
+that set point
+
+1660
+00:32:48,960 --> 00:32:49,960
+is called
+
+1661
+00:32:49,960 --> 00:32:50,960
+the functional residual
+
+1662
+00:32:50,960 --> 00:32:51,960
+capacity
+
+1663
+00:32:51,960 --> 00:32:52,960
+or the FRC
+
+1664
+00:32:52,960 --> 00:32:54,960
+imagine if a patient
+
+1665
+00:32:54,960 --> 00:32:55,960
+has emphysema
+
+1666
+00:32:55,960 --> 00:32:56,960
+they've lost the elastic
+
+1667
+00:32:56,960 --> 00:32:57,960
+recoil of the lung
+
+1668
+00:32:57,960 --> 00:32:58,960
+correct
+
+1669
+00:32:58,960 --> 00:32:59,960
+so now
+
+1670
+00:32:59,960 --> 00:33:00,960
+the chest wall
+
+1671
+00:33:00,960 --> 00:33:01,960
+is going to win
+
+1672
+00:33:01,960 --> 00:33:02,960
+that tug of war
+
+1673
+00:33:02,960 --> 00:33:03,960
+and it's going to be able
+
+1674
+00:33:03,960 --> 00:33:04,960
+to expand out
+
+1675
+00:33:04,960 --> 00:33:05,960
+a little more
+
+1676
+00:33:05,960 --> 00:33:06,960
+and when it expands out
+
+1677
+00:33:06,960 --> 00:33:07,960
+a little more
+
+1678
+00:33:07,960 --> 00:33:08,960
+of the chest
+
+1679
+00:33:08,960 --> 00:33:09,960
+and so this is a classic
+
+1680
+00:33:09,960 --> 00:33:10,960
+finding
+
+1681
+00:33:10,960 --> 00:33:11,960
+in patients
+
+1682
+00:33:11,960 --> 00:33:12,960
+with emphysema
+
+1683
+00:33:12,960 --> 00:33:13,960
+that they have an increased
+
+1684
+00:33:13,960 --> 00:33:14,960
+AP diameter
+
+1685
+00:33:14,960 --> 00:33:15,960
+of the chest
+
+1686
+00:33:15,960 --> 00:33:16,960
+now let me remind you
+
+1687
+00:33:16,960 --> 00:33:17,960
+because examiners
+
+1688
+00:33:17,960 --> 00:33:18,960
+will ask you this
+
+1689
+00:33:18,960 --> 00:33:19,960
+trying to tie in
+
+1690
+00:33:19,960 --> 00:33:20,960
+a little bit of physiology
+
+1691
+00:33:20,960 --> 00:33:21,960
+that when you lose
+
+1692
+00:33:21,960 --> 00:33:22,960
+this elastic recoil
+
+1693
+00:33:22,960 --> 00:33:23,960
+of the lung
+
+1694
+00:33:23,960 --> 00:33:24,960
+and the chest goes out
+
+1695
+00:33:24,960 --> 00:33:25,960
+a little bit
+
+1696
+00:33:25,960 --> 00:33:26,960
+you're going to reset
+
+1697
+00:33:26,960 --> 00:33:27,960
+the FRC
+
+1698
+00:33:27,960 --> 00:33:28,960
+or the functional residual
+
+1699
+00:33:28,960 --> 00:33:29,960
+capacity
+
+1700
+00:33:29,960 --> 00:33:30,960
+so that the FRC
+
+1701
+00:33:30,960 --> 00:33:31,960
+will now be increased
+
+1702
+00:33:31,960 --> 00:33:32,960
+similarly I'll just
+
+1703
+00:33:32,960 --> 00:33:33,960
+give you another example
+
+1704
+00:33:33,960 --> 00:33:34,960
+because it's a board point
+
+1705
+00:33:34,960 --> 00:33:35,960
+that comes up
+
+1706
+00:33:35,960 --> 00:33:36,960
+it's a derivative
+
+1707
+00:33:36,960 --> 00:33:37,960
+of this discussion
+
+1708
+00:33:37,960 --> 00:33:38,960
+if I had fibrosis
+
+1709
+00:33:38,960 --> 00:33:39,960
+of the lung
+
+1710
+00:33:39,960 --> 00:33:40,960
+I would increase
+
+1711
+00:33:40,960 --> 00:33:42,960
+the elastic recoil
+
+1712
+00:33:42,960 --> 00:33:43,960
+of the lung
+
+1713
+00:33:43,960 --> 00:33:44,960
+and therefore I would
+
+1714
+00:33:44,960 --> 00:33:45,960
+actually pull the chest
+
+1715
+00:33:45,960 --> 00:33:46,960
+wall in a little bit
+
+1716
+00:33:46,960 --> 00:33:47,960
+and that would decrease
+
+1717
+00:33:47,960 --> 00:33:48,960
+for example
+
+1718
+00:33:48,960 --> 00:33:49,960
+the FRC
+
+1719
+00:33:49,960 --> 00:33:50,960
+or the functional residual
+
+1720
+00:33:50,960 --> 00:33:51,960
+capacity
+
+1721
+00:33:51,960 --> 00:33:53,960
+here's a picture
+
+1722
+00:33:53,960 --> 00:33:54,960
+of barrel chesting
+
+1723
+00:33:54,960 --> 00:33:55,960
+you can clearly see
+
+1724
+00:33:55,960 --> 00:33:56,960
+that this sort of
+
+1725
+00:33:56,960 --> 00:33:57,960
+looks like a barrel
+
+1726
+00:33:57,960 --> 00:33:58,960
+but most importantly
+
+1727
+00:33:58,960 --> 00:33:59,960
+you've got an increase
+
+1728
+00:33:59,960 --> 00:34:01,960
+in the AP diameter
+
+1729
+00:34:01,960 --> 00:34:04,960
+of the chest
+
+1730
+00:34:04,960 --> 00:34:05,960
+a few late complications
+
+1731
+00:34:05,960 --> 00:34:06,960
+of emphysema
+
+1732
+00:34:06,960 --> 00:34:07,960
+the first is hypoxemia
+
+1733
+00:34:07,960 --> 00:34:08,960
+now basically
+
+1734
+00:34:08,960 --> 00:34:09,960
+these are pink puffers
+
+1735
+00:34:09,960 --> 00:34:10,960
+and they're able
+
+1736
+00:34:10,960 --> 00:34:11,960
+to maintain
+
+1737
+00:34:11,960 --> 00:34:12,960
+gas exchange
+
+1738
+00:34:12,960 --> 00:34:13,960
+appropriately
+
+1739
+00:34:13,960 --> 00:34:14,960
+because they keep
+
+1740
+00:34:14,960 --> 00:34:15,960
+their lips pursed
+
+1741
+00:34:15,960 --> 00:34:16,960
+and they breathe slowly
+
+1742
+00:34:16,960 --> 00:34:17,960
+with prolonged expiration
+
+1743
+00:34:17,960 --> 00:34:18,960
+however
+
+1744
+00:34:18,960 --> 00:34:19,960
+eventually imagine
+
+1745
+00:34:19,960 --> 00:34:20,960
+if these are all
+
+1746
+00:34:20,960 --> 00:34:21,960
+the air sacs
+
+1747
+00:34:21,960 --> 00:34:22,960
+and we're destroying
+
+1748
+00:34:22,960 --> 00:34:23,960
+these air sacs
+
+1749
+00:34:23,960 --> 00:34:24,960
+what's going to eventually
+
+1750
+00:34:24,960 --> 00:34:25,960
+happen is not only
+
+1751
+00:34:25,960 --> 00:34:26,960
+are you losing
+
+1752
+00:34:26,960 --> 00:34:27,960
+the air sacs
+
+1753
+00:34:27,960 --> 00:34:28,960
+in the recoil
+
+1754
+00:34:28,960 --> 00:34:29,960
+but you're also losing
+
+1755
+00:34:29,960 --> 00:34:30,960
+the capillaries
+
+1756
+00:34:30,960 --> 00:34:31,960
+so over time
+
+1757
+00:34:31,960 --> 00:34:32,960
+as you lose
+
+1758
+00:34:32,960 --> 00:34:33,960
+the capillaries
+
+1759
+00:34:33,960 --> 00:34:34,960
+you're going to lose
+
+1760
+00:34:34,960 --> 00:34:35,960
+the bed
+
+1761
+00:34:35,960 --> 00:34:36,960
+across which you're
+
+1762
+00:34:36,960 --> 00:34:37,960
+having oxygen
+
+1763
+00:34:37,960 --> 00:34:38,960
+exchange occur
+
+1764
+00:34:38,960 --> 00:34:39,960
+and so these patients
+
+1765
+00:34:39,960 --> 00:34:40,960
+will become hypoxemic
+
+1766
+00:34:40,960 --> 00:34:41,960
+which means that
+
+1767
+00:34:41,960 --> 00:34:42,960
+they won't be able
+
+1768
+00:34:42,960 --> 00:34:43,960
+to generate
+
+1769
+00:34:43,960 --> 00:34:44,960
+a good
+
+1770
+00:34:44,960 --> 00:34:45,960
+PAO2
+
+1771
+00:34:45,960 --> 00:34:46,960
+remember the hypoxemia
+
+1772
+00:34:46,960 --> 00:34:47,960
+has a PAO2
+
+1773
+00:34:47,960 --> 00:34:48,960
+less than 60
+
+1774
+00:34:48,960 --> 00:34:49,960
+okay
+
+1775
+00:34:49,960 --> 00:34:50,960
+so that's going to be
+
+1776
+00:34:50,960 --> 00:34:51,960
+a problem
+
+1777
+00:34:51,960 --> 00:34:52,960
+and then of course
+
+1778
+00:34:52,960 --> 00:34:53,960
+another problem
+
+1779
+00:34:53,960 --> 00:34:54,960
+as I've already discussed
+
+1780
+00:34:54,960 --> 00:34:55,960
+is eventually
+
+1781
+00:34:55,960 --> 00:34:56,960
+if they get hypoxemia
+
+1782
+00:34:56,960 --> 00:34:57,960
+then the blood vessels
+
+1783
+00:34:57,960 --> 00:34:58,960
+are going to constrict
+
+1784
+00:34:58,960 --> 00:34:59,960
+and as the blood vessels
+
+1785
+00:34:59,960 --> 00:35:00,960
+constrict the right heart
+
+1786
+00:35:00,960 --> 00:35:01,960
+pump against those
+
+1787
+00:35:01,960 --> 00:35:02,960
+blood vessels
+
+1788
+00:35:02,960 --> 00:35:03,960
+and when the right heart
+
+1789
+00:35:03,960 --> 00:35:04,960
+pumps against those
+
+1790
+00:35:04,960 --> 00:35:05,960
+blood vessels
+
+1791
+00:35:05,960 --> 00:35:06,960
+it will first
+
+1792
+00:35:06,960 --> 00:35:07,960
+undergo hypertrophy
+
+1793
+00:35:07,960 --> 00:35:08,960
+but then eventually
+
+1794
+00:35:08,960 --> 00:35:09,960
+it will undergo
+
+1795
+00:35:09,960 --> 00:35:10,960
+failure
+
+1796
+00:35:10,960 --> 00:35:11,960
+and that's called
+
+1797
+00:35:11,960 --> 00:35:12,960
+core pulmonale
+
+1798
+00:35:12,960 --> 00:35:13,960
+I've already explained
+
+1799
+00:35:13,960 --> 00:35:14,960
+this previously
+
+1800
+00:35:14,960 --> 00:35:15,960
+alright
+
+1801
+00:35:15,960 --> 00:35:16,960
+so the next of the COPDs
+
+1802
+00:35:16,960 --> 00:35:17,960
+is asthma
+
+1803
+00:35:17,960 --> 00:35:19,960
+and what I'd like
+
+1804
+00:35:19,960 --> 00:35:20,960
+to say about asthma
+
+1805
+00:35:20,960 --> 00:35:21,960
+is that this is
+
+1806
+00:35:21,960 --> 00:35:22,960
+a chronic obstructive
+
+1807
+00:35:22,960 --> 00:35:23,960
+pulmonary disease
+
+1808
+00:35:23,960 --> 00:35:24,960
+because you get
+
+1809
+00:35:24,960 --> 00:35:25,960
+airway bronchoconstriction
+
+1810
+00:35:25,960 --> 00:35:26,960
+we're all familiar
+
+1811
+00:35:26,960 --> 00:35:27,960
+with asthma
+
+1812
+00:35:27,960 --> 00:35:28,960
+that we recognize
+
+1813
+00:35:28,960 --> 00:35:29,960
+that this is the key
+
+1814
+00:35:29,960 --> 00:35:30,960
+feature of the disease
+
+1815
+00:35:30,960 --> 00:35:31,960
+of course this is
+
+1816
+00:35:31,960 --> 00:35:32,960
+reversible
+
+1817
+00:35:32,960 --> 00:35:33,960
+and of course
+
+1818
+00:35:33,960 --> 00:35:34,960
+what induces
+
+1819
+00:35:34,960 --> 00:35:35,960
+the asthmatic attack
+
+1820
+00:35:35,960 --> 00:35:36,960
+is usually
+
+1821
+00:35:36,960 --> 00:35:37,960
+exposure to
+
+1822
+00:35:37,960 --> 00:35:38,960
+an allergic stimulus
+
+1823
+00:35:38,960 --> 00:35:39,960
+resulting in a
+
+1824
+00:35:39,960 --> 00:35:40,960
+type 1 hypersensitivity
+
+1825
+00:35:40,960 --> 00:35:41,960
+reaction
+
+1826
+00:35:42,960 --> 00:35:43,960
+now asthma presents
+
+1827
+00:35:43,960 --> 00:35:44,960
+in childhood
+
+1828
+00:35:44,960 --> 00:35:45,960
+and it's most often
+
+1829
+00:35:45,960 --> 00:35:46,960
+associated with
+
+1830
+00:35:46,960 --> 00:35:47,960
+other types of
+
+1831
+00:35:47,960 --> 00:35:48,960
+allergic conditions
+
+1832
+00:35:48,960 --> 00:35:50,960
+like allergic rhinitis
+
+1833
+00:35:50,960 --> 00:35:51,960
+eczema
+
+1834
+00:35:51,960 --> 00:35:52,960
+and often
+
+1835
+00:35:52,960 --> 00:35:53,960
+there's a family history
+
+1836
+00:35:53,960 --> 00:35:54,960
+of these types
+
+1837
+00:35:54,960 --> 00:35:55,960
+of atopic reactions
+
+1838
+00:35:55,960 --> 00:35:56,960
+the pathogenesis
+
+1839
+00:35:56,960 --> 00:35:57,960
+of the disease
+
+1840
+00:35:57,960 --> 00:35:58,960
+is that the patient
+
+1841
+00:35:58,960 --> 00:35:59,960
+gets exposed
+
+1842
+00:35:59,960 --> 00:36:00,960
+now this is going to be
+
+1843
+00:36:00,960 --> 00:36:01,960
+a genetically
+
+1844
+00:36:01,960 --> 00:36:02,960
+susceptible patient
+
+1845
+00:36:02,960 --> 00:36:03,960
+alright
+
+1846
+00:36:03,960 --> 00:36:04,960
+so some patient
+
+1847
+00:36:04,960 --> 00:36:05,960
+that's got a family
+
+1848
+00:36:05,960 --> 00:36:06,960
+history and carries
+
+1849
+00:36:06,960 --> 00:36:07,960
+a set of genes
+
+1850
+00:36:07,960 --> 00:36:08,960
+that are going to
+
+1851
+00:36:08,960 --> 00:36:09,960
+make them susceptible
+
+1852
+00:36:09,960 --> 00:36:10,960
+to the development
+
+1853
+00:36:10,960 --> 00:36:11,960
+of asthma
+
+1854
+00:36:11,960 --> 00:36:12,960
+now this patient
+
+1855
+00:36:12,960 --> 00:36:13,960
+they get exposed
+
+1856
+00:36:13,960 --> 00:36:14,960
+to an allergen
+
+1857
+00:36:14,960 --> 00:36:15,960
+that allergen
+
+1858
+00:36:15,960 --> 00:36:16,960
+induces the Th2
+
+1859
+00:36:16,960 --> 00:36:17,960
+phenotype
+
+1860
+00:36:17,960 --> 00:36:18,960
+in C4 positive T cells
+
+1861
+00:36:18,960 --> 00:36:19,960
+which then results
+
+1862
+00:36:19,960 --> 00:36:20,960
+in the T cells
+
+1863
+00:36:20,960 --> 00:36:21,960
+between IL-4
+
+1864
+00:36:21,960 --> 00:36:22,960
+IL-5
+
+1865
+00:36:22,960 --> 00:36:23,960
+and IL-10
+
+1866
+00:36:23,960 --> 00:36:24,960
+remember that
+
+1867
+00:36:24,960 --> 00:36:25,960
+you need to know
+
+1868
+00:36:25,960 --> 00:36:26,960
+for examination
+
+1869
+00:36:26,960 --> 00:36:27,960
+purposes
+
+1870
+00:36:27,960 --> 00:36:28,960
+that the classic
+
+1871
+00:36:28,960 --> 00:36:29,960
+cytokines produced
+
+1872
+00:36:29,960 --> 00:36:30,960
+by the Th2
+
+1873
+00:36:30,960 --> 00:36:31,960
+helper cells
+
+1874
+00:36:31,960 --> 00:36:32,960
+subtype
+
+1875
+00:36:32,960 --> 00:36:33,960
+is IL-4
+
+1876
+00:36:33,960 --> 00:36:34,960
+5 and 10
+
+1877
+00:36:34,960 --> 00:36:35,960
+so 4, 5, 10
+
+1878
+00:36:35,960 --> 00:36:36,960
+that's what I remember
+
+1879
+00:36:36,960 --> 00:36:37,960
+now when I think
+
+1880
+00:36:37,960 --> 00:36:38,960
+about IL-4
+
+1881
+00:36:38,960 --> 00:36:39,960
+you need to know
+
+1882
+00:36:39,960 --> 00:36:40,960
+what it does
+
+1883
+00:36:40,960 --> 00:36:41,960
+and the key thing
+
+1884
+00:36:41,960 --> 00:36:42,960
+that it's going to do
+
+1885
+00:36:42,960 --> 00:36:43,960
+is it is going to
+
+1886
+00:36:43,960 --> 00:36:44,960
+allow the plasma cell
+
+1887
+00:36:44,960 --> 00:36:45,960
+to class switch
+
+1888
+00:36:45,960 --> 00:36:46,960
+to IgE
+
+1889
+00:36:46,960 --> 00:36:47,960
+so it allows for
+
+1890
+00:36:47,960 --> 00:36:48,960
+the production of IgE
+
+1891
+00:36:48,960 --> 00:36:49,960
+and that IgE
+
+1892
+00:36:49,960 --> 00:36:50,960
+is going to be important
+
+1893
+00:36:50,960 --> 00:36:51,960
+as we're all aware of
+
+1894
+00:36:51,960 --> 00:36:52,960
+and IgE is going to
+
+1895
+00:36:52,960 --> 00:36:53,960
+mediate it
+
+1896
+00:36:53,960 --> 00:36:54,960
+as we're going to
+
+1897
+00:36:54,960 --> 00:36:55,960
+talk about
+
+1898
+00:36:55,960 --> 00:36:56,960
+on the next slide
+
+1899
+00:36:56,960 --> 00:36:57,960
+you need to know
+
+1900
+00:36:57,960 --> 00:36:58,960
+that IL-5
+
+1901
+00:36:58,960 --> 00:36:59,960
+is important
+
+1902
+00:36:59,960 --> 00:37:00,960
+for calling in
+
+1903
+00:37:00,960 --> 00:37:01,960
+eosinophils
+
+1904
+00:37:01,960 --> 00:37:02,960
+this is all over
+
+1905
+00:37:02,960 --> 00:37:03,960
+examinations
+
+1906
+00:37:03,960 --> 00:37:04,960
+IL-5 calls in
+
+1907
+00:37:04,960 --> 00:37:05,960
+eosinophils
+
+1908
+00:37:05,960 --> 00:37:06,960
+so that's important
+
+1909
+00:37:06,960 --> 00:37:07,960
+to know
+
+1910
+00:37:07,960 --> 00:37:08,960
+now what does IL-10
+
+1911
+00:37:08,960 --> 00:37:09,960
+do?
+
+1912
+00:37:09,960 --> 00:37:10,960
+well IL-10
+
+1913
+00:37:10,960 --> 00:37:11,960
+it has the ability
+
+1914
+00:37:11,960 --> 00:37:12,960
+to inhibit the production
+
+1915
+00:37:12,960 --> 00:37:14,960
+of Th1 helper T cells
+
+1916
+00:37:14,960 --> 00:37:15,960
+and instead
+
+1917
+00:37:15,960 --> 00:37:16,960
+to induce the production
+
+1918
+00:37:16,960 --> 00:37:18,960
+of Th2 helper T cells
+
+1919
+00:37:18,960 --> 00:37:19,960
+so basically
+
+1920
+00:37:19,960 --> 00:37:20,960
+it helps to promote
+
+1921
+00:37:20,960 --> 00:37:22,960
+this overall reaction
+
+1922
+00:37:22,960 --> 00:37:23,960
+so IL-10
+
+1923
+00:37:23,960 --> 00:37:24,960
+again it stimulates
+
+1924
+00:37:24,960 --> 00:37:25,960
+Th2 subtype
+
+1925
+00:37:25,960 --> 00:37:26,960
+of helper T cells
+
+1926
+00:37:26,960 --> 00:37:27,960
+and inhibits
+
+1927
+00:37:27,960 --> 00:37:28,960
+the Th1 subtype
+
+1928
+00:37:28,960 --> 00:37:29,960
+of helper T cells
+
+1929
+00:37:29,960 --> 00:37:31,960
+now these patients
+
+1930
+00:37:31,960 --> 00:37:32,960
+what will happen
+
+1931
+00:37:32,960 --> 00:37:33,960
+eventually
+
+1932
+00:37:33,960 --> 00:37:34,960
+is that they will get
+
+1933
+00:37:34,960 --> 00:37:35,960
+re-exposed
+
+1934
+00:37:35,960 --> 00:37:36,960
+to the allergen
+
+1935
+00:37:36,960 --> 00:37:37,960
+and when they get
+
+1936
+00:37:37,960 --> 00:37:38,960
+re-exposed to the allergen
+
+1937
+00:37:38,960 --> 00:37:39,960
+remember that these
+
+1938
+00:37:39,960 --> 00:37:40,960
+are the patient's
+
+1939
+00:37:40,960 --> 00:37:41,960
+mass cells
+
+1940
+00:37:41,960 --> 00:37:42,960
+and the mass cells
+
+1941
+00:37:42,960 --> 00:37:43,960
+are going to have
+
+1942
+00:37:43,960 --> 00:37:44,960
+surface IgE
+
+1943
+00:37:44,960 --> 00:37:45,960
+is going to cross-link
+
+1944
+00:37:45,960 --> 00:37:47,960
+that surface IgE
+
+1945
+00:37:47,960 --> 00:37:48,960
+so that when
+
+1946
+00:37:48,960 --> 00:37:49,960
+when surface IgE
+
+1947
+00:37:49,960 --> 00:37:50,960
+molecules get
+
+1948
+00:37:50,960 --> 00:37:51,960
+cross-linked
+
+1949
+00:37:51,960 --> 00:37:52,960
+that's going to activate
+
+1950
+00:37:52,960 --> 00:37:53,960
+the mass cell
+
+1951
+00:37:53,960 --> 00:37:54,960
+very high yield to know
+
+1952
+00:37:54,960 --> 00:37:55,960
+for the purposes
+
+1953
+00:37:55,960 --> 00:37:56,960
+of board examination
+
+1954
+00:37:56,960 --> 00:37:57,960
+what exactly
+
+1955
+00:37:57,960 --> 00:37:58,960
+is going to happen
+
+1956
+00:37:58,960 --> 00:37:59,960
+when the mass cell
+
+1957
+00:37:59,960 --> 00:38:00,960
+is activated
+
+1958
+00:38:00,960 --> 00:38:01,960
+so when the mass cell
+
+1959
+00:38:01,960 --> 00:38:02,960
+is activated
+
+1960
+00:38:02,960 --> 00:38:03,960
+the very first thing
+
+1961
+00:38:03,960 --> 00:38:04,960
+that it does
+
+1962
+00:38:04,960 --> 00:38:05,960
+is it dumps
+
+1963
+00:38:05,960 --> 00:38:06,960
+pre-formed histamine
+
+1964
+00:38:06,960 --> 00:38:07,960
+granules
+
+1965
+00:38:07,960 --> 00:38:08,960
+those are released
+
+1966
+00:38:08,960 --> 00:38:09,960
+remember from immunology
+
+1967
+00:38:09,960 --> 00:38:10,960
+and from chapter
+
+1968
+00:38:10,960 --> 00:38:11,960
+from an earlier chapter
+
+1969
+00:38:11,960 --> 00:38:12,960
+in our discussion
+
+1970
+00:38:12,960 --> 00:38:13,960
+that when you release
+
+1971
+00:38:13,960 --> 00:38:14,960
+those pre-formed
+
+1972
+00:38:14,960 --> 00:38:15,960
+histamine granules
+
+1973
+00:38:15,960 --> 00:38:16,960
+that's going to result
+
+1974
+00:38:16,960 --> 00:38:18,960
+in histamine induced
+
+1975
+00:38:18,960 --> 00:38:20,960
+vasodilation
+
+1976
+00:38:20,960 --> 00:38:22,960
+and histamine induced
+
+1977
+00:38:22,960 --> 00:38:23,960
+increased vascular
+
+1978
+00:38:23,960 --> 00:38:24,960
+permeability
+
+1979
+00:38:24,960 --> 00:38:25,960
+again high yield
+
+1980
+00:38:25,960 --> 00:38:26,960
+for examination
+
+1981
+00:38:26,960 --> 00:38:27,960
+let me ask you
+
+1982
+00:38:27,960 --> 00:38:28,960
+one more question
+
+1983
+00:38:28,960 --> 00:38:29,960
+since we're on the topic
+
+1984
+00:38:29,960 --> 00:38:30,960
+the histamine induced
+
+1985
+00:38:30,960 --> 00:38:31,960
+vasodilation
+
+1986
+00:38:31,960 --> 00:38:32,960
+remember where does
+
+1987
+00:38:32,960 --> 00:38:33,960
+that occur
+
+1988
+00:38:33,960 --> 00:38:34,960
+at the arterioles
+
+1989
+00:38:34,960 --> 00:38:35,960
+and the leaking
+
+1990
+00:38:35,960 --> 00:38:36,960
+of fluid
+
+1991
+00:38:36,960 --> 00:38:37,960
+where does that occur
+
+1992
+00:38:37,960 --> 00:38:38,960
+in the post capillary
+
+1993
+00:38:38,960 --> 00:38:39,960
+venule
+
+1994
+00:38:39,960 --> 00:38:40,960
+that's high yield
+
+1995
+00:38:40,960 --> 00:38:41,960
+to be familiar with
+
+1996
+00:38:41,960 --> 00:38:42,960
+but I've already taught you
+
+1997
+00:38:42,960 --> 00:38:43,960
+in the lecture
+
+1998
+00:38:43,960 --> 00:38:44,960
+so anyway
+
+1999
+00:38:44,960 --> 00:38:45,960
+the first step
+
+2000
+00:38:45,960 --> 00:38:46,960
+is the activation
+
+2001
+00:38:46,960 --> 00:38:47,960
+of the mast cells
+
+2002
+00:38:47,960 --> 00:38:48,960
+and that's going to result
+
+2003
+00:38:48,960 --> 00:38:49,960
+in dumping
+
+2004
+00:38:49,960 --> 00:38:50,960
+of histamine initially
+
+2005
+00:38:50,960 --> 00:38:51,960
+now the mast cells
+
+2006
+00:38:51,960 --> 00:38:52,960
+then have a second phase
+
+2007
+00:38:52,960 --> 00:38:53,960
+by which they perpetuate
+
+2008
+00:38:53,960 --> 00:38:54,960
+inflammation
+
+2009
+00:38:54,960 --> 00:38:55,960
+very high yield to know
+
+2010
+00:38:55,960 --> 00:38:56,960
+the second phase
+
+2011
+00:38:56,960 --> 00:38:57,960
+by which they perpetuate
+
+2012
+00:38:57,960 --> 00:38:58,960
+inflammation
+
+2013
+00:38:58,960 --> 00:38:59,960
+is production
+
+2014
+00:38:59,960 --> 00:39:00,960
+of leukotrienes
+
+2015
+00:39:00,960 --> 00:39:01,960
+leukotrienes
+
+2016
+00:39:01,960 --> 00:39:02,960
+C4 D4
+
+2017
+00:39:02,960 --> 00:39:03,960
+and E4
+
+2018
+00:39:03,960 --> 00:39:04,960
+now remember that
+
+2019
+00:39:04,960 --> 00:39:05,960
+leukotrienes C4 D4
+
+2020
+00:39:05,960 --> 00:39:06,960
+and E4
+
+2021
+00:39:06,960 --> 00:39:07,960
+they do a couple things
+
+2022
+00:39:07,960 --> 00:39:08,960
+number one
+
+2023
+00:39:08,960 --> 00:39:09,960
+they cause vasoconstriction
+
+2024
+00:39:09,960 --> 00:39:10,960
+they constrict the smooth muscle
+
+2025
+00:39:10,960 --> 00:39:11,960
+of the blood vessels
+
+2026
+00:39:11,960 --> 00:39:12,960
+increase vascular permeability
+
+2027
+00:39:12,960 --> 00:39:14,960
+by constricting the pericytes
+
+2028
+00:39:14,960 --> 00:39:15,960
+and they cause
+
+2029
+00:39:15,960 --> 00:39:16,960
+bronchoconstriction
+
+2030
+00:39:16,960 --> 00:39:17,960
+by constricting
+
+2031
+00:39:17,960 --> 00:39:18,960
+the smooth muscle
+
+2032
+00:39:18,960 --> 00:39:19,960
+of the bronchus
+
+2033
+00:39:19,960 --> 00:39:20,960
+and if you go back
+
+2034
+00:39:20,960 --> 00:39:21,960
+to your inflammation lectures
+
+2035
+00:39:21,960 --> 00:39:22,960
+I summarized how
+
+2036
+00:39:22,960 --> 00:39:23,960
+leukotrienes work
+
+2037
+00:39:23,960 --> 00:39:24,960
+in a very simple way
+
+2038
+00:39:24,960 --> 00:39:25,960
+and hopefully you'll keep that
+
+2039
+00:39:25,960 --> 00:39:26,960
+in the back of your mind
+
+2040
+00:39:26,960 --> 00:39:28,960
+anyway the point is
+
+2041
+00:39:28,960 --> 00:39:30,960
+that the dumping of
+
+2042
+00:39:30,960 --> 00:39:31,960
+leukotrienes C4 D4
+
+2043
+00:39:31,960 --> 00:39:32,960
+and E4
+
+2044
+00:39:32,960 --> 00:39:33,960
+which again is an arachidonic
+
+2045
+00:39:33,960 --> 00:39:34,960
+acid metabolite
+
+2046
+00:39:34,960 --> 00:39:35,960
+will eventually result
+
+2047
+00:39:35,960 --> 00:39:37,960
+in bronchoconstriction
+
+2048
+00:39:37,960 --> 00:39:38,960
+so that is going to be
+
+2049
+00:39:38,960 --> 00:39:39,960
+the very first phase
+
+2050
+00:39:39,960 --> 00:39:40,960
+which is the activation
+
+2051
+00:39:40,960 --> 00:39:41,960
+of the mast cells
+
+2052
+00:39:41,960 --> 00:39:42,960
+is then going to result
+
+2053
+00:39:42,960 --> 00:39:43,960
+in bronchoconstriction
+
+2054
+00:39:43,960 --> 00:39:44,960
+now over time
+
+2055
+00:39:44,960 --> 00:39:45,960
+what's going to happen
+
+2056
+00:39:45,960 --> 00:39:46,960
+is that
+
+2057
+00:39:46,960 --> 00:39:47,960
+the tissue damage
+
+2058
+00:39:47,960 --> 00:39:48,960
+and the inflammation
+
+2059
+00:39:48,960 --> 00:39:49,960
+and the presence
+
+2060
+00:39:49,960 --> 00:39:51,960
+of inflammatory mediators
+
+2061
+00:39:51,960 --> 00:39:53,960
+like major basic protein
+
+2062
+00:39:53,960 --> 00:39:54,960
+from the eosinophils
+
+2063
+00:39:54,960 --> 00:39:56,960
+is going to perpetuate
+
+2064
+00:39:56,960 --> 00:39:57,960
+bronchoconstriction
+
+2065
+00:39:57,960 --> 00:39:58,960
+and that's the late phase
+
+2066
+00:39:58,960 --> 00:39:59,960
+of the asthma
+
+2067
+00:39:59,960 --> 00:40:00,960
+that's the late phase
+
+2068
+00:40:00,960 --> 00:40:02,960
+of the bronchoconstriction
+
+2069
+00:40:02,960 --> 00:40:04,960
+clinically
+
+2070
+00:40:04,960 --> 00:40:05,960
+these patients
+
+2071
+00:40:05,960 --> 00:40:06,960
+are going to present
+
+2072
+00:40:06,960 --> 00:40:07,960
+with dyspnea
+
+2073
+00:40:07,960 --> 00:40:09,960
+and wheezing
+
+2074
+00:40:09,960 --> 00:40:10,960
+alright
+
+2075
+00:40:10,960 --> 00:40:11,960
+maybe I should take a step
+
+2076
+00:40:11,960 --> 00:40:12,960
+back and remind you
+
+2077
+00:40:12,960 --> 00:40:13,960
+that the clinical features
+
+2078
+00:40:13,960 --> 00:40:14,960
+are episodic
+
+2079
+00:40:14,960 --> 00:40:15,960
+they're basically
+
+2080
+00:40:15,960 --> 00:40:16,960
+in relation to exposure
+
+2081
+00:40:16,960 --> 00:40:17,960
+to the antigen
+
+2082
+00:40:17,960 --> 00:40:19,960
+or the allergic stimulus
+
+2083
+00:40:19,960 --> 00:40:21,960
+and it's going to result
+
+2084
+00:40:21,960 --> 00:40:22,960
+in the classic findings
+
+2085
+00:40:22,960 --> 00:40:23,960
+of shortness of breath
+
+2086
+00:40:23,960 --> 00:40:24,960
+and wheezing
+
+2087
+00:40:24,960 --> 00:40:25,960
+the patient's cough
+
+2088
+00:40:25,960 --> 00:40:26,960
+it's a productive cough
+
+2089
+00:40:26,960 --> 00:40:27,960
+and remember that
+
+2090
+00:40:27,960 --> 00:40:28,960
+the productive cough
+
+2091
+00:40:28,960 --> 00:40:29,960
+contains these spirals
+
+2092
+00:40:29,960 --> 00:40:30,960
+within the mucus
+
+2093
+00:40:30,960 --> 00:40:31,960
+called Kirschmann spirals
+
+2094
+00:40:31,960 --> 00:40:33,960
+and maybe even more important
+
+2095
+00:40:33,960 --> 00:40:34,960
+and more high yield
+
+2096
+00:40:34,960 --> 00:40:35,960
+than that
+
+2097
+00:40:35,960 --> 00:40:36,960
+is that within the mucus
+
+2098
+00:40:36,960 --> 00:40:37,960
+you're going to find
+
+2099
+00:40:37,960 --> 00:40:38,960
+Charcol-Liden crystals
+
+2100
+00:40:38,960 --> 00:40:39,960
+Charcol-Liden crystals
+
+2101
+00:40:39,960 --> 00:40:41,960
+are crystalline aggregates
+
+2102
+00:40:41,960 --> 00:40:42,960
+of eosinophil
+
+2103
+00:40:42,960 --> 00:40:43,960
+major basic protein
+
+2104
+00:40:43,960 --> 00:40:45,960
+and it's those crystalline
+
+2105
+00:40:45,960 --> 00:40:46,960
+aggregates
+
+2106
+00:40:46,960 --> 00:40:47,960
+that can show up
+
+2107
+00:40:47,960 --> 00:40:48,960
+in the mucus
+
+2108
+00:40:48,960 --> 00:40:49,960
+and they're called
+
+2109
+00:40:49,960 --> 00:40:50,960
+Charcol-Liden crystals
+
+2110
+00:40:50,960 --> 00:40:51,960
+and it's a relatively
+
+2111
+00:40:51,960 --> 00:40:52,960
+high yield concept
+
+2112
+00:40:52,960 --> 00:40:53,960
+and I'll show you a picture
+
+2113
+00:40:53,960 --> 00:40:54,960
+in just a moment
+
+2114
+00:40:54,960 --> 00:40:55,960
+now the last thing
+
+2115
+00:40:55,960 --> 00:40:56,960
+I would like to say
+
+2116
+00:40:56,960 --> 00:40:57,960
+is that sometimes patients
+
+2117
+00:40:57,960 --> 00:40:59,960
+can get such a severe attack
+
+2118
+00:40:59,960 --> 00:41:00,960
+that the bronchoconstriction
+
+2119
+00:41:00,960 --> 00:41:02,960
+will not relieve itself
+
+2120
+00:41:02,960 --> 00:41:04,960
+and that severe attack
+
+2121
+00:41:04,960 --> 00:41:05,960
+can actually result
+
+2122
+00:41:05,960 --> 00:41:06,960
+in something called
+
+2123
+00:41:06,960 --> 00:41:07,960
+status asthmaticus
+
+2124
+00:41:07,960 --> 00:41:08,960
+which is the sort of
+
+2125
+00:41:08,960 --> 00:41:09,960
+the most extreme form
+
+2126
+00:41:09,960 --> 00:41:10,960
+of asthma
+
+2127
+00:41:10,960 --> 00:41:11,960
+which can eventually
+
+2128
+00:41:11,960 --> 00:41:12,960
+result in death
+
+2129
+00:41:12,960 --> 00:41:14,960
+now here is a classic picture
+
+2130
+00:41:14,960 --> 00:41:16,960
+of an asthmatic
+
+2131
+00:41:16,960 --> 00:41:18,960
+productive cough
+
+2132
+00:41:18,960 --> 00:41:19,960
+so this is the material
+
+2133
+00:41:19,960 --> 00:41:20,960
+coughed up
+
+2134
+00:41:20,960 --> 00:41:21,960
+put on a slide
+
+2135
+00:41:21,960 --> 00:41:22,960
+and we can clearly see
+
+2136
+00:41:22,960 --> 00:41:23,960
+that there are
+
+2137
+00:41:23,960 --> 00:41:25,960
+these crystals
+
+2138
+00:41:25,960 --> 00:41:26,960
+called Charcol-Liden crystals
+
+2139
+00:41:26,960 --> 00:41:27,960
+which again
+
+2140
+00:41:27,960 --> 00:41:29,960
+are derived from eosinophils
+
+2141
+00:41:29,960 --> 00:41:30,960
+and examiners love
+
+2142
+00:41:30,960 --> 00:41:32,960
+to show pictures like this
+
+2143
+00:41:32,960 --> 00:41:33,960
+the last thing I should say
+
+2144
+00:41:33,960 --> 00:41:34,960
+about asthma
+
+2145
+00:41:34,960 --> 00:41:35,960
+is that there are also
+
+2146
+00:41:35,960 --> 00:41:36,960
+some non-allergic
+
+2147
+00:41:36,960 --> 00:41:37,960
+causes of asthma
+
+2148
+00:41:37,960 --> 00:41:38,960
+for example exercise
+
+2149
+00:41:38,960 --> 00:41:39,960
+some patients will say
+
+2150
+00:41:39,960 --> 00:41:40,960
+that exercise
+
+2151
+00:41:40,960 --> 00:41:41,960
+gives them asthma
+
+2152
+00:41:41,960 --> 00:41:42,960
+other patients might say
+
+2153
+00:41:42,960 --> 00:41:44,960
+that a viral infection
+
+2154
+00:41:44,960 --> 00:41:45,960
+would give them asthma
+
+2155
+00:41:45,960 --> 00:41:47,960
+some patients will say
+
+2156
+00:41:47,960 --> 00:41:48,960
+that when they go to work
+
+2157
+00:41:48,960 --> 00:41:49,960
+they get exposed
+
+2158
+00:41:49,960 --> 00:41:50,960
+to certain dust
+
+2159
+00:41:50,960 --> 00:41:51,960
+and that causes asthma
+
+2160
+00:41:51,960 --> 00:41:52,960
+so these are some
+
+2161
+00:41:52,960 --> 00:41:53,960
+other causes of asthma
+
+2162
+00:41:53,960 --> 00:41:54,960
+asthma is not always
+
+2163
+00:41:54,960 --> 00:41:55,960
+allergic
+
+2164
+00:41:55,960 --> 00:41:57,960
+one very high yield
+
+2165
+00:41:57,960 --> 00:41:58,960
+cause of asthma
+
+2166
+00:41:58,960 --> 00:41:59,960
+to be familiar with
+
+2167
+00:41:59,960 --> 00:42:00,960
+is aspirin
+
+2168
+00:42:00,960 --> 00:42:01,960
+now let me remind you
+
+2169
+00:42:01,960 --> 00:42:02,960
+that there are
+
+2170
+00:42:02,960 --> 00:42:03,960
+a subset of patients
+
+2171
+00:42:03,960 --> 00:42:04,960
+I think it's like
+
+2172
+00:42:04,960 --> 00:42:05,960
+ten to fifteen percent
+
+2173
+00:42:05,960 --> 00:42:06,960
+of adult patients
+
+2174
+00:42:06,960 --> 00:42:07,960
+with asthma
+
+2175
+00:42:07,960 --> 00:42:08,960
+who have something called
+
+2176
+00:42:08,960 --> 00:42:09,960
+aspirin intolerant asthma
+
+2177
+00:42:09,960 --> 00:42:10,960
+so they have asthma
+
+2178
+00:42:10,960 --> 00:42:11,960
+and that's the first part
+
+2179
+00:42:11,960 --> 00:42:12,960
+of the triad
+
+2180
+00:42:12,960 --> 00:42:13,960
+but they also have
+
+2181
+00:42:13,960 --> 00:42:14,960
+this funny thing
+
+2182
+00:42:14,960 --> 00:42:15,960
+where they actually get
+
+2183
+00:42:15,960 --> 00:42:16,960
+bronchospasm
+
+2184
+00:42:16,960 --> 00:42:18,960
+so that's a second feature
+
+2185
+00:42:18,960 --> 00:42:19,960
+of this disease
+
+2186
+00:42:19,960 --> 00:42:20,960
+it's aspirin induced
+
+2187
+00:42:20,960 --> 00:42:21,960
+bronchospasm
+
+2188
+00:42:21,960 --> 00:42:22,960
+and the third feature
+
+2189
+00:42:22,960 --> 00:42:23,960
+is nasal polyps
+
+2190
+00:42:23,960 --> 00:42:24,960
+and that's an interesting
+
+2191
+00:42:24,960 --> 00:42:25,960
+feature
+
+2192
+00:42:25,960 --> 00:42:26,960
+also seen in
+
+2193
+00:42:26,960 --> 00:42:28,960
+aspirin intolerant asthma
+
+2194
+00:42:28,960 --> 00:42:29,960
+let's just talk about
+
+2195
+00:42:29,960 --> 00:42:30,960
+nasal polyps for a second
+
+2196
+00:42:30,960 --> 00:42:31,960
+now nasal polyps
+
+2197
+00:42:31,960 --> 00:42:32,960
+when you think about them
+
+2198
+00:42:32,960 --> 00:42:33,960
+remember from
+
+2199
+00:42:33,960 --> 00:42:34,960
+earlier in this chapter
+
+2200
+00:42:34,960 --> 00:42:35,960
+that you know
+
+2201
+00:42:35,960 --> 00:42:36,960
+you classically see
+
+2202
+00:42:36,960 --> 00:42:37,960
+a nasal polyp
+
+2203
+00:42:37,960 --> 00:42:38,960
+in a patient with
+
+2204
+00:42:38,960 --> 00:42:39,960
+chronic rhinitis
+
+2205
+00:42:39,960 --> 00:42:40,960
+which is inflammation
+
+2206
+00:42:40,960 --> 00:42:42,960
+of the sinonasal mucosa
+
+2207
+00:42:42,960 --> 00:42:43,960
+however there are some
+
+2208
+00:42:43,960 --> 00:42:44,960
+other high yield associations
+
+2209
+00:42:44,960 --> 00:42:45,960
+with nasal polyp
+
+2210
+00:42:45,960 --> 00:42:46,960
+for example
+
+2211
+00:42:46,960 --> 00:42:47,960
+an adult with nasal polyp
+
+2212
+00:42:47,960 --> 00:42:48,960
+with asthma
+
+2213
+00:42:48,960 --> 00:42:49,960
+like symptoms
+
+2214
+00:42:49,960 --> 00:42:50,960
+you think about
+
+2215
+00:42:50,960 --> 00:42:51,960
+aspirin intolerant asthma
+
+2216
+00:42:51,960 --> 00:42:52,960
+so that's one
+
+2217
+00:42:52,960 --> 00:42:53,960
+important association
+
+2218
+00:42:53,960 --> 00:42:54,960
+another very high yield
+
+2219
+00:42:54,960 --> 00:42:55,960
+association
+
+2220
+00:42:55,960 --> 00:42:56,960
+is that if you have a child
+
+2221
+00:42:56,960 --> 00:42:57,960
+like a two year old
+
+2222
+00:42:57,960 --> 00:42:58,960
+with nasal polyps
+
+2223
+00:42:58,960 --> 00:42:59,960
+what do you have to think about
+
+2224
+00:42:59,960 --> 00:43:01,960
+cystic fibrosis
+
+2225
+00:43:01,960 --> 00:43:02,960
+that's high yield
+
+2226
+00:43:02,960 --> 00:43:03,960
+patients actually
+
+2227
+00:43:03,960 --> 00:43:04,960
+who have nasal polyps
+
+2228
+00:43:04,960 --> 00:43:05,960
+need to be tested
+
+2229
+00:43:05,960 --> 00:43:06,960
+for cystic fibrosis
+
+2230
+00:43:06,960 --> 00:43:07,960
+at that age
+
+2231
+00:43:07,960 --> 00:43:08,960
+so that's another important
+
+2232
+00:43:08,960 --> 00:43:09,960
+thing to be aware of
+
+2233
+00:43:09,960 --> 00:43:10,960
+anyway that concludes
+
+2234
+00:43:10,960 --> 00:43:11,960
+our discussion of asthma
+
+2235
+00:43:11,960 --> 00:43:13,960
+now the fourth and final COPD
+
+2236
+00:43:13,960 --> 00:43:15,960
+is actually bronchiectasis
+
+2237
+00:43:15,960 --> 00:43:17,960
+what is bronchiectasis
+
+2238
+00:43:17,960 --> 00:43:18,960
+this is a dilatation
+
+2239
+00:43:18,960 --> 00:43:19,960
+of the bronchioles
+
+2240
+00:43:19,960 --> 00:43:20,960
+and the bronchi
+
+2241
+00:43:20,960 --> 00:43:21,960
+so these are the larger airways
+
+2242
+00:43:21,960 --> 00:43:23,960
+and it's a loss of tone
+
+2243
+00:43:23,960 --> 00:43:24,960
+that results in ear trapping
+
+2244
+00:43:24,960 --> 00:43:25,960
+again let's explain
+
+2245
+00:43:25,960 --> 00:43:26,960
+what happens in this
+
+2246
+00:43:26,960 --> 00:43:27,960
+particular disease
+
+2247
+00:43:27,960 --> 00:43:28,960
+is that the patient
+
+2248
+00:43:28,960 --> 00:43:29,960
+has an airway
+
+2249
+00:43:29,960 --> 00:43:30,960
+this is the normal
+
+2250
+00:43:30,960 --> 00:43:31,960
+and when you have
+
+2251
+00:43:31,960 --> 00:43:32,960
+these airways
+
+2252
+00:43:32,960 --> 00:43:33,960
+the problem in bronchiectasis
+
+2253
+00:43:33,960 --> 00:43:34,960
+is going to be that
+
+2254
+00:43:34,960 --> 00:43:35,960
+you get abnormal dilation
+
+2255
+00:43:35,960 --> 00:43:36,960
+of the airway
+
+2256
+00:43:36,960 --> 00:43:38,960
+now when there's abnormal
+
+2257
+00:43:38,960 --> 00:43:40,960
+dilation of these large airways
+
+2258
+00:43:40,960 --> 00:43:42,960
+that results in loss of
+
+2259
+00:43:42,960 --> 00:43:43,960
+airway tone
+
+2260
+00:43:43,960 --> 00:43:44,960
+and air trapping
+
+2261
+00:43:44,960 --> 00:43:45,960
+perhaps the easiest way
+
+2262
+00:43:45,960 --> 00:43:46,960
+to understand this
+
+2263
+00:43:46,960 --> 00:43:47,960
+is if I gave you a straw
+
+2264
+00:43:47,960 --> 00:43:48,960
+and I asked you to blow
+
+2265
+00:43:48,960 --> 00:43:49,960
+through the straw
+
+2266
+00:43:49,960 --> 00:43:50,960
+and I put my hand
+
+2267
+00:43:50,960 --> 00:43:51,960
+on the other side
+
+2268
+00:43:51,960 --> 00:43:52,960
+I would clearly be able
+
+2269
+00:43:52,960 --> 00:43:53,960
+to feel the air coming out
+
+2270
+00:43:53,960 --> 00:43:55,960
+if I gave you a pipe
+
+2271
+00:43:55,960 --> 00:43:56,960
+bigger than the size
+
+2272
+00:43:56,960 --> 00:43:57,960
+of your face
+
+2273
+00:43:57,960 --> 00:43:58,960
+and I asked you to blow out
+
+2274
+00:43:58,960 --> 00:44:00,960
+I would not feel any air
+
+2275
+00:44:00,960 --> 00:44:01,960
+coming out the other side
+
+2276
+00:44:01,960 --> 00:44:02,960
+and that's because
+
+2277
+00:44:02,960 --> 00:44:03,960
+as air would be accelerated
+
+2278
+00:44:03,960 --> 00:44:05,960
+it would begin to sort of
+
+2279
+00:44:05,960 --> 00:44:06,960
+just whirl around in this tube
+
+2280
+00:44:06,960 --> 00:44:07,960
+and wouldn't be able
+
+2281
+00:44:07,960 --> 00:44:08,960
+to be accelerated
+
+2282
+00:44:08,960 --> 00:44:09,960
+out towards the other end
+
+2283
+00:44:09,960 --> 00:44:11,960
+and that's exactly what happens
+
+2284
+00:44:11,960 --> 00:44:12,960
+in bronchiectasis
+
+2285
+00:44:12,960 --> 00:44:15,960
+this dilation of these airways
+
+2286
+00:44:15,960 --> 00:44:17,960
+results in loss of tone
+
+2287
+00:44:17,960 --> 00:44:18,960
+and that then results
+
+2288
+00:44:18,960 --> 00:44:19,960
+in air trapping
+
+2289
+00:44:19,960 --> 00:44:20,960
+so that when these patients
+
+2290
+00:44:20,960 --> 00:44:21,960
+blow out
+
+2291
+00:44:21,960 --> 00:44:22,960
+they can't get air out
+
+2292
+00:44:22,960 --> 00:44:23,960
+appropriately
+
+2293
+00:44:23,960 --> 00:44:24,960
+they're obstructed
+
+2294
+00:44:24,960 --> 00:44:25,960
+from emptying the lung
+
+2295
+00:44:25,960 --> 00:44:26,960
+here's a classic image
+
+2296
+00:44:26,960 --> 00:44:27,960
+of bronchiectasis
+
+2297
+00:44:27,960 --> 00:44:28,960
+and the idea here
+
+2298
+00:44:28,960 --> 00:44:29,960
+is the following
+
+2299
+00:44:29,960 --> 00:44:30,960
+when you look at the lung
+
+2300
+00:44:30,960 --> 00:44:31,960
+you normally should see
+
+2301
+00:44:31,960 --> 00:44:32,960
+some larger airways
+
+2302
+00:44:32,960 --> 00:44:33,960
+in the center of the lung
+
+2303
+00:44:33,960 --> 00:44:34,960
+because that's where
+
+2304
+00:44:34,960 --> 00:44:35,960
+the large airways are
+
+2305
+00:44:35,960 --> 00:44:36,960
+however when you come out
+
+2306
+00:44:36,960 --> 00:44:37,960
+to the periphery
+
+2307
+00:44:37,960 --> 00:44:38,960
+here is normal
+
+2308
+00:44:38,960 --> 00:44:40,960
+you don't see those large airways
+
+2309
+00:44:40,960 --> 00:44:42,960
+here is where the bronchiectasis is
+
+2310
+00:44:42,960 --> 00:44:43,960
+and notice that
+
+2311
+00:44:43,960 --> 00:44:44,960
+at the edge of the lung
+
+2312
+00:44:44,960 --> 00:44:45,960
+I'm seeing these large
+
+2313
+00:44:45,960 --> 00:44:47,960
+dilated circular air spaces
+
+2314
+00:44:47,960 --> 00:44:49,960
+so that is classic bronchiectasis
+
+2315
+00:44:49,960 --> 00:44:51,960
+the next question is
+
+2316
+00:44:51,960 --> 00:44:53,960
+why do we get this
+
+2317
+00:44:53,960 --> 00:44:55,960
+this dilatation of the airways
+
+2318
+00:44:55,960 --> 00:44:56,960
+and the answer is
+
+2319
+00:44:56,960 --> 00:44:57,960
+it's usually due to
+
+2320
+00:44:57,960 --> 00:44:59,960
+necrotizing inflammation
+
+2321
+00:44:59,960 --> 00:45:00,960
+with damage to the airway wall
+
+2322
+00:45:00,960 --> 00:45:01,960
+so for example
+
+2323
+00:45:01,960 --> 00:45:03,960
+this will occur in patients
+
+2324
+00:45:03,960 --> 00:45:04,960
+who have some reason
+
+2325
+00:45:04,960 --> 00:45:06,960
+to have chronic inflammation
+
+2326
+00:45:06,960 --> 00:45:07,960
+and infection
+
+2327
+00:45:07,960 --> 00:45:08,960
+within the airway
+
+2328
+00:45:08,960 --> 00:45:09,960
+which is then going to result
+
+2329
+00:45:09,960 --> 00:45:11,960
+in damage to the wall
+
+2330
+00:45:11,960 --> 00:45:13,960
+which then dilates the airway
+
+2331
+00:45:13,960 --> 00:45:14,960
+classic example
+
+2332
+00:45:14,960 --> 00:45:15,960
+cystic fibrosis
+
+2333
+00:45:15,960 --> 00:45:17,960
+you know that in cystic fibrosis
+
+2334
+00:45:17,960 --> 00:45:19,960
+patients have thick secretions
+
+2335
+00:45:19,960 --> 00:45:20,960
+the thick secretions
+
+2336
+00:45:20,960 --> 00:45:22,960
+cause mucus plugging
+
+2337
+00:45:22,960 --> 00:45:23,960
+the mucus plugging
+
+2338
+00:45:23,960 --> 00:45:24,960
+increases the risk of infection
+
+2339
+00:45:24,960 --> 00:45:26,960
+because you've blocked a tube
+
+2340
+00:45:26,960 --> 00:45:27,960
+and when you get infection
+
+2341
+00:45:27,960 --> 00:45:28,960
+you're going to get damage
+
+2342
+00:45:28,960 --> 00:45:29,960
+to the airway
+
+2343
+00:45:29,960 --> 00:45:30,960
+and so eventually
+
+2344
+00:45:30,960 --> 00:45:31,960
+you're going to get bronchiectasis
+
+2345
+00:45:31,960 --> 00:45:33,960
+and cystic fibrosis patients
+
+2346
+00:45:33,960 --> 00:45:35,960
+classically have bronchiectasis
+
+2347
+00:45:35,960 --> 00:45:37,960
+another case
+
+2348
+00:45:37,960 --> 00:45:38,960
+where we might see this
+
+2349
+00:45:38,960 --> 00:45:39,960
+is Cartagener syndrome
+
+2350
+00:45:39,960 --> 00:45:41,960
+in Cartagener syndrome
+
+2351
+00:45:41,960 --> 00:45:42,960
+the idea here
+
+2352
+00:45:42,960 --> 00:45:43,960
+is that you have a defect
+
+2353
+00:45:43,960 --> 00:45:44,960
+in what
+
+2354
+00:45:44,960 --> 00:45:45,960
+I think every medical student
+
+2355
+00:45:45,960 --> 00:45:46,960
+is usually able to say cilia
+
+2356
+00:45:46,960 --> 00:45:47,960
+but you need to take it
+
+2357
+00:45:47,960 --> 00:45:48,960
+one step further
+
+2358
+00:45:48,960 --> 00:45:49,960
+what part of the cilia
+
+2359
+00:45:49,960 --> 00:45:50,960
+is defective
+
+2360
+00:45:50,960 --> 00:45:52,960
+ok it's the dianine arm
+
+2361
+00:45:52,960 --> 00:45:54,960
+the dianine arm
+
+2362
+00:45:54,960 --> 00:45:55,960
+which is one component
+
+2363
+00:45:55,960 --> 00:45:56,960
+of the cilia
+
+2364
+00:45:56,960 --> 00:45:57,960
+is defective
+
+2365
+00:45:57,960 --> 00:45:58,960
+and that is necessary
+
+2366
+00:45:58,960 --> 00:46:00,960
+for ciliary movement
+
+2367
+00:46:00,960 --> 00:46:02,960
+so that's Cartagener syndrome
+
+2368
+00:46:02,960 --> 00:46:03,960
+now where would be classic
+
+2369
+00:46:03,960 --> 00:46:04,960
+what would be the symptoms
+
+2370
+00:46:04,960 --> 00:46:05,960
+of this
+
+2371
+00:46:05,960 --> 00:46:06,960
+you get sinusitis
+
+2372
+00:46:06,960 --> 00:46:07,960
+because the cilia
+
+2373
+00:46:07,960 --> 00:46:08,960
+of the respiratory epithelium
+
+2374
+00:46:08,960 --> 00:46:09,960
+in the sinuses
+
+2375
+00:46:09,960 --> 00:46:10,960
+is not functioning properly
+
+2376
+00:46:10,960 --> 00:46:12,960
+so you get inflammation there
+
+2377
+00:46:12,960 --> 00:46:13,960
+the patients get infertility
+
+2378
+00:46:13,960 --> 00:46:14,960
+because the cilia of the sperm
+
+2379
+00:46:14,960 --> 00:46:16,960
+is not functioning properly
+
+2380
+00:46:16,960 --> 00:46:17,960
+they get something called
+
+2381
+00:46:17,960 --> 00:46:18,960
+situs inverses
+
+2382
+00:46:18,960 --> 00:46:19,960
+which is where
+
+2383
+00:46:19,960 --> 00:46:20,960
+the organs that are normally
+
+2384
+00:46:20,960 --> 00:46:21,960
+present on one side
+
+2385
+00:46:21,960 --> 00:46:22,960
+of the thorax
+
+2386
+00:46:22,960 --> 00:46:23,960
+are on the opposite side
+
+2387
+00:46:23,960 --> 00:46:24,960
+so for example
+
+2388
+00:46:24,960 --> 00:46:25,960
+the heart instead of being
+
+2389
+00:46:25,960 --> 00:46:26,960
+on the left
+
+2390
+00:46:26,960 --> 00:46:27,960
+is on the right side
+
+2391
+00:46:27,960 --> 00:46:28,960
+so that's Cartagener syndrome
+
+2392
+00:46:28,960 --> 00:46:29,960
+at the same time
+
+2393
+00:46:29,960 --> 00:46:30,960
+they're going to get
+
+2394
+00:46:30,960 --> 00:46:31,960
+inflammation
+
+2395
+00:46:31,960 --> 00:46:32,960
+and infection
+
+2396
+00:46:32,960 --> 00:46:33,960
+within the lung
+
+2397
+00:46:33,960 --> 00:46:34,960
+and that's because
+
+2398
+00:46:34,960 --> 00:46:35,960
+they don't have the cilia
+
+2399
+00:46:35,960 --> 00:46:36,960
+to pump the mucus
+
+2400
+00:46:36,960 --> 00:46:37,960
+out of the lung
+
+2401
+00:46:37,960 --> 00:46:38,960
+to clear the lung
+
+2402
+00:46:38,960 --> 00:46:39,960
+and so therefore
+
+2403
+00:46:39,960 --> 00:46:40,960
+there's going to be
+
+2404
+00:46:40,960 --> 00:46:41,960
+an increased risk of
+
+2405
+00:46:41,960 --> 00:46:42,960
+infection and inflammation
+
+2406
+00:46:42,960 --> 00:46:43,960
+so that's the second
+
+2407
+00:46:43,960 --> 00:46:44,960
+classic patient
+
+2408
+00:46:44,960 --> 00:46:46,960
+who might get bronchiectasis
+
+2409
+00:46:46,960 --> 00:46:47,960
+a third patient
+
+2410
+00:46:47,960 --> 00:46:48,960
+would be tumor
+
+2411
+00:46:48,960 --> 00:46:49,960
+or foreign body
+
+2412
+00:46:49,960 --> 00:46:50,960
+here's the airways
+
+2413
+00:46:50,960 --> 00:46:51,960
+here's another airway
+
+2414
+00:46:51,960 --> 00:46:52,960
+if there's a foreign body
+
+2415
+00:46:52,960 --> 00:46:53,960
+in the airway
+
+2416
+00:46:53,960 --> 00:46:54,960
+that's going to result
+
+2417
+00:46:54,960 --> 00:46:55,960
+in inflammation
+
+2418
+00:46:55,960 --> 00:46:56,960
+and infection down here
+
+2419
+00:46:56,960 --> 00:46:57,960
+if there's a block
+
+2420
+00:46:57,960 --> 00:46:58,960
+in the tumor
+
+2421
+00:46:58,960 --> 00:46:59,960
+so that compresses
+
+2422
+00:46:59,960 --> 00:47:00,960
+the airway
+
+2423
+00:47:00,960 --> 00:47:01,960
+that would also increase
+
+2424
+00:47:01,960 --> 00:47:02,960
+the risk of infection
+
+2425
+00:47:02,960 --> 00:47:03,960
+and inflammation
+
+2426
+00:47:03,960 --> 00:47:04,960
+any type of
+
+2427
+00:47:04,960 --> 00:47:05,960
+necrotizing infection
+
+2428
+00:47:05,960 --> 00:47:06,960
+if the patient
+
+2429
+00:47:06,960 --> 00:47:07,960
+gets infected
+
+2430
+00:47:07,960 --> 00:47:08,960
+with a bug
+
+2431
+00:47:08,960 --> 00:47:09,960
+that is particularly
+
+2432
+00:47:09,960 --> 00:47:10,960
+necrotizing
+
+2433
+00:47:10,960 --> 00:47:11,960
+and virulent
+
+2434
+00:47:11,960 --> 00:47:12,960
+that could result
+
+2435
+00:47:12,960 --> 00:47:13,960
+in bronchiectasis
+
+2436
+00:47:13,960 --> 00:47:14,960
+and finally
+
+2437
+00:47:14,960 --> 00:47:15,960
+something called
+
+2438
+00:47:15,960 --> 00:47:16,960
+allergic bronchopulmonary
+
+2439
+00:47:16,960 --> 00:47:17,960
+aspergillosis
+
+2440
+00:47:17,960 --> 00:47:18,960
+okay allergic
+
+2441
+00:47:18,960 --> 00:47:19,960
+tells us that
+
+2442
+00:47:19,960 --> 00:47:20,960
+this is a hypersensitivity
+
+2443
+00:47:20,960 --> 00:47:21,960
+reaction
+
+2444
+00:47:21,960 --> 00:47:22,960
+bronchopulmonary
+
+2445
+00:47:22,960 --> 00:47:23,960
+tells us that
+
+2446
+00:47:23,960 --> 00:47:24,960
+it's in the relatively
+
+2447
+00:47:24,960 --> 00:47:25,960
+large airways
+
+2448
+00:47:25,960 --> 00:47:27,960
+and aspergillus
+
+2449
+00:47:27,960 --> 00:47:28,960
+implies that
+
+2450
+00:47:28,960 --> 00:47:29,960
+it's due to aspergillus
+
+2451
+00:47:29,960 --> 00:47:30,960
+now basically
+
+2452
+00:47:30,960 --> 00:47:32,960
+this is a hypersensitivity
+
+2453
+00:47:32,960 --> 00:47:33,960
+reaction
+
+2454
+00:47:33,960 --> 00:47:34,960
+to aspergillus
+
+2455
+00:47:34,960 --> 00:47:35,960
+it is seen
+
+2456
+00:47:35,960 --> 00:47:36,960
+classically in two
+
+2457
+00:47:36,960 --> 00:47:37,960
+patients
+
+2458
+00:47:37,960 --> 00:47:38,960
+do you know which two
+
+2459
+00:47:38,960 --> 00:47:39,960
+patients
+
+2460
+00:47:39,960 --> 00:47:41,960
+it's seen in asthmatics
+
+2461
+00:47:41,960 --> 00:47:42,960
+and it's seen in patients
+
+2462
+00:47:42,960 --> 00:47:43,960
+with cystic fibrosis
+
+2463
+00:47:43,960 --> 00:47:44,960
+and
+
+2464
+00:47:44,960 --> 00:47:45,960
+these patients
+
+2465
+00:47:45,960 --> 00:47:46,960
+become hypersensitive
+
+2466
+00:47:46,960 --> 00:47:47,960
+to aspergillus
+
+2467
+00:47:47,960 --> 00:47:48,960
+when the aspergillus
+
+2468
+00:47:48,960 --> 00:47:49,960
+comes in
+
+2469
+00:47:49,960 --> 00:47:50,960
+from the outside environment
+
+2470
+00:47:50,960 --> 00:47:52,960
+it elicits this reaction
+
+2471
+00:47:52,960 --> 00:47:53,960
+which then damages
+
+2472
+00:47:53,960 --> 00:47:54,960
+the airways
+
+2473
+00:47:54,960 --> 00:47:55,960
+resulting in
+
+2474
+00:47:55,960 --> 00:47:56,960
+a
+
+2475
+00:47:56,960 --> 00:47:57,960
+bronchiectasis
+
+2476
+00:47:57,960 --> 00:47:58,960
+due to the
+
+2477
+00:47:58,960 --> 00:47:59,960
+inflammatory damage
+
+2478
+00:47:59,960 --> 00:48:00,960
+to the airway
+
+2479
+00:48:00,960 --> 00:48:01,960
+so that's
+
+2480
+00:48:01,960 --> 00:48:02,960
+ABPA
+
+2481
+00:48:02,960 --> 00:48:03,960
+allergic bronchopulmonary
+
+2482
+00:48:03,960 --> 00:48:04,960
+aspergillosis
+
+2483
+00:48:04,960 --> 00:48:05,960
+clinically
+
+2484
+00:48:05,960 --> 00:48:06,960
+these patients
+
+2485
+00:48:06,960 --> 00:48:07,960
+are going to have
+
+2486
+00:48:07,960 --> 00:48:08,960
+cough
+
+2487
+00:48:08,960 --> 00:48:09,960
+because again
+
+2488
+00:48:09,960 --> 00:48:10,960
+these large airways
+
+2489
+00:48:10,960 --> 00:48:11,960
+are going to result
+
+2490
+00:48:11,960 --> 00:48:12,960
+in
+
+2491
+00:48:12,960 --> 00:48:13,960
+this dilatation
+
+2492
+00:48:13,960 --> 00:48:14,960
+of the large airways
+
+2493
+00:48:14,960 --> 00:48:15,960
+is also going to result
+
+2494
+00:48:15,960 --> 00:48:16,960
+in some mucus trapping
+
+2495
+00:48:16,960 --> 00:48:17,960
+so they'll cough up
+
+2496
+00:48:17,960 --> 00:48:18,960
+that mucus
+
+2497
+00:48:18,960 --> 00:48:19,960
+they'll have dyspnea
+
+2498
+00:48:19,960 --> 00:48:20,960
+difficulty breathing
+
+2499
+00:48:20,960 --> 00:48:21,960
+and foul smelling sputum
+
+2500
+00:48:21,960 --> 00:48:22,960
+now that sputum
+
+2501
+00:48:22,960 --> 00:48:23,960
+that comes out
+
+2502
+00:48:23,960 --> 00:48:24,960
+is going to be loaded
+
+2503
+00:48:24,960 --> 00:48:25,960
+with inflammatory junk
+
+2504
+00:48:25,960 --> 00:48:26,960
+and will have been
+
+2505
+00:48:26,960 --> 00:48:27,960
+sitting in the lung
+
+2506
+00:48:27,960 --> 00:48:28,960
+for a while
+
+2507
+00:48:28,960 --> 00:48:29,960
+and rotting
+
+2508
+00:48:29,960 --> 00:48:30,960
+so it'll smell very bad
+
+2509
+00:48:30,960 --> 00:48:31,960
+complications include
+
+2510
+00:48:31,960 --> 00:48:32,960
+hypoxemia
+
+2511
+00:48:32,960 --> 00:48:33,960
+there's going to be
+
+2512
+00:48:33,960 --> 00:48:35,960
+trapping of carbon dioxide
+
+2513
+00:48:35,960 --> 00:48:36,960
+eventually the patients
+
+2514
+00:48:36,960 --> 00:48:37,960
+will get hypoxemia
+
+2515
+00:48:37,960 --> 00:48:38,960
+and a complication of that
+
+2516
+00:48:38,960 --> 00:48:39,960
+would be
+
+2517
+00:48:39,960 --> 00:48:40,960
+corpulmonale
+
+2518
+00:48:40,960 --> 00:48:41,960
+I've already covered that
+
+2519
+00:48:41,960 --> 00:48:42,960
+what's important to note
+
+2520
+00:48:42,960 --> 00:48:43,960
+here is that these patients
+
+2521
+00:48:43,960 --> 00:48:44,960
+can also develop
+
+2522
+00:48:44,960 --> 00:48:45,960
+a secondary amyloidosis
+
+2523
+00:48:45,960 --> 00:48:46,960
+very high yield
+
+2524
+00:48:46,960 --> 00:48:47,960
+for exams
+
+2525
+00:48:47,960 --> 00:48:48,960
+can we remind ourselves
+
+2526
+00:48:48,960 --> 00:48:49,960
+for a moment
+
+2527
+00:48:49,960 --> 00:48:50,960
+just go back
+
+2528
+00:48:50,960 --> 00:48:51,960
+and let's do a quick
+
+2529
+00:48:51,960 --> 00:48:53,960
+amyloidosis refers to
+
+2530
+00:48:53,960 --> 00:48:54,960
+the deposition of a
+
+2531
+00:48:54,960 --> 00:48:55,960
+misfolded protein
+
+2532
+00:48:55,960 --> 00:48:56,960
+that's point one
+
+2533
+00:48:56,960 --> 00:48:57,960
+point two
+
+2534
+00:48:57,960 --> 00:48:58,960
+amyloidosis can be
+
+2535
+00:48:58,960 --> 00:49:00,960
+localized or systemic
+
+2536
+00:49:00,960 --> 00:49:01,960
+localized means that
+
+2537
+00:49:01,960 --> 00:49:02,960
+the amyloid deposits
+
+2538
+00:49:02,960 --> 00:49:03,960
+in one organ
+
+2539
+00:49:03,960 --> 00:49:04,960
+systemic means that
+
+2540
+00:49:04,960 --> 00:49:05,960
+the amyloid deposits
+
+2541
+00:49:05,960 --> 00:49:06,960
+in multiple organs
+
+2542
+00:49:06,960 --> 00:49:07,960
+now if the amyloid
+
+2543
+00:49:07,960 --> 00:49:08,960
+deposits in multiple organs
+
+2544
+00:49:08,960 --> 00:49:09,960
+i.e. systemic
+
+2545
+00:49:09,960 --> 00:49:10,960
+it can be primary
+
+2546
+00:49:10,960 --> 00:49:11,960
+or secondary
+
+2547
+00:49:11,960 --> 00:49:12,960
+in primary amyloidosis
+
+2548
+00:49:12,960 --> 00:49:13,960
+you have a deposition
+
+2549
+00:49:13,960 --> 00:49:15,960
+of amyloid light chain
+
+2550
+00:49:15,960 --> 00:49:16,960
+due to some sort of
+
+2551
+00:49:16,960 --> 00:49:17,960
+plasma cell problem
+
+2552
+00:49:17,960 --> 00:49:18,960
+the plasma cells
+
+2553
+00:49:18,960 --> 00:49:19,960
+overproduce light chain
+
+2554
+00:49:19,960 --> 00:49:20,960
+into the blood
+
+2555
+00:49:20,960 --> 00:49:21,960
+it deposits in tissues
+
+2556
+00:49:21,960 --> 00:49:22,960
+as amyloid
+
+2557
+00:49:22,960 --> 00:49:23,960
+in secondary amyloidosis
+
+2558
+00:49:23,960 --> 00:49:24,960
+you have chronic
+
+2559
+00:49:24,960 --> 00:49:25,960
+inflammation
+
+2560
+00:49:25,960 --> 00:49:26,960
+which produces an
+
+2561
+00:49:26,960 --> 00:49:27,960
+acute phase reactant
+
+2562
+00:49:27,960 --> 00:49:28,960
+called SAA
+
+2563
+00:49:28,960 --> 00:49:30,960
+that's overproduced
+
+2564
+00:49:30,960 --> 00:49:31,960
+in chronic inflammation
+
+2565
+00:49:31,960 --> 00:49:32,960
+that chronic
+
+2566
+00:49:32,960 --> 00:49:33,960
+that overproduction
+
+2567
+00:49:33,960 --> 00:49:34,960
+of SAA gets converted
+
+2568
+00:49:34,960 --> 00:49:35,960
+to AA
+
+2569
+00:49:35,960 --> 00:49:36,960
+and it's AA
+
+2570
+00:49:36,960 --> 00:49:37,960
+that deposits
+
+2571
+00:49:37,960 --> 00:49:38,960
+as amyloid
+
+2572
+00:49:38,960 --> 00:49:39,960
+and that's called
+
+2573
+00:49:39,960 --> 00:49:40,960
+secondary amyloidosis
+
+2574
+00:49:40,960 --> 00:49:41,960
+so these patients
+
+2575
+00:49:41,960 --> 00:49:42,960
+would have secondary
+
+2576
+00:49:42,960 --> 00:49:43,960
+amyloidosis
+
+2577
+00:49:43,960 --> 00:49:44,960
+with deposition
+
+2578
+00:49:44,960 --> 00:49:45,960
+of AA amyloid
+
+2579
+00:49:45,960 --> 00:49:46,960
+and that concludes
+
+2580
+00:49:46,960 --> 00:49:48,960
+our section on COPD
+
+2581
+00:49:48,960 --> 00:49:49,960
+very high yield
+
+2582
+00:49:49,960 --> 00:49:50,960
+a lot of physiology
+
+2583
+00:49:50,960 --> 00:49:51,960
+but very important
+
+2584
+00:49:51,960 --> 00:49:52,960
+to be aware
+
+2585
+00:49:52,960 --> 00:49:53,960
+of these diseases
+
