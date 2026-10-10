@@ -1,0 +1,480 @@
+1
+00:00:00,000 --> 00:00:03,580
+Moving on to spinal cord lesions, the first disorder is syringomyelia.
+
+2
+00:00:04,060 --> 00:00:07,640
+This is cystic degeneration of the spinal cord that can arise with trauma,
+
+3
+00:00:08,100 --> 00:00:11,920
+or it can also be in association with an Arnold-Chiari malformation.
+
+4
+00:00:12,680 --> 00:00:18,120
+It classically occurs at C8 to T1, and it results in loss of pain and temperature sensation
+
+5
+00:00:18,120 --> 00:00:22,520
+with sparing a fine touch and position sense in the upper extremities,
+
+6
+00:00:22,580 --> 00:00:26,140
+and of course in the upper extremities because we're at C8 to T1.
+
+7
+00:00:26,560 --> 00:00:30,740
+Now, in order to understand this, you do need to know a little bit of normal neural anatomy,
+
+8
+00:00:30,960 --> 00:00:34,680
+and so let's go back and remind ourselves that this is a simple spinal cord here.
+
+9
+00:00:35,180 --> 00:00:39,200
+Your pain and temperature sensation will actually come in from the outside.
+
+10
+00:00:39,740 --> 00:00:45,340
+It has a cell body here in the sensory ganglion, and then it synapses here in the posterior horn.
+
+11
+00:00:45,800 --> 00:00:49,260
+Now, after synapsing in the posterior horn, it sends off another nerve,
+
+12
+00:00:49,260 --> 00:00:52,920
+which will come down this way, cross over in the anterior white commissure,
+
+13
+00:00:52,920 --> 00:00:56,140
+and then come around and enter into the spinothalamic tract,
+
+14
+00:00:56,280 --> 00:00:59,980
+and then go up the spinothalamic tract to synapse on the thalamus.
+
+15
+00:01:00,020 --> 00:01:02,680
+And of course, from the thalamus, it would then synapse on the cortex.
+
+16
+00:01:03,220 --> 00:01:08,200
+So there's actually three independent nerves that allow pain and temperature sensation
+
+17
+00:01:08,200 --> 00:01:10,040
+to get to the cortex of the brain.
+
+18
+00:01:10,600 --> 00:01:12,460
+Now, of course, this would also be present.
+
+19
+00:01:12,600 --> 00:01:15,640
+So you'd have pain and temperature sensation on the opposite side of the body,
+
+20
+00:01:15,960 --> 00:01:19,420
+and this would also be present in the exact same way with a cell body here,
+
+21
+00:01:19,420 --> 00:01:23,200
+and then the nerve synapsing here, and then sending off another nerve,
+
+22
+00:01:23,540 --> 00:01:26,700
+which would then again also cross over in the anterior white commissure,
+
+23
+00:01:26,780 --> 00:01:30,660
+and come around to enter into the spinothalamic tract on the opposite side.
+
+24
+00:01:31,140 --> 00:01:36,740
+So what happens in syringomyelia is that you actually get a degeneration of the spinal cord here.
+
+25
+00:01:37,120 --> 00:01:39,300
+Of course, that's going to knock out the anterior white commissure,
+
+26
+00:01:39,360 --> 00:01:41,080
+and when you knock out the anterior white commissure,
+
+27
+00:01:41,400 --> 00:01:44,820
+you're going to knock out pain and temperature sensation on both sides.
+
+28
+00:01:44,820 --> 00:01:49,500
+And this knock out of pain and temperature sensation is going to occur at the level of C8 to T1,
+
+29
+00:01:49,920 --> 00:01:54,120
+and so the patients will have loss of pain and temperature sensation in the upper extremity.
+
+30
+00:01:54,420 --> 00:01:57,060
+At the same time, the dorsal column, which is back here,
+
+31
+00:01:57,340 --> 00:02:01,460
+which carries your fine touch and position sense, will not be altered.
+
+32
+00:02:02,020 --> 00:02:04,640
+And so this is the classic description of syringomyelia.
+
+33
+00:02:05,260 --> 00:02:08,480
+This syrinx could actually expand, and if it expands,
+
+34
+00:02:08,580 --> 00:02:10,540
+it could, for example, knock out the anterior horn.
+
+35
+00:02:10,540 --> 00:02:15,000
+Now recall that what's running in the anterior horn is going to be your motor neurons.
+
+36
+00:02:15,460 --> 00:02:20,500
+You have an upper motor neuron that goes from the cortex and comes down and synapses in the anterior horn,
+
+37
+00:02:20,760 --> 00:02:24,660
+and from the anterior horn, you have an additional neuron that goes out to the muscle.
+
+38
+00:02:25,280 --> 00:02:29,980
+And so if the syrinx expands and then knocks out the lower motor neuron that's going to the muscle,
+
+39
+00:02:30,320 --> 00:02:32,700
+you'll get signs of lower motor neuron disorder,
+
+40
+00:02:33,040 --> 00:02:38,720
+such as muscle weakness with atrophy, decreased tone, impaired reflexes, etc.
+
+41
+00:02:38,720 --> 00:02:41,860
+And so these are some of your classic lower motor neuron signs.
+
+42
+00:02:42,480 --> 00:02:44,820
+Now at the same time, you could take this one step further,
+
+43
+00:02:45,080 --> 00:02:49,540
+and the syrinx could further expand to knock out something here called the lateral horn.
+
+44
+00:02:50,020 --> 00:02:54,440
+So the importance of knocking out the lateral horn is that what runs through the lateral horn
+
+45
+00:02:54,440 --> 00:02:57,020
+is something called the hypothalamal spinal tract,
+
+46
+00:02:57,120 --> 00:03:01,080
+but more importantly, the hypothalamal spinal tract carries sympathetic input to the face.
+
+47
+00:03:01,540 --> 00:03:06,320
+Recall that in the hypothalamal spinal tract, basically you have a nerve that arises from the hypothalamus
+
+48
+00:03:06,320 --> 00:03:09,720
+and synapses on the lateral horn here at T1,
+
+49
+00:03:10,080 --> 00:03:13,760
+and then from the lateral horn, you eventually have a couple more neurons
+
+50
+00:03:13,760 --> 00:03:16,960
+that eventually then go and provide sympathetic input to the face.
+
+51
+00:03:17,320 --> 00:03:20,660
+Now if this syrinx, which of course is occurring at C8 to T1,
+
+52
+00:03:20,900 --> 00:03:22,920
+were to knock out the lateral horn at T1,
+
+53
+00:03:23,220 --> 00:03:26,220
+you would then get the classic features of Horner syndrome.
+
+54
+00:03:26,620 --> 00:03:31,320
+And recall that Horner syndrome basically includes ptosis, meiosis, and anhidrosis.
+
+55
+00:03:31,320 --> 00:03:35,880
+And again, ptosis being a droopy eyelid, meiosis being a constricted pupil,
+
+56
+00:03:36,320 --> 00:03:39,680
+and anhidrosis being decreased sweating of the face.
+
+57
+00:03:40,040 --> 00:03:42,740
+And so these are some of the other things that can occur with the syringomyelia,
+
+58
+00:03:42,880 --> 00:03:45,960
+and all of this is high yield because it all ties into neural anatomy.
+
+59
+00:03:46,480 --> 00:03:50,840
+Now I've put a little table in your book with spinal cord tracks for you to review,
+
+60
+00:03:51,420 --> 00:03:56,200
+but basically I've highlighted the high yields of syringomyelia with the image that I've drawn here.
+
+61
+00:03:56,200 --> 00:04:01,060
+So we say that it usually occurs at C8 to T1, therefore it's going to involve the upper extremity.
+
+62
+00:04:01,200 --> 00:04:06,420
+You get loss of pain and temperature sensation with sparing a fine touch and position sense.
+
+63
+00:04:06,880 --> 00:04:09,460
+If it expands, you'll get involvement of other tracks,
+
+64
+00:04:09,660 --> 00:04:11,860
+and this could knock out the anterior horn,
+
+65
+00:04:12,000 --> 00:04:16,280
+resulting in a lower motor neuron problem with muscle atrophy with weakness,
+
+66
+00:04:16,740 --> 00:04:19,100
+decreased tone and impaired reflexes.
+
+67
+00:04:19,460 --> 00:04:23,360
+And at the same time, if it further expands, you can also knock out the lateral horn.
+
+68
+00:04:23,360 --> 00:04:27,320
+And when you knock out the lateral horn, you're going to knock out the sympathetic input to the face,
+
+69
+00:04:27,420 --> 00:04:30,300
+giving you ptosis, meiosis, and anhidrosis.
+
+70
+00:04:30,940 --> 00:04:36,940
+Moving on to the next disorder, poliomyelitis is damaged to the anterior motor horn due to a poliovirus infection.
+
+71
+00:04:37,520 --> 00:04:40,680
+Let's go back and remind ourselves that polio has a fecal-oral transmission.
+
+72
+00:04:41,240 --> 00:04:43,680
+Polio then infects the oropharynx and the small bowel.
+
+73
+00:04:43,860 --> 00:04:47,220
+That gives you fevers, sore throat, abdominal pain with nausea and vomiting.
+
+74
+00:04:47,700 --> 00:04:50,300
+And then it can eventually spread to the CNS via the blood.
+
+75
+00:04:50,300 --> 00:04:54,840
+Now, when it spreads to the CNS via the blood, it eventually gets into the anterior motor horn,
+
+76
+00:04:55,160 --> 00:04:56,740
+and that's where it causes its damage.
+
+77
+00:04:57,180 --> 00:05:00,080
+So, again, if you draw a simple spinal cord,
+
+78
+00:05:00,780 --> 00:05:04,740
+then the problem is you've knocked out the anterior motor horn here.
+
+79
+00:05:05,120 --> 00:05:10,960
+And, of course, from the anterior motor horn was coming the neuron that was going to go out to the skeletal muscle.
+
+80
+00:05:11,360 --> 00:05:13,240
+And so you're going to knock out the lower motor neuron.
+
+81
+00:05:13,660 --> 00:05:17,860
+Now, when you knock out the lower motor neuron, you get flaccid paralysis with muscle atrophy.
+
+82
+00:05:17,860 --> 00:05:20,300
+You get weakness with decreased tone.
+
+83
+00:05:20,680 --> 00:05:22,160
+You get impaired reflexes.
+
+84
+00:05:22,520 --> 00:05:25,860
+And you get a negative Babinski sign, i.e., downward-going toes.
+
+85
+00:05:26,540 --> 00:05:30,600
+The same exact thing can occur in a disorder called Wurndig-Hoffman disease.
+
+86
+00:05:30,960 --> 00:05:36,160
+However, instead of it being due to polio, it's due to an inherited degeneration of the anterior motor horn.
+
+87
+00:05:36,560 --> 00:05:39,400
+This is autosomal recessive, and it presents as a floppy baby.
+
+88
+00:05:39,400 --> 00:05:45,160
+And here I've described this in your text by telling you that you get an inherited degeneration of the anterior motor horn.
+
+89
+00:05:45,480 --> 00:05:50,420
+Again, this is autosomal recessive, floppy baby, and death occurs within a few years after birth.
+
+90
+00:05:51,200 --> 00:05:56,420
+Amyotrophic lateral sclerosis is a degenerative disorder of upper and lower motor neurons.
+
+91
+00:05:56,940 --> 00:06:02,140
+You get degeneration of the anterior motor horn, which then leads to lower motor neuron signs.
+
+92
+00:06:02,140 --> 00:06:12,460
+So the lower motor neuron signs include flaccid paralysis with muscle atrophy, you get fasciculations, weakness with decreased tone, impaired reflexes, and a negative Babinski.
+
+93
+00:06:12,640 --> 00:06:20,320
+So it's as if everything kind of decreases, where you have this flaccid paralysis with decreased tone, with impaired reflexes, and downward-going toes.
+
+94
+00:06:20,940 --> 00:06:25,300
+And because you involve the lateral corticospinal tract, that leads to upper motor neuron signs.
+
+95
+00:06:25,300 --> 00:06:31,460
+And with upper motor neuron signs, you get spastic paralysis with hyperreflexia, increased muscle tone, and upward-going toes.
+
+96
+00:06:31,520 --> 00:06:32,780
+So it's as if things go up.
+
+97
+00:06:33,160 --> 00:06:37,580
+And this is the key summary for board examination purposes, i.e., upper and lower motor neuron signs.
+
+98
+00:06:38,180 --> 00:06:47,020
+Now, this can somewhat resemble syringomyelia, because recall that syringomyelia involves C8 to T1, and so it would involve the upper extremities and could involve the hands.
+
+99
+00:06:47,420 --> 00:06:53,400
+And in syringomyelia, you could have damage to the anterior horn, and so that could also result in atrophy and weakness of the hands.
+
+100
+00:06:53,400 --> 00:07:04,180
+However, of course, in syringomyelia, you're going to have loss of pain and temperature sensation, whereas in amyotrophic lateral sclerosis, you would have no loss of pain or temperature sensation.
+
+101
+00:07:04,940 --> 00:07:09,100
+And so this is an important distinction between ALS and syringomyelia.
+
+102
+00:07:09,720 --> 00:07:13,480
+Now, most cases of ALS are sporadic, arising in middle-aged adults.
+
+103
+00:07:13,480 --> 00:07:23,400
+However, one very high-yield point for the purposes of board exams is that in familial cases, there can be a zinc-copper superoxide dismutase mutation.
+
+104
+00:07:23,940 --> 00:07:30,280
+And that's very high-yield, because recall that superoxide dismutase is an important mechanism of removing free radicals.
+
+105
+00:07:30,560 --> 00:07:40,380
+Remember that oxygen has the ability to produce superoxide-free radical, and that free radical would be converted to hydrogen peroxide by superoxide dismutase.
+
+106
+00:07:40,380 --> 00:07:46,880
+Now, if you lose superoxide dismutase, you're going to have increased free radical damage within the cells.
+
+107
+00:07:47,420 --> 00:07:53,380
+And so in this particular case, free radical injury could lead to damage in the neurons, and examiners love to go after that.
+
+108
+00:07:53,840 --> 00:07:57,800
+Friedrich ataxia is a degenerative disorder of the cerebellum and spinal cord tracts.
+
+109
+00:07:58,120 --> 00:08:01,880
+Because the cerebellum's involved, you get ataxia, hence the word ataxia in the name.
+
+110
+00:08:02,240 --> 00:08:07,060
+And also, because the spinal cord tracts are involved, you get loss of vibratory sense and proprioception.
+
+111
+00:08:07,060 --> 00:08:11,400
+You get muscle weakness in the lower extremities, loss of the deep tendon reflexes.
+
+112
+00:08:12,080 --> 00:08:15,680
+So the key thing here is ataxia plus multiple spinal cord tracts.
+
+113
+00:08:16,200 --> 00:08:22,980
+Now, this is an autosomal recessive disorder characterized by an unstable trinucleotide repeat in the frataxin gene.
+
+114
+00:08:23,380 --> 00:08:27,420
+High-yield to note, the frataxin gene is essential for mitochondrial iron regulation.
+
+115
+00:08:27,940 --> 00:08:33,680
+And, of course, if you cannot regulate iron properly, you increase the risk of developing free radicals via the fentanyl reaction.
+
+116
+00:08:33,680 --> 00:08:38,140
+And so, again, here you would also get free radical damage to the neurons.
+
+117
+00:08:38,540 --> 00:08:40,100
+Now, this presents an early childhood.
+
+118
+00:08:40,500 --> 00:08:44,560
+And another high-yield dissociation is that these patients can have hypertrophic cardiomyopathy.
+
+119
+00:08:45,000 --> 00:08:46,800
+Examiners like to go after that as well.
+
+120
+00:08:47,120 --> 00:08:49,360
+And that concludes our discussion of spinal cord lesions.
+

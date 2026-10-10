@@ -1,0 +1,1228 @@
+1
+00:00:00,000 --> 00:00:03,580
+The final section in this chapter deals with central nervous system tumors.
+
+2
+00:00:04,040 --> 00:00:06,060
+CNS tumors can be metastatic or primary.
+
+3
+00:00:06,220 --> 00:00:09,420
+About 50% are metastatic and 50% are primary.
+
+4
+00:00:09,820 --> 00:00:11,320
+When you have metastatic lesions,
+
+5
+00:00:11,520 --> 00:00:15,160
+these usually present as multiple well-circumscribed lesions,
+
+6
+00:00:15,600 --> 00:00:17,500
+most often at the gray-white junction.
+
+7
+00:00:18,140 --> 00:00:21,440
+The three most common sources that like to go to the brain
+
+8
+00:00:21,440 --> 00:00:24,500
+are lung cancer, breast cancer, and kidney cancer.
+
+9
+00:00:24,660 --> 00:00:25,680
+So those are the big three.
+
+10
+00:00:26,320 --> 00:00:28,200
+Primary tumors of the central nervous system
+
+11
+00:00:28,200 --> 00:00:29,920
+are classified according to cell type.
+
+12
+00:00:30,300 --> 00:00:33,380
+And it's very important to note that when you have a malignant primary tumor,
+
+13
+00:00:33,720 --> 00:00:34,960
+it's locally destructive.
+
+14
+00:00:35,380 --> 00:00:38,980
+However, it usually will not spread outside of the central nervous system.
+
+15
+00:00:39,520 --> 00:00:43,360
+Now again, let's focus on the fact that these are classified according to cell type.
+
+16
+00:00:43,620 --> 00:00:45,880
+So in order to understand central nervous system tumors,
+
+17
+00:00:45,980 --> 00:00:49,620
+we really need to understand the normal cells present within the central nervous system.
+
+18
+00:00:50,140 --> 00:00:52,020
+And so let's just do a very quick overview.
+
+19
+00:00:52,340 --> 00:00:56,460
+Recall that the central nervous system is comprised of approximately 50% neurons
+
+20
+00:00:56,460 --> 00:00:58,500
+and 50% glial tissue.
+
+21
+00:00:58,500 --> 00:01:01,760
+The glial tissue is the tissue that supports the neurons.
+
+22
+00:01:02,180 --> 00:01:03,980
+It helps to keep the neurons separate.
+
+23
+00:01:04,180 --> 00:01:05,520
+It helps to maintain the neurons.
+
+24
+00:01:05,860 --> 00:01:08,120
+And it's sort of the glue of the central nervous system.
+
+25
+00:01:08,520 --> 00:01:10,800
+Now the glial system includes the astrocytes.
+
+26
+00:01:11,300 --> 00:01:15,160
+The astrocytes are particularly noteworthy because they form the blood-brain barrier.
+
+27
+00:01:15,160 --> 00:01:18,340
+It also includes the oligodendrocytes.
+
+28
+00:01:18,920 --> 00:01:21,920
+And of course, the oligodendrocytes, they myelinate the axons.
+
+29
+00:01:22,520 --> 00:01:24,860
+And then it also includes the ependymal cells.
+
+30
+00:01:25,580 --> 00:01:29,680
+And the ependymal cells, they are the cells that line the ventricular spaces.
+
+31
+00:01:30,380 --> 00:01:33,640
+Of course, the other 50% of the CNS is comprised of the neurons.
+
+32
+00:01:33,640 --> 00:01:37,900
+And then finally, surrounding the brain, you have meningothelial cells.
+
+33
+00:01:38,420 --> 00:01:40,240
+Now these are the five key cells in the brain.
+
+34
+00:01:40,500 --> 00:01:44,960
+And it's these five cells that produce the key tumors within the brain that we need to be aware of.
+
+35
+00:01:45,180 --> 00:01:49,680
+Now these cells can produce tumors within children or they can produce tumors in adults.
+
+36
+00:01:50,060 --> 00:01:52,860
+And so with that background in mind, let's go through each of these.
+
+37
+00:01:52,860 --> 00:01:55,500
+Now astrocytes are the most abundant glial cell.
+
+38
+00:01:55,880 --> 00:02:02,220
+And the tumor that classically arises from astrocytes in a kid is called the pylocytic astrocytoma.
+
+39
+00:02:02,900 --> 00:02:04,640
+This is a benign tumor of astrocytes.
+
+40
+00:02:04,720 --> 00:02:07,140
+And we'll discuss that in more detail as we move forward.
+
+41
+00:02:07,500 --> 00:02:11,980
+The most common tumor of astrocytes in adults is called the glioblastoma multiforme.
+
+42
+00:02:12,100 --> 00:02:14,320
+This is a highly malignant tumor of astrocytes.
+
+43
+00:02:14,680 --> 00:02:16,960
+It's the most common CNS tumor in adults.
+
+44
+00:02:17,960 --> 00:02:21,160
+Oligodendrocytes form something called an oligodendroglioma.
+
+45
+00:02:21,160 --> 00:02:22,680
+That's classically seen in adults.
+
+46
+00:02:23,260 --> 00:02:25,820
+Ependymal cells can form an ependymoma.
+
+47
+00:02:26,260 --> 00:02:27,920
+This is classically seen in children.
+
+48
+00:02:28,520 --> 00:02:33,020
+Neurons don't really form tumors because neurons have very limited ability to divide.
+
+49
+00:02:33,140 --> 00:02:35,120
+Remember that the neurons are a permanent tissue.
+
+50
+00:02:35,560 --> 00:02:38,800
+And so if you can't divide, it's going to be very hard to produce a tumor, obviously.
+
+51
+00:02:39,180 --> 00:02:41,380
+However, in children, the neurons do divide.
+
+52
+00:02:41,700 --> 00:02:47,120
+And the classic tumor that arises from the quote-unquote neurons is something called a medulloblastoma,
+
+53
+00:02:47,120 --> 00:02:49,840
+which is really a tumor derived from neuroectoderm,
+
+54
+00:02:49,840 --> 00:02:53,680
+which again is the type of tissue from which the neurons are also derived.
+
+55
+00:02:53,680 --> 00:02:59,140
+And finally, from the meningothelial cells, you can get a meningioma, and that classically occurs in adult females.
+
+56
+00:02:59,140 --> 00:03:03,040
+And so this is a little bit of a summary of the types of tumors that we're going to talk about.
+
+57
+00:03:03,420 --> 00:03:06,520
+And now I want to make one more point before we go into the individual tumors.
+
+58
+00:03:07,120 --> 00:03:10,020
+And that is that this line here represents the tentorium.
+
+59
+00:03:10,460 --> 00:03:13,260
+And tumors in adults usually occur above the tentorium,
+
+60
+00:03:13,540 --> 00:03:17,420
+whereas tumors in kids usually occur beneath the tentorium.
+
+61
+00:03:17,660 --> 00:03:19,060
+And that's particularly high yield.
+
+62
+00:03:19,060 --> 00:03:22,320
+The first of the tumors is a glioblastoma multiforme.
+
+63
+00:03:22,600 --> 00:03:25,620
+Again, this is a malignant high-grade tumor of astrocytes.
+
+64
+00:03:25,920 --> 00:03:29,040
+It's the most common malignant CNS tumor in adults.
+
+65
+00:03:29,600 --> 00:03:32,200
+The tumor usually arises in the cerebral hemisphere,
+
+66
+00:03:32,500 --> 00:03:34,620
+so I'm outlining for you the tumor here.
+
+67
+00:03:35,160 --> 00:03:38,160
+And one of the very high yield associations with this tumor
+
+68
+00:03:38,160 --> 00:03:42,620
+is that it crosses this midline structure here called the corpus callosum.
+
+69
+00:03:42,620 --> 00:03:46,720
+And that's a particularly important feature of glioblastoma multiforme.
+
+70
+00:03:46,720 --> 00:03:49,760
+Now sometimes people like to call this the butterfly glioma,
+
+71
+00:03:49,940 --> 00:03:54,440
+and that's sort of because it crosses over like this and gives an image of a butterfly.
+
+72
+00:03:54,940 --> 00:03:57,480
+And so it's also known as a butterfly glioma.
+
+73
+00:03:58,020 --> 00:04:00,160
+There are two characteristic features of histology
+
+74
+00:04:00,160 --> 00:04:03,420
+that are particularly important to know for the purposes of board exams.
+
+75
+00:04:03,740 --> 00:04:07,060
+The first is that the tumor produces a large amount of necrosis,
+
+76
+00:04:07,140 --> 00:04:09,600
+and so you can see here that the cells are dying and necrotic.
+
+77
+00:04:10,140 --> 00:04:12,260
+And then as a result of that necrosis,
+
+78
+00:04:12,260 --> 00:04:16,700
+the cells that are living or viable end up forming this edge,
+
+79
+00:04:16,720 --> 00:04:18,500
+to the area of the necrosis.
+
+80
+00:04:18,860 --> 00:04:22,280
+And because it looks like this edge is lining up against the necrosis,
+
+81
+00:04:22,520 --> 00:04:24,040
+we call that pseudopalisading.
+
+82
+00:04:24,140 --> 00:04:25,840
+Remember, palisading means to line up,
+
+83
+00:04:26,080 --> 00:04:27,600
+but here the cells aren't really lining up.
+
+84
+00:04:27,720 --> 00:04:30,360
+They simply are the living cells that are at the edge of the necrosis,
+
+85
+00:04:30,640 --> 00:04:33,360
+and so we call that quote-unquote pseudopalisading.
+
+86
+00:04:33,760 --> 00:04:36,500
+And so that's one very important histologic feature.
+
+87
+00:04:36,500 --> 00:04:38,540
+The second important histologic feature
+
+88
+00:04:38,540 --> 00:04:40,800
+is that you get endothelial cell proliferation,
+
+89
+00:04:41,200 --> 00:04:42,880
+and that's not shown on this image here,
+
+90
+00:04:42,980 --> 00:04:43,980
+but it's important to note.
+
+91
+00:04:44,300 --> 00:04:45,580
+Examiners also like you to note
+
+92
+00:04:45,580 --> 00:04:47,860
+that this tumor is derived from a glial cell,
+
+93
+00:04:48,220 --> 00:04:51,580
+and so therefore the intermediate filament present within these cells
+
+94
+00:04:51,580 --> 00:04:53,120
+will be GFAP.
+
+95
+00:04:53,700 --> 00:04:57,200
+GFAP is the intermediate filament present within glial cells,
+
+96
+00:04:57,440 --> 00:04:59,300
+and that also is particularly high yield.
+
+97
+00:04:59,960 --> 00:05:02,900
+Meningioma is a benign tumor of the arachnoid cells.
+
+98
+00:05:02,900 --> 00:05:05,100
+It's the most common benign tumor in adults,
+
+99
+00:05:05,480 --> 00:05:08,000
+classically more often seen in an adult female.
+
+100
+00:05:08,480 --> 00:05:10,400
+It's important to note, and particularly high yield,
+
+101
+00:05:10,400 --> 00:05:12,480
+that this tumor expresses estrogen receptor,
+
+102
+00:05:12,840 --> 00:05:15,260
+and so it's probably estrogen that has some role
+
+103
+00:05:15,260 --> 00:05:16,500
+in the development of this tumor,
+
+104
+00:05:16,820 --> 00:05:17,980
+and so that helps us to remember
+
+105
+00:05:17,980 --> 00:05:19,640
+that it's going to be an adult female
+
+106
+00:05:19,640 --> 00:05:21,200
+that's going to be the key person
+
+107
+00:05:21,200 --> 00:05:22,200
+that's going to get this tumor,
+
+108
+00:05:22,340 --> 00:05:23,380
+especially on an examination.
+
+109
+00:05:24,160 --> 00:05:27,040
+Now the tumor actually forms a round mass
+
+110
+00:05:27,040 --> 00:05:28,140
+that's attached to the dura,
+
+111
+00:05:28,240 --> 00:05:29,520
+and that's what imaging would reveal,
+
+112
+00:05:29,520 --> 00:05:32,260
+and that round mass will then press on the cortex,
+
+113
+00:05:32,480 --> 00:05:33,820
+and when it presses on the cortex,
+
+114
+00:05:34,160 --> 00:05:35,100
+it will create seizures.
+
+115
+00:05:35,100 --> 00:05:37,680
+Now it's important to note that the tumor compresses,
+
+116
+00:05:37,760 --> 00:05:39,340
+but does not invade the cortex,
+
+117
+00:05:39,700 --> 00:05:41,560
+and again, that'll result in seizures.
+
+118
+00:05:42,160 --> 00:05:45,600
+Here's a classic histology showing the world appearance of cells,
+
+119
+00:05:45,760 --> 00:05:49,220
+which is sort of the high yield characteristic of this tumor.
+
+120
+00:05:49,600 --> 00:05:51,480
+Remember that this tumor can also result
+
+121
+00:05:51,480 --> 00:05:52,900
+in abundant somoma bodies,
+
+122
+00:05:53,180 --> 00:05:55,620
+and that's because these world cells can calcify,
+
+123
+00:05:55,720 --> 00:05:56,500
+and when they calcify,
+
+124
+00:05:56,600 --> 00:05:59,380
+you would get somoma bodies within the tumor.
+
+125
+00:05:59,480 --> 00:06:01,580
+Now this picture does not show somoma bodies,
+
+126
+00:06:01,580 --> 00:06:02,920
+but it is important to know
+
+127
+00:06:02,920 --> 00:06:05,800
+that you get a world pattern of cells with somoma bodies,
+
+128
+00:06:05,960 --> 00:06:07,040
+and again, that's high yield.
+
+129
+00:06:07,820 --> 00:06:10,000
+Schwannoma is a tumor that we haven't talked about yet.
+
+130
+00:06:10,300 --> 00:06:11,960
+It's a benign tumor of Schwann cells,
+
+131
+00:06:12,060 --> 00:06:12,980
+and Schwann cells, of course,
+
+132
+00:06:13,040 --> 00:06:15,640
+are the cells that myelinate the peripheral nervous system.
+
+133
+00:06:16,140 --> 00:06:19,020
+Now this can involve the cranial nerves or the spinal nerves,
+
+134
+00:06:19,260 --> 00:06:22,060
+and it's especially common involving the eighth cranial nerve
+
+135
+00:06:22,060 --> 00:06:24,080
+at the cerebellopontine angle,
+
+136
+00:06:24,420 --> 00:06:26,360
+and so that's why we're including it in this discussion,
+
+137
+00:06:26,500 --> 00:06:28,300
+because when it arises at the CPA,
+
+138
+00:06:28,460 --> 00:06:29,740
+that's going to be within the cranium,
+
+139
+00:06:29,740 --> 00:06:31,640
+and so we're talking about it here
+
+140
+00:06:31,640 --> 00:06:33,180
+as a central nervous system tumor.
+
+141
+00:06:33,560 --> 00:06:35,720
+Patients who have eighth cranial nerve schwannomas,
+
+142
+00:06:35,860 --> 00:06:37,760
+they classically present with a loss of hearing
+
+143
+00:06:37,760 --> 00:06:39,480
+and tinnitus or ringing in their ears.
+
+144
+00:06:39,880 --> 00:06:42,700
+It's important to note that the schwannoma is S100 positive.
+
+145
+00:06:42,840 --> 00:06:43,520
+That's high yield,
+
+146
+00:06:43,880 --> 00:06:45,060
+and it's also high yield to know
+
+147
+00:06:45,060 --> 00:06:48,100
+that bilateral schwannomas of the eighth cranial nerve
+
+148
+00:06:48,100 --> 00:06:50,560
+are seen in neurofibromatosis type 2.
+
+149
+00:06:51,920 --> 00:06:53,540
+Oligodendrogliomas are malignant tumors
+
+150
+00:06:53,540 --> 00:06:54,920
+of oligodendrocytes.
+
+151
+00:06:55,300 --> 00:06:57,100
+The most important association here
+
+152
+00:06:57,100 --> 00:07:00,260
+is that you get a calcified tumor in the white matter.
+
+153
+00:07:00,360 --> 00:07:01,420
+Of course, it's the white matter
+
+154
+00:07:01,420 --> 00:07:03,260
+because that's where the oligodendrocytes are.
+
+155
+00:07:03,420 --> 00:07:04,840
+They myelinate the axons,
+
+156
+00:07:05,160 --> 00:07:06,740
+producing the color of the white matter,
+
+157
+00:07:07,000 --> 00:07:08,780
+and it usually involves the frontal lobe
+
+158
+00:07:08,780 --> 00:07:09,800
+presenting with seizures,
+
+159
+00:07:10,200 --> 00:07:11,440
+and so all of this is high yield.
+
+160
+00:07:11,680 --> 00:07:13,760
+Calcified tumor in the frontal lobe,
+
+161
+00:07:14,180 --> 00:07:15,540
+arising in the white matter,
+
+162
+00:07:15,920 --> 00:07:17,060
+and presenting with seizures.
+
+163
+00:07:17,620 --> 00:07:19,240
+Here's an image of the classic histology.
+
+164
+00:07:19,380 --> 00:07:20,680
+It's known as the fried egg appearance.
+
+165
+00:07:21,040 --> 00:07:22,740
+Imagine that this is an egg here.
+
+166
+00:07:23,100 --> 00:07:24,420
+This is the egg white,
+
+167
+00:07:24,760 --> 00:07:27,440
+and then the nucleus represents the yolk of the egg.
+
+168
+00:07:27,580 --> 00:07:30,260
+You can see that there's a bunch of fried eggs
+
+169
+00:07:30,260 --> 00:07:31,460
+throughout this biopsy.
+
+170
+00:07:31,800 --> 00:07:34,780
+Again, classic for oligodendroglioma.
+
+171
+00:07:35,200 --> 00:07:37,760
+Moving on to tumors that most often arise in children,
+
+172
+00:07:37,900 --> 00:07:39,320
+a pilocytic astrocytoma
+
+173
+00:07:39,320 --> 00:07:41,240
+is a benign tumor of astrocytes.
+
+174
+00:07:41,520 --> 00:07:43,860
+It's the most common CNS tumor in children,
+
+175
+00:07:44,280 --> 00:07:46,020
+and it usually arises in the cerebellum,
+
+176
+00:07:46,080 --> 00:07:47,060
+but of course we know that
+
+177
+00:07:47,060 --> 00:07:48,380
+because most tumors in children
+
+178
+00:07:48,380 --> 00:07:50,060
+are going to be beneath the tentorium.
+
+179
+00:07:50,060 --> 00:07:52,680
+The classic imaging for a pilocytic astrocytoma
+
+180
+00:07:52,680 --> 00:07:56,120
+is a cystic lesion with a mural nodule,
+
+181
+00:07:56,240 --> 00:07:58,120
+or a nodule growing on its wall,
+
+182
+00:07:58,500 --> 00:08:01,040
+and so this here is the classic imaging.
+
+183
+00:08:01,220 --> 00:08:02,900
+Now, if you have trouble remembering that,
+
+184
+00:08:02,980 --> 00:08:05,280
+you can sort of think as pilocytic astrocytoma
+
+185
+00:08:05,280 --> 00:08:07,380
+as a pilocytic astrocytoma,
+
+186
+00:08:07,440 --> 00:08:08,720
+if you want to just play with the words,
+
+187
+00:08:09,060 --> 00:08:10,180
+and then that'll help you to remember
+
+188
+00:08:10,180 --> 00:08:12,700
+that it's a cyst with a mural nodule,
+
+189
+00:08:12,800 --> 00:08:14,600
+and again, this is particularly high yield.
+
+190
+00:08:14,920 --> 00:08:16,140
+When biopsy is performed,
+
+191
+00:08:16,140 --> 00:08:18,380
+the key finding is that you have astrocytes
+
+192
+00:08:18,380 --> 00:08:21,140
+with these thick eosinophilic processes,
+
+193
+00:08:21,660 --> 00:08:23,360
+and these are called Rosenthal fibers,
+
+194
+00:08:23,700 --> 00:08:25,360
+and Rosenthal fibers are an important
+
+195
+00:08:25,360 --> 00:08:28,900
+high yield association with a pilocytic astrocytoma.
+
+196
+00:08:29,240 --> 00:08:30,360
+Now, it's also important to note
+
+197
+00:08:30,360 --> 00:08:32,240
+that these are astrocytes, which are glial cells,
+
+198
+00:08:32,560 --> 00:08:35,300
+and so this tumor would also be GFAP positive.
+
+199
+00:08:36,280 --> 00:08:37,660
+Medulloblastoma is a malignant tumor
+
+200
+00:08:37,660 --> 00:08:40,220
+derived from the granular cells of the cerebellum.
+
+201
+00:08:40,520 --> 00:08:42,020
+It's particularly high yield to note
+
+202
+00:08:42,020 --> 00:08:43,180
+that this tumor is derived
+
+203
+00:08:43,180 --> 00:08:45,080
+from neural ectodermal tissue.
+
+204
+00:08:45,080 --> 00:08:46,780
+Board examiners like to ask you that.
+
+205
+00:08:47,180 --> 00:08:48,440
+It usually arises in children.
+
+206
+00:08:49,040 --> 00:08:51,720
+The histology reveals small, round blue cells
+
+207
+00:08:51,720 --> 00:08:53,320
+with homo-right rosettes.
+
+208
+00:08:53,680 --> 00:08:54,940
+Now, homo-right rosettes are
+
+209
+00:08:54,940 --> 00:08:56,460
+when the small, round blue cells,
+
+210
+00:08:56,640 --> 00:09:00,120
+they wrap around pink areas of neuritic processes,
+
+211
+00:09:00,580 --> 00:09:02,220
+and so we call those homo-right rosettes
+
+212
+00:09:02,220 --> 00:09:04,260
+because they are forming a rosette
+
+213
+00:09:04,260 --> 00:09:06,300
+around those neuritic processes.
+
+214
+00:09:06,820 --> 00:09:08,360
+This tumor has a poor prognosis.
+
+215
+00:09:08,560 --> 00:09:09,300
+It grows rapidly,
+
+216
+00:09:09,640 --> 00:09:12,600
+and it can then enter into the fourth ventricular space,
+
+217
+00:09:12,600 --> 00:09:13,980
+and using the CSF,
+
+218
+00:09:14,060 --> 00:09:15,840
+it can then drop down to the spinal cord
+
+219
+00:09:15,840 --> 00:09:17,100
+and involve the cord,
+
+220
+00:09:17,420 --> 00:09:19,240
+and those are called drop metastases,
+
+221
+00:09:19,240 --> 00:09:21,420
+and that's also particularly high yield.
+
+222
+00:09:22,100 --> 00:09:24,360
+Ependymoma is a malignant tumor of the ependymal cells.
+
+223
+00:09:24,460 --> 00:09:25,700
+Remember that the ependymal cells,
+
+224
+00:09:25,780 --> 00:09:27,200
+they line the ventricular space.
+
+225
+00:09:27,560 --> 00:09:28,780
+It's usually seen in children,
+
+226
+00:09:29,180 --> 00:09:30,540
+and because it's usually seen in children,
+
+227
+00:09:30,680 --> 00:09:32,040
+it'll be beneath the tentorium,
+
+228
+00:09:32,080 --> 00:09:33,360
+and beneath the tentorium means
+
+229
+00:09:33,360 --> 00:09:34,720
+it'll be in the fourth ventricle.
+
+230
+00:09:34,960 --> 00:09:36,840
+Because this tumor arises from the cells
+
+231
+00:09:36,840 --> 00:09:38,160
+lining the ventricular space,
+
+232
+00:09:38,160 --> 00:09:41,020
+it'll eventually grow out into the ventricular space,
+
+233
+00:09:41,300 --> 00:09:43,180
+and it can block the flow of CSF,
+
+234
+00:09:43,300 --> 00:09:44,880
+producing hydrocephalus,
+
+235
+00:09:44,900 --> 00:09:46,200
+and that's very high yield as well.
+
+236
+00:09:46,680 --> 00:09:48,780
+Here's a picture of the histology of an ependymoma.
+
+237
+00:09:49,020 --> 00:09:50,080
+The key finding is that
+
+238
+00:09:50,080 --> 00:09:52,340
+you have perivascular pseudorosettes.
+
+239
+00:09:52,780 --> 00:09:54,020
+Now here's a blood vessel here,
+
+240
+00:09:54,280 --> 00:09:55,800
+and you can see that the tumor cells,
+
+241
+00:09:55,900 --> 00:09:56,660
+these blue cells,
+
+242
+00:09:56,720 --> 00:09:59,000
+are lining up against this blood vessel
+
+243
+00:09:59,000 --> 00:10:01,120
+with some pink material in between,
+
+244
+00:10:01,480 --> 00:10:04,520
+and so we call that a perivascular pseudorosette.
+
+245
+00:10:05,520 --> 00:10:07,080
+Cranial pharyngioma is a tumor that arises
+
+246
+00:10:07,080 --> 00:10:09,560
+from the epithelial remnants of Rathke's pouch.
+
+247
+00:10:09,940 --> 00:10:11,180
+It's particularly high yield
+
+248
+00:10:11,180 --> 00:10:12,880
+because of its tie-in with embryology.
+
+249
+00:10:13,200 --> 00:10:14,260
+So let's go back and review.
+
+250
+00:10:14,700 --> 00:10:16,720
+Recall that if this is the base of the brain,
+
+251
+00:10:16,900 --> 00:10:18,280
+and this is the floor of the mouth,
+
+252
+00:10:18,680 --> 00:10:21,000
+then an upward protrusion of the floor of the mouth
+
+253
+00:10:21,000 --> 00:10:23,640
+results in formation of the anterior pituitary,
+
+254
+00:10:24,020 --> 00:10:26,400
+and a downward protrusion of the base of the brain
+
+255
+00:10:26,400 --> 00:10:29,480
+results in formation of the posterior pituitary.
+
+256
+00:10:29,860 --> 00:10:32,160
+And of course, these will eventually come together
+
+257
+00:10:32,160 --> 00:10:35,280
+to form the anterior and the posterior pituitary.
+
+258
+00:10:36,480 --> 00:10:38,620
+And of course, that sits in a space
+
+259
+00:10:38,620 --> 00:10:40,420
+called the cella tersica.
+
+260
+00:10:41,180 --> 00:10:42,200
+This is important to note
+
+261
+00:10:42,200 --> 00:10:44,720
+because this upward protrusion of the floor of the mouth
+
+262
+00:10:44,720 --> 00:10:46,300
+is called Rathke's pouch,
+
+263
+00:10:46,640 --> 00:10:48,080
+and eventually it should separate
+
+264
+00:10:48,080 --> 00:10:49,140
+from the floor of the mouth
+
+265
+00:10:49,140 --> 00:10:52,640
+and then produce this distinct anterior pituitary.
+
+266
+00:10:53,160 --> 00:10:54,700
+However, sometimes you can have remnants
+
+267
+00:10:54,700 --> 00:10:57,020
+of Rathke's pouch that remain along this pathway,
+
+268
+00:10:57,260 --> 00:10:58,640
+and it's from these remnants
+
+269
+00:10:58,640 --> 00:11:01,120
+that you can develop something called a cranial pharyngioma.
+
+270
+00:11:01,120 --> 00:11:03,720
+Now, think about the word cranial means in the cranium,
+
+271
+00:11:04,140 --> 00:11:06,700
+pharyngi means that you're arising from the pharynx,
+
+272
+00:11:06,940 --> 00:11:08,580
+and oma refers that you have a mass.
+
+273
+00:11:08,680 --> 00:11:10,800
+Now, of course, this tissue here,
+
+274
+00:11:11,060 --> 00:11:12,240
+the remnants of Rathke's pouch,
+
+275
+00:11:12,540 --> 00:11:16,040
+arose from the upward protrusion of the pharynx.
+
+276
+00:11:16,440 --> 00:11:18,160
+Now, again, notice that it's sitting here
+
+277
+00:11:18,160 --> 00:11:19,120
+in the cella tersica,
+
+278
+00:11:19,520 --> 00:11:21,740
+and it can then produce classic symptoms,
+
+279
+00:11:21,860 --> 00:11:23,080
+which we'll talk about in a moment.
+
+280
+00:11:23,920 --> 00:11:26,300
+Okay, so cranial pharyngioma is a tumor
+
+281
+00:11:26,300 --> 00:11:29,100
+that arises from the epithelial remnants of Rathke's pouch.
+
+282
+00:11:29,100 --> 00:11:31,780
+It presents as a supratentorial mass,
+
+283
+00:11:31,840 --> 00:11:34,380
+and again, that's because the cella tersica is supratentorial
+
+284
+00:11:34,380 --> 00:11:36,880
+in a child or a young adult.
+
+285
+00:11:37,460 --> 00:11:39,620
+It can compress the optic chiasm,
+
+286
+00:11:39,780 --> 00:11:41,820
+given its location near the optic chiasm,
+
+287
+00:11:42,140 --> 00:11:44,920
+which will then result in bitemporal hemianopsia.
+
+288
+00:11:45,200 --> 00:11:45,980
+Now, very high yield,
+
+289
+00:11:46,040 --> 00:11:47,740
+because bitemporal hemianopsia,
+
+290
+00:11:47,920 --> 00:11:51,340
+we sort of always associate with pituitary adenomas,
+
+291
+00:11:51,460 --> 00:11:53,000
+or tumors of the pituitary gland.
+
+292
+00:11:53,320 --> 00:11:54,460
+However, it's important to note
+
+293
+00:11:54,460 --> 00:11:56,580
+that if you have bitemporal hemianopsia,
+
+294
+00:11:56,940 --> 00:11:58,920
+in a child, you really want to think
+
+295
+00:11:58,920 --> 00:12:00,320
+about a cranial pharyngioma,
+
+296
+00:12:00,620 --> 00:12:02,120
+and that's particularly high yield.
+
+297
+00:12:02,680 --> 00:12:05,200
+Now, this tumor on imaging is often calcified,
+
+298
+00:12:05,540 --> 00:12:06,520
+and the way I remember this
+
+299
+00:12:06,520 --> 00:12:08,200
+is that it's derived from the floor of the mouth,
+
+300
+00:12:08,260 --> 00:12:10,400
+and the floor of the mouth has tooth-like tissue,
+
+301
+00:12:10,540 --> 00:12:12,460
+and so you can get calcifications on imaging.
+
+302
+00:12:12,960 --> 00:12:14,120
+The tumor is benign,
+
+303
+00:12:14,240 --> 00:12:16,100
+but it tends to recur after resection,
+
+304
+00:12:16,500 --> 00:12:18,100
+and so these are some of the high yield points
+
+305
+00:12:18,100 --> 00:12:20,080
+concerning cranial pharyngioma,
+
+306
+00:12:20,080 --> 00:12:21,760
+and that concludes our discussion
+
+307
+00:12:21,760 --> 00:12:23,460
+of both the section and the chapter.
+

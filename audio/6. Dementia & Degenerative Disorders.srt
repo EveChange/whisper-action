@@ -1,0 +1,2832 @@
+1
+00:00:00,000 --> 00:00:03,120
+Okay, moving on to dementia and degenerative disorders.
+
+2
+00:00:03,700 --> 00:00:06,920
+The key focus here is going to be on the word degenerative,
+
+3
+00:00:07,280 --> 00:00:10,060
+and what you need to understand is that in these particular disorders,
+
+4
+00:00:10,220 --> 00:00:13,760
+what's going to happen is you're going to lose or degenerate neurons.
+
+5
+00:00:14,340 --> 00:00:17,000
+Now, let's go back to just a little bit of basics.
+
+6
+00:00:17,200 --> 00:00:20,540
+So imagine for a moment that this is a coronal section through the brain.
+
+7
+00:00:21,040 --> 00:00:25,040
+Of course, you have gray matter, and then underneath that gray matter, there's white matter,
+
+8
+00:00:25,480 --> 00:00:29,520
+and then, of course, for example, here are ventricles, so there are two ventricles here,
+
+9
+00:00:29,520 --> 00:00:33,600
+so these would be the lateral ventricles, and then adjacent to the ventricles,
+
+10
+00:00:33,700 --> 00:00:35,480
+you often have additional gray matter.
+
+11
+00:00:35,960 --> 00:00:40,680
+Now, this additional gray matter represents the deeper neurons present within the brain,
+
+12
+00:00:40,900 --> 00:00:46,320
+and what you need to know about the degenerative disorders is that you're going to obviously degenerate neurons,
+
+13
+00:00:46,520 --> 00:00:49,240
+and so the degeneration can occur up here in the cortex,
+
+14
+00:00:49,820 --> 00:00:55,000
+and when you degenerate the neurons of the cortex, that's going to result in dementia.
+
+15
+00:00:55,380 --> 00:00:59,460
+In addition, you can degenerate the neurons in the deeper structures of the brain,
+
+16
+00:00:59,520 --> 00:01:03,980
+and in particular, the key structure that we're going to focus on is something called the basal ganglia.
+
+17
+00:01:04,480 --> 00:01:10,200
+The basal ganglia are neurons present within the deeper brain that are important for movement,
+
+18
+00:01:10,640 --> 00:01:15,760
+and therefore, if you degenerate the neurons of the basal ganglia, that's going to result in movement problems.
+
+19
+00:01:16,760 --> 00:01:21,340
+And so this is the paradigm that you need to have in your mind concerning the degenerative disorders.
+
+20
+00:01:21,480 --> 00:01:23,920
+Now, of course, I'm going to give you much more detail as we move forward,
+
+21
+00:01:24,240 --> 00:01:27,140
+but this is just to lay down a basic principle in your mind.
+
+22
+00:01:27,140 --> 00:01:29,040
+Now, with that, let's begin to text.
+
+23
+00:01:29,600 --> 00:01:33,600
+So I say that degenerative disorders are characterized by the loss of neurons,
+
+24
+00:01:34,140 --> 00:01:36,120
+and, of course, that's going to be within the gray matter,
+
+25
+00:01:36,360 --> 00:01:38,480
+and you can lose neurons within the cortex,
+
+26
+00:01:38,800 --> 00:01:41,420
+and when you lose neurons within the gray matter of the cortex,
+
+27
+00:01:41,640 --> 00:01:43,180
+that's going to result in dementia,
+
+28
+00:01:43,520 --> 00:01:47,060
+or you can lose neurons within the brainstem and the basal ganglia,
+
+29
+00:01:47,240 --> 00:01:49,860
+but really the key idea here is the basal ganglia,
+
+30
+00:01:50,360 --> 00:01:54,820
+and when you lose these neurons, that's going to result in movement disorders.
+
+31
+00:01:54,820 --> 00:01:58,100
+The first of these disorders is Alzheimer's disease.
+
+32
+00:01:58,520 --> 00:02:02,500
+This is a degenerative disease which involves the cortex,
+
+33
+00:02:02,980 --> 00:02:06,060
+in particular the neurons present in the gray matter of the cortex,
+
+34
+00:02:06,520 --> 00:02:11,140
+and, of course, when you involve the cortex, you're going to create dementia, as I've just explained.
+
+35
+00:02:11,620 --> 00:02:15,300
+And it so happens that Alzheimer's disease is the most common cause of dementia.
+
+36
+00:02:16,060 --> 00:02:19,160
+Now, to understand Alzheimer's disease, you do need a little bit of a background,
+
+37
+00:02:19,160 --> 00:02:20,660
+so let's take a step back.
+
+38
+00:02:21,140 --> 00:02:24,940
+This is a neuron, and I'm drawing for you the cell membrane of the neuron,
+
+39
+00:02:25,220 --> 00:02:28,340
+and present on this cell membrane of the neuron is a receptor,
+
+40
+00:02:28,580 --> 00:02:33,180
+which is derived from a protein called amyloid precursor protein.
+
+41
+00:02:33,780 --> 00:02:35,720
+Now, we don't know what this receptor does,
+
+42
+00:02:36,140 --> 00:02:39,360
+but what we do know is that when this receptor is being broken down,
+
+43
+00:02:39,700 --> 00:02:41,980
+remember that it's a protein that's going to be used,
+
+44
+00:02:42,200 --> 00:02:44,840
+and over time it's going to be broken down and then recycled.
+
+45
+00:02:44,840 --> 00:02:49,780
+So when this protein is broken down, it normally is broken down by an alpha secretase enzyme,
+
+46
+00:02:50,140 --> 00:02:55,060
+which results in an alpha byproduct, which can then be turned over without any problem.
+
+47
+00:02:55,640 --> 00:03:00,100
+However, sometimes it can be broken down by a beta secretase,
+
+48
+00:03:00,360 --> 00:03:02,020
+which results in a beta product,
+
+49
+00:03:02,280 --> 00:03:05,460
+and the problem with that beta product is that it cannot be turned over,
+
+50
+00:03:05,840 --> 00:03:08,060
+and instead it deposits as an amyloid,
+
+51
+00:03:08,380 --> 00:03:11,440
+and this is called A-beta amyloid.
+
+52
+00:03:11,440 --> 00:03:15,320
+So A-beta amyloid, when it's produced, cannot be broken down,
+
+53
+00:03:15,480 --> 00:03:17,880
+and then it begins to deposit within the brain,
+
+54
+00:03:18,080 --> 00:03:23,200
+and it's the deposition of A-beta amyloid that then results in Alzheimer's disease.
+
+55
+00:03:23,640 --> 00:03:27,240
+Again, very simplistically, amyloid precursor protein gets cleaved.
+
+56
+00:03:27,460 --> 00:03:29,680
+That results in A-beta amyloid.
+
+57
+00:03:30,020 --> 00:03:34,400
+A-beta amyloid deposits within the brain, resulting in Alzheimer's disease.
+
+58
+00:03:34,900 --> 00:03:38,120
+The clinical features of Alzheimer's disease are all based on dementia.
+
+59
+00:03:38,120 --> 00:03:45,800
+Now remember, dementia is memory loss plus cognitive dysfunction without any loss of consciousness.
+
+60
+00:03:46,300 --> 00:03:48,640
+So this is sort of the definition of dementia.
+
+61
+00:03:49,160 --> 00:03:52,200
+And so these patients get a slow-onset memory loss.
+
+62
+00:03:52,360 --> 00:03:53,960
+It's important to note that it's slow-onset.
+
+63
+00:03:54,060 --> 00:03:55,440
+It takes years to develop.
+
+64
+00:03:55,940 --> 00:03:59,280
+And it begins with recent memory, and then it progresses to distant memory.
+
+65
+00:03:59,800 --> 00:04:02,120
+Over time, they get progressive disorientation.
+
+66
+00:04:02,120 --> 00:04:08,500
+They begin to develop cognitive dysfunction and begin to lose motor skills and language skills.
+
+67
+00:04:09,240 --> 00:04:12,560
+In addition, they can develop behavior or personality changes.
+
+68
+00:04:13,000 --> 00:04:15,780
+Eventually, the patients become mute and bedridden.
+
+69
+00:04:16,240 --> 00:04:20,600
+And what's very important to note about Alzheimer's disease, especially early in the disease,
+
+70
+00:04:20,900 --> 00:04:24,620
+is you do not get focal neurologic deficits.
+
+71
+00:04:24,620 --> 00:04:33,640
+So for example, you wouldn't see features of Parkinson's disease, such as a pill-rolling tremor, or akinesia, or an expressionless face.
+
+72
+00:04:34,000 --> 00:04:41,520
+In addition, you wouldn't see features of Huntington's disease, like chorea, which are these random purposeless movements of proximal muscle.
+
+73
+00:04:42,020 --> 00:04:46,180
+So focal neurologic deficits will not be seen early in this disease.
+
+74
+00:04:46,180 --> 00:04:51,140
+When you consider the epidemiology of Alzheimer's disease, most cases are sporadic.
+
+75
+00:04:51,600 --> 00:04:57,200
+I'd like to go take a step back and just remind you that if this is Alzheimer's disease, you have the sporadic form,
+
+76
+00:04:57,960 --> 00:05:01,240
+and then you also have something called the early form.
+
+77
+00:05:02,340 --> 00:05:06,820
+Now, the key feature in the sporadic form is that the major risk factor is age.
+
+78
+00:05:07,220 --> 00:05:11,740
+So with time, there's an increased risk of developing the sporadic form.
+
+79
+00:05:11,740 --> 00:05:15,680
+And, of course, this sporadic form is predominantly a disease of the elderly.
+
+80
+00:05:16,180 --> 00:05:27,300
+Another important association here is that the risk is increased with the epsilon-4 allele of apolipoprotein E.
+
+81
+00:05:27,720 --> 00:05:29,240
+And that's particularly high yield.
+
+82
+00:05:29,360 --> 00:05:31,200
+Board examiners really like to go after that.
+
+83
+00:05:31,800 --> 00:05:38,580
+This epsilon-4 allele increases the conversion of amyloid precursor protein to the beta form.
+
+84
+00:05:38,580 --> 00:05:46,600
+And that then, of course, results in extra deposition of that beta form, resulting in A-beta amyloid, which then, of course, results in Alzheimer's disease.
+
+85
+00:05:47,100 --> 00:05:55,520
+And another thing that examiners like you to know is that there is a decreased risk with the epsilon-2 allele of apolipoprotein E.
+
+86
+00:05:55,860 --> 00:05:57,960
+And so that's a particularly high yield association.
+
+87
+00:05:58,720 --> 00:06:03,440
+Now, if you're having trouble remembering that, it's kind of easy because 4 is higher than 2.
+
+88
+00:06:03,440 --> 00:06:09,380
+And so 4 has the increased risk, and the epsilon-2 has a decreased risk, if that helps you.
+
+89
+00:06:10,180 --> 00:06:13,080
+The second important form is the early onset form.
+
+90
+00:06:13,420 --> 00:06:18,960
+And in the early onset form, you don't necessarily see this in the elderly, but you see it in patients who are younger.
+
+91
+00:06:19,340 --> 00:06:20,960
+And that's what we mean by early onset.
+
+92
+00:06:20,960 --> 00:06:31,520
+Now, the key important associations here are, number one, there is a familial form in which patients have a genetic mutation that's transferred through the family.
+
+93
+00:06:31,940 --> 00:06:37,080
+And the key genetic mutation that results in early onset Alzheimer's disease is called presenilin.
+
+94
+00:06:38,020 --> 00:06:41,640
+Now, there are two genes that can be involved, presenilin-1 and presenilin-2.
+
+95
+00:06:42,000 --> 00:06:46,140
+And the key mutation is actually present within presenilin-1.
+
+96
+00:06:46,140 --> 00:06:53,020
+So mutations in presenilin-1 can result in familial cases of Alzheimer's disease, which would give you early onset of disease.
+
+97
+00:06:53,620 --> 00:06:58,360
+The second association here is that there's an increased risk of the early form in patients with Down syndrome.
+
+98
+00:06:58,840 --> 00:07:04,800
+In fact, by the age of 40, a large number of patients with Down syndrome will have developed Alzheimer's disease.
+
+99
+00:07:05,220 --> 00:07:08,320
+Now, this is particularly high yield, and examiners love to go after it.
+
+100
+00:07:08,660 --> 00:07:13,680
+One of the essential principles here is that, of course, in Down syndrome, you have three copies of chromosome 21.
+
+101
+00:07:13,680 --> 00:07:24,680
+And remember, and very high yield, that the amyloid precursor protein that eventually results in the formation of the A-beta amyloid is actually present on chromosome 21.
+
+102
+00:07:25,400 --> 00:07:32,500
+And so, because the patients with Down syndrome have three copies of chromosome 21, they have an extra copy of the amyloid precursor protein,
+
+103
+00:07:32,920 --> 00:07:36,440
+and hence there is an increased production of the A-beta amyloid.
+
+104
+00:07:36,880 --> 00:07:39,840
+And so that, again, is a particularly high yield board association.
+
+105
+00:07:40,720 --> 00:07:42,720
+Now, with that in mind, let's go back and read the text.
+
+106
+00:07:42,720 --> 00:07:45,040
+So we say that most cases are sporadic.
+
+107
+00:07:45,520 --> 00:07:47,580
+The sporadic form is seen in the elderly.
+
+108
+00:07:47,820 --> 00:07:49,620
+The key risk is age.
+
+109
+00:07:50,060 --> 00:07:54,660
+There's also an association with the epsilon-4 allele of apolipoprotein E.
+
+110
+00:07:55,040 --> 00:08:03,200
+Of course, the epsilon-4 is associated with an increased risk, and the epsilon-2 allele is associated with a decreased risk.
+
+111
+00:08:03,660 --> 00:08:06,620
+Early onset Alzheimer's disease would be seen in younger patients.
+
+112
+00:08:06,620 --> 00:08:14,580
+One key association is that there is a set of familial cases, the major mutation here being in a gene called presenilin-1.
+
+113
+00:08:15,220 --> 00:08:24,140
+The second association here is Down syndrome, and the major issue here is that the amyloid precursor protein is present, of course, on chromosome 21,
+
+114
+00:08:24,680 --> 00:08:26,980
+and so that's particularly high yield to be aware of.
+
+115
+00:08:26,980 --> 00:08:33,540
+When a patient develops Alzheimer's disease, there are a few classic pathologic features that will arise within the brain.
+
+116
+00:08:34,000 --> 00:08:38,000
+Now, it doesn't matter whether you're talking about the sporadic form or the early form.
+
+117
+00:08:38,240 --> 00:08:40,520
+The pathologic features are similar.
+
+118
+00:08:41,000 --> 00:08:46,400
+However, we do need to be aware of them, and so this first image highlights one important pathologic feature,
+
+119
+00:08:46,400 --> 00:08:51,220
+and that is that you get diffuse cerebral atrophy of the brain.
+
+120
+00:08:51,700 --> 00:08:55,340
+Now, very important to note that this cerebral atrophy will be diffuse.
+
+121
+00:08:56,200 --> 00:08:58,880
+When you get this atrophy, a few important changes occur.
+
+122
+00:08:59,280 --> 00:09:02,880
+First of all, can you see these folds running across the brain here?
+
+123
+00:09:03,300 --> 00:09:09,320
+These are called the gyri, and one of the key findings is that you're going to get narrowing of these gyri,
+
+124
+00:09:09,900 --> 00:09:11,960
+and so that's one of the hallmarks of atrophy.
+
+125
+00:09:11,960 --> 00:09:19,260
+In addition, notice that you've got these spaces here between the gyri, here and here, for example, and here.
+
+126
+00:09:19,680 --> 00:09:24,360
+These are called the salsi, and so the second finding will be that you'll get widening of the salsi.
+
+127
+00:09:24,860 --> 00:09:30,200
+So, again, diffuse atrophy with narrowing of the gyri and widening of the salsi.
+
+128
+00:09:30,820 --> 00:09:35,980
+Now, a consequence of this atrophy, which is not shown on this slide but is important to know,
+
+129
+00:09:35,980 --> 00:09:42,300
+is that because you're losing brain mass, the ventricles are actually going to dilate and take up some of that space.
+
+130
+00:09:42,760 --> 00:09:49,960
+And so when you get dilatation of the ventricles due to loss of brain mass, we call that hydrocephalus ex-vacuole.
+
+131
+00:09:50,320 --> 00:09:53,520
+And that's an important point to be aware of, so that in this particular case,
+
+132
+00:09:53,620 --> 00:09:56,020
+were we to cut through this brain and look at the ventricles,
+
+133
+00:09:56,340 --> 00:10:01,740
+we would notice that there is dilation of the ventricles, and so, again, hydrocephalus ex-vacuole.
+
+134
+00:10:01,740 --> 00:10:04,040
+Now, that's not due to any increase in CSF.
+
+135
+00:10:04,380 --> 00:10:07,840
+Instead, it's actually due to atrophy of the brain with loss of parenchyma.
+
+136
+00:10:08,660 --> 00:10:14,060
+The next important pathologic finding is that there will be development of something called a neuritic plaque.
+
+137
+00:10:14,420 --> 00:10:19,740
+Now, here, I'm highlighting for you a neuritic plaque, and a neuritic plaque has two major components.
+
+138
+00:10:20,220 --> 00:10:30,020
+The first is that it has A-beta amyloid, and so you can see that there is this pink material, which represents amyloid.
+
+139
+00:10:30,020 --> 00:10:34,740
+Of course, this material is extracellular, because amyloid is always extracellular.
+
+140
+00:10:35,140 --> 00:10:40,020
+And this pink material, as it deposits, it begins to entrap neuritic processes,
+
+141
+00:10:40,380 --> 00:10:44,000
+so that within here, you're also going to have neuritic processes.
+
+142
+00:10:44,560 --> 00:10:51,060
+And so we call this whole thing a neuritic plaque, and it's a combination of A-beta amyloid with entrapped neuritic processes.
+
+143
+00:10:51,640 --> 00:10:57,620
+Now, important to note that this A-beta amyloid is actually derived from amyloid precursor protein.
+
+144
+00:10:57,620 --> 00:11:01,900
+A second important point to note, which is not highlighted on this image,
+
+145
+00:11:02,140 --> 00:11:06,720
+is that this A-beta amyloid can also deposit around blood vessels within the brain.
+
+146
+00:11:07,160 --> 00:11:12,120
+And when it deposits around blood vessels within the brain, we call that cerebral amyloid angiopathy.
+
+147
+00:11:12,600 --> 00:11:16,660
+Now, the problem with this deposition is that it then weakens the wall of the blood vessel,
+
+148
+00:11:16,900 --> 00:11:19,480
+which increases the risk for hemorrhage into the brain.
+
+149
+00:11:19,880 --> 00:11:25,620
+And so that's a particularly high-yield association as well, i.e. cerebral amyloid angiopathy.
+
+150
+00:11:25,620 --> 00:11:32,460
+The third pathologic hallmark of Alzheimer's disease is the formation of something called neurofibrillary tangles.
+
+151
+00:11:32,960 --> 00:11:35,360
+Now, notice that I've highlighted for you here a neuron.
+
+152
+00:11:35,780 --> 00:11:37,700
+Now, this is the nucleus of the neuron.
+
+153
+00:11:38,180 --> 00:11:42,620
+And within this neuron, you can see all these delicate fibers running through the cytoplasm,
+
+154
+00:11:43,540 --> 00:11:47,440
+which is sort of creating this flame-shaped edge to the cell.
+
+155
+00:11:47,440 --> 00:11:55,400
+And so what's happening here is that you've got deposition of something called a neurofibrillary tangle within the cytoplasm of the cell.
+
+156
+00:11:55,900 --> 00:12:01,420
+Now, board examiners like you to know that present within this neurofibrillary tangle is a protein called tau.
+
+157
+00:12:02,080 --> 00:12:05,240
+Tau is a microtubule-associated protein.
+
+158
+00:12:05,460 --> 00:12:10,720
+It helps to organize the microtubules, which are part of the cytoskeleton, within the cytoplasm.
+
+159
+00:12:10,720 --> 00:12:15,560
+In this particular case, what happens is this tau becomes hyperphosphorylated.
+
+160
+00:12:16,080 --> 00:12:21,280
+And when it becomes hyperphosphorylated, it can no longer assist in the organization of those microtubules.
+
+161
+00:12:21,720 --> 00:12:26,100
+And so you get these funny neurofibrillary tangles within the cytoplasm of the cell.
+
+162
+00:12:26,500 --> 00:12:32,920
+Now, board examiners like you to know that within the neurofibrillary tangle, it's going to be hyperphosphorylated tau.
+
+163
+00:12:32,920 --> 00:12:34,820
+And that's particularly high yield.
+
+164
+00:12:35,560 --> 00:12:38,880
+The diagnosis of Alzheimer's disease is a presumptive diagnosis.
+
+165
+00:12:39,140 --> 00:12:43,820
+It's made clinically, but only after excluding all other causes of dementia.
+
+166
+00:12:44,520 --> 00:12:47,360
+Now, the final confirmation, however, requires pathology.
+
+167
+00:12:47,860 --> 00:12:49,660
+So it would be done at autopsy.
+
+168
+00:12:49,900 --> 00:12:52,120
+However, of course, autopsy is often not available.
+
+169
+00:12:52,500 --> 00:12:58,040
+But the true final diagnosis of Alzheimer's disease is actually both clinical and pathologic.
+
+170
+00:12:58,040 --> 00:13:02,740
+And you put all of that data together to give a final true diagnosis of Alzheimer's disease.
+
+171
+00:13:03,360 --> 00:13:05,900
+An additional type of dementia is called vascular dementia.
+
+172
+00:13:06,460 --> 00:13:09,380
+The idea here is that you've got a problem with the blood vessels.
+
+173
+00:13:09,500 --> 00:13:15,100
+For example, hypertension, atherosclerosis, vasculitis, which decreases blood flow to the brain.
+
+174
+00:13:15,600 --> 00:13:19,620
+That decreased blood flow to the brain will result in multifocal infarction and injury.
+
+175
+00:13:20,000 --> 00:13:21,740
+And that will eventually result in dementia.
+
+176
+00:13:22,280 --> 00:13:28,420
+Now, the way I think about this is to simply go back and remind myself that when you have global cerebral ischemia,
+
+177
+00:13:28,420 --> 00:13:32,500
+which, again, was one of the cerebrovascular disorders that we covered,
+
+178
+00:13:32,920 --> 00:13:37,840
+I told you at that point that you can get mild, moderate, or severe global cerebral ischemia.
+
+179
+00:13:38,300 --> 00:13:44,120
+And in the case of moderate, I told you that you would get damage to areas of selective vulnerability.
+
+180
+00:13:44,440 --> 00:13:50,060
+For example, one of the areas that was going to get damaged was layers 3, 5, and 6 of the cortex,
+
+181
+00:13:50,260 --> 00:13:51,960
+which represents the pyramidal neurons.
+
+182
+00:13:52,400 --> 00:13:55,360
+Now, imagine if you're knocking out pyramidal neurons from the cortex,
+
+183
+00:13:55,480 --> 00:13:57,920
+what you're really doing is knocking out the gray matter of the cortex.
+
+184
+00:13:58,400 --> 00:14:00,540
+And, of course, that could eventually result in a dementia.
+
+185
+00:14:01,140 --> 00:14:07,480
+In addition, recall that I told you that another select region of damage would be the hippocampus of the temporal lobe.
+
+186
+00:14:07,740 --> 00:14:11,700
+Now, when you damage the hippocampus of the temporal lobe, you're going to create problems with memory.
+
+187
+00:14:11,700 --> 00:14:15,120
+And, of course, memory is also an essential component of dementia.
+
+188
+00:14:15,740 --> 00:14:22,820
+And so vascular dementia, one way to think about it, is that it is a consequence of moderate global cerebral ischemia.
+
+189
+00:14:23,240 --> 00:14:26,180
+And, of course, this is important because if it's a vascular dementia,
+
+190
+00:14:26,340 --> 00:14:32,160
+you might be able to alleviate the vascular problem and, therefore, improve the patient's symptoms and prognosis.
+
+191
+00:14:32,420 --> 00:14:37,480
+So this is important to know that it is a relatively common cause of dementia in the elderly.
+
+192
+00:14:37,480 --> 00:14:41,820
+Picks' disease is another degenerative disease of the cortex.
+
+193
+00:14:42,240 --> 00:14:47,180
+However, what's important to note is that this predominantly involves the frontal and temporal cortex
+
+194
+00:14:47,180 --> 00:14:50,140
+and spares the parietal and occipital lobes.
+
+195
+00:14:50,620 --> 00:14:55,540
+The way I think about this is that in Picks' disease, it picks the frontal and temporal cortex.
+
+196
+00:14:56,100 --> 00:15:01,120
+Now, this is important because, remember, in Alzheimer's, we had diffuse atrophy of the cortex.
+
+197
+00:15:01,460 --> 00:15:04,360
+And here, it's going to be the frontal and temporal cortex.
+
+198
+00:15:04,360 --> 00:15:08,280
+Now, the consequence of this is that when you knock out the frontal cortex,
+
+199
+00:15:08,420 --> 00:15:10,080
+you're going to develop problems with behavior.
+
+200
+00:15:10,520 --> 00:15:13,880
+And when you knock out the temporal cortex, you're going to get problems with language.
+
+201
+00:15:14,760 --> 00:15:19,180
+And so along with dementia, you get early behavioral and language symptoms.
+
+202
+00:15:19,760 --> 00:15:21,800
+Now, were you to examine the brain microscopically,
+
+203
+00:15:22,080 --> 00:15:26,120
+you would see round aggregates of tau protein within the neurons of the cortex.
+
+204
+00:15:26,540 --> 00:15:30,420
+Now, recall that tau protein is a microtubule-associated protein.
+
+205
+00:15:30,420 --> 00:15:34,600
+It helps the microtubules of the cytoskeleton arrange themselves properly.
+
+206
+00:15:35,180 --> 00:15:38,780
+And in this particular case, you're going to get these round aggregates of tau protein.
+
+207
+00:15:39,180 --> 00:15:44,240
+Now, recall in Alzheimer's disease, we also had tau protein, which was forming neurofibrillary tangles.
+
+208
+00:15:44,400 --> 00:15:46,200
+But we didn't get round aggregates.
+
+209
+00:15:46,260 --> 00:15:47,920
+We got the neurofibrillary tangles.
+
+210
+00:15:48,460 --> 00:15:50,820
+In this particular disorder, we have tau protein.
+
+211
+00:15:51,180 --> 00:15:53,680
+Instead, it's going to produce these round aggregates.
+
+212
+00:15:54,000 --> 00:15:55,900
+And that's particularly high yield as well.
+
+213
+00:15:55,900 --> 00:16:02,140
+So, switching gears a little bit, Parkinson's disease is a degenerative disorder in which you lose neurons.
+
+214
+00:16:02,520 --> 00:16:05,320
+However, instead of losing neurons predominantly in the cortex,
+
+215
+00:16:05,820 --> 00:16:09,300
+you actually lose neurons in the deeper gray matter structures of the brain.
+
+216
+00:16:09,760 --> 00:16:14,460
+Now, one of the most important gray matter structures in the deep brain is the basal ganglia.
+
+217
+00:16:15,000 --> 00:16:17,540
+The basal ganglia helps to regulate movement.
+
+218
+00:16:18,000 --> 00:16:19,280
+We'll talk about that in a minute.
+
+219
+00:16:19,280 --> 00:16:25,300
+And in this particular case, i.e. Parkinson's disease, you are going to lose the dopaminergic neurons
+
+220
+00:16:25,300 --> 00:16:30,720
+in the substantia niagara pars compacta, which is part of the basal ganglia.
+
+221
+00:16:31,200 --> 00:16:33,860
+Now, in order to really understand this, we have to go to the whiteboard.
+
+222
+00:16:34,720 --> 00:16:39,100
+Let's remind ourselves that the cortex communicates with the basal ganglia.
+
+223
+00:16:39,100 --> 00:16:44,140
+And the basal ganglia then sends its input back into the cortex.
+
+224
+00:16:45,220 --> 00:16:48,820
+And the purpose of this loop is to help to regulate movement.
+
+225
+00:16:49,340 --> 00:16:52,600
+Now, the key processing center of the basal ganglia is called the striatum.
+
+226
+00:16:53,360 --> 00:16:57,080
+And what you need to know about the striatum is that the striatum has the ability to send
+
+227
+00:16:57,080 --> 00:17:03,980
+stimulatory signal to the cortex or inhibitory signal to the cortex.
+
+228
+00:17:03,980 --> 00:17:09,400
+Now, in addition to receiving input from the cortex, the striatum also receives input
+
+229
+00:17:09,400 --> 00:17:13,340
+from the substantia niagara pars compacta.
+
+230
+00:17:13,660 --> 00:17:17,840
+And the dopaminergic neurons in particular of the substantia niagara pars compacta
+
+231
+00:17:17,840 --> 00:17:18,940
+will release dopamine.
+
+232
+00:17:19,520 --> 00:17:25,000
+Now, when they release dopamine, binding of D1 receptors on the striatum
+
+233
+00:17:25,000 --> 00:17:28,780
+will result in extra stimulation to the cortex.
+
+234
+00:17:28,780 --> 00:17:34,160
+And binding of D2 receptors will result in decreased inhibition of the cortex.
+
+235
+00:17:34,580 --> 00:17:38,780
+And so the overall effect of dopamine is to increase stimulation to the cortex
+
+236
+00:17:38,780 --> 00:17:40,640
+and decrease inhibition to the cortex.
+
+237
+00:17:41,000 --> 00:17:44,060
+And both of those are going to work to increase cortical function
+
+238
+00:17:44,060 --> 00:17:45,820
+so that you can increase movement.
+
+239
+00:17:46,280 --> 00:17:50,640
+And so the substantia niagara pars compacta has an effect on the striatum.
+
+240
+00:17:50,760 --> 00:17:54,140
+This whole thing, by the way, is called the niagara striatal pathway.
+
+241
+00:17:54,140 --> 00:17:59,980
+And this pathway helps to initiate movement by increasing the overall signal to the cortex.
+
+242
+00:18:00,440 --> 00:18:05,820
+Now, imagine if you knock out the dopaminergic neurons of the substantia niagara pars compacta,
+
+243
+00:18:06,060 --> 00:18:07,940
+which is what happens in Parkinson's disease,
+
+244
+00:18:08,520 --> 00:18:11,280
+you're not going to get this increased stimulation to the cortex.
+
+245
+00:18:11,760 --> 00:18:15,540
+And that's going to result in the movement disorders that are seen in Parkinson's disease.
+
+246
+00:18:15,940 --> 00:18:18,400
+Now, with that background, we can go back and read the text.
+
+247
+00:18:18,400 --> 00:18:24,120
+And so, again, I tell you that Parkinson's disease is a degenerative loss of the dopaminergic neurons
+
+248
+00:18:24,120 --> 00:18:28,020
+in the substantia niagara pars compacta, which is part of the basal ganglia.
+
+249
+00:18:28,720 --> 00:18:30,480
+This is a relatively common disorder.
+
+250
+00:18:30,620 --> 00:18:31,980
+The key risk factor is aging.
+
+251
+00:18:32,480 --> 00:18:34,060
+We don't know the etiology.
+
+252
+00:18:34,900 --> 00:18:40,200
+Historically, however, there were rare cases related to exposure to this molecule called MPTP,
+
+253
+00:18:40,640 --> 00:18:42,600
+which was a contaminant in illicit drugs.
+
+254
+00:18:42,600 --> 00:18:47,360
+And board examiners like you to know that MPTP can result in Parkinson's disease.
+
+255
+00:18:47,920 --> 00:18:51,740
+The clinical features of Parkinson's disease are all based on the fact that you've knocked out
+
+256
+00:18:51,740 --> 00:18:57,540
+the dopaminergic input to the striatum, in particular, the dopaminergic neurons of the substantia niagara.
+
+257
+00:18:58,120 --> 00:19:00,820
+And, of course, with that decreased input to the striatum,
+
+258
+00:19:00,880 --> 00:19:02,720
+you're going to have decreased input to the cortex,
+
+259
+00:19:02,920 --> 00:19:05,100
+and so you're not going to be able to generate movement as well.
+
+260
+00:19:05,580 --> 00:19:07,460
+In particular, these patients get tremor.
+
+261
+00:19:07,600 --> 00:19:10,820
+It's a pill-rolling tremor at rest that disappears with movement.
+
+262
+00:19:10,960 --> 00:19:12,160
+They get rigidity.
+
+263
+00:19:12,380 --> 00:19:15,060
+This is this cogwheel rigidity of their extremities.
+
+264
+00:19:15,060 --> 00:19:20,000
+They get akinesia, bradykinesia, which is slowing of all voluntary movements.
+
+265
+00:19:20,420 --> 00:19:23,260
+One example of this would be that they get an expressionless face,
+
+266
+00:19:23,320 --> 00:19:27,500
+as if they can't move even the muscles of the face to smile, for example.
+
+267
+00:19:28,040 --> 00:19:32,440
+And then they can get a shuffling gait, again, because they're not able to establish their movement,
+
+268
+00:19:32,760 --> 00:19:34,480
+and they get postural instability.
+
+269
+00:19:35,060 --> 00:19:39,140
+All of this can be remembered by the mnemonic TRAP, T-R-A-P.
+
+270
+00:19:39,140 --> 00:19:43,000
+Here's a picture of the pigmented neurons of the substantia niagara,
+
+271
+00:19:43,140 --> 00:19:48,340
+and you can see that here you've got the normal pigmented neurons present within the substantia niagara.
+
+272
+00:19:48,920 --> 00:19:51,380
+Here's a specimen from a patient with Parkinson's disease.
+
+273
+00:19:51,800 --> 00:19:55,560
+Notice that you've lost the pigmented neurons in the substantia niagara,
+
+274
+00:19:55,740 --> 00:20:00,600
+in particular, the dopaminergic neurons in the substantia niagara pars compacta.
+
+275
+00:20:00,600 --> 00:20:04,140
+The key finding is that within the neurons of the substantia niagara,
+
+276
+00:20:04,520 --> 00:20:08,720
+you're going to see these round eosinophilic inclusions, which are called Lewy bodies.
+
+277
+00:20:09,260 --> 00:20:11,640
+Now here, I've highlighted for you a neuron,
+
+278
+00:20:12,080 --> 00:20:15,280
+and notice that within this neuron, you've got this round structure,
+
+279
+00:20:15,700 --> 00:20:17,200
+which is called a Lewy body.
+
+280
+00:20:17,560 --> 00:20:22,820
+And board examiners like you to know that this Lewy body is composed of alpha-synuclein,
+
+281
+00:20:23,000 --> 00:20:23,800
+very high yield.
+
+282
+00:20:24,180 --> 00:20:27,320
+This round Lewy body is composed of alpha-synuclein,
+
+283
+00:20:27,600 --> 00:20:29,840
+and again, that's the hallmark of Parkinson's disease.
+
+284
+00:20:30,600 --> 00:20:32,440
+One last high yield point is that over time,
+
+285
+00:20:32,560 --> 00:20:34,720
+patients with Parkinson's can develop dementia.
+
+286
+00:20:35,120 --> 00:20:36,060
+It's relatively common.
+
+287
+00:20:36,340 --> 00:20:38,440
+However, it is seen late in the disease.
+
+288
+00:20:38,760 --> 00:20:40,520
+For example, years into the disease.
+
+289
+00:20:41,060 --> 00:20:43,700
+If a patient has early onset dementia,
+
+290
+00:20:43,860 --> 00:20:46,120
+for example, within the first year of diagnosis,
+
+291
+00:20:46,620 --> 00:20:50,040
+that suggests a different disorder, which is called Lewy body dementia.
+
+292
+00:20:50,580 --> 00:20:52,720
+And what's important about Lewy body dementia is that,
+
+293
+00:20:52,800 --> 00:20:55,680
+of course, you get dementia with Parkinson's-like features.
+
+294
+00:20:55,680 --> 00:20:57,500
+They can also have hallucinations.
+
+295
+00:20:57,500 --> 00:21:00,400
+However, they get cortical Lewy bodies,
+
+296
+00:21:00,560 --> 00:21:05,020
+which means that they have a lot of Lewy bodies within the gray matter of the cortex.
+
+297
+00:21:05,280 --> 00:21:06,900
+And, of course, when you knock out the cortex,
+
+298
+00:21:07,060 --> 00:21:08,500
+that's what's going to give you the dementia.
+
+299
+00:21:09,100 --> 00:21:11,720
+So, late dementia is part of Parkinson's disease.
+
+300
+00:21:12,220 --> 00:21:13,580
+Early dementia, for example,
+
+301
+00:21:13,700 --> 00:21:16,460
+within one year of the development of Parkinsonian features,
+
+302
+00:21:16,800 --> 00:21:18,540
+would not be called Parkinson's disease.
+
+303
+00:21:18,960 --> 00:21:20,940
+Instead, it would be called Lewy body dementia,
+
+304
+00:21:20,940 --> 00:21:25,140
+and that's because you've got Lewy bodies in the cortex of the brain.
+
+305
+00:21:26,200 --> 00:21:29,900
+Huntington's disease is another degenerative disorder of the basal ganglia.
+
+306
+00:21:30,360 --> 00:21:31,700
+However, in this particular case,
+
+307
+00:21:31,780 --> 00:21:36,920
+you knock out the GABAergic neurons in the caudate nucleus of the basal ganglia.
+
+308
+00:21:37,440 --> 00:21:38,880
+Now, this requires a little bit of review,
+
+309
+00:21:39,000 --> 00:21:40,760
+so let's remind ourselves that the cortex
+
+310
+00:21:40,760 --> 00:21:45,220
+is going to provide signal to the basal ganglia.
+
+311
+00:21:45,840 --> 00:21:51,220
+And, in particular, remember we said that it was the striatum of the basal ganglia.
+
+312
+00:21:51,780 --> 00:21:54,960
+And the basal ganglia, i.e. the striatum of the basal ganglia,
+
+313
+00:21:55,080 --> 00:21:57,020
+is then going to send message back to the cortex,
+
+314
+00:21:57,360 --> 00:22:00,260
+which is going to help to regulate movement.
+
+315
+00:22:00,820 --> 00:22:03,200
+Now, what's important to note is the striatum
+
+316
+00:22:03,200 --> 00:22:06,500
+is actually composed of two major gray matter structures.
+
+317
+00:22:06,500 --> 00:22:10,360
+The first is the caudate, and the second is the putamen.
+
+318
+00:22:10,760 --> 00:22:14,320
+So, it's the caudate plus the putamen that forms the striatum.
+
+319
+00:22:14,860 --> 00:22:18,340
+Now, imagine if you knock out the GABAergic neurons of the caudate,
+
+320
+00:22:18,420 --> 00:22:20,860
+you're going to lose an important component of the striatum,
+
+321
+00:22:21,180 --> 00:22:23,940
+and this is then going to result in a movement disorder
+
+322
+00:22:23,940 --> 00:22:25,800
+because you've damaged the basal ganglia.
+
+323
+00:22:26,540 --> 00:22:28,260
+Now, one additional high-yield point to know,
+
+324
+00:22:28,320 --> 00:22:29,940
+and board examiners like to go after it,
+
+325
+00:22:30,120 --> 00:22:34,160
+is that GABA is an inhibitory neurotransmitter.
+
+326
+00:22:34,160 --> 00:22:37,840
+So, that the GABAergic neurons of the caudate nucleus
+
+327
+00:22:37,840 --> 00:22:41,200
+actually provide an inhibitory signal to the cortex.
+
+328
+00:22:41,680 --> 00:22:44,420
+Now, the idea here is that your cortex is designed to move
+
+329
+00:22:44,420 --> 00:22:45,660
+and fire muscle very quickly.
+
+330
+00:22:46,100 --> 00:22:47,800
+Basically, imagine if you're playing baseball
+
+331
+00:22:47,800 --> 00:22:50,460
+and you need to quickly move to be able to catch the ball.
+
+332
+00:22:50,740 --> 00:22:52,040
+You don't want to have to think about it.
+
+333
+00:22:52,160 --> 00:22:54,300
+You want to be able to have the circuit fire
+
+334
+00:22:54,300 --> 00:22:55,780
+and the muscles move very quickly.
+
+335
+00:22:56,380 --> 00:22:59,560
+However, you also don't want random firing of the circuit
+
+336
+00:22:59,560 --> 00:23:02,120
+so that muscle begins to fly in different directions.
+
+337
+00:23:02,120 --> 00:23:05,940
+And so, you've got this inhibitory hold that's necessary
+
+338
+00:23:05,940 --> 00:23:09,160
+which occurs via the GABAergic neurons.
+
+339
+00:23:09,560 --> 00:23:11,600
+Now, imagine if you lose the GABAergic neurons,
+
+340
+00:23:11,720 --> 00:23:13,260
+you lose the inhibitory hold,
+
+341
+00:23:13,540 --> 00:23:15,440
+and when you lose the inhibitory hold,
+
+342
+00:23:15,540 --> 00:23:16,720
+what's going to happen is you're going to get
+
+343
+00:23:16,720 --> 00:23:18,460
+this random firing of the system
+
+344
+00:23:18,460 --> 00:23:20,760
+which is going to lead to random movements of muscle,
+
+345
+00:23:21,140 --> 00:23:22,320
+which is called chorea.
+
+346
+00:23:22,660 --> 00:23:24,560
+And so, the key problem in Huntington's disease
+
+347
+00:23:24,560 --> 00:23:29,260
+is you lose the GABAergic neurons of the caudate nucleus.
+
+348
+00:23:29,260 --> 00:23:31,180
+When you lose the GABAergic neurons,
+
+349
+00:23:31,300 --> 00:23:34,520
+you lose the inhibitory hold on the cortex.
+
+350
+00:23:34,880 --> 00:23:36,960
+When you lose the inhibitory hold on the cortex,
+
+351
+00:23:37,200 --> 00:23:39,420
+you're going to get random firing of the system
+
+352
+00:23:39,420 --> 00:23:42,280
+which is going to result in random purposeless movements
+
+353
+00:23:42,280 --> 00:23:44,820
+of the muscles, which is then called chorea.
+
+354
+00:23:45,160 --> 00:23:46,780
+Now, let's go back and review the text.
+
+355
+00:23:47,320 --> 00:23:48,880
+And so, I say that in Huntington's disease,
+
+356
+00:23:49,080 --> 00:23:51,060
+you get loss of the GABAergic neurons
+
+357
+00:23:51,060 --> 00:23:52,140
+in the caudate nucleus,
+
+358
+00:23:52,360 --> 00:23:55,440
+and of course, that's a key component of the basal ganglia.
+
+359
+00:23:55,440 --> 00:23:57,920
+This is a normal coronal section of brain,
+
+360
+00:23:58,060 --> 00:23:59,200
+and from this, I'd like to highlight
+
+361
+00:23:59,200 --> 00:24:01,160
+a few important principles of neural anatomy.
+
+362
+00:24:01,700 --> 00:24:03,420
+Now, of course, this is the gray matter of the cortex.
+
+363
+00:24:03,680 --> 00:24:05,000
+This is the white matter of the cortex.
+
+364
+00:24:05,660 --> 00:24:08,480
+These are the deeper gray matter structures of the brain.
+
+365
+00:24:09,100 --> 00:24:12,040
+Notice that you've got two ventricular spaces here and here.
+
+366
+00:24:12,380 --> 00:24:14,400
+So, therefore, this must be the lateral ventricle,
+
+367
+00:24:14,500 --> 00:24:16,840
+and this must also be the lateral ventricle.
+
+368
+00:24:17,300 --> 00:24:19,100
+And one thing that I'd like to highlight here
+
+369
+00:24:19,100 --> 00:24:21,640
+is notice that you've got this gray matter structure here,
+
+370
+00:24:21,640 --> 00:24:26,660
+which is pushing in and indenting the surface of the lateral ventricle.
+
+371
+00:24:27,160 --> 00:24:28,800
+Now, when you've got a big gray matter structure
+
+372
+00:24:28,800 --> 00:24:31,740
+that pushes in and indents the surface of the lateral ventricle,
+
+373
+00:24:32,000 --> 00:24:33,960
+that tells you that that's the caudate nucleus.
+
+374
+00:24:34,580 --> 00:24:35,560
+Now, underneath the caudate,
+
+375
+00:24:35,640 --> 00:24:37,140
+what you're seeing here is the putamen,
+
+376
+00:24:37,620 --> 00:24:40,280
+and you've got this stripe of internal capsule
+
+377
+00:24:40,280 --> 00:24:42,340
+going between the caudate and the putamen,
+
+378
+00:24:42,820 --> 00:24:45,780
+and this entire region here is called the striatum.
+
+379
+00:24:45,900 --> 00:24:49,280
+Basically, the caudate plus the putamen equals the striatum.
+
+380
+00:24:49,280 --> 00:24:52,080
+It's called the striatum because you've got this stripe
+
+381
+00:24:52,080 --> 00:24:53,740
+running through the center of it.
+
+382
+00:24:54,100 --> 00:24:56,700
+Now, of course, the striatum is the major processing center
+
+383
+00:24:56,700 --> 00:24:59,700
+of the basal ganga, which receives input from the cortex
+
+384
+00:24:59,700 --> 00:25:01,560
+and then sends input back to the cortex,
+
+385
+00:25:01,680 --> 00:25:03,180
+and we've already described that.
+
+386
+00:25:03,640 --> 00:25:06,640
+Now, in this caudate nucleus, you've got GABAergic neurons,
+
+387
+00:25:07,180 --> 00:25:09,540
+and these have an inhibitory hold on the cortex
+
+388
+00:25:09,540 --> 00:25:11,560
+so that you don't randomly fire the system.
+
+389
+00:25:11,920 --> 00:25:13,740
+When you lose the GABAergic neurons,
+
+390
+00:25:13,820 --> 00:25:15,500
+you're going to lose that inhibitory hold,
+
+391
+00:25:15,820 --> 00:25:17,760
+and so you're going to get random firing of the system,
+
+392
+00:25:17,760 --> 00:25:20,300
+which is going to result in random purposeless movements,
+
+393
+00:25:20,720 --> 00:25:21,520
+i.e. chorea.
+
+394
+00:25:21,900 --> 00:25:24,140
+Again, it's all due to a degeneration
+
+395
+00:25:24,140 --> 00:25:27,620
+of the GABAergic neurons here in the caudate nucleus.
+
+396
+00:25:28,180 --> 00:25:30,860
+Now, here's a coronal section from a patient with Huntington's.
+
+397
+00:25:31,120 --> 00:25:33,980
+Notice that you've lost the caudate nucleus here and here.
+
+398
+00:25:34,300 --> 00:25:36,460
+Of course, here's the putamen and here's the putamen,
+
+399
+00:25:36,900 --> 00:25:38,420
+and when you lose the caudate nucleus,
+
+400
+00:25:38,560 --> 00:25:41,400
+the ventricle opens up because there's more space
+
+401
+00:25:41,400 --> 00:25:42,940
+because you've lost mass in the brain,
+
+402
+00:25:42,940 --> 00:25:44,960
+and so you get dilation of the ventricles,
+
+403
+00:25:45,100 --> 00:25:47,740
+which, again, is called hydrocephalus ex-vacuole.
+
+404
+00:25:48,040 --> 00:25:50,200
+It is not due to an increase in CSF.
+
+405
+00:25:50,280 --> 00:25:51,880
+It's due to a loss of brain mass,
+
+406
+00:25:52,220 --> 00:25:54,500
+and so the key finding, again, in Huntington's disease
+
+407
+00:25:54,500 --> 00:25:57,200
+is degeneration of the caudate nucleus,
+
+408
+00:25:57,460 --> 00:26:00,520
+in particular, the GABAergic neurons of the caudate nucleus.
+
+409
+00:26:01,080 --> 00:26:03,740
+Important to note that this is an autosomal dominant disorder.
+
+410
+00:26:04,160 --> 00:26:06,580
+It's due to an expanded trinucleotide repeat,
+
+411
+00:26:06,800 --> 00:26:08,080
+particularly CAG.
+
+412
+00:26:08,220 --> 00:26:10,960
+You need to know CAG in the Huntington gene.
+
+413
+00:26:10,960 --> 00:26:14,360
+One very important feature of trinucleotide repeat diseases
+
+414
+00:26:14,360 --> 00:26:16,500
+is that you can often see anticipation,
+
+415
+00:26:17,260 --> 00:26:19,920
+which means that you can see the disease occur earlier
+
+416
+00:26:19,920 --> 00:26:21,220
+in subsequent generations.
+
+417
+00:26:21,400 --> 00:26:23,980
+So, for example, the grandfather gets it at the age of 60,
+
+418
+00:26:24,300 --> 00:26:26,400
+but the father gets it at the age of 55,
+
+419
+00:26:26,820 --> 00:26:29,660
+and so the child anticipates getting the disease earlier,
+
+420
+00:26:29,800 --> 00:26:31,280
+for example, at the age of 50.
+
+421
+00:26:31,760 --> 00:26:33,220
+Now, board examiners like you to know
+
+422
+00:26:33,220 --> 00:26:37,240
+that anticipation is due to further expansion
+
+423
+00:26:37,240 --> 00:26:40,680
+of the trinucleotide repeat and very high yield.
+
+424
+00:26:41,040 --> 00:26:44,040
+That expansion occurs during spermatogenesis.
+
+425
+00:26:44,380 --> 00:26:45,680
+That's particularly high yield.
+
+426
+00:26:46,320 --> 00:26:48,020
+Of course, patients with Huntington's disease
+
+427
+00:26:48,020 --> 00:26:49,040
+are gonna have chorea.
+
+428
+00:26:49,440 --> 00:26:52,980
+Chorea is a rapid involuntary contraction of muscle.
+
+429
+00:26:53,440 --> 00:26:55,640
+They can also get something called athetosis.
+
+430
+00:26:55,880 --> 00:26:57,940
+Athetosis is when you get these slow,
+
+431
+00:26:58,180 --> 00:27:00,840
+involuntary, snake-like movements of the fingers.
+
+432
+00:27:01,340 --> 00:27:04,420
+Board examiners like you to know about athetosis as well.
+
+433
+00:27:04,420 --> 00:27:06,760
+This can eventually progress to dementia,
+
+434
+00:27:07,200 --> 00:27:08,220
+and so you could have dementia
+
+435
+00:27:08,220 --> 00:27:10,920
+as a component of Huntington's disease.
+
+436
+00:27:11,300 --> 00:27:13,260
+Eventually, patients also can get depression,
+
+437
+00:27:13,700 --> 00:27:15,840
+and suicide is a common cause of death.
+
+438
+00:27:16,420 --> 00:27:18,480
+Moving on to normal pressure hydrocephalus,
+
+439
+00:27:18,700 --> 00:27:21,040
+this is a possible cause of dementia in adults.
+
+440
+00:27:21,460 --> 00:27:24,500
+Now, the idea here is that you get increased CSF,
+
+441
+00:27:24,800 --> 00:27:26,720
+which then dilates the ventricles,
+
+442
+00:27:26,980 --> 00:27:28,900
+and when you get dilation of the ventricles,
+
+443
+00:27:29,160 --> 00:27:31,900
+you get stretching of the corona radiata,
+
+444
+00:27:31,900 --> 00:27:33,980
+which are the nerve fibers that are running
+
+445
+00:27:33,980 --> 00:27:35,600
+along the edge of the ventricles.
+
+446
+00:27:36,020 --> 00:27:38,120
+And so when you get stretching of all these nerve fibers,
+
+447
+00:27:38,440 --> 00:27:40,800
+that's gonna result in a classic triad.
+
+448
+00:27:41,180 --> 00:27:43,320
+And that triad is urinary incontinence,
+
+449
+00:27:43,720 --> 00:27:45,440
+gait instability, and dementia.
+
+450
+00:27:46,040 --> 00:27:48,080
+Now, one of the mnemonics that students like to use
+
+451
+00:27:48,080 --> 00:27:49,700
+is wet, wacky, and wobbly.
+
+452
+00:27:49,960 --> 00:27:52,340
+And of course, the wet refers to urinary incontinence,
+
+453
+00:27:52,640 --> 00:27:54,700
+the wobbly refers to the gait instability,
+
+454
+00:27:55,100 --> 00:27:56,840
+and the wacky to the dementia.
+
+455
+00:27:57,520 --> 00:27:59,560
+Now, because this is due to increased CSF,
+
+456
+00:27:59,560 --> 00:28:01,720
+one of the hallmarks of this disorder is that when you do
+
+457
+00:28:01,720 --> 00:28:04,180
+a lumbar puncture, the symptoms will improve.
+
+458
+00:28:04,300 --> 00:28:05,900
+That's particularly high yield.
+
+459
+00:28:06,200 --> 00:28:07,580
+And taking this one step further,
+
+460
+00:28:07,720 --> 00:28:10,220
+the treatment then would be to shunt CSF
+
+461
+00:28:10,220 --> 00:28:12,540
+from the ventricles into the peritoneum,
+
+462
+00:28:12,840 --> 00:28:14,200
+and that's called a VP shunt.
+
+463
+00:28:14,720 --> 00:28:16,380
+Now, the last point that I'd like to make
+
+464
+00:28:16,380 --> 00:28:19,060
+is why is there an increased CSF in these patients?
+
+465
+00:28:19,600 --> 00:28:20,960
+Well, let's go back and remind ourselves
+
+466
+00:28:20,960 --> 00:28:23,660
+that the CSF is produced by the choroid plexus
+
+467
+00:28:23,660 --> 00:28:24,980
+that lines the ventricles,
+
+468
+00:28:24,980 --> 00:28:27,660
+and that the CSF is drained
+
+469
+00:28:27,660 --> 00:28:30,340
+by something called arachnoid granulations.
+
+470
+00:28:31,080 --> 00:28:32,140
+Let's go back.
+
+471
+00:28:32,720 --> 00:28:33,980
+Here is the pia.
+
+472
+00:28:34,200 --> 00:28:35,340
+This is the arachnoid.
+
+473
+00:28:35,420 --> 00:28:36,160
+This is the dura.
+
+474
+00:28:36,600 --> 00:28:37,980
+There are these arachnoid granulations,
+
+475
+00:28:38,680 --> 00:28:40,480
+which are outpouchings of the arachnoid
+
+476
+00:28:40,480 --> 00:28:41,580
+that go through the dura
+
+477
+00:28:41,580 --> 00:28:44,180
+to access the venous sinuses here.
+
+478
+00:28:44,780 --> 00:28:47,340
+Now, what happens is the CSF goes up
+
+479
+00:28:47,340 --> 00:28:48,980
+into the arachnoid granulations
+
+480
+00:28:49,560 --> 00:28:52,020
+and then gets resorbed into the venous sinuses.
+
+481
+00:28:52,020 --> 00:28:54,100
+In normal pressure hydrocephalus,
+
+482
+00:28:54,360 --> 00:28:55,460
+for some unknown reason,
+
+483
+00:28:55,640 --> 00:28:57,880
+there is decreased absorption of CSF
+
+484
+00:28:57,880 --> 00:29:00,140
+into the arachnoid granulations.
+
+485
+00:29:00,740 --> 00:29:03,160
+And so that then results in increased CSF,
+
+486
+00:29:03,420 --> 00:29:05,680
+which then results in dilation of the ventricles,
+
+487
+00:29:05,980 --> 00:29:07,280
+which then results in stretching
+
+488
+00:29:07,280 --> 00:29:10,520
+of the corona radiata, high yield,
+
+489
+00:29:10,760 --> 00:29:12,460
+stretching of the corona radiata,
+
+490
+00:29:12,800 --> 00:29:14,720
+which then results in the classic triad
+
+491
+00:29:14,720 --> 00:29:16,960
+of wet, wacky, and wobbly.
+
+492
+00:29:17,480 --> 00:29:18,940
+The last disorder that we're going to cover
+
+493
+00:29:18,940 --> 00:29:20,520
+is spongiform encephalopathy.
+
+494
+00:29:20,520 --> 00:29:22,640
+This is also a degenerative disease.
+
+495
+00:29:22,800 --> 00:29:25,400
+However, it's due to accumulation of prion protein.
+
+496
+00:29:25,980 --> 00:29:27,100
+Now, in order to understand this,
+
+497
+00:29:27,160 --> 00:29:28,260
+we've got to take a step back
+
+498
+00:29:28,260 --> 00:29:30,640
+and recall that all of us in our brain
+
+499
+00:29:30,640 --> 00:29:32,020
+have prion protein,
+
+500
+00:29:32,480 --> 00:29:36,060
+and it's normally in the alpha helical configuration.
+
+501
+00:29:36,560 --> 00:29:38,020
+Now, we call that PRPC,
+
+502
+00:29:38,640 --> 00:29:40,560
+and I've written that here on the board.
+
+503
+00:29:41,020 --> 00:29:45,400
+Now, if this PRP gets converted to PRPSC,
+
+504
+00:29:45,400 --> 00:29:50,200
+which basically is in a beta-pleated sheet configuration,
+
+505
+00:29:50,780 --> 00:29:54,520
+that then results in production of a pathologic protein,
+
+506
+00:29:54,820 --> 00:29:57,120
+which then causes spongiform encephalopathy.
+
+507
+00:29:57,620 --> 00:29:59,280
+Now, this pathologic protein
+
+508
+00:29:59,280 --> 00:30:02,720
+in the beta-pleated conformation creates two problems.
+
+509
+00:30:03,100 --> 00:30:05,420
+Number one, it will go back to the alpha
+
+510
+00:30:05,420 --> 00:30:09,620
+and also generate additional beta-pleated conformation,
+
+511
+00:30:09,620 --> 00:30:13,240
+so it helps to generate more of the pathologic protein.
+
+512
+00:30:13,740 --> 00:30:16,020
+And number two, when you get this pathologic protein,
+
+513
+00:30:16,180 --> 00:30:17,640
+it'll accumulate in the neurons.
+
+514
+00:30:17,740 --> 00:30:18,720
+You can't degrade it.
+
+515
+00:30:19,020 --> 00:30:20,220
+And when you can't degrade it,
+
+516
+00:30:20,400 --> 00:30:22,560
+that then is going to result in damage to the neurons,
+
+517
+00:30:22,860 --> 00:30:24,460
+and the classic damage to the neurons
+
+518
+00:30:24,460 --> 00:30:27,080
+results in these vaculations in the cytoplasm,
+
+519
+00:30:27,340 --> 00:30:29,260
+which produce these spongy holes
+
+520
+00:30:29,260 --> 00:30:32,060
+or these white holes within the brain matter.
+
+521
+00:30:32,400 --> 00:30:34,220
+And I'll show you a picture of that in a minute.
+
+522
+00:30:34,560 --> 00:30:35,800
+So this is the basic premise,
+
+523
+00:30:35,800 --> 00:30:36,600
+and with this in mind,
+
+524
+00:30:36,660 --> 00:30:38,900
+we can go back and discuss some of the features
+
+525
+00:30:38,900 --> 00:30:40,500
+of spongiform encephalopathy.
+
+526
+00:30:40,960 --> 00:30:42,140
+Now, I say here in the text
+
+527
+00:30:42,140 --> 00:30:43,920
+that a spongiform encephalopathy
+
+528
+00:30:43,920 --> 00:30:45,360
+is a degenerative disorder
+
+529
+00:30:45,360 --> 00:30:47,940
+due to accumulation of prion protein.
+
+530
+00:30:48,500 --> 00:30:49,820
+The pathologic protein,
+
+531
+00:30:50,020 --> 00:30:52,640
+which again is in a beta-pleated conformation,
+
+532
+00:30:52,840 --> 00:30:53,580
+that's high yield,
+
+533
+00:30:54,080 --> 00:30:55,560
+it converts normal protein
+
+534
+00:30:55,560 --> 00:30:57,460
+into additional pathologic form.
+
+535
+00:30:57,920 --> 00:30:59,840
+And again, the problem with pathologic form
+
+536
+00:30:59,840 --> 00:31:01,160
+is that it's not degradable.
+
+537
+00:31:01,640 --> 00:31:03,060
+Now, because it's not degradable,
+
+538
+00:31:03,060 --> 00:31:05,800
+it'll damage neurons and glial cells,
+
+539
+00:31:06,160 --> 00:31:07,580
+and the characteristic hallmark
+
+540
+00:31:07,580 --> 00:31:09,560
+will be intracellular vacuoles
+
+541
+00:31:09,560 --> 00:31:10,960
+or spaces within the cells.
+
+542
+00:31:11,460 --> 00:31:13,860
+Now, here's a picture of spongiform encephalopathy,
+
+543
+00:31:14,300 --> 00:31:17,220
+and you can see all these white spongy spaces
+
+544
+00:31:17,220 --> 00:31:20,080
+present within the brain parenchyma.
+
+545
+00:31:20,420 --> 00:31:21,500
+And again, that's the highlight.
+
+546
+00:31:21,640 --> 00:31:23,000
+You get spongy degeneration
+
+547
+00:31:23,000 --> 00:31:25,160
+of the parenchyma of the brain.
+
+548
+00:31:25,660 --> 00:31:26,840
+The next discussion deals with
+
+549
+00:31:26,840 --> 00:31:28,060
+how you can actually develop
+
+550
+00:31:28,060 --> 00:31:29,480
+this beta-pleated conformation,
+
+551
+00:31:30,120 --> 00:31:31,500
+meaning how is it that you go
+
+552
+00:31:31,500 --> 00:31:33,100
+from the normal alpha conformation
+
+553
+00:31:33,100 --> 00:31:35,240
+to the beta-pleated sheet conformation?
+
+554
+00:31:35,780 --> 00:31:36,560
+And so the answer is
+
+555
+00:31:36,560 --> 00:31:37,540
+that there are three ways.
+
+556
+00:31:37,880 --> 00:31:38,980
+The first is sporadic,
+
+557
+00:31:39,060 --> 00:31:40,720
+where you've got the alpha conformation,
+
+558
+00:31:40,940 --> 00:31:42,460
+and it just sporadically converts
+
+559
+00:31:42,460 --> 00:31:43,400
+to the beta form.
+
+560
+00:31:43,880 --> 00:31:45,200
+Now, this sporadic conversion
+
+561
+00:31:45,200 --> 00:31:46,160
+is a problem
+
+562
+00:31:46,160 --> 00:31:47,780
+because that single beta form
+
+563
+00:31:47,780 --> 00:31:48,560
+will then go back
+
+564
+00:31:48,560 --> 00:31:50,300
+and convert other alpha proteins
+
+565
+00:31:50,300 --> 00:31:51,300
+to beta as well.
+
+566
+00:31:51,680 --> 00:31:52,820
+The betas will pile up,
+
+567
+00:31:53,120 --> 00:31:54,160
+and then the beta form
+
+568
+00:31:54,160 --> 00:31:55,440
+will then eventually result
+
+569
+00:31:55,440 --> 00:31:57,040
+in spongiform encephalopathy.
+
+570
+00:31:57,620 --> 00:31:58,640
+A second way by which
+
+571
+00:31:58,640 --> 00:31:59,980
+this transformation can occur
+
+572
+00:31:59,980 --> 00:32:02,060
+is if you inherit a bad gene.
+
+573
+00:32:02,460 --> 00:32:03,300
+Now, the idea here
+
+574
+00:32:03,300 --> 00:32:03,900
+is that you've got
+
+575
+00:32:03,900 --> 00:32:05,480
+a normal prion gene
+
+576
+00:32:05,480 --> 00:32:07,040
+that produces a prion protein
+
+577
+00:32:07,040 --> 00:32:07,940
+in your brain.
+
+578
+00:32:08,240 --> 00:32:09,820
+If you inherit a bad gene,
+
+579
+00:32:10,200 --> 00:32:11,220
+that gene can result
+
+580
+00:32:11,220 --> 00:32:12,800
+in increased conversion
+
+581
+00:32:12,800 --> 00:32:13,860
+of the alpha form
+
+582
+00:32:13,860 --> 00:32:15,340
+to the beta-pleated conformation.
+
+583
+00:32:15,860 --> 00:32:16,180
+Of course,
+
+584
+00:32:16,260 --> 00:32:16,580
+when you get
+
+585
+00:32:16,580 --> 00:32:17,920
+the beta-pleated conformation,
+
+586
+00:32:18,260 --> 00:32:19,080
+that'll then convert
+
+587
+00:32:19,080 --> 00:32:20,280
+other alphas to beta,
+
+588
+00:32:20,480 --> 00:32:20,880
+giving you
+
+589
+00:32:20,880 --> 00:32:22,300
+a spongiform encephalopathy.
+
+590
+00:32:22,940 --> 00:32:23,640
+And the third way
+
+591
+00:32:23,640 --> 00:32:24,320
+is transmitted.
+
+592
+00:32:24,760 --> 00:32:26,200
+Imagine if you get exposed
+
+593
+00:32:26,200 --> 00:32:28,060
+to the beta-pleated protein,
+
+594
+00:32:28,060 --> 00:32:29,660
+that beta-pleated protein
+
+595
+00:32:29,660 --> 00:32:31,460
+can then go into your brain,
+
+596
+00:32:31,860 --> 00:32:33,280
+convert your alphas into beta,
+
+597
+00:32:33,580 --> 00:32:34,200
+and then eventually
+
+598
+00:32:34,200 --> 00:32:35,460
+cause the disease
+
+599
+00:32:35,460 --> 00:32:36,840
+within the normal brain.
+
+600
+00:32:37,120 --> 00:32:38,160
+And so that would be transmitted,
+
+601
+00:32:38,320 --> 00:32:38,720
+and that's why
+
+602
+00:32:38,720 --> 00:32:39,780
+we classically say
+
+603
+00:32:39,780 --> 00:32:40,700
+that prion proteins
+
+604
+00:32:40,700 --> 00:32:42,040
+can also be infectious,
+
+605
+00:32:42,260 --> 00:32:42,760
+quote-unquote.
+
+606
+00:32:43,440 --> 00:32:44,360
+The most common form
+
+607
+00:32:44,360 --> 00:32:45,740
+of spongiform encephalopathy
+
+608
+00:32:45,740 --> 00:32:46,640
+is CJD.
+
+609
+00:32:47,080 --> 00:32:48,620
+This is usually sporadic,
+
+610
+00:32:48,720 --> 00:32:49,660
+which means that it occurs
+
+611
+00:32:49,660 --> 00:32:51,260
+via sporadic conversion
+
+612
+00:32:51,260 --> 00:32:52,420
+of the alpha form
+
+613
+00:32:52,420 --> 00:32:53,660
+to the beta-pleated sheet.
+
+614
+00:32:54,020 --> 00:32:55,720
+However, it can rarely arise
+
+615
+00:32:55,720 --> 00:32:56,560
+due to exposure
+
+616
+00:32:56,560 --> 00:32:59,180
+to prion-infected human tissue.
+
+617
+00:32:59,620 --> 00:33:00,140
+Now, the classic
+
+618
+00:33:00,140 --> 00:33:01,100
+historical examples
+
+619
+00:33:01,100 --> 00:33:02,380
+would be human growth hormone,
+
+620
+00:33:02,580 --> 00:33:03,940
+which could have been derived
+
+621
+00:33:03,940 --> 00:33:04,600
+from a patient
+
+622
+00:33:04,600 --> 00:33:05,740
+who has, for example,
+
+623
+00:33:06,180 --> 00:33:07,060
+the beta-protein,
+
+624
+00:33:07,280 --> 00:33:08,320
+and that beta-protein
+
+625
+00:33:08,320 --> 00:33:08,980
+then gets put
+
+626
+00:33:08,980 --> 00:33:09,940
+into another patient,
+
+627
+00:33:10,260 --> 00:33:11,560
+or a corneal transplant,
+
+628
+00:33:12,020 --> 00:33:12,640
+where the cornea
+
+629
+00:33:12,640 --> 00:33:13,840
+is given from one patient
+
+630
+00:33:13,840 --> 00:33:15,060
+who has the beta-protein
+
+631
+00:33:15,060 --> 00:33:16,320
+to another normal patient.
+
+632
+00:33:16,840 --> 00:33:17,820
+And this could potentially,
+
+633
+00:33:18,020 --> 00:33:18,600
+although rarely,
+
+634
+00:33:18,720 --> 00:33:19,760
+result in CJD.
+
+635
+00:33:20,180 --> 00:33:21,440
+Now, the hallmark of CJD
+
+636
+00:33:21,440 --> 00:33:22,660
+is rapid dementia,
+
+637
+00:33:22,840 --> 00:33:23,500
+very high yield.
+
+638
+00:33:23,600 --> 00:33:24,420
+The dementia develops
+
+639
+00:33:24,420 --> 00:33:25,660
+within a very short period
+
+640
+00:33:25,660 --> 00:33:27,360
+of time, weeks to months,
+
+641
+00:33:27,700 --> 00:33:28,500
+with the patient
+
+642
+00:33:28,500 --> 00:33:29,420
+eventually dying,
+
+643
+00:33:29,540 --> 00:33:30,760
+usually in less than a year.
+
+644
+00:33:31,260 --> 00:33:32,100
+In addition to the
+
+645
+00:33:32,100 --> 00:33:33,240
+rapid progressive dementia,
+
+646
+00:33:33,360 --> 00:33:34,140
+the patients can also
+
+647
+00:33:34,140 --> 00:33:34,920
+get ataxia
+
+648
+00:33:34,920 --> 00:33:35,980
+because the cerebellum
+
+649
+00:33:35,980 --> 00:33:36,660
+can be involved,
+
+650
+00:33:37,100 --> 00:33:37,980
+and there can also be
+
+651
+00:33:37,980 --> 00:33:39,020
+startle myoclonus.
+
+652
+00:33:39,400 --> 00:33:40,340
+Startle myoclonus
+
+653
+00:33:40,340 --> 00:33:41,020
+is when patients
+
+654
+00:33:41,020 --> 00:33:42,120
+get involuntary
+
+655
+00:33:42,120 --> 00:33:43,280
+contractions of muscle
+
+656
+00:33:43,280 --> 00:33:44,900
+with minimal stimuli,
+
+657
+00:33:45,360 --> 00:33:45,940
+and so that's called
+
+658
+00:33:45,940 --> 00:33:47,320
+startle myoclonus.
+
+659
+00:33:47,820 --> 00:33:48,520
+On EEG,
+
+660
+00:33:48,740 --> 00:33:49,620
+a hallmark would be
+
+661
+00:33:49,620 --> 00:33:51,020
+spike wave complexes,
+
+662
+00:33:51,220 --> 00:33:52,100
+and this is particularly
+
+663
+00:33:52,100 --> 00:33:53,120
+high yield as well.
+
+664
+00:33:53,120 --> 00:33:53,920
+And of course,
+
+665
+00:33:54,000 --> 00:33:54,620
+as I've mentioned,
+
+666
+00:33:54,800 --> 00:33:55,800
+the dementia is rapidly
+
+667
+00:33:55,800 --> 00:33:56,360
+progressive,
+
+668
+00:33:56,840 --> 00:33:57,740
+resulting in death,
+
+669
+00:33:58,060 --> 00:33:58,940
+usually in less than
+
+670
+00:33:58,940 --> 00:33:59,440
+one year.
+
+671
+00:33:59,960 --> 00:34:00,740
+Now, there are a couple
+
+672
+00:34:00,740 --> 00:34:01,800
+of other spongiform
+
+673
+00:34:01,800 --> 00:34:02,740
+encephalopathies
+
+674
+00:34:02,740 --> 00:34:03,540
+to be aware of.
+
+675
+00:34:03,840 --> 00:34:05,500
+The first is variant CJD.
+
+676
+00:34:05,780 --> 00:34:07,400
+This is exactly like CJD,
+
+677
+00:34:07,540 --> 00:34:07,800
+however,
+
+678
+00:34:07,920 --> 00:34:08,920
+there are two variations.
+
+679
+00:34:09,460 --> 00:34:10,040
+Number one,
+
+680
+00:34:10,120 --> 00:34:11,480
+it occurs in younger patients,
+
+681
+00:34:11,860 --> 00:34:12,660
+and number two,
+
+682
+00:34:12,960 --> 00:34:14,440
+it's linked to consumption
+
+683
+00:34:14,440 --> 00:34:15,980
+of meat from cows
+
+684
+00:34:15,980 --> 00:34:16,860
+that have spongiform
+
+685
+00:34:16,860 --> 00:34:17,720
+encephalopathy,
+
+686
+00:34:18,180 --> 00:34:19,200
+mad cow disease.
+
+687
+00:34:19,620 --> 00:34:20,180
+And so therefore,
+
+688
+00:34:20,180 --> 00:34:21,180
+these are the two key
+
+689
+00:34:21,180 --> 00:34:23,220
+features of variant CJD.
+
+690
+00:34:23,580 --> 00:34:24,540
+And another spongiform
+
+691
+00:34:24,540 --> 00:34:25,840
+encephalopathy to be aware
+
+692
+00:34:25,840 --> 00:34:26,560
+of is called
+
+693
+00:34:26,560 --> 00:34:28,280
+familial fatal insomnia.
+
+694
+00:34:28,580 --> 00:34:30,040
+This is an inherited form
+
+695
+00:34:30,040 --> 00:34:31,260
+of prion disease,
+
+696
+00:34:31,520 --> 00:34:32,260
+which is characterized
+
+697
+00:34:32,260 --> 00:34:33,280
+by insomnia
+
+698
+00:34:33,280 --> 00:34:34,900
+and an exaggerated
+
+699
+00:34:34,900 --> 00:34:36,040
+startle response.
+
+700
+00:34:36,320 --> 00:34:37,060
+And so these are two
+
+701
+00:34:37,060 --> 00:34:38,400
+other types of spongiform
+
+702
+00:34:38,400 --> 00:34:39,260
+encephalopathy
+
+703
+00:34:39,260 --> 00:34:40,380
+that are important
+
+704
+00:34:40,380 --> 00:34:41,220
+to be aware of.
+
+705
+00:34:41,640 --> 00:34:42,300
+And that concludes
+
+706
+00:34:42,300 --> 00:34:42,880
+our discussion
+
+707
+00:34:42,880 --> 00:34:44,340
+on degenerative disorders.
+
+708
+00:34:44,340 --> 00:34:45,740
+Transcription by CastingWords
+

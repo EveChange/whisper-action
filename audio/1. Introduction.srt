@@ -1,0 +1,452 @@
+1
+00:00:00,420 --> 00:00:04,500
+Okay, welcome to the chapter on breast pathology.
+
+2
+00:00:04,500 --> 00:00:08,020
+The very first point that I'd like to make is actually a point from embryology, and that
+
+3
+00:00:08,020 --> 00:00:11,060
+is that the breast is a modified skin gland.
+
+4
+00:00:11,060 --> 00:00:15,780
+So what happens is you get an involution of the skin, and that eventually results in
+
+5
+00:00:15,780 --> 00:00:19,820
+the breast, so that, again, the breast is derived from the skin.
+
+6
+00:00:19,820 --> 00:00:24,140
+One important thing to know about embryology of the breast, which is particularly high-yield,
+
+7
+00:00:24,140 --> 00:00:28,820
+is that the breast actually develops from something called the milk line, and the milk
+
+8
+00:00:28,820 --> 00:00:32,660
+line actually runs all the way from the axilla down to the vulva.
+
+9
+00:00:32,660 --> 00:00:37,000
+So if you took a point at the axilla and then took another point at the vulva and just sort
+
+10
+00:00:37,000 --> 00:00:41,580
+of made a straight line, breast tissue can develop anywhere along that line, and that line is
+
+11
+00:00:41,580 --> 00:00:42,940
+called the milk line.
+
+12
+00:00:42,940 --> 00:00:47,120
+And so, for example, patients can have extra nipples, and the nipples could be anywhere along
+
+13
+00:00:47,120 --> 00:00:48,240
+that line.
+
+14
+00:00:48,240 --> 00:00:51,680
+Patients can actually have extra breast tissue, and that breast tissue can be anywhere along
+
+15
+00:00:51,680 --> 00:00:53,220
+that line.
+
+16
+00:00:53,220 --> 00:00:54,220
+And so can pathology.
+
+17
+00:00:54,220 --> 00:00:57,960
+So for example, they can have breast cancer anywhere along that line as well.
+
+18
+00:00:57,960 --> 00:01:02,160
+It's relatively rare for these types of disorders to occur, but of course, what's rare shows
+
+19
+00:01:02,160 --> 00:01:05,720
+up on exams, so it's important to be aware of it.
+
+20
+00:01:05,720 --> 00:01:10,960
+Now the functional unit of the breast, histologically, is called the terminal duct lobular unit.
+
+21
+00:01:10,960 --> 00:01:15,040
+And the idea here is that you've got this duct, and this duct feeds into something called a
+
+22
+00:01:15,040 --> 00:01:19,120
+lobule, and the lobule contains these little glandular spaces.
+
+23
+00:01:19,120 --> 00:01:22,800
+And these little glandular spaces, they are the lobules that make milk.
+
+24
+00:01:22,800 --> 00:01:26,240
+So this is the lobule, and this is the duct.
+
+25
+00:01:26,240 --> 00:01:30,180
+It's the job of the lobule to make milk, and then it's the job of the duct to drain that
+
+26
+00:01:30,180 --> 00:01:31,980
+milk out to the nipple.
+
+27
+00:01:31,980 --> 00:01:36,980
+And this functional unit here, this entire thing, this is the terminal duct, the end of the duct,
+
+28
+00:01:36,980 --> 00:01:38,080
+and this is the lobule.
+
+29
+00:01:38,080 --> 00:01:42,220
+So that's called the TDLU, or the terminal duct lobular unit.
+
+30
+00:01:42,220 --> 00:01:44,360
+Here's a picture of that histologically.
+
+31
+00:01:44,360 --> 00:01:48,380
+So you can see that this would be, for example, the terminal duct cut on end, and then you've
+
+32
+00:01:48,380 --> 00:01:53,820
+got all these little lobular spaces with this entire thing representing the lobule, and
+
+33
+00:01:53,820 --> 00:01:59,260
+then all these little glandular spaces which would be producing the milk in the proper physiologic
+
+34
+00:01:59,260 --> 00:02:00,720
+context.
+
+35
+00:02:00,720 --> 00:02:03,320
+So this is, that's the normal histology.
+
+36
+00:02:03,320 --> 00:02:07,520
+Now one super high yield point to be aware of is that all the ducts in the breast and all
+
+37
+00:02:07,520 --> 00:02:12,760
+the lobules in the breast, so the entire, basically, breast epithelium is actually two layers
+
+38
+00:02:12,760 --> 00:02:14,320
+of epithelium.
+
+39
+00:02:14,320 --> 00:02:18,360
+Such that, if you were to look at the epithelium of the breast, it would look like the following.
+
+40
+00:02:18,360 --> 00:02:22,140
+Let's take a duct, for example, so this is a duct, and one of the important things is
+
+41
+00:02:22,140 --> 00:02:27,100
+that the duct would obviously be lined by a layer of epithelial cells, and these epithelial
+
+42
+00:02:27,100 --> 00:02:29,940
+cells are also called luminal cells.
+
+43
+00:02:29,940 --> 00:02:34,600
+These luminal cells in the duct, they play a role to protect the duct, so they're the protective
+
+44
+00:02:34,600 --> 00:02:35,640
+layer of the duct.
+
+45
+00:02:35,640 --> 00:02:38,260
+In the lobule, they play the role of making the milk.
+
+46
+00:02:38,260 --> 00:02:43,000
+Now underneath these luminal cells will always be another set of cells called myoepithelial
+
+47
+00:02:43,000 --> 00:02:44,660
+cells.
+
+48
+00:02:44,660 --> 00:02:48,760
+They're called myo because they have contractile function, and they're called epithelial because
+
+49
+00:02:48,760 --> 00:02:54,440
+they help to produce the epithelial lining of this particular space.
+
+50
+00:02:54,440 --> 00:02:59,040
+And so myoepithelial cells, they contain contractile function, and it's their contractile function
+
+51
+00:02:59,040 --> 00:03:02,260
+that helps to squeeze the duct to push the milk forward.
+
+52
+00:03:02,260 --> 00:03:03,920
+But again, super high yield.
+
+53
+00:03:03,920 --> 00:03:10,520
+The ducts and lobules each are lined by two layers of epithelium, an inner luminal layer,
+
+54
+00:03:10,520 --> 00:03:13,420
+and an outer myoepithelial layer.
+
+55
+00:03:13,420 --> 00:03:16,920
+Going one step further, we should remind ourselves that the breast tissue is hormone sensitive.
+
+56
+00:03:16,920 --> 00:03:22,360
+So when you look at breast epithelium, it contains both estrogen and progesterone receptors, and
+
+57
+00:03:22,360 --> 00:03:26,300
+those receptors are necessary because it's estrogen and progesterone that are going to
+
+58
+00:03:26,300 --> 00:03:28,480
+drive the development of the breast.
+
+59
+00:03:28,480 --> 00:03:33,860
+For example, when you look at a boy or a girl, they both have minimal breast tissue underneath
+
+60
+00:03:33,860 --> 00:03:35,580
+the subareolar region.
+
+61
+00:03:35,580 --> 00:03:42,580
+However, once a girl goes through puberty and begins to produce estrogen and progesterone,
+
+62
+00:03:42,580 --> 00:03:46,100
+then there's going to be significant development of the breast after menarche.
+
+63
+00:03:46,100 --> 00:03:50,280
+The lobules are going to begin to develop, and the breast will begin to expand.
+
+64
+00:03:50,280 --> 00:03:54,380
+And it's important to note anatomically in this particular context that the highest density
+
+65
+00:03:54,380 --> 00:03:59,720
+of breast tissue in a female actually ends up being in the upper outer quadrant of the breast.
+
+66
+00:03:59,720 --> 00:04:03,280
+So in the upper outer quadrant of the breast, anatomically, is the highest density of breast
+
+67
+00:04:03,280 --> 00:04:04,280
+tissue.
+
+68
+00:04:04,280 --> 00:04:08,420
+It's a high-yield principle, as you'll see moving forward.
+
+69
+00:04:08,420 --> 00:04:13,240
+Another important consequence of the breast being hormone sensitive is that there's breast
+
+70
+00:04:13,240 --> 00:04:15,800
+tenderness during the menstrual cycle.
+
+71
+00:04:15,800 --> 00:04:19,320
+So that's another sign of the breast being hormone sensitive.
+
+72
+00:04:19,320 --> 00:04:22,180
+Another consequence is that there's hyperplasia during pregnancy.
+
+73
+00:04:22,180 --> 00:04:26,060
+Remember that during pregnancy, there's a lot of estrogen and progesterone produced.
+
+74
+00:04:26,060 --> 00:04:30,220
+You can go back to normal physiology and remind yourself that the corpus luteum produces
+
+75
+00:04:30,220 --> 00:04:33,980
+a ton of estrogen and progesterone in the very first about 10 weeks of pregnancy.
+
+76
+00:04:33,980 --> 00:04:38,120
+And then after that, the placenta produces progesterone.
+
+77
+00:04:38,120 --> 00:04:40,680
+And the fetal placental unit produces estrogen.
+
+78
+00:04:40,680 --> 00:04:44,220
+But the point that I'm trying to make here is that the estrogen and progesterone during
+
+79
+00:04:44,220 --> 00:04:48,120
+pregnancy, they will drive development of the breast so that the breast becomes bigger.
+
+80
+00:04:48,120 --> 00:04:51,700
+And of course, we want it to become bigger because it's eventually going to produce the
+
+81
+00:04:51,700 --> 00:04:54,120
+milk necessary for the baby.
+
+82
+00:04:54,120 --> 00:04:58,460
+And then finally, when a woman undergoes menopause and the amount of estrogen and progesterone
+
+83
+00:04:58,460 --> 00:05:00,820
+decrease, then the breast atrophies.
+
+84
+00:05:00,820 --> 00:05:06,480
+So all of these are basically signs of hormonal sensitivity of breast tissue.
+
+85
+00:05:06,480 --> 00:05:10,520
+The very first disorder that we want to talk about is called galacteria.
+
+86
+00:05:10,520 --> 00:05:12,260
+Galacteria refers to the production of milk.
+
+87
+00:05:12,260 --> 00:05:14,740
+However, it is outside of lactation, all right?
+
+88
+00:05:14,740 --> 00:05:17,500
+So if a woman is breastfeeding, she doesn't have galacteria.
+
+89
+00:05:17,500 --> 00:05:22,440
+But if she is producing milk and she's not feeding, i.e., she's not recently pregnant,
+
+90
+00:05:22,580 --> 00:05:24,600
+et cetera, then we call that galacteria.
+
+91
+00:05:24,920 --> 00:05:28,700
+Now, the first thing I'd like to remind you of is the production of milk is not a symptom
+
+92
+00:05:28,700 --> 00:05:29,640
+of breast cancer.
+
+93
+00:05:29,960 --> 00:05:33,380
+So you're not going to find galacteria in the context of breast cancer.
+
+94
+00:05:33,860 --> 00:05:34,140
+All right?
+
+95
+00:05:34,200 --> 00:05:36,460
+So galacteria is not related to breast cancer.
+
+96
+00:05:36,840 --> 00:05:38,800
+Now, what are some things that can cause galacteria?
+
+97
+00:05:38,800 --> 00:05:43,780
+Well, there's one important physiologic cause, and then there are some common pathologic
+
+98
+00:05:43,780 --> 00:05:44,200
+causes.
+
+99
+00:05:44,620 --> 00:05:46,760
+A physiologic cause could be nipple stimulation.
+
+100
+00:05:47,280 --> 00:05:51,140
+So if there's excessive nipple stimulation, that can actually result in overproduction
+
+101
+00:05:51,140 --> 00:05:52,100
+of milk by the breast.
+
+102
+00:05:52,560 --> 00:05:56,680
+In fact, what's particularly interesting is that if a woman adopts a baby and would like
+
+103
+00:05:56,680 --> 00:06:01,260
+to try to breastfeed that baby, there are techniques where she can undergo nipple stimulation, and
+
+104
+00:06:01,260 --> 00:06:03,200
+that would result in the production of milk.
+
+105
+00:06:03,600 --> 00:06:07,260
+So galacteria could be seen with excessive nipple stimulation.
+
+106
+00:06:07,260 --> 00:06:12,460
+Also, a prolactinoma of the anterior pituitary, which would produce prolactin, which would
+
+107
+00:06:12,460 --> 00:06:15,540
+then get into the blood, hit the breast, and then cause it to produce milk.
+
+108
+00:06:15,740 --> 00:06:17,300
+That could result in galacteria.
+
+109
+00:06:18,020 --> 00:06:22,520
+And finally, we can see galacteria as a consequence of a side effect of some drugs.
+
+110
+00:06:23,040 --> 00:06:27,320
+And so these are the few important causes to be aware of concerning galacteria.
+
+111
+00:06:27,640 --> 00:06:30,840
+And that closes off our introduction, and we're going to move to inflammatory conditions
+
+112
+00:06:30,840 --> 00:06:31,680
+in the next section.
+
+113
+00:06:31,680 --> 00:07:01,660
+So, we're going to move to an end of the next section.
+

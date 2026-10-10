@@ -1,0 +1,2176 @@
+1
+00:00:00,000 --> 00:00:04,800
+Moving on to skeletal muscle, the first disorder that we're going to discuss is dermatomyositis.
+
+2
+00:00:05,120 --> 00:00:06,460
+Now the name here tells you a lot.
+
+3
+00:00:06,620 --> 00:00:08,980
+You've got myositis, which is inflammation of the muscle,
+
+4
+00:00:09,440 --> 00:00:12,360
+and dermato, which implies that you have inflammation of the skin.
+
+5
+00:00:12,780 --> 00:00:17,320
+And so this is going to be an inflammatory disorder of both the skin and the skeletal muscle.
+
+6
+00:00:17,960 --> 00:00:21,840
+The etiology is not known, but what is particularly high yield
+
+7
+00:00:21,840 --> 00:00:25,640
+is that some cases of dermatomyositis are associated with carcinoma,
+
+8
+00:00:25,780 --> 00:00:27,400
+for example, gastric carcinoma.
+
+9
+00:00:27,400 --> 00:00:31,160
+Board examiners like you to know that if a patient presents with dermatomyositis,
+
+10
+00:00:31,500 --> 00:00:36,480
+you need to consider the possibility of an underlying carcinoma, especially in the stomach.
+
+11
+00:00:37,400 --> 00:00:43,200
+The clinical features of dermatomyositis are that you'll get bilateral proximal muscle weakness,
+
+12
+00:00:43,420 --> 00:00:46,260
+that's high yield, and by proximal muscle weakness,
+
+13
+00:00:46,400 --> 00:00:51,640
+the way by which the patients would present would classically be they will say that they can't comb their hair,
+
+14
+00:00:51,640 --> 00:00:55,000
+because when you raise your arm to comb your hair, you need to use the shoulders,
+
+15
+00:00:55,440 --> 00:00:56,760
+and they can't climb the stairs.
+
+16
+00:00:56,760 --> 00:00:59,740
+Now, late in the disease, they can develop distal involvement,
+
+17
+00:01:00,100 --> 00:01:02,620
+but again, the hallmark is proximal muscle weakness.
+
+18
+00:01:03,180 --> 00:01:08,280
+In addition, we would expect to see skin changes, and there are three key skin changes that you look for.
+
+19
+00:01:08,700 --> 00:01:15,260
+Number one is a rash of the upper eyelids, and this gives a little bit of a purple discoloration to the upper eyelids.
+
+20
+00:01:15,780 --> 00:01:20,240
+Number two, a malar rash, and I think that this is particularly high yield,
+
+21
+00:01:20,340 --> 00:01:22,320
+because board examiners like to go after this,
+
+22
+00:01:22,320 --> 00:01:27,060
+and the reason they like to go after it is because you classically associate a malar rash with lupus,
+
+23
+00:01:27,360 --> 00:01:30,180
+but you need to remember that you can also have a malar rash in dermatomyositis,
+
+24
+00:01:31,060 --> 00:01:35,360
+and that, again, is particularly high yield, because it's one of those knee jerks that, you know,
+
+25
+00:01:35,400 --> 00:01:38,440
+once you see the word malar rash, you think you're done, and you pick lupus.
+
+26
+00:01:38,500 --> 00:01:41,340
+However, actually, you were dealing with dermatomyositis.
+
+27
+00:01:41,340 --> 00:01:45,860
+And the third rash would be these red papules on the elbow, knuckles, and knees,
+
+28
+00:01:46,200 --> 00:01:48,000
+which are also known as groton lesions.
+
+29
+00:01:48,580 --> 00:01:51,580
+And again, so again, you're going to have muscle weakness plus some skin finding.
+
+30
+00:01:52,220 --> 00:01:55,440
+On laboratory exam, the patients will have an increased creatinine kinase.
+
+31
+00:01:55,560 --> 00:01:59,440
+Creatinine kinase is an enzyme present in muscle, so when it's damaged,
+
+32
+00:02:00,040 --> 00:02:02,680
+so when muscle is damaged, this will leak out into the blood.
+
+33
+00:02:03,260 --> 00:02:06,760
+You'll have a positive ANA with an anti-JO1 antibody.
+
+34
+00:02:07,260 --> 00:02:09,020
+A JO1 antibody is very important.
+
+35
+00:02:09,020 --> 00:02:10,720
+It's the hallmark of this disease.
+
+36
+00:02:11,320 --> 00:02:12,980
+Be careful about the positive ANA.
+
+37
+00:02:13,080 --> 00:02:16,380
+If they tell you on the board exam that there's a positive ANA and a malar rash,
+
+38
+00:02:16,480 --> 00:02:19,460
+don't go after lupus until you also have a confirmatory test,
+
+39
+00:02:19,540 --> 00:02:21,480
+like a double-stranded DNA antibody.
+
+40
+00:02:22,100 --> 00:02:26,460
+Or, if you have an anti-JO1 antibody, then think about dermatomyositis.
+
+41
+00:02:26,960 --> 00:02:29,320
+The hallmark and one of the defining features of this disease
+
+42
+00:02:29,320 --> 00:02:33,980
+is that you have perimesial inflammation with perifascicular atrophy.
+
+43
+00:02:34,500 --> 00:02:37,160
+Now, in order to understand that, let's go back and remind ourselves
+
+44
+00:02:37,160 --> 00:02:38,880
+this is the muscle fascicle.
+
+45
+00:02:39,020 --> 00:02:43,580
+And the fascicle is made up of a bunch of individual fibers.
+
+46
+00:02:44,640 --> 00:02:48,460
+Now, the connective tissue that sits out here at the edge of the fascicle,
+
+47
+00:02:48,620 --> 00:02:50,340
+this is called the perimesium.
+
+48
+00:02:50,700 --> 00:02:53,780
+And the connective tissue that sits in between the fibers,
+
+49
+00:02:54,200 --> 00:02:55,840
+this is called the endomysium.
+
+50
+00:02:56,400 --> 00:03:01,940
+Now, what happens in dermatomyositis is that you get inflammation at the perimesium,
+
+51
+00:03:01,940 --> 00:03:09,060
+so out at the edge of the muscle fascicle, which then results in perifascicular atrophy,
+
+52
+00:03:09,160 --> 00:03:12,180
+or atrophy of the muscle with inflammation out at the edge.
+
+53
+00:03:12,180 --> 00:03:17,320
+This is very high yield because it helps to distinguish dermatomyositis from another entity
+
+54
+00:03:17,320 --> 00:03:19,740
+that we're going to talk about, which is polymyositis,
+
+55
+00:03:19,740 --> 00:03:22,780
+because in polymyositis, you're going to have endomysial inflammation.
+
+56
+00:03:23,520 --> 00:03:27,400
+And the way I remember this, i.e., that is it endomysial or perimesial,
+
+57
+00:03:27,660 --> 00:03:31,340
+is that the perimesium is out at the edge, and so it's closer to the skin.
+
+58
+00:03:31,840 --> 00:03:35,920
+And so, in dermatomyositis, you're going to have perimesial inflammation,
+
+59
+00:03:36,220 --> 00:03:38,220
+which is closer to the skin, and so therefore,
+
+60
+00:03:38,620 --> 00:03:42,180
+it sort of matches with the concept of dermatomyositis.
+
+61
+00:03:42,280 --> 00:03:44,900
+Now, again, that's just one way to remember it, but I think it's helpful.
+
+62
+00:03:45,700 --> 00:03:47,480
+Here's an image to highlight the same principle.
+
+63
+00:03:47,740 --> 00:03:50,100
+This is a muscle fascicle,
+
+64
+00:03:50,740 --> 00:03:55,040
+and you'll notice that you've got inflammation out in the connective tissue
+
+65
+00:03:55,040 --> 00:03:57,020
+at the edge of the muscle fascicle,
+
+66
+00:03:57,560 --> 00:04:00,340
+resulting in some atrophy of the muscle cells.
+
+67
+00:04:00,340 --> 00:04:02,780
+Now, notice that this is the normal size of the muscle cell,
+
+68
+00:04:03,060 --> 00:04:05,240
+and can you notice that these here are smaller,
+
+69
+00:04:05,720 --> 00:04:07,240
+hence they've become atrophic.
+
+70
+00:04:07,580 --> 00:04:09,500
+And so, again, perimesial inflammation
+
+71
+00:04:09,500 --> 00:04:13,240
+with perifascicular atrophy of the muscle.
+
+72
+00:04:13,680 --> 00:04:15,200
+And so the way by which I remember this is,
+
+73
+00:04:15,280 --> 00:04:18,300
+let's assume the skin is way out here, way above in this section,
+
+74
+00:04:18,740 --> 00:04:21,640
+then this would be sort of closer to the skin,
+
+75
+00:04:21,700 --> 00:04:24,660
+and that's how I remember that it's part of dermatomyositis.
+
+76
+00:04:24,960 --> 00:04:27,380
+One final point concerning dermatomyositis,
+
+77
+00:04:27,380 --> 00:04:29,540
+and that is that the treatment is corticosteroids.
+
+78
+00:04:29,540 --> 00:04:31,600
+Of course, this is an inflammatory disorder,
+
+79
+00:04:31,900 --> 00:04:34,380
+and corticosteroids would limit the inflammation.
+
+80
+00:04:35,820 --> 00:04:38,660
+Polyomyositis is an inflammatory disorder of skeletal muscle.
+
+81
+00:04:39,060 --> 00:04:41,220
+It resembles dermatomyositis,
+
+82
+00:04:41,260 --> 00:04:43,380
+especially with the proximal muscle weakness.
+
+83
+00:04:43,880 --> 00:04:45,500
+However, the skin will not be involved.
+
+84
+00:04:45,800 --> 00:04:47,740
+So you will not see malar rash,
+
+85
+00:04:48,080 --> 00:04:50,720
+you will not see a purplish rash of the upper eyelids,
+
+86
+00:04:51,020 --> 00:04:53,240
+and you will not see Groton's lesions
+
+87
+00:04:53,240 --> 00:04:55,580
+on the knees and the elbows, for example.
+
+88
+00:04:55,580 --> 00:04:59,300
+In addition, one key distinction is that in polymyositis,
+
+89
+00:04:59,360 --> 00:05:03,040
+you get endomysial inflammation with necrotic muscle fibers.
+
+90
+00:05:03,380 --> 00:05:05,900
+Again, this endomysial is particularly high yield,
+
+91
+00:05:06,060 --> 00:05:08,100
+so here you've got the muscle fascicle
+
+92
+00:05:08,100 --> 00:05:10,480
+made up of a bunch of fibers, as I've already illustrated.
+
+93
+00:05:10,920 --> 00:05:12,320
+This was the perimesium.
+
+94
+00:05:12,540 --> 00:05:14,180
+This is the endomysium.
+
+95
+00:05:14,660 --> 00:05:17,140
+And so what's going to happen in polymyositis
+
+96
+00:05:17,140 --> 00:05:19,220
+is that you'll have inflammation scattered
+
+97
+00:05:19,220 --> 00:05:21,740
+throughout this muscle fascicle
+
+98
+00:05:21,740 --> 00:05:23,640
+between all of the fibers.
+
+99
+00:05:24,080 --> 00:05:26,300
+Again, you'll have endomysial inflammation.
+
+100
+00:05:27,320 --> 00:05:29,260
+Moving on to X-linked muscular dystrophy,
+
+101
+00:05:29,700 --> 00:05:32,660
+this is a degenerative disorder characterized by muscle wasting,
+
+102
+00:05:33,060 --> 00:05:35,400
+but the most important and most high yield point
+
+103
+00:05:35,400 --> 00:05:36,480
+concerning this disorder
+
+104
+00:05:36,480 --> 00:05:39,200
+is that you get replacement of skeletal muscle
+
+105
+00:05:39,200 --> 00:05:40,300
+by adipose tissue.
+
+106
+00:05:40,740 --> 00:05:42,840
+In fact, that's really what's meant by dystrophy.
+
+107
+00:05:43,360 --> 00:05:44,900
+And so X-linked muscular dystrophy,
+
+108
+00:05:45,300 --> 00:05:47,340
+replacement of skeletal muscle by adipose tissue.
+
+109
+00:05:47,940 --> 00:05:49,060
+Now, it's high yield to know
+
+110
+00:05:49,060 --> 00:05:51,440
+that this is due to deletions of dystrophin,
+
+111
+00:05:51,760 --> 00:05:53,680
+and there's a few points that I'd like to make clear,
+
+112
+00:05:53,760 --> 00:05:55,020
+all of which show up on exams.
+
+113
+00:05:55,440 --> 00:05:58,180
+Number one, it is due to deletions of dystrophin.
+
+114
+00:05:58,260 --> 00:06:00,780
+This is also known as Duchenne's muscular dystrophy,
+
+115
+00:06:01,240 --> 00:06:04,100
+and remember that Duchenne's is also due to deletions,
+
+116
+00:06:04,220 --> 00:06:06,120
+and so they both begin with a D.
+
+117
+00:06:06,860 --> 00:06:08,680
+The second point that you have to know
+
+118
+00:06:08,680 --> 00:06:11,600
+is that mutations are often spontaneous in this gene.
+
+119
+00:06:12,020 --> 00:06:13,100
+Now, the reason this happens
+
+120
+00:06:13,100 --> 00:06:15,940
+is because this gene is the largest gene in the human genome,
+
+121
+00:06:15,940 --> 00:06:18,020
+and so therefore, because of its large size,
+
+122
+00:06:18,260 --> 00:06:20,400
+there's an increased risk for spontaneous mutations,
+
+123
+00:06:21,240 --> 00:06:22,680
+and the third point is that dystrophin
+
+124
+00:06:22,680 --> 00:06:23,760
+is an anchor molecule
+
+125
+00:06:23,760 --> 00:06:25,700
+that angles the muscle cytoskeleton
+
+126
+00:06:25,700 --> 00:06:27,160
+to the extracellular matrix.
+
+127
+00:06:27,700 --> 00:06:29,340
+Now, imagine if this is a muscle cell,
+
+128
+00:06:29,600 --> 00:06:31,240
+and you've got all of your filaments in it,
+
+129
+00:06:31,540 --> 00:06:33,740
+then dystrophin is sort of this linker molecule
+
+130
+00:06:33,740 --> 00:06:36,060
+that allows you to then interact
+
+131
+00:06:36,060 --> 00:06:37,900
+with the extracellular matrix.
+
+132
+00:06:38,160 --> 00:06:39,860
+It's one of many proteins that do so,
+
+133
+00:06:40,120 --> 00:06:42,280
+but it is an essential protein, again,
+
+134
+00:06:42,280 --> 00:06:44,580
+that links the muscle cytoskeleton
+
+135
+00:06:44,580 --> 00:06:46,100
+to the extracellular matrix.
+
+136
+00:06:46,580 --> 00:06:49,300
+Patients with Duchenne's X-linked muscular dystrophy,
+
+137
+00:06:49,640 --> 00:06:52,380
+they present with proximal muscle weakness
+
+138
+00:06:52,380 --> 00:06:54,180
+classically at one year of age,
+
+139
+00:06:54,460 --> 00:06:56,400
+so the disease begins proximally,
+
+140
+00:06:56,500 --> 00:06:58,180
+for example, in the thigh and the hip,
+
+141
+00:06:58,520 --> 00:06:59,800
+and then eventually progresses
+
+142
+00:06:59,800 --> 00:07:01,140
+to involve the distal muscle.
+
+143
+00:07:01,620 --> 00:07:03,320
+Now, the hallmark of this sequence
+
+144
+00:07:03,320 --> 00:07:04,940
+is calf pseudohypertrophy.
+
+145
+00:07:05,420 --> 00:07:06,480
+Let me just explain this.
+
+146
+00:07:06,520 --> 00:07:07,960
+So at about one year of age,
+
+147
+00:07:08,020 --> 00:07:09,520
+the child is learning how to walk.
+
+148
+00:07:09,520 --> 00:07:11,540
+Now, when the child is learning how to walk,
+
+149
+00:07:11,720 --> 00:07:12,820
+at the same time,
+
+150
+00:07:13,120 --> 00:07:15,560
+the proximal muscles are going to start becoming weak.
+
+151
+00:07:15,880 --> 00:07:17,440
+When the proximal muscles become weak,
+
+152
+00:07:17,560 --> 00:07:20,000
+the child is then going to put more force
+
+153
+00:07:20,000 --> 00:07:22,440
+on the calf muscle in order to walk.
+
+154
+00:07:22,840 --> 00:07:24,800
+And as they put more force on the calf muscle,
+
+155
+00:07:24,940 --> 00:07:27,020
+the calf muscle is going to undergo hypertrophy.
+
+156
+00:07:27,580 --> 00:07:29,260
+Now, over time, the disease will progress
+
+157
+00:07:29,260 --> 00:07:30,580
+and then come distally.
+
+158
+00:07:30,980 --> 00:07:32,020
+And as it comes distally,
+
+159
+00:07:32,120 --> 00:07:33,200
+it's going to hit the calf,
+
+160
+00:07:33,380 --> 00:07:35,420
+and when it hits the hypertrophied calf,
+
+161
+00:07:35,520 --> 00:07:37,040
+it's going to convert the calf
+
+162
+00:07:37,040 --> 00:07:38,740
+from muscle into fat,
+
+163
+00:07:38,740 --> 00:07:40,780
+because that's the hallmark of muscular dystrophy.
+
+164
+00:07:41,400 --> 00:07:42,580
+And so then,
+
+165
+00:07:43,040 --> 00:07:44,980
+it'll look like the calf muscle is big.
+
+166
+00:07:45,260 --> 00:07:46,820
+However, were you to put your hand on it,
+
+167
+00:07:46,900 --> 00:07:48,300
+it would actually be full of fat.
+
+168
+00:07:48,480 --> 00:07:50,500
+So that's why they call it pseudohypertrophy.
+
+169
+00:07:50,700 --> 00:07:51,900
+The calf does look big.
+
+170
+00:07:52,140 --> 00:07:55,080
+However, it's just really full of fat instead of muscle.
+
+171
+00:07:55,720 --> 00:07:56,220
+In addition,
+
+172
+00:07:56,380 --> 00:07:58,140
+the creatinine kinase will be elevated.
+
+173
+00:07:58,540 --> 00:07:59,000
+And again,
+
+174
+00:07:59,100 --> 00:08:00,860
+the reason that the creatinine kinase is elevated
+
+175
+00:08:00,860 --> 00:08:02,820
+is that you have damage to muscle cells,
+
+176
+00:08:02,820 --> 00:08:04,640
+and creatinine kinase is an enzyme
+
+177
+00:08:04,640 --> 00:08:06,040
+present within muscle cells.
+
+178
+00:08:06,040 --> 00:08:08,780
+Death in this disorder results from cardiac
+
+179
+00:08:08,780 --> 00:08:10,200
+or respiratory failure.
+
+180
+00:08:10,660 --> 00:08:13,180
+Eventually, the myocardium or the diaphragm
+
+181
+00:08:13,180 --> 00:08:13,940
+will become involved,
+
+182
+00:08:14,300 --> 00:08:17,260
+resulting in cardiac or respiratory failure.
+
+183
+00:08:17,600 --> 00:08:17,920
+And again,
+
+184
+00:08:18,020 --> 00:08:20,200
+the myocardium is commonly involved.
+
+185
+00:08:20,740 --> 00:08:21,780
+Becker muscular dystrophy
+
+186
+00:08:21,780 --> 00:08:23,460
+is the exact same disease
+
+187
+00:08:23,460 --> 00:08:25,780
+as Duchenne X-linked muscular dystrophy.
+
+188
+00:08:26,180 --> 00:08:26,580
+However,
+
+189
+00:08:26,820 --> 00:08:27,980
+remember that in Duchenne's,
+
+190
+00:08:28,020 --> 00:08:29,600
+you had a deletion of dystropin,
+
+191
+00:08:29,960 --> 00:08:31,020
+whereas in Becker's,
+
+192
+00:08:31,080 --> 00:08:33,060
+you have a mutation of dystropin.
+
+193
+00:08:33,060 --> 00:08:35,460
+Now this mutation allows for some of the protein
+
+194
+00:08:35,460 --> 00:08:36,240
+to be produced,
+
+195
+00:08:36,640 --> 00:08:37,140
+and so therefore,
+
+196
+00:08:37,300 --> 00:08:39,340
+you get clinically milder disease.
+
+197
+00:08:39,660 --> 00:08:40,640
+So it's very similar.
+
+198
+00:08:40,980 --> 00:08:41,220
+However,
+
+199
+00:08:41,280 --> 00:08:43,060
+the patients have clinically milder disease.
+
+200
+00:08:43,380 --> 00:08:43,620
+And again,
+
+201
+00:08:43,700 --> 00:08:44,440
+the hallmark would be
+
+202
+00:08:44,440 --> 00:08:47,020
+focal replacement of skeletal muscle with fat
+
+203
+00:08:47,020 --> 00:08:48,820
+and also muscular weakness.
+
+204
+00:08:49,260 --> 00:08:50,860
+Moving on to the neuromuscular junction,
+
+205
+00:08:51,020 --> 00:08:52,540
+there's two disorders we want to cover.
+
+206
+00:08:52,880 --> 00:08:53,140
+However,
+
+207
+00:08:53,240 --> 00:08:54,000
+before we do that,
+
+208
+00:08:54,040 --> 00:08:55,120
+we need a little bit of background.
+
+209
+00:08:55,620 --> 00:08:56,600
+So let's remind ourselves
+
+210
+00:08:56,600 --> 00:08:58,780
+that the neuromuscular junction has a nerve.
+
+211
+00:08:59,200 --> 00:09:00,980
+It contains acetylcholine,
+
+212
+00:09:00,980 --> 00:09:04,400
+and it has a calcium channel here
+
+213
+00:09:04,400 --> 00:09:06,600
+that, when open,
+
+214
+00:09:06,820 --> 00:09:08,720
+allows for the release of acetylcholine.
+
+215
+00:09:09,220 --> 00:09:10,860
+There is also a muscle plate
+
+216
+00:09:10,860 --> 00:09:12,960
+with acetylcholine receptors,
+
+217
+00:09:13,520 --> 00:09:14,540
+and it's these receptors
+
+218
+00:09:14,540 --> 00:09:15,840
+that bind acetylcholine
+
+219
+00:09:15,840 --> 00:09:17,860
+and then cause firing of the muscle.
+
+220
+00:09:18,240 --> 00:09:20,420
+Now the first disorder is myasthenia gravis,
+
+221
+00:09:20,500 --> 00:09:21,220
+and in this disorder,
+
+222
+00:09:21,360 --> 00:09:22,360
+you have an antibody
+
+223
+00:09:22,360 --> 00:09:24,300
+against these receptors.
+
+224
+00:09:24,680 --> 00:09:26,940
+The antibody does not destroy the receptors.
+
+225
+00:09:27,120 --> 00:09:28,840
+It merely competes with acetylcholine
+
+226
+00:09:28,840 --> 00:09:30,140
+at the level of the receptor.
+
+227
+00:09:30,140 --> 00:09:31,640
+So what's going to happen
+
+228
+00:09:31,640 --> 00:09:33,920
+is the first time you have firing of the nerve
+
+229
+00:09:33,920 --> 00:09:35,120
+and you release acetylcholine,
+
+230
+00:09:35,500 --> 00:09:37,180
+let's imagine that 50 molecules
+
+231
+00:09:37,180 --> 00:09:38,460
+of acetylcholine are released.
+
+232
+00:09:38,800 --> 00:09:40,120
+They'll compete with the antibody,
+
+233
+00:09:40,340 --> 00:09:41,320
+kick off the antibody,
+
+234
+00:09:41,500 --> 00:09:43,560
+and allow for a proper contraction of the muscle.
+
+235
+00:09:44,100 --> 00:09:44,460
+However,
+
+236
+00:09:44,680 --> 00:09:46,540
+with rapid contraction of the muscle,
+
+237
+00:09:46,680 --> 00:09:48,240
+you'll have rapid firing of the nerve,
+
+238
+00:09:48,600 --> 00:09:49,900
+and you'll only be able to release,
+
+239
+00:09:50,000 --> 00:09:50,480
+for example,
+
+240
+00:09:50,580 --> 00:09:51,980
+the next time 40 molecules,
+
+241
+00:09:52,180 --> 00:09:52,520
+and then,
+
+242
+00:09:52,780 --> 00:09:53,180
+for example,
+
+243
+00:09:53,260 --> 00:09:54,660
+the next time 30 molecules
+
+244
+00:09:54,660 --> 00:09:55,500
+of acetylcholine,
+
+245
+00:09:55,840 --> 00:09:56,260
+et cetera,
+
+246
+00:09:56,340 --> 00:09:57,260
+until you get to the point
+
+247
+00:09:57,260 --> 00:09:58,900
+where you're releasing fewer molecules
+
+248
+00:09:58,900 --> 00:09:59,620
+of acetylcholine
+
+249
+00:09:59,620 --> 00:10:00,540
+with each contraction.
+
+250
+00:10:01,340 --> 00:10:01,520
+Now,
+
+251
+00:10:01,680 --> 00:10:01,940
+once,
+
+252
+00:10:02,160 --> 00:10:03,120
+now as that occurs,
+
+253
+00:10:03,580 --> 00:10:04,200
+and for example,
+
+254
+00:10:04,280 --> 00:10:05,420
+you're only releasing 10,
+
+255
+00:10:05,720 --> 00:10:06,600
+that's going to decrease
+
+256
+00:10:06,600 --> 00:10:07,920
+the ability of acetylcholine
+
+257
+00:10:07,920 --> 00:10:09,220
+to compete with the antibody,
+
+258
+00:10:09,620 --> 00:10:10,640
+and so over time,
+
+259
+00:10:10,760 --> 00:10:12,000
+with repeated contractions,
+
+260
+00:10:12,240 --> 00:10:13,680
+you actually get muscle weakness.
+
+261
+00:10:14,140 --> 00:10:15,080
+Then if there's rest,
+
+262
+00:10:15,160 --> 00:10:16,800
+you build up additional acetylcholine,
+
+263
+00:10:17,140 --> 00:10:17,360
+again,
+
+264
+00:10:17,480 --> 00:10:17,820
+then you,
+
+265
+00:10:17,880 --> 00:10:19,000
+you contract the muscle,
+
+266
+00:10:19,120 --> 00:10:20,600
+and then you release 50 again,
+
+267
+00:10:20,600 --> 00:10:22,140
+which can easily compete
+
+268
+00:10:22,140 --> 00:10:23,120
+with this,
+
+269
+00:10:23,300 --> 00:10:24,500
+which can easily compete
+
+270
+00:10:24,500 --> 00:10:25,780
+with these antibodies.
+
+271
+00:10:26,480 --> 00:10:27,600
+So this is the hallmark
+
+272
+00:10:27,600 --> 00:10:29,100
+of myasthenia gravis.
+
+273
+00:10:29,520 --> 00:10:29,720
+Now,
+
+274
+00:10:29,760 --> 00:10:30,800
+another important point here
+
+275
+00:10:30,800 --> 00:10:31,940
+is that when you give the patient
+
+276
+00:10:31,940 --> 00:10:33,600
+anticholinaristerase agents,
+
+277
+00:10:33,720 --> 00:10:34,580
+the symptoms improve.
+
+278
+00:10:34,960 --> 00:10:35,760
+The idea is
+
+279
+00:10:35,760 --> 00:10:37,520
+that the anticholinaristerase agents
+
+280
+00:10:37,520 --> 00:10:38,900
+allow the acetylcholine
+
+281
+00:10:38,900 --> 00:10:40,600
+that's coming from the nerve
+
+282
+00:10:40,600 --> 00:10:42,040
+to last for a longer time,
+
+283
+00:10:42,320 --> 00:10:43,720
+and if it lasts for a longer time,
+
+284
+00:10:43,800 --> 00:10:45,240
+it'll better be able to compete
+
+285
+00:10:45,240 --> 00:10:46,620
+against these antibodies,
+
+286
+00:10:46,940 --> 00:10:47,380
+and therefore,
+
+287
+00:10:47,500 --> 00:10:48,600
+it'll improve the symptoms.
+
+288
+00:10:49,180 --> 00:10:50,460
+So with that background in mind,
+
+289
+00:10:50,460 --> 00:10:52,160
+let's move on to myasthenia gravis.
+
+290
+00:10:52,520 --> 00:10:54,020
+So as your text states,
+
+291
+00:10:54,360 --> 00:10:55,720
+this is an autoantibody
+
+292
+00:10:55,720 --> 00:10:57,140
+against the postsynaptic
+
+293
+00:10:57,140 --> 00:10:58,300
+acetylcholine receptor
+
+294
+00:10:58,300 --> 00:10:59,780
+at the neuromuscular junction,
+
+295
+00:11:00,240 --> 00:11:01,580
+more commonly seen in women.
+
+296
+00:11:01,780 --> 00:11:02,120
+Of course,
+
+297
+00:11:02,200 --> 00:11:03,600
+it's an autoimmune disease.
+
+298
+00:11:04,300 --> 00:11:04,620
+Clinically,
+
+299
+00:11:04,720 --> 00:11:06,240
+the features will be muscle weakness
+
+300
+00:11:06,240 --> 00:11:07,740
+that worsens with use.
+
+301
+00:11:07,860 --> 00:11:08,080
+Again,
+
+302
+00:11:08,140 --> 00:11:09,440
+you're releasing less and less
+
+303
+00:11:09,440 --> 00:11:10,180
+acetylcholine
+
+304
+00:11:10,180 --> 00:11:12,240
+as you rapidly use the muscle,
+
+305
+00:11:12,780 --> 00:11:14,640
+and it improves with rest,
+
+306
+00:11:14,680 --> 00:11:15,320
+and that's because
+
+307
+00:11:15,320 --> 00:11:17,000
+if you give the neuromuscular junction
+
+308
+00:11:17,000 --> 00:11:17,820
+time to rest,
+
+309
+00:11:18,120 --> 00:11:19,240
+additional acetylcholine
+
+310
+00:11:19,240 --> 00:11:19,900
+will build up
+
+311
+00:11:19,900 --> 00:11:20,780
+within that nerve.
+
+312
+00:11:21,480 --> 00:11:22,000
+Classically,
+
+313
+00:11:22,080 --> 00:11:23,080
+it involves the eyes,
+
+314
+00:11:23,160 --> 00:11:23,920
+leading to ptosis
+
+315
+00:11:23,920 --> 00:11:24,760
+and double vision,
+
+316
+00:11:25,100 --> 00:11:26,660
+and that's an important hallmark
+
+317
+00:11:26,660 --> 00:11:27,260
+that would show up
+
+318
+00:11:27,260 --> 00:11:28,240
+in a clinical vignette.
+
+319
+00:11:28,900 --> 00:11:30,160
+The symptoms will improve
+
+320
+00:11:30,160 --> 00:11:32,280
+with anticholonesterase agents.
+
+321
+00:11:32,620 --> 00:11:32,820
+Again,
+
+322
+00:11:32,900 --> 00:11:33,960
+the longer acetylcholine
+
+323
+00:11:33,960 --> 00:11:34,480
+is present
+
+324
+00:11:34,480 --> 00:11:35,680
+in the neuromuscular junction,
+
+325
+00:11:35,960 --> 00:11:37,140
+the better it will compete
+
+326
+00:11:37,140 --> 00:11:38,100
+with those antibodies,
+
+327
+00:11:38,580 --> 00:11:40,020
+and very high yield,
+
+328
+00:11:40,400 --> 00:11:41,060
+it's associated
+
+329
+00:11:41,060 --> 00:11:42,180
+with thymic hyperplasia
+
+330
+00:11:42,180 --> 00:11:42,980
+or thymoma.
+
+331
+00:11:43,080 --> 00:11:43,600
+This shows up
+
+332
+00:11:43,600 --> 00:11:44,820
+on the board exams often,
+
+333
+00:11:44,820 --> 00:11:46,520
+and this is important
+
+334
+00:11:46,520 --> 00:11:48,160
+because if there's thymic hyperplasia
+
+335
+00:11:48,160 --> 00:11:49,020
+or thymoma,
+
+336
+00:11:49,380 --> 00:11:51,240
+and you remove the thymus,
+
+337
+00:11:51,460 --> 00:11:52,320
+the patient's symptoms
+
+338
+00:11:52,320 --> 00:11:53,060
+will improve.
+
+339
+00:11:53,480 --> 00:11:53,900
+And so again,
+
+340
+00:11:53,980 --> 00:11:55,480
+this is particularly high yield
+
+341
+00:11:55,480 --> 00:11:56,280
+that the patients
+
+342
+00:11:56,280 --> 00:11:57,620
+can have thymic hyperplasia
+
+343
+00:11:57,620 --> 00:11:58,600
+or thymoma.
+
+344
+00:11:59,180 --> 00:12:00,080
+Eaton-Lambert syndrome
+
+345
+00:12:00,080 --> 00:12:01,200
+is when you have an antibody
+
+346
+00:12:01,200 --> 00:12:03,480
+against the presynaptic calcium channels
+
+347
+00:12:03,480 --> 00:12:04,780
+at the neuromuscular junction.
+
+348
+00:12:05,460 --> 00:12:06,400
+Now recall that
+
+349
+00:12:06,400 --> 00:12:07,340
+if this was the nerve
+
+350
+00:12:07,340 --> 00:12:08,660
+and this was the plate here,
+
+351
+00:12:08,900 --> 00:12:10,640
+there was a calcium channel here
+
+352
+00:12:10,640 --> 00:12:12,480
+that when open
+
+353
+00:12:12,480 --> 00:12:14,240
+resulted in the release
+
+354
+00:12:14,240 --> 00:12:15,120
+of acetylcholine.
+
+355
+00:12:15,480 --> 00:12:16,040
+So imagine
+
+356
+00:12:16,040 --> 00:12:17,300
+if you have an antibody
+
+357
+00:12:17,300 --> 00:12:18,880
+against the calcium channel,
+
+358
+00:12:19,200 --> 00:12:20,160
+you're not going to be able
+
+359
+00:12:20,160 --> 00:12:21,300
+to release acetylcholine,
+
+360
+00:12:21,640 --> 00:12:22,340
+and so you're going to get
+
+361
+00:12:22,340 --> 00:12:23,040
+muscle weakness.
+
+362
+00:12:23,560 --> 00:12:24,840
+Now this is classically seen
+
+363
+00:12:24,840 --> 00:12:26,500
+as a perineoplastic syndrome,
+
+364
+00:12:26,780 --> 00:12:27,580
+most commonly due
+
+365
+00:12:27,580 --> 00:12:28,780
+to small cell carcinoma.
+
+366
+00:12:29,240 --> 00:12:30,260
+Again, you'll get impaired
+
+367
+00:12:30,260 --> 00:12:31,460
+release of acetylcholine,
+
+368
+00:12:31,760 --> 00:12:32,640
+and that'll then result
+
+369
+00:12:32,640 --> 00:12:33,500
+in muscle weakness.
+
+370
+00:12:33,940 --> 00:12:34,760
+Now very high yield
+
+371
+00:12:34,760 --> 00:12:35,960
+to note in this disorder
+
+372
+00:12:35,960 --> 00:12:37,440
+that the proximal muscles
+
+373
+00:12:37,440 --> 00:12:38,080
+are involved
+
+374
+00:12:38,080 --> 00:12:38,940
+and the eyes
+
+375
+00:12:38,940 --> 00:12:40,140
+are usually spared.
+
+376
+00:12:40,640 --> 00:12:41,080
+In addition,
+
+377
+00:12:41,220 --> 00:12:42,560
+the anticholonesterase agents
+
+378
+00:12:42,560 --> 00:12:43,780
+will not improve the symptoms.
+
+379
+00:12:44,260 --> 00:12:44,700
+And of course,
+
+380
+00:12:44,820 --> 00:12:45,760
+because if you're not able
+
+381
+00:12:45,760 --> 00:12:47,420
+to release acetylcholine,
+
+382
+00:12:47,840 --> 00:12:48,800
+then you're not going
+
+383
+00:12:48,800 --> 00:12:49,180
+to be able
+
+384
+00:12:49,180 --> 00:12:50,320
+to improve the symptoms
+
+385
+00:12:50,320 --> 00:12:53,080
+with anticholonesterase agents.
+
+386
+00:12:53,820 --> 00:12:54,380
+And so we say
+
+387
+00:12:54,380 --> 00:12:55,640
+that in Lambert-Eaton syndrome,
+
+388
+00:12:55,820 --> 00:12:56,660
+you have antibodies
+
+389
+00:12:56,660 --> 00:12:58,260
+against the presynaptic
+
+390
+00:12:58,260 --> 00:12:59,360
+calcium channels
+
+391
+00:12:59,360 --> 00:13:00,660
+at the neuromuscular junction.
+
+392
+00:13:01,200 --> 00:13:02,920
+It's a perineoplastic syndrome
+
+393
+00:13:02,920 --> 00:13:04,620
+related to small cell carcinoma,
+
+394
+00:13:04,980 --> 00:13:05,880
+and it impairs
+
+395
+00:13:05,880 --> 00:13:07,540
+release of acetylcholine.
+
+396
+00:13:08,180 --> 00:13:09,140
+The proximal muscles
+
+397
+00:13:09,140 --> 00:13:09,800
+will be weak,
+
+398
+00:13:09,800 --> 00:13:10,720
+and the weakness
+
+399
+00:13:10,720 --> 00:13:12,060
+will improve with use.
+
+400
+00:13:12,300 --> 00:13:13,640
+Let me just quickly explain this.
+
+401
+00:13:13,720 --> 00:13:14,300
+The reason why
+
+402
+00:13:14,300 --> 00:13:15,160
+the weakness improves
+
+403
+00:13:15,160 --> 00:13:15,560
+with use
+
+404
+00:13:15,560 --> 00:13:16,340
+is that you've got
+
+405
+00:13:16,340 --> 00:13:17,360
+an antibody here
+
+406
+00:13:17,360 --> 00:13:19,460
+competing with the calcium channel.
+
+407
+00:13:19,980 --> 00:13:20,760
+And so what's going to happen
+
+408
+00:13:20,760 --> 00:13:22,240
+is the more you fire this nerve,
+
+409
+00:13:22,360 --> 00:13:23,080
+the more there's going
+
+410
+00:13:23,080 --> 00:13:23,940
+to be a gradient
+
+411
+00:13:23,940 --> 00:13:25,360
+trying to force calcium in.
+
+412
+00:13:25,720 --> 00:13:26,120
+And so again,
+
+413
+00:13:26,180 --> 00:13:27,260
+the more you use the nerve,
+
+414
+00:13:27,360 --> 00:13:28,100
+the more the pressure
+
+415
+00:13:28,100 --> 00:13:29,140
+to force calcium in,
+
+416
+00:13:29,480 --> 00:13:30,040
+and you'll be able
+
+417
+00:13:30,040 --> 00:13:30,780
+to then kick off
+
+418
+00:13:30,780 --> 00:13:31,520
+this receptor.
+
+419
+00:13:31,940 --> 00:13:33,120
+And so the muscle weakness
+
+420
+00:13:33,120 --> 00:13:34,260
+will actually improve
+
+421
+00:13:34,260 --> 00:13:34,780
+with use.
+
+422
+00:13:34,780 --> 00:13:37,140
+And the eyes are usually spared,
+
+423
+00:13:37,280 --> 00:13:38,320
+particularly high yield.
+
+424
+00:13:38,700 --> 00:13:38,940
+Again,
+
+425
+00:13:39,100 --> 00:13:40,380
+anticholonesterase agents
+
+426
+00:13:40,380 --> 00:13:41,700
+don't improve the symptoms,
+
+427
+00:13:41,700 --> 00:13:43,400
+and if you remove the tumor,
+
+428
+00:13:43,840 --> 00:13:45,220
+the perineoplastic syndrome
+
+429
+00:13:45,220 --> 00:13:45,860
+will disappear.
+
+430
+00:13:46,580 --> 00:13:47,500
+The final section
+
+431
+00:13:47,500 --> 00:13:48,080
+in this chapter
+
+432
+00:13:48,080 --> 00:13:49,160
+is soft tissue tumors.
+
+433
+00:13:49,320 --> 00:13:50,000
+This is going to be
+
+434
+00:13:50,000 --> 00:13:51,120
+a very brief overview
+
+435
+00:13:51,120 --> 00:13:52,920
+of just a couple tumors.
+
+436
+00:13:53,280 --> 00:13:54,640
+The first is lipoma.
+
+437
+00:13:54,760 --> 00:13:55,620
+Lipo means fat,
+
+438
+00:13:55,720 --> 00:13:56,820
+and oma means mass,
+
+439
+00:13:56,880 --> 00:13:58,300
+so this is a benign tumor
+
+440
+00:13:58,300 --> 00:13:59,200
+of adipose tissue.
+
+441
+00:13:59,700 --> 00:14:00,500
+Important to know,
+
+442
+00:14:00,500 --> 00:14:01,380
+it's the most common
+
+443
+00:14:01,380 --> 00:14:03,040
+benign soft tissue tumor
+
+444
+00:14:03,040 --> 00:14:03,880
+in adults.
+
+445
+00:14:05,520 --> 00:14:06,000
+Liposarcoma.
+
+446
+00:14:06,140 --> 00:14:07,000
+Lipo means fat,
+
+447
+00:14:07,080 --> 00:14:07,960
+and sarcoma means
+
+448
+00:14:07,960 --> 00:14:09,540
+malignant mesenchymal tumor.
+
+449
+00:14:10,100 --> 00:14:11,440
+So this is a malignant tumor
+
+450
+00:14:11,440 --> 00:14:12,280
+of adipose tissue.
+
+451
+00:14:12,760 --> 00:14:13,500
+Important to know,
+
+452
+00:14:13,580 --> 00:14:14,440
+it's the most common
+
+453
+00:14:14,440 --> 00:14:16,000
+malignant soft tissue tumor
+
+454
+00:14:16,000 --> 00:14:16,740
+in adults.
+
+455
+00:14:17,200 --> 00:14:17,500
+Also,
+
+456
+00:14:17,620 --> 00:14:18,220
+the board examiners
+
+457
+00:14:18,220 --> 00:14:18,860
+like you to know
+
+458
+00:14:18,860 --> 00:14:20,480
+that the lipoblast
+
+459
+00:14:20,480 --> 00:14:21,760
+is the characteristic cell.
+
+460
+00:14:22,060 --> 00:14:22,680
+So if they tell you
+
+461
+00:14:22,680 --> 00:14:23,440
+that there's a mass
+
+462
+00:14:23,440 --> 00:14:24,640
+and the pathology report
+
+463
+00:14:24,640 --> 00:14:25,840
+says that lipoblasts
+
+464
+00:14:25,840 --> 00:14:26,280
+are present,
+
+465
+00:14:26,640 --> 00:14:27,060
+you're thinking
+
+466
+00:14:27,060 --> 00:14:28,440
+about liposarcoma.
+
+467
+00:14:28,440 --> 00:14:30,660
+Rhabdomyosarcoma.
+
+468
+00:14:31,120 --> 00:14:32,680
+Rhabdomyo means skeletal muscle,
+
+469
+00:14:32,900 --> 00:14:34,280
+and oma refers to mass,
+
+470
+00:14:34,620 --> 00:14:36,120
+and so this is a benign tumor
+
+471
+00:14:36,120 --> 00:14:37,100
+of skeletal muscle.
+
+472
+00:14:37,620 --> 00:14:37,760
+Now,
+
+473
+00:14:37,800 --> 00:14:38,540
+you can also have
+
+474
+00:14:38,540 --> 00:14:40,140
+a cardiac rhabdomyoma
+
+475
+00:14:40,140 --> 00:14:41,460
+and very high yield
+
+476
+00:14:41,460 --> 00:14:42,020
+to recall,
+
+477
+00:14:42,160 --> 00:14:43,020
+and we talked about this
+
+478
+00:14:43,020 --> 00:14:43,960
+in the cardiac lectures,
+
+479
+00:14:44,300 --> 00:14:45,380
+that this is associated
+
+480
+00:14:45,380 --> 00:14:47,080
+with tuberous sclerosis.
+
+481
+00:14:48,360 --> 00:14:48,920
+Rhabdomyosarcoma,
+
+482
+00:14:49,000 --> 00:14:49,240
+again,
+
+483
+00:14:49,340 --> 00:14:50,120
+rhabdomyo,
+
+484
+00:14:50,640 --> 00:14:51,460
+skeletal muscle,
+
+485
+00:14:51,840 --> 00:14:52,840
+and sarcoma,
+
+486
+00:14:52,980 --> 00:14:54,320
+malignant mesenchymal tumor.
+
+487
+00:14:54,880 --> 00:14:56,920
+So this is a malignant tumor
+
+488
+00:14:56,920 --> 00:14:57,760
+of skeletal muscle.
+
+489
+00:14:57,760 --> 00:14:58,860
+Important to know,
+
+490
+00:14:58,960 --> 00:14:59,800
+it's the most common
+
+491
+00:14:59,800 --> 00:15:01,440
+malignant soft tissue tumor
+
+492
+00:15:01,440 --> 00:15:01,980
+in children.
+
+493
+00:15:02,280 --> 00:15:03,360
+Most common malignant
+
+494
+00:15:03,360 --> 00:15:04,440
+soft tissue tumor
+
+495
+00:15:04,440 --> 00:15:04,920
+in children.
+
+496
+00:15:05,520 --> 00:15:06,660
+The characteristic cell
+
+497
+00:15:06,660 --> 00:15:07,760
+is called a rhabdomyoblast.
+
+498
+00:15:08,940 --> 00:15:09,960
+Board examiners like you
+
+499
+00:15:09,960 --> 00:15:10,880
+to know that this cell
+
+500
+00:15:10,880 --> 00:15:12,180
+is Desmond positive.
+
+501
+00:15:12,880 --> 00:15:14,300
+The most common sight
+
+502
+00:15:14,300 --> 00:15:15,440
+is the head and neck.
+
+503
+00:15:15,880 --> 00:15:16,260
+However,
+
+504
+00:15:16,840 --> 00:15:18,240
+in a young girl,
+
+505
+00:15:18,680 --> 00:15:19,640
+especially around
+
+506
+00:15:19,640 --> 00:15:20,580
+the age of five,
+
+507
+00:15:20,960 --> 00:15:21,560
+the vagina
+
+508
+00:15:21,560 --> 00:15:22,780
+is a classic sight.
+
+509
+00:15:22,900 --> 00:15:23,320
+And remember,
+
+510
+00:15:23,440 --> 00:15:24,020
+we talked about
+
+511
+00:15:24,020 --> 00:15:24,560
+a disorder
+
+512
+00:15:24,560 --> 00:15:25,560
+in the gynae lectures
+
+513
+00:15:25,560 --> 00:15:26,920
+called sarcoma botrytes,
+
+514
+00:15:26,920 --> 00:15:27,900
+which I told you
+
+515
+00:15:27,900 --> 00:15:28,440
+at that point
+
+516
+00:15:28,440 --> 00:15:29,720
+was also an embryonal
+
+517
+00:15:29,720 --> 00:15:30,940
+rhabdomyosarcoma.
+
+518
+00:15:31,260 --> 00:15:32,240
+This was the young girl
+
+519
+00:15:32,240 --> 00:15:33,480
+with a grape-like mass
+
+520
+00:15:33,480 --> 00:15:34,660
+protruding from the vagina.
+
+521
+00:15:35,120 --> 00:15:35,700
+And I told you
+
+522
+00:15:35,700 --> 00:15:36,420
+that characteristic
+
+523
+00:15:36,420 --> 00:15:37,340
+on biopsy,
+
+524
+00:15:37,680 --> 00:15:39,120
+you would see rhabdomyoblast
+
+525
+00:15:39,120 --> 00:15:40,420
+with striations
+
+526
+00:15:40,420 --> 00:15:41,320
+within the cells
+
+527
+00:15:41,320 --> 00:15:42,200
+and then cells
+
+528
+00:15:42,200 --> 00:15:42,560
+that were
+
+529
+00:15:42,560 --> 00:15:43,500
+Desmond positive
+
+530
+00:15:43,500 --> 00:15:44,040
+as well.
+
+531
+00:15:44,500 --> 00:15:44,980
+And so this
+
+532
+00:15:44,980 --> 00:15:46,040
+is what I'm referring to
+
+533
+00:15:46,040 --> 00:15:46,940
+when I say that
+
+534
+00:15:46,940 --> 00:15:47,860
+the vagina
+
+535
+00:15:47,860 --> 00:15:48,960
+is a classic sight
+
+536
+00:15:48,960 --> 00:15:49,600
+in young girls.
+
+537
+00:15:49,660 --> 00:15:50,240
+And that's probably
+
+538
+00:15:50,240 --> 00:15:51,260
+the highest yield
+
+539
+00:15:51,260 --> 00:15:52,700
+rhabdomyosarcoma
+
+540
+00:15:52,700 --> 00:15:53,500
+that would show up
+
+541
+00:15:53,500 --> 00:15:54,320
+on a board exam.
+
+542
+00:15:54,820 --> 00:15:55,780
+And that concludes
+
+543
+00:15:55,780 --> 00:15:56,580
+both the section
+
+544
+00:15:56,580 --> 00:15:57,300
+and the chapter.
+

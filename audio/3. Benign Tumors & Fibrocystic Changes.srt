@@ -1,0 +1,1544 @@
+1
+00:00:00,000 --> 00:00:03,120
+Okay, next section, benign tumors and fibrocystic changes.
+
+2
+00:00:03,780 --> 00:00:05,920
+We're going to start with fibrocystic change,
+
+3
+00:00:06,000 --> 00:00:07,260
+and in order to understand this,
+
+4
+00:00:07,300 --> 00:00:08,820
+I'm going to take you back to the whiteboard.
+
+5
+00:00:09,200 --> 00:00:12,100
+So let's remind ourselves that the functional unit of the breast
+
+6
+00:00:12,100 --> 00:00:14,240
+is called the terminal duct lobular unit,
+
+7
+00:00:14,520 --> 00:00:16,100
+so that you've got this terminal duct,
+
+8
+00:00:16,160 --> 00:00:18,100
+which feeds into something called the lobule,
+
+9
+00:00:18,420 --> 00:00:21,080
+and of course the lobule contains these small little glands
+
+10
+00:00:21,080 --> 00:00:22,720
+which produce milk.
+
+11
+00:00:23,140 --> 00:00:24,860
+So that's the terminal duct lobular unit.
+
+12
+00:00:25,220 --> 00:00:26,960
+Now the idea in fibrocystic change
+
+13
+00:00:26,960 --> 00:00:30,560
+is that you get cystic change of these circles,
+
+14
+00:00:30,760 --> 00:00:31,920
+so that they become bigger.
+
+15
+00:00:32,040 --> 00:00:33,180
+That's what we mean by cysts.
+
+16
+00:00:33,200 --> 00:00:35,680
+You can also get cystic change here of the terminal duct.
+
+17
+00:00:36,120 --> 00:00:38,180
+And at the same time, as you get those cysts,
+
+18
+00:00:38,200 --> 00:00:40,160
+that's going to stretch the connective tissue a little bit,
+
+19
+00:00:40,400 --> 00:00:42,220
+and so you're going to get a little bit of fibrosis
+
+20
+00:00:42,220 --> 00:00:43,520
+in between the connective tissue,
+
+21
+00:00:43,680 --> 00:00:46,180
+and hence the term fibrocystic change.
+
+22
+00:00:46,660 --> 00:00:51,200
+Now this is the most common change in a premenopausal woman,
+
+23
+00:00:51,200 --> 00:00:53,020
+and of course I call it a change
+
+24
+00:00:53,020 --> 00:00:56,100
+because we currently believe it to be hormone-mediated,
+
+25
+00:00:56,100 --> 00:00:58,380
+and it's basically a normal variation
+
+26
+00:00:58,380 --> 00:01:00,520
+that can occur within breast tissue
+
+27
+00:01:00,520 --> 00:01:03,100
+as a consequence of the up and down levels
+
+28
+00:01:03,100 --> 00:01:04,540
+of estrogen and progesterone
+
+29
+00:01:04,540 --> 00:01:06,440
+that are, again, present within the blood.
+
+30
+00:01:06,520 --> 00:01:08,620
+So you've got this rising and changing levels
+
+31
+00:01:08,620 --> 00:01:10,680
+of estrogen and progesterone over time
+
+32
+00:01:10,680 --> 00:01:12,560
+that can result in fibrocystic change.
+
+33
+00:01:13,240 --> 00:01:15,240
+The classic presentation on physical exam
+
+34
+00:01:15,240 --> 00:01:17,860
+would be to have a vague irregularity
+
+35
+00:01:17,860 --> 00:01:18,900
+to the breast tissue
+
+36
+00:01:18,900 --> 00:01:20,440
+where you don't feel a definite mass,
+
+37
+00:01:20,540 --> 00:01:22,380
+but it feels a little lumpy in places,
+
+38
+00:01:22,980 --> 00:01:25,020
+and so they also call that the lumpy breast.
+
+39
+00:01:25,020 --> 00:01:27,300
+Usually it's in the upper outer quadrant,
+
+40
+00:01:27,500 --> 00:01:28,740
+but that's nothing special
+
+41
+00:01:28,740 --> 00:01:31,740
+because we know that much of the breast parenchyma
+
+42
+00:01:31,740 --> 00:01:33,920
+in a female is in the upper outer quadrant.
+
+43
+00:01:34,080 --> 00:01:36,180
+That's the highest density of breast tissue
+
+44
+00:01:36,180 --> 00:01:37,980
+in the female breast anatomically,
+
+45
+00:01:38,400 --> 00:01:41,120
+and when you look at the tissue on gross exam,
+
+46
+00:01:41,200 --> 00:01:42,820
+you can actually see the cysts,
+
+47
+00:01:42,820 --> 00:01:43,660
+and when you see the cysts,
+
+48
+00:01:43,700 --> 00:01:45,320
+they often have a blue color to them,
+
+49
+00:01:45,600 --> 00:01:48,980
+so we call them blue-dome cysts on gross exam.
+
+50
+00:01:49,500 --> 00:01:51,040
+All of this is stated in your text.
+
+51
+00:01:51,100 --> 00:01:52,540
+I'll just quickly run through it with you.
+
+52
+00:01:52,540 --> 00:01:54,860
+Development of fibrosis in cysts,
+
+53
+00:01:54,860 --> 00:01:57,200
+most common change in premenopausal breast,
+
+54
+00:01:57,700 --> 00:02:00,040
+lumpy breast, upper outer quadrant,
+
+55
+00:02:00,460 --> 00:02:02,960
+and the cysts usually have a blue-domed appearance
+
+56
+00:02:02,960 --> 00:02:04,000
+on gross exam.
+
+57
+00:02:04,300 --> 00:02:06,660
+I've explained all of that using the whiteboard already.
+
+58
+00:02:07,180 --> 00:02:10,920
+Now, important to note that fibrocystic change is benign.
+
+59
+00:02:11,500 --> 00:02:15,100
+Number one, inherently, in and of itself, it's benign,
+
+60
+00:02:15,500 --> 00:02:18,700
+and number two, it carries no increased risk for cancer.
+
+61
+00:02:18,700 --> 00:02:22,580
+So the classic fibrocystic change carries no increased risk for cancer.
+
+62
+00:02:23,360 --> 00:02:26,380
+However, sometimes when a patient has fibrocystic change
+
+63
+00:02:26,380 --> 00:02:28,480
+and you do a biopsy to confirm it,
+
+64
+00:02:28,540 --> 00:02:30,200
+you can find other features,
+
+65
+00:02:30,700 --> 00:02:32,920
+and some of those associated other features
+
+66
+00:02:32,920 --> 00:02:36,200
+do carry a risk for cancer in the future.
+
+67
+00:02:36,860 --> 00:02:38,900
+And so that's what I want to briefly mention here,
+
+68
+00:02:39,000 --> 00:02:40,560
+and this is particularly high yield,
+
+69
+00:02:40,620 --> 00:02:42,480
+so I'm going to run through just the few ones
+
+70
+00:02:42,480 --> 00:02:44,360
+that classically show up on examinations.
+
+71
+00:02:45,080 --> 00:02:48,020
+One possibility is that when a woman has fibrocystic change,
+
+72
+00:02:48,020 --> 00:02:50,860
+and she's simply got fibrosis, and she's got cysts,
+
+73
+00:02:50,860 --> 00:02:54,560
+and some of those cysts can be lined by apocrine metoplasia.
+
+74
+00:02:55,800 --> 00:02:59,300
+Now, important to note that when you have fibrosis, cysts,
+
+75
+00:02:59,300 --> 00:03:02,060
+and apocrine metoplasia, or any one of these three,
+
+76
+00:03:02,420 --> 00:03:05,080
+they are benign, and there's no increased risk
+
+77
+00:03:05,080 --> 00:03:08,660
+for future development of invasive carcinoma.
+
+78
+00:03:09,100 --> 00:03:12,340
+So that's the first set, fibrosis, cysts, and apocrine metoplasia.
+
+79
+00:03:12,580 --> 00:03:15,320
+Now, this apocrine metoplasia is actually particularly high yield
+
+80
+00:03:15,320 --> 00:03:17,920
+because one of the general principles in pathology
+
+81
+00:03:17,920 --> 00:03:19,640
+is that any time you have metoplasia,
+
+82
+00:03:19,960 --> 00:03:22,720
+it's usually a risk factor for the future development of cancer.
+
+83
+00:03:23,260 --> 00:03:28,080
+For example, Barrett's esophagus is a non-ciliated columnar cell
+
+84
+00:03:28,080 --> 00:03:29,840
+with goblet cell metoplasia
+
+85
+00:03:29,840 --> 00:03:33,060
+that increases the risk for development of adenocarcinoma.
+
+86
+00:03:33,740 --> 00:03:36,780
+For example, squamous metoplasia in the lung
+
+87
+00:03:36,780 --> 00:03:38,780
+increases the risk for dysplasia
+
+88
+00:03:38,780 --> 00:03:42,880
+and the subsequent development of squamous cell carcinoma in smokers.
+
+89
+00:03:43,360 --> 00:03:46,280
+However, apocrine metoplasia, very high yield to note,
+
+90
+00:03:46,440 --> 00:03:49,320
+apocrine metoplasia does not increase the risk for cancer.
+
+91
+00:03:49,440 --> 00:03:51,060
+This is why I'm emphasizing it so much
+
+92
+00:03:51,060 --> 00:03:53,280
+because despite the fact that we call it a metaplasia,
+
+93
+00:03:53,760 --> 00:03:55,560
+there's no increased risk for cancer.
+
+94
+00:03:56,200 --> 00:03:57,760
+Okay, the second change that you could see
+
+95
+00:03:57,760 --> 00:03:59,640
+is something called ductal hyperplasia,
+
+96
+00:04:00,060 --> 00:04:02,400
+and the idea here is that you've got your duct, correct,
+
+97
+00:04:02,540 --> 00:04:05,320
+that goes in, and it goes into the terminal duct lobular unit,
+
+98
+00:04:05,420 --> 00:04:06,440
+so this would be the lobule.
+
+99
+00:04:07,440 --> 00:04:10,160
+And remember that the normal lining of the duct is two layers.
+
+100
+00:04:10,160 --> 00:04:13,860
+You've got an epithelial layer, which is like a columnar cell,
+
+101
+00:04:14,020 --> 00:04:16,360
+and underneath that you've got a myoepithelial cell.
+
+102
+00:04:16,820 --> 00:04:18,760
+Now, normally there should only be two cells
+
+103
+00:04:18,760 --> 00:04:20,740
+that line this entire surface.
+
+104
+00:04:21,120 --> 00:04:22,580
+However, you can have hyperplasia
+
+105
+00:04:22,580 --> 00:04:24,500
+where you get excess numbers of cells
+
+106
+00:04:24,500 --> 00:04:26,160
+and where you get excess numbers of cells
+
+107
+00:04:26,160 --> 00:04:27,380
+and those cells are benign.
+
+108
+00:04:27,700 --> 00:04:29,120
+We call that ductal hyperplasia.
+
+109
+00:04:29,600 --> 00:04:32,840
+Now, ductal hyperplasia has a two times increased risk
+
+110
+00:04:32,840 --> 00:04:34,140
+of development of cancer,
+
+111
+00:04:34,460 --> 00:04:37,120
+so that if a normal woman has her standard risk,
+
+112
+00:04:37,120 --> 00:04:40,460
+she now, if she has ductal hyperplasia on a biopsy,
+
+113
+00:04:40,840 --> 00:04:43,500
+she now has a two times increased risk
+
+114
+00:04:43,500 --> 00:04:47,480
+of developing invasive carcinoma sometime in the future.
+
+115
+00:04:48,000 --> 00:04:51,460
+Another disorder that could result in an increased risk
+
+116
+00:04:51,460 --> 00:04:53,620
+would be something called sclerosing adenosis.
+
+117
+00:04:54,260 --> 00:04:56,520
+Examiners do ask about this, so I'm going to discuss it.
+
+118
+00:04:56,760 --> 00:04:59,920
+The idea here is if you've got the normal terminal duct lobular unit,
+
+119
+00:05:00,280 --> 00:05:03,280
+remember that normally, let's say that in this normal unit,
+
+120
+00:05:03,380 --> 00:05:05,500
+you should have had three or four glands.
+
+121
+00:05:05,500 --> 00:05:08,660
+Now, in adenosis, what happens is you have too many glands,
+
+122
+00:05:08,760 --> 00:05:09,980
+so instead of having three or four,
+
+123
+00:05:10,120 --> 00:05:12,780
+you have, I don't know, 10 or 15, for example.
+
+124
+00:05:12,900 --> 00:05:13,980
+That would be adenosis.
+
+125
+00:05:14,580 --> 00:05:17,340
+And then sometimes you can get some fibrosis
+
+126
+00:05:17,340 --> 00:05:18,920
+associated with that adenosis,
+
+127
+00:05:19,060 --> 00:05:21,220
+making this area quote-unquote hard
+
+128
+00:05:21,220 --> 00:05:23,360
+or with deposition of collagen,
+
+129
+00:05:23,480 --> 00:05:24,640
+and that's called sclerosis.
+
+130
+00:05:25,120 --> 00:05:27,560
+And so sclerosing adenosis, where it to be present,
+
+131
+00:05:28,020 --> 00:05:30,780
+increases the risk by twofold,
+
+132
+00:05:31,100 --> 00:05:34,120
+so that the patients who have sclerosing adenosis on a biopsy
+
+133
+00:05:34,120 --> 00:05:35,840
+will have a two-times-increased risk
+
+134
+00:05:35,840 --> 00:05:38,480
+for the future development of invasive carcinoma.
+
+135
+00:05:38,900 --> 00:05:41,200
+Now, very important to note, and high yield for examination,
+
+136
+00:05:41,740 --> 00:05:46,160
+is that sclerosing adenosis is classically often calcified,
+
+137
+00:05:47,180 --> 00:05:48,720
+so that there can be calcifications
+
+138
+00:05:48,720 --> 00:05:50,480
+associated with sclerosing adenosis,
+
+139
+00:05:50,780 --> 00:05:52,820
+and that may be why the biopsy occurs.
+
+140
+00:05:52,820 --> 00:05:55,840
+A woman goes for a mammogram,
+
+141
+00:05:56,020 --> 00:05:57,460
+there's increased calcifications,
+
+142
+00:05:57,680 --> 00:05:58,740
+and so a biopsy is performed,
+
+143
+00:05:58,920 --> 00:06:01,140
+and it actually turns out to be sclerosing adenosis.
+
+144
+00:06:01,600 --> 00:06:04,940
+Again, sclerosing adenosis is benign in and of itself,
+
+145
+00:06:05,160 --> 00:06:07,960
+but it pretends an increased risk for the development,
+
+146
+00:06:08,240 --> 00:06:10,440
+for the future development of breast cancer.
+
+147
+00:06:11,020 --> 00:06:13,640
+And the third possibility that I've listed here
+
+148
+00:06:13,640 --> 00:06:15,200
+is atypical hyperplasia.
+
+149
+00:06:15,600 --> 00:06:18,760
+Now, it's possible when you look at the terminal duct
+
+150
+00:06:18,760 --> 00:06:21,680
+and the lobule, it's possible that you could have
+
+151
+00:06:21,680 --> 00:06:27,280
+atypical cells that are increased within the duct,
+
+152
+00:06:27,940 --> 00:06:29,780
+or you could have atypical cells
+
+153
+00:06:29,780 --> 00:06:31,860
+that are increased within the lobule.
+
+154
+00:06:32,220 --> 00:06:33,060
+When it's in the duct,
+
+155
+00:06:33,120 --> 00:06:35,260
+we call that atypical ductal hyperplasia.
+
+156
+00:06:35,620 --> 00:06:36,480
+When it's in the lobule,
+
+157
+00:06:36,560 --> 00:06:39,360
+we call that atypical lobular hyperplasia.
+
+158
+00:06:39,800 --> 00:06:41,620
+Classically, I'm simplifying this a little bit,
+
+159
+00:06:41,700 --> 00:06:43,080
+but that's the classic understanding.
+
+160
+00:06:43,620 --> 00:06:44,820
+But the point is that if you have
+
+161
+00:06:44,820 --> 00:06:47,620
+any type of atypical hyperplasia on a biopsy,
+
+162
+00:06:47,620 --> 00:06:50,360
+the woman now has a five times increased risk
+
+163
+00:06:50,360 --> 00:06:53,100
+for the future development of invasive carcinoma.
+
+164
+00:06:54,120 --> 00:06:55,380
+Now, I'd like to say one more thing
+
+165
+00:06:55,380 --> 00:06:56,660
+that shows up on examinations,
+
+166
+00:06:57,080 --> 00:06:59,300
+and that is that you have to know, first of all,
+
+167
+00:06:59,620 --> 00:07:02,220
+that the increased risk is an increased risk
+
+168
+00:07:02,220 --> 00:07:04,800
+for invasive carcinoma, all right?
+
+169
+00:07:04,840 --> 00:07:05,460
+That's important.
+
+170
+00:07:05,640 --> 00:07:08,120
+It's an increased risk for invasive carcinoma,
+
+171
+00:07:08,340 --> 00:07:11,700
+and that that increased risk applies to both breasts,
+
+172
+00:07:11,920 --> 00:07:15,280
+so that the risk is for cancer in either breast.
+
+173
+00:07:15,280 --> 00:07:18,660
+So if the biopsy was performed on the right breast
+
+174
+00:07:18,660 --> 00:07:21,020
+and they saw atypical hyperplasia on the right breast,
+
+175
+00:07:21,380 --> 00:07:24,180
+the risk for cancer applies to both the right
+
+176
+00:07:24,180 --> 00:07:25,520
+and the left breast,
+
+177
+00:07:25,620 --> 00:07:27,440
+so that's important to understand as well.
+
+178
+00:07:27,960 --> 00:07:30,160
+Here's a classic picture of apocrine metaplasia.
+
+179
+00:07:30,580 --> 00:07:32,360
+All I'm trying to show you is that these cells
+
+180
+00:07:32,360 --> 00:07:34,160
+have abundant pink cytoplasm,
+
+181
+00:07:34,460 --> 00:07:36,580
+and they're slightly larger than the normal cells.
+
+182
+00:07:37,000 --> 00:07:39,280
+Again, most important take-home point
+
+183
+00:07:39,280 --> 00:07:42,040
+is that for you to know that apocrine metaplasia
+
+184
+00:07:42,040 --> 00:07:44,120
+has no increased risk for breast cancer,
+
+185
+00:07:44,360 --> 00:07:46,580
+despite the fact that it's called metaplasia.
+
+186
+00:07:48,000 --> 00:07:52,040
+Now, introductal papilloma is the next type of disorder
+
+187
+00:07:52,040 --> 00:07:54,160
+that we want to discuss, and this is a benign tumor.
+
+188
+00:07:54,320 --> 00:07:55,380
+Notice that it's an oma.
+
+189
+00:07:55,500 --> 00:07:56,400
+It's a true mass.
+
+190
+00:07:57,020 --> 00:07:58,140
+In introductal papilloma,
+
+191
+00:07:58,200 --> 00:07:59,420
+the way you want to think about this
+
+192
+00:07:59,420 --> 00:08:00,820
+is to simply go back to normal.
+
+193
+00:08:01,140 --> 00:08:03,380
+Let's talk about the very large duct
+
+194
+00:08:03,380 --> 00:08:06,600
+that goes out into the skin of the nipple.
+
+195
+00:08:06,600 --> 00:08:08,360
+Now, when you have a large duct
+
+196
+00:08:08,360 --> 00:08:12,100
+within the anterior portion of the breast,
+
+197
+00:08:12,460 --> 00:08:14,380
+one of the possibilities that can occur
+
+198
+00:08:14,380 --> 00:08:15,880
+is that within this large duct,
+
+199
+00:08:15,920 --> 00:08:17,460
+which, of course, is normally lined
+
+200
+00:08:17,460 --> 00:08:18,940
+with just two layers of cells,
+
+201
+00:08:19,280 --> 00:08:21,760
+you can develop a finger-like projection
+
+202
+00:08:21,760 --> 00:08:24,600
+which is lined by epithelial cells.
+
+203
+00:08:25,320 --> 00:08:25,480
+All right?
+
+204
+00:08:25,540 --> 00:08:27,880
+And, of course, a growth of a finger-like projection
+
+205
+00:08:27,880 --> 00:08:31,640
+lined by epithelial cells would be a papillary lesion,
+
+206
+00:08:31,880 --> 00:08:34,980
+papillary because it has a finger-like projection
+
+207
+00:08:34,980 --> 00:08:37,920
+with a fibrovascular core blood vessel
+
+208
+00:08:37,920 --> 00:08:39,000
+running through the center.
+
+209
+00:08:39,760 --> 00:08:42,240
+So that would be a papillary lesion,
+
+210
+00:08:42,320 --> 00:08:43,800
+and when you have a papillary lesion,
+
+211
+00:08:43,880 --> 00:08:45,820
+one of the key features of the papillary lesion
+
+212
+00:08:45,820 --> 00:08:47,740
+is that it often bleeds,
+
+213
+00:08:48,160 --> 00:08:51,020
+producing a bloody nipple discharge.
+
+214
+00:08:51,640 --> 00:08:54,900
+So the classic association with a papillary lesion
+
+215
+00:08:54,900 --> 00:08:56,480
+is a bloody nipple discharge.
+
+216
+00:08:57,000 --> 00:08:58,000
+Now, for the most part,
+
+217
+00:08:58,160 --> 00:08:59,300
+these papillary lesions,
+
+218
+00:08:59,560 --> 00:09:01,980
+especially in a premenopausal woman,
+
+219
+00:09:02,540 --> 00:09:04,820
+are going to represent papilloma.
+
+220
+00:09:04,980 --> 00:09:07,020
+Something called intraductal papilloma.
+
+221
+00:09:07,140 --> 00:09:08,560
+Intraductal because it's in the duct
+
+222
+00:09:08,560 --> 00:09:10,340
+and papilloma because it's benign.
+
+223
+00:09:11,080 --> 00:09:12,760
+And one of the very important hallmarks
+
+224
+00:09:12,760 --> 00:09:14,420
+concerning the intraductal papilloma
+
+225
+00:09:14,420 --> 00:09:16,780
+is that since this is a benign proliferation
+
+226
+00:09:16,780 --> 00:09:17,620
+of epithelium,
+
+227
+00:09:17,980 --> 00:09:19,660
+you'll actually have two cell types
+
+228
+00:09:19,660 --> 00:09:21,520
+lining this intraductal papilloma.
+
+229
+00:09:21,680 --> 00:09:23,920
+You'll have your standard epithelial cell,
+
+230
+00:09:24,260 --> 00:09:25,060
+and underneath that,
+
+231
+00:09:25,140 --> 00:09:26,720
+you'll have a myoepithelial cell.
+
+232
+00:09:27,040 --> 00:09:28,660
+So this is a very high yield,
+
+233
+00:09:28,760 --> 00:09:30,140
+shows up in exams all the time,
+
+234
+00:09:30,260 --> 00:09:30,700
+principle,
+
+235
+00:09:31,340 --> 00:09:33,560
+that when you have an intraductal papilloma,
+
+236
+00:09:33,560 --> 00:09:35,740
+there will be the standard two cell layers.
+
+237
+00:09:35,880 --> 00:09:37,300
+There will be an epithelial cell,
+
+238
+00:09:37,440 --> 00:09:39,540
+underneath which is a myoepithelial cell.
+
+239
+00:09:39,960 --> 00:09:41,880
+Another important thing about intraductal papilloma,
+
+240
+00:09:41,980 --> 00:09:43,800
+it usually occurs in a premenopausal woman.
+
+241
+00:09:44,320 --> 00:09:46,580
+Now, it is possible to develop a papillary growth
+
+242
+00:09:46,580 --> 00:09:47,620
+just like this.
+
+243
+00:09:47,920 --> 00:09:50,340
+However, instead of it being an intraductal papilloma,
+
+244
+00:09:50,440 --> 00:09:52,200
+it's a papillary carcinoma.
+
+245
+00:09:52,620 --> 00:09:53,800
+That's a possibility as well.
+
+246
+00:09:54,160 --> 00:09:55,520
+Now, how would you distinguish the two?
+
+247
+00:09:55,600 --> 00:09:56,340
+Well, number one,
+
+248
+00:09:56,480 --> 00:09:59,540
+a papillary carcinoma is more common as women age,
+
+249
+00:09:59,540 --> 00:10:02,940
+and it's more classically seen in a postmenopausal woman.
+
+250
+00:10:03,120 --> 00:10:04,720
+So, the older a woman gets,
+
+251
+00:10:04,840 --> 00:10:07,540
+the more likely she is to develop a papillary carcinoma
+
+252
+00:10:08,100 --> 00:10:09,940
+as opposed to an intraductal papilloma.
+
+253
+00:10:10,040 --> 00:10:10,600
+That'd be one.
+
+254
+00:10:10,900 --> 00:10:11,700
+But more importantly,
+
+255
+00:10:11,860 --> 00:10:13,020
+the key distinction is made
+
+256
+00:10:13,020 --> 00:10:15,700
+by the lack of these myoepithelial cells,
+
+257
+00:10:15,860 --> 00:10:18,380
+so that you wouldn't see these myoepithelial cells.
+
+258
+00:10:18,480 --> 00:10:22,660
+They would be absent in a papillary carcinoma,
+
+259
+00:10:22,860 --> 00:10:25,220
+and that is classically very high yield
+
+260
+00:10:25,220 --> 00:10:26,620
+for examination purposes.
+
+261
+00:10:26,620 --> 00:10:27,900
+They love to go after this
+
+262
+00:10:27,900 --> 00:10:29,180
+because it's an opportunity
+
+263
+00:10:29,180 --> 00:10:31,360
+to go after normal histology, in effect.
+
+264
+00:10:31,820 --> 00:10:33,220
+So, that's the discussion of papilloma.
+
+265
+00:10:33,300 --> 00:10:34,180
+Now, let's read together.
+
+266
+00:10:34,640 --> 00:10:34,980
+So, I say,
+
+267
+00:10:35,060 --> 00:10:36,040
+intraductal papilloma.
+
+268
+00:10:36,120 --> 00:10:37,420
+This is a papillary growth,
+
+269
+00:10:37,740 --> 00:10:38,520
+large duct.
+
+270
+00:10:38,900 --> 00:10:40,960
+It has fibrovascular projections
+
+271
+00:10:40,960 --> 00:10:42,480
+lined by epithelial cells
+
+272
+00:10:42,480 --> 00:10:44,140
+and myoepithelial cells, right?
+
+273
+00:10:44,200 --> 00:10:45,820
+So, we're talking about the benign variant,
+
+274
+00:10:45,940 --> 00:10:47,140
+the intraductal papilloma.
+
+275
+00:10:47,720 --> 00:10:49,600
+It's going to present with bloody nipple discharge
+
+276
+00:10:49,600 --> 00:10:51,040
+in a premenopausal woman,
+
+277
+00:10:51,500 --> 00:10:53,880
+but you must always have in the back of your mind
+
+278
+00:10:53,880 --> 00:10:55,440
+papillary carcinoma.
+
+279
+00:10:55,440 --> 00:10:58,000
+Again, the two features of papillary carcinoma
+
+280
+00:10:58,000 --> 00:11:00,900
+would be a lack of myoepithelial cells,
+
+281
+00:11:01,020 --> 00:11:02,960
+so you wouldn't have that second layer
+
+282
+00:11:02,960 --> 00:11:04,920
+of myoepithelial cells, number one.
+
+283
+00:11:05,260 --> 00:11:05,960
+And number two,
+
+284
+00:11:06,200 --> 00:11:08,080
+it's much more likely as women age,
+
+285
+00:11:08,140 --> 00:11:10,000
+so that this would classically be a
+
+286
+00:11:10,000 --> 00:11:11,720
+postmenopausal female
+
+287
+00:11:11,720 --> 00:11:13,440
+with bloody nipple discharge.
+
+288
+00:11:13,820 --> 00:11:15,040
+And, of course, papillary lesions,
+
+289
+00:11:15,260 --> 00:11:17,060
+the hallmark is bloody nipple discharge.
+
+290
+00:11:17,940 --> 00:11:19,440
+The next disorder is called fibroadenoma.
+
+291
+00:11:20,160 --> 00:11:22,100
+Fibro means fibrous tissue,
+
+292
+00:11:22,220 --> 00:11:23,280
+and adeno means glands,
+
+293
+00:11:23,280 --> 00:11:24,920
+and oma means you've got a true tumor.
+
+294
+00:11:25,420 --> 00:11:27,960
+So, this is a tumor of fibrous tissue and glands.
+
+295
+00:11:28,460 --> 00:11:32,200
+It is the most common benign tumor of the breast.
+
+296
+00:11:32,280 --> 00:11:34,060
+Most common benign tumor of the breast.
+
+297
+00:11:34,460 --> 00:11:37,680
+Now, it's classically seen in a premenopausal woman.
+
+298
+00:11:37,840 --> 00:11:40,120
+In fact, you could say it's the most common tumor
+
+299
+00:11:40,120 --> 00:11:42,260
+in premenopausal females.
+
+300
+00:11:42,420 --> 00:11:43,200
+I'm going to repeat that.
+
+301
+00:11:43,440 --> 00:11:46,700
+Most common tumor in premenopausal females.
+
+302
+00:11:46,700 --> 00:11:49,500
+Now, this grows as a well-circumscribed,
+
+303
+00:11:49,880 --> 00:11:52,060
+mobile, marble-like mass.
+
+304
+00:11:52,400 --> 00:11:54,940
+These are the classic descriptions of a benign tumor
+
+305
+00:11:54,940 --> 00:11:56,260
+from our neoplasia chapter.
+
+306
+00:11:56,580 --> 00:11:58,660
+Remember, I told you that when you have a benign tumor,
+
+307
+00:11:58,760 --> 00:12:01,140
+it tends to be very distinct from the rest of the tissue,
+
+308
+00:12:01,380 --> 00:12:02,600
+i.e., well-circumscribed.
+
+309
+00:12:02,980 --> 00:12:04,040
+It tends to be mobile,
+
+310
+00:12:04,380 --> 00:12:06,760
+indicating that it hasn't invaded into, for example,
+
+311
+00:12:06,840 --> 00:12:09,200
+the chest wall or the rest of the breast tissue.
+
+312
+00:12:09,600 --> 00:12:10,520
+And it's marble-like,
+
+313
+00:12:10,720 --> 00:12:12,860
+and that's, again, indicating that it's clearly distinct
+
+314
+00:12:12,860 --> 00:12:13,960
+from the rest of the breast.
+
+315
+00:12:13,960 --> 00:12:16,420
+And so these are some classic clinical features
+
+316
+00:12:16,420 --> 00:12:17,820
+of a fibroadenoma.
+
+317
+00:12:18,080 --> 00:12:19,720
+These tumors are estrogen-sensitive,
+
+318
+00:12:19,840 --> 00:12:20,520
+and that's important.
+
+319
+00:12:20,660 --> 00:12:22,380
+For example, they grow during pregnancy.
+
+320
+00:12:22,800 --> 00:12:24,740
+They can be painful during the menstrual cycle.
+
+321
+00:12:25,120 --> 00:12:26,980
+They can shrink in size
+
+322
+00:12:26,980 --> 00:12:29,240
+when a woman undergoes menopause.
+
+323
+00:12:29,740 --> 00:12:32,460
+And so this is an important feature of fibroadenoma.
+
+324
+00:12:32,780 --> 00:12:34,640
+And the most important, benign.
+
+325
+00:12:35,180 --> 00:12:36,860
+But that's obvious because of the name.
+
+326
+00:12:36,960 --> 00:12:37,800
+It's an adenoma.
+
+327
+00:12:38,180 --> 00:12:40,100
+It's not an adenocarcinoma, right?
+
+328
+00:12:40,400 --> 00:12:41,360
+And then number two,
+
+329
+00:12:41,640 --> 00:12:43,040
+no increased risk for cancer.
+
+330
+00:12:43,040 --> 00:12:44,600
+Once a woman has a fibroadenoma,
+
+331
+00:12:44,720 --> 00:12:45,480
+she's going to ask you,
+
+332
+00:12:45,580 --> 00:12:46,820
+so does this mean I have cancer?
+
+333
+00:12:47,020 --> 00:12:47,680
+No, you don't.
+
+334
+00:12:47,920 --> 00:12:49,960
+Does this mean I have an increased risk to get cancer?
+
+335
+00:12:50,240 --> 00:12:51,300
+No, you don't.
+
+336
+00:12:51,380 --> 00:12:54,500
+So it is benign with no increased risk for carcinoma.
+
+337
+00:12:54,900 --> 00:12:56,620
+Here's a classic picture of a fibroadenoma.
+
+338
+00:12:56,740 --> 00:12:57,640
+What I'm trying to highlight here,
+
+339
+00:12:57,720 --> 00:12:58,540
+this is the normal.
+
+340
+00:12:58,940 --> 00:12:59,820
+This is the tumor.
+
+341
+00:13:00,140 --> 00:13:02,580
+You can see that the tumor contains this fibrous tissue,
+
+342
+00:13:02,800 --> 00:13:04,320
+which, let's label this with F.
+
+343
+00:13:04,620 --> 00:13:07,640
+And then you can see that it also contains these glands as well.
+
+344
+00:13:07,960 --> 00:13:11,560
+And so this is the combination of fibroadenoma,
+
+345
+00:13:11,560 --> 00:13:12,720
+because it's a mass.
+
+346
+00:13:13,080 --> 00:13:16,620
+Now notice that this is sharply demarcated from the adjacent breast tissue.
+
+347
+00:13:17,020 --> 00:13:19,280
+Again, it's a well-circumscribed, mobile-like,
+
+348
+00:13:19,620 --> 00:13:21,620
+very distinct mass within the breast.
+
+349
+00:13:22,700 --> 00:13:25,480
+There is another type of fibroadenoma-like tumor
+
+350
+00:13:25,480 --> 00:13:26,840
+that can develop within the breast.
+
+351
+00:13:27,300 --> 00:13:28,700
+It's called a phloides tumor.
+
+352
+00:13:29,000 --> 00:13:30,820
+It's very similar to the fibroadenoma
+
+353
+00:13:30,820 --> 00:13:33,080
+in the sense that it has fibrous tissue and glands,
+
+354
+00:13:33,080 --> 00:13:37,080
+but there's an overgrowth of the fibrous component, high yield.
+
+355
+00:13:37,460 --> 00:13:39,860
+There is an overgrowth of the fibrous component.
+
+356
+00:13:40,240 --> 00:13:42,160
+Now that overgrowth of the fibrous component
+
+357
+00:13:42,160 --> 00:13:46,440
+then pushes out the tumor into these leaf-like projections.
+
+358
+00:13:47,140 --> 00:13:48,520
+And this is what it looks like.
+
+359
+00:13:48,720 --> 00:13:51,760
+So you've got this overgrowth of the fibrous component here.
+
+360
+00:13:51,880 --> 00:13:53,020
+I'm labeling it with an F.
+
+361
+00:13:53,280 --> 00:13:54,560
+And as you get the overgrowth,
+
+362
+00:13:54,680 --> 00:13:56,080
+it pushes out the surface,
+
+363
+00:13:56,340 --> 00:13:58,200
+creating these leaf-like projections.
+
+364
+00:13:58,200 --> 00:14:01,260
+So I'm circling this leaf-like projection.
+
+365
+00:14:01,760 --> 00:14:04,600
+And that's the classic image of a phloides tumor.
+
+366
+00:14:05,280 --> 00:14:06,640
+Now I'd like to go back and remind you
+
+367
+00:14:06,640 --> 00:14:08,020
+that when you have a fibroadenoma,
+
+368
+00:14:08,160 --> 00:14:09,800
+that's usually a premenopausal woman.
+
+369
+00:14:10,140 --> 00:14:12,920
+However, a phloides tumor is more commonly seen
+
+370
+00:14:12,920 --> 00:14:14,580
+in postmenopausal women,
+
+371
+00:14:14,700 --> 00:14:16,160
+so women that are a little bit older
+
+372
+00:14:16,160 --> 00:14:19,780
+than that of a fibroadenoma category.
+
+373
+00:14:20,380 --> 00:14:22,380
+And another important thing about the phloides tumor
+
+374
+00:14:22,380 --> 00:14:23,720
+is that it can be malignant.
+
+375
+00:14:24,080 --> 00:14:25,540
+But that would go along with the idea
+
+376
+00:14:25,540 --> 00:14:28,560
+of it arising in postmenopausal women
+
+377
+00:14:28,560 --> 00:14:31,880
+because we know that cancer is much more common
+
+378
+00:14:31,880 --> 00:14:33,420
+in a postmenopausal woman.
+
+379
+00:14:33,560 --> 00:14:36,620
+It's really classically a disease of postmenopausal women
+
+380
+00:14:36,620 --> 00:14:38,000
+with one exception,
+
+381
+00:14:38,200 --> 00:14:39,720
+and that would be genetic breast cancer,
+
+382
+00:14:39,780 --> 00:14:41,500
+which we're going to talk about at the very end.
+
+383
+00:14:42,160 --> 00:14:43,960
+So again, that's the picture of fibroadenoma.
+
+384
+00:14:44,140 --> 00:14:48,040
+And that closes off our discussion on the benign lesions.
+
+385
+00:14:48,180 --> 00:14:49,360
+And then we're now going to enter
+
+386
+00:14:49,360 --> 00:14:50,860
+into a discussion of breast cancer.
+

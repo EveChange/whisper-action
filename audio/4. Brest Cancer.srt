@@ -1,0 +1,1872 @@
+1
+00:00:00,110 --> 00:00:01,970
+Okay, next section is breast cancer.
+
+2
+00:00:02,110 --> 00:00:06,030
+This is the longest section and particularly the highest yield section in this chapter,
+
+3
+00:00:06,230 --> 00:00:10,830
+so we're going to spend a little bit more time doing this section than we have on the prior sections.
+
+4
+00:00:11,350 --> 00:00:16,670
+Before we begin, let's remind ourselves that the breast cancer is the most common carcinoma in women by incidence,
+
+5
+00:00:16,910 --> 00:00:22,270
+and of course we're excluding skin, so the most common carcinoma in women by incidence excluding skin,
+
+6
+00:00:22,270 --> 00:00:29,390
+and it's the second most common cause of cancer mortality, the first most common cause being lung cancer.
+
+7
+00:00:29,390 --> 00:00:35,430
+The risk factors are mostly related to estrogen exposure, and when you look at this list that I placed here in your text,
+
+8
+00:00:35,810 --> 00:00:38,050
+you'll see that that becomes very quickly evident.
+
+9
+00:00:38,510 --> 00:00:42,550
+So for example, female gender is the first risk factor. That's the number one risk factor.
+
+10
+00:00:42,930 --> 00:00:49,110
+When you think about breast cancer, for every 100 cases, 99 will occur in a female, and only one will occur in a male,
+
+11
+00:00:49,110 --> 00:00:52,690
+and of course that has to do with estrogen. Age is a risk factor.
+
+12
+00:00:53,170 --> 00:00:58,590
+Generally speaking, the classic patient who has breast cancer is a postmenopausal female,
+
+13
+00:00:58,590 --> 00:01:05,870
+and you can see breast cancer in younger patients, but it begins to suggest that there may be a genetic abnormality
+
+14
+00:01:05,870 --> 00:01:10,790
+that's driving that breast cancer, but classically speaking, just you really think about breast cancer
+
+15
+00:01:10,790 --> 00:01:19,710
+as a disease of postmenopausal females. Early menarche and late menopause would be a sign of increased exposure to estrogen,
+
+16
+00:01:19,710 --> 00:01:24,850
+and if the breast sees increased exposure to estrogen, there's going to be an increased risk for breast cancer.
+
+17
+00:01:24,850 --> 00:01:32,130
+Obesity, remember that adipose tissue has the ability to convert androgen to estrone, which is a type of estrogen,
+
+18
+00:01:32,690 --> 00:01:35,350
+and that would therefore increase the risk for breast cancer.
+
+19
+00:01:36,290 --> 00:01:45,290
+Atypical hyperplasia, this refers to a patient having a prior biopsy in which atypical hyperplasia was seen.
+
+20
+00:01:45,690 --> 00:01:49,070
+Remember that when we talked about atypical hyperplasia in the prior section,
+
+21
+00:01:49,070 --> 00:01:57,370
+we mentioned that when patients have atypical hyperplasia on a biopsy, that increases their risk five times relative to the normal population
+
+22
+00:01:57,370 --> 00:02:03,830
+of developing invasive breast cancer in either breast, and that's what we mean by atypical hyperplasia here.
+
+23
+00:02:04,130 --> 00:02:09,270
+And of course, if there's atypical hyperplasia, it kind of implies that there must be excess estrogen on board
+
+24
+00:02:09,270 --> 00:02:13,990
+or some sort of estrogen-related risk factor because that's why the hyperplasia is occurring.
+
+25
+00:02:13,990 --> 00:02:15,530
+It's driven by estrogen often.
+
+26
+00:02:16,250 --> 00:02:22,630
+And then finally, one of the risk factors is family history, in particular, first-degree relative with breast cancer.
+
+27
+00:02:22,790 --> 00:02:25,890
+And it's important to note here who the first-degree relatives are.
+
+28
+00:02:25,970 --> 00:02:29,650
+So they include sister, mother, and daughter.
+
+29
+00:02:30,590 --> 00:02:31,570
+Sister, mother, daughter.
+
+30
+00:02:31,670 --> 00:02:33,550
+Those are the three first-degree relatives.
+
+31
+00:02:34,770 --> 00:02:38,390
+Now, the first of the cancers that we're going to talk about is ductal carcinoma in situ.
+
+32
+00:02:38,390 --> 00:02:44,950
+I think it's best to just take a step back and establish a few basic principles before we actually go into the subtypes of cancer.
+
+33
+00:02:45,070 --> 00:02:45,870
+So let's do this.
+
+34
+00:02:46,270 --> 00:02:52,210
+Let's go back and remind ourselves that the functional unit of the breast is something called the terminal duct lobular unit.
+
+35
+00:02:52,870 --> 00:02:58,030
+So here would represent the terminal duct, and then you're aware that the lobule contains these glands
+
+36
+00:02:58,030 --> 00:03:01,670
+and that these glands are really the milk-producing glands of the breast.
+
+37
+00:03:01,670 --> 00:03:08,050
+Now, it's possible when you have cancer that you can get a malignant proliferation of cells within the duct.
+
+38
+00:03:10,290 --> 00:03:16,790
+And when you get a malignant proliferation of cells within the duct, that's called ductal carcinoma in situ.
+
+39
+00:03:17,350 --> 00:03:22,790
+And the key feature here is that these malignant cells are bound by this basement membrane.
+
+40
+00:03:23,350 --> 00:03:25,030
+So that's ductal carcinoma in situ.
+
+41
+00:03:25,030 --> 00:03:33,750
+If these ductal carcinoma in situ cells walk up the duct and eventually come out to the skin of the nipple,
+
+42
+00:03:34,570 --> 00:03:38,790
+into the epidermis of the nipple, then that's called Paget's disease of the nipple.
+
+43
+00:03:39,370 --> 00:03:45,470
+So when you have Paget's disease of the nipple, that is a ductal carcinoma in situ that has walked its way up the duct.
+
+44
+00:03:46,010 --> 00:03:47,770
+So that's important to note.
+
+45
+00:03:48,770 --> 00:03:54,210
+If these malignant cells invade through the basement membrane and into the surrounding stroma,
+
+46
+00:03:54,210 --> 00:03:57,690
+then we call that invasive ductal carcinoma.
+
+47
+00:03:58,250 --> 00:04:00,490
+So that's another subtype of breast cancer.
+
+48
+00:04:00,890 --> 00:04:04,610
+It's also possible to have a malignant proliferation of cells within the lobule.
+
+49
+00:04:05,230 --> 00:04:09,170
+That would be called lobular carcinoma in situ.
+
+50
+00:04:10,250 --> 00:04:14,910
+And if these malignant cells invade through the basement membrane and into the connective tissue,
+
+51
+00:04:15,330 --> 00:04:19,550
+then we would call that invasive lobular carcinoma.
+
+52
+00:04:19,550 --> 00:04:23,150
+So these are really our four main subtypes of breast cancer.
+
+53
+00:04:23,150 --> 00:04:30,790
+Ductal carcinoma in situ, invasive ductal carcinoma, and then lobular carcinoma in situ, and invasive lobular carcinoma.
+
+54
+00:04:31,130 --> 00:04:35,930
+And what we're going to do over the next few slides is now provide some more detail of this paradigm.
+
+55
+00:04:36,050 --> 00:04:40,290
+So this is the global theme that you have to have in your mind as you walk through breast cancer.
+
+56
+00:04:41,290 --> 00:04:44,450
+Let's go back and begin our discussion with ductal carcinoma in situ.
+
+57
+00:04:44,950 --> 00:04:49,370
+So as I said, ductal carcinoma in situ is a malignant proliferation of cells in the ducts.
+
+58
+00:04:49,370 --> 00:04:51,990
+There is no invasion of the basement membrane.
+
+59
+00:04:52,630 --> 00:04:57,630
+Now, because these cells are simply growing in ducts, you wouldn't normally be able to detect it as a mass.
+
+60
+00:04:57,710 --> 00:04:59,230
+It usually doesn't produce a mass.
+
+61
+00:04:59,690 --> 00:05:03,130
+Instead, it's going to be detected as calcification on mammography.
+
+62
+00:05:03,650 --> 00:05:07,270
+And the idea here is that if you've got this duct, and I'm showing you this duct head-on,
+
+63
+00:05:07,710 --> 00:05:10,210
+and let's say it's loaded with these malignant cancer cells,
+
+64
+00:05:10,210 --> 00:05:14,650
+there is no blood supply in the duct, within the duct itself.
+
+65
+00:05:14,790 --> 00:05:16,250
+Remember, the blood supply is out here.
+
+66
+00:05:16,810 --> 00:05:21,490
+And so these cells, as they grow, especially if they're high-grade and rapidly growing cells,
+
+67
+00:05:21,650 --> 00:05:23,450
+the center will often die.
+
+68
+00:05:24,570 --> 00:05:26,510
+And when the center dies, you've got dead cells.
+
+69
+00:05:26,970 --> 00:05:30,290
+And remember that it's possible to get calcification on top of dead cells,
+
+70
+00:05:30,350 --> 00:05:32,030
+which is called dystrophic calcification.
+
+71
+00:05:32,450 --> 00:05:35,790
+So you can develop dystrophic calcification on top of these dead cells,
+
+72
+00:05:35,790 --> 00:05:39,410
+and mammogram can then pick up that calcification.
+
+73
+00:05:40,070 --> 00:05:42,750
+Now, remember that calcifications are not always malignant.
+
+74
+00:05:42,910 --> 00:05:46,450
+For example, we talked about two other lesions in this chapter
+
+75
+00:05:46,450 --> 00:05:49,430
+in which we could see calcifications, but they were not malignant.
+
+76
+00:05:49,550 --> 00:05:50,190
+They were benign.
+
+77
+00:05:50,570 --> 00:05:51,630
+So can you recall those?
+
+78
+00:05:52,350 --> 00:05:53,850
+Number one, fat necrosis.
+
+79
+00:05:54,950 --> 00:05:57,310
+Remember that I said that when a patient gets fat necrosis,
+
+80
+00:05:57,390 --> 00:06:00,070
+they get saponification of that fat, and it can be calcified.
+
+81
+00:06:00,770 --> 00:06:03,170
+And number two, in the discussion of fibrocystic changes,
+
+82
+00:06:03,170 --> 00:06:06,070
+is I talked about one change called sclerosing adenosis
+
+83
+00:06:06,070 --> 00:06:09,570
+and told you that that is often calcified as well.
+
+84
+00:06:09,690 --> 00:06:12,890
+And so therefore, that could be detected as calcification on mammogram.
+
+85
+00:06:13,370 --> 00:06:15,310
+So this is something important to bear in mind.
+
+86
+00:06:16,370 --> 00:06:20,310
+Now, there are actually multiple different patterns of ductal carcinoma in situ.
+
+87
+00:06:20,890 --> 00:06:24,510
+However, the one that's super high yield and most important for board exams
+
+88
+00:06:24,510 --> 00:06:27,850
+and probably for your level of training is the one to be aware of.
+
+89
+00:06:27,850 --> 00:06:29,090
+It's called the comedotype.
+
+90
+00:06:29,830 --> 00:06:32,450
+In the comedotype, you have high-grade cells with necrosis
+
+91
+00:06:32,450 --> 00:06:34,850
+and dystrophic calcification in the center of the ducts
+
+92
+00:06:34,850 --> 00:06:36,310
+is exactly what I've already drawn.
+
+93
+00:06:36,830 --> 00:06:37,710
+Here's a picture of that.
+
+94
+00:06:37,810 --> 00:06:39,690
+This is a duct cut head-on.
+
+95
+00:06:39,850 --> 00:06:40,890
+So here you've got this duct.
+
+96
+00:06:41,230 --> 00:06:44,030
+And you can see that this duct is loaded with all these cells.
+
+97
+00:06:44,130 --> 00:06:45,110
+So there's too many cells.
+
+98
+00:06:45,210 --> 00:06:47,410
+And then in the center, there's this necrosis.
+
+99
+00:06:47,530 --> 00:06:49,710
+And the center of that necrosis is calcified.
+
+100
+00:06:50,090 --> 00:06:54,110
+So this is the classic example of the comedotype of ductal carcinoma in situ.
+
+101
+00:06:54,870 --> 00:06:57,250
+Now, remember, I told you that if you have DCIS,
+
+102
+00:06:57,250 --> 00:07:01,490
+for example, in this duct, and then it climbs up its way through the duct
+
+103
+00:07:01,490 --> 00:07:05,050
+and eventually gets into the skin of the nipple in particular,
+
+104
+00:07:05,050 --> 00:07:08,610
+we call that Paget's disease of the nipple or Paget's disease of the breast.
+
+105
+00:07:08,950 --> 00:07:13,110
+So this is ductal carcinoma in situ that extends up the ducts to the skin of the nipple.
+
+106
+00:07:14,190 --> 00:07:17,270
+It's going to present with nipple ulceration and erythema.
+
+107
+00:07:17,730 --> 00:07:21,610
+And, of course, if you see a patient and they've got Paget's disease of the nipple,
+
+108
+00:07:22,190 --> 00:07:26,050
+let's say that you have a patient and they've got this nipple ulceration and erythema,
+
+109
+00:07:26,170 --> 00:07:29,370
+and you do a biopsy and you prove that there's Paget's disease of the nipple,
+
+110
+00:07:29,770 --> 00:07:32,450
+that would tell you that there must be a cancer within the breast.
+
+111
+00:07:32,910 --> 00:07:36,390
+And that's a very important point because if you go back to your gynecologic lectures,
+
+112
+00:07:36,510 --> 00:07:40,630
+remember that there is also a disorder called extra mammary Paget's disease
+
+113
+00:07:40,630 --> 00:07:43,990
+where you get malignant cells within the epidermis of the vulva.
+
+114
+00:07:44,410 --> 00:07:47,570
+And in that particular disorder, there was no underlying carcinoma.
+
+115
+00:07:47,890 --> 00:07:51,170
+So we do have to make a big deal here about the fact that in Paget's disease,
+
+116
+00:07:51,170 --> 00:07:54,130
+there will be a cancer someplace in the breast.
+
+117
+00:07:54,550 --> 00:07:55,690
+So that's important to know.
+
+118
+00:07:56,630 --> 00:07:58,610
+Here's what Paget's disease of the nipple looks like.
+
+119
+00:07:58,930 --> 00:08:04,410
+Obviously, you can see this area of ulceration and disturbance of the epithelium
+
+120
+00:08:04,410 --> 00:08:05,790
+or the epidermis of the nipple.
+
+121
+00:08:06,250 --> 00:08:07,970
+Here's what it would look like on biopsy.
+
+122
+00:08:08,270 --> 00:08:11,450
+You normally have your squamous cells, and then in between the squamous cells,
+
+123
+00:08:11,810 --> 00:08:15,610
+you've got all of these cells with this kind of lighter-colored cytoplasm,
+
+124
+00:08:15,610 --> 00:08:23,690
+and these are the malignant cells walking their way up the skin or the epidermis of the patient's nipple.
+
+125
+00:08:24,310 --> 00:08:26,390
+And so, again, this is Paget's disease of the nipple.
+
+126
+00:08:27,510 --> 00:08:32,930
+Invasive ductal carcinoma is when you actually have the malignant cells go through the basement membrane
+
+127
+00:08:32,930 --> 00:08:34,870
+and now invade into the connective tissue.
+
+128
+00:08:34,870 --> 00:08:39,170
+And it classically forms duct-like structures so that when you look at the tumor,
+
+129
+00:08:39,510 --> 00:08:42,690
+you'll actually see these round duct-like structures.
+
+130
+00:08:43,290 --> 00:08:45,770
+Now, this is the most common type of invasive carcinoma.
+
+131
+00:08:46,170 --> 00:08:50,990
+It presents as a mass, and that mass can be detected by physical exam or mammography.
+
+132
+00:08:51,490 --> 00:08:54,810
+Physical exam will usually detect a mass that's about two centimeters or greater,
+
+133
+00:08:55,230 --> 00:08:58,910
+whereas mammography can pick up a mass at about one centimeter or greater.
+
+134
+00:08:58,910 --> 00:09:05,270
+And so mammography is a very good test because it allows us to detect breast cancer at a much earlier stage.
+
+135
+00:09:05,790 --> 00:09:10,990
+One of the important things to recognize concerning breast cancer is that as the tumor begins to spread through the breast,
+
+136
+00:09:11,330 --> 00:09:15,010
+it can result in dimpling of the skin or retraction of the nipple.
+
+137
+00:09:15,350 --> 00:09:18,690
+Now, let's remember that retraction of the nipple is not always due to cancer.
+
+138
+00:09:19,110 --> 00:09:21,610
+It can be due to inflammatory conditions as well.
+
+139
+00:09:21,910 --> 00:09:27,890
+However, in this particular case, it is a consequence of cancer, so just something to be aware of.
+
+140
+00:09:27,890 --> 00:09:31,950
+Now, when you're worried about cancer in the breast, if you have a mass and you're particularly worried,
+
+141
+00:09:32,010 --> 00:09:33,010
+you're going to do a biopsy.
+
+142
+00:09:33,470 --> 00:09:39,610
+And when you have invasive ductal carcinoma, you're going to see duct-like structures in a desmoplastic stroma.
+
+143
+00:09:40,250 --> 00:09:45,070
+And what we mean by desmoplastic stroma is that you have connective tissue growing with the tumor,
+
+144
+00:09:45,470 --> 00:09:51,850
+and that connective tissue is there to support the tumor and provide its structural support, stromal support, we could say.
+
+145
+00:09:52,310 --> 00:09:54,250
+And that's called desmoplastic stroma.
+
+146
+00:09:54,250 --> 00:09:58,770
+Now, there are some special subtypes of invasive ductal carcinoma to be familiar with.
+
+147
+00:09:59,290 --> 00:10:04,190
+The most common circumstance is that you have your everyday invasive ductal carcinoma.
+
+148
+00:10:04,530 --> 00:10:05,790
+But there are four subtypes.
+
+149
+00:10:05,890 --> 00:10:08,370
+They're all high yield, and I want to talk about each of these individually.
+
+150
+00:10:08,850 --> 00:10:10,650
+So the first is called tubular carcinoma.
+
+151
+00:10:10,770 --> 00:10:15,350
+And the important thing about tubular carcinoma is that the cancer produces tubules,
+
+152
+00:10:16,410 --> 00:10:18,010
+little round circular spaces.
+
+153
+00:10:18,010 --> 00:10:22,710
+And the little round circular spaces look very much like normal breasts.
+
+154
+00:10:22,890 --> 00:10:26,530
+Sometimes it's difficult to distinguish this from normal.
+
+155
+00:10:27,150 --> 00:10:31,270
+And there's a few features that will help you to determine that this is actually malignant.
+
+156
+00:10:31,710 --> 00:10:34,010
+Number one, you'll see a desmoplastic stroma.
+
+157
+00:10:34,350 --> 00:10:38,750
+So you can clearly see here that there's all this kind of blue-gray connective tissue in between,
+
+158
+00:10:39,610 --> 00:10:41,650
+and that is the desmoplastic stroma.
+
+159
+00:10:41,650 --> 00:10:46,190
+And number two, if I were to test these cells to see if there was a second cell type,
+
+160
+00:10:46,490 --> 00:10:47,950
+the second cell type would be absent.
+
+161
+00:10:48,330 --> 00:10:52,270
+Let's go back and remind ourselves that the normal ducts and lobules of the breast,
+
+162
+00:10:52,510 --> 00:10:54,130
+they normally have two cell types.
+
+163
+00:10:54,230 --> 00:10:58,230
+They have an epithelial cell, and then underneath that, they have a myoepithelial cell.
+
+164
+00:10:58,630 --> 00:11:01,710
+However, when you look at cancer, cancer would not have two cell types.
+
+165
+00:11:01,810 --> 00:11:02,490
+It's not normal.
+
+166
+00:11:02,890 --> 00:11:04,610
+So you would only see one cell type here.
+
+167
+00:11:04,910 --> 00:11:06,730
+And so if I didn't see a second cell type,
+
+168
+00:11:07,030 --> 00:11:10,010
+that would also prove to me that I'm dealing with a tubular carcinoma.
+
+169
+00:11:10,010 --> 00:11:14,950
+Now, one important thing about tubular carcinoma is that it has a very good prognosis.
+
+170
+00:11:15,230 --> 00:11:16,930
+It has a particularly good prognosis.
+
+171
+00:11:17,670 --> 00:11:22,810
+The second type of special invasive ductal carcinoma is called mucinous carcinoma.
+
+172
+00:11:23,090 --> 00:11:27,050
+A key feature is that you have malignant cells floating in pools of mucus.
+
+173
+00:11:27,430 --> 00:11:29,230
+And so you can see these are the malignant cells.
+
+174
+00:11:29,330 --> 00:11:30,070
+These are not normal.
+
+175
+00:11:30,390 --> 00:11:33,470
+And look at all of the mucus back here that they're floating in.
+
+176
+00:11:33,770 --> 00:11:37,670
+So the presence of malignant cells in mucus is called mucinous carcinoma.
+
+177
+00:11:37,670 --> 00:11:40,210
+There are two important things to know about this subtype.
+
+178
+00:11:40,570 --> 00:11:45,270
+Number one, it has an excellent prognosis, just as tubular carcinoma has an excellent prognosis.
+
+179
+00:11:45,670 --> 00:11:48,950
+Perhaps one way to think about it would be that the tumor cells are all stuck in mucus,
+
+180
+00:11:49,030 --> 00:11:50,070
+so they can't go anywhere.
+
+181
+00:11:50,670 --> 00:11:52,990
+Now, number two, this usually occurs in elderly women.
+
+182
+00:11:53,150 --> 00:11:56,690
+So it's seen in, and so it's particularly seen in elderly women.
+
+183
+00:11:57,250 --> 00:12:00,910
+The third subtype of, special subtype of breast cancer that I want to talk about
+
+184
+00:12:00,910 --> 00:12:02,630
+is called inflammatory carcinoma.
+
+185
+00:12:02,630 --> 00:12:08,350
+Now, when a patient has inflammatory carcinoma, they present with a breast that's highly erythematous
+
+186
+00:12:08,350 --> 00:12:09,390
+and swollen.
+
+187
+00:12:09,850 --> 00:12:12,490
+So it looks like the patient has acute mastitis.
+
+188
+00:12:12,950 --> 00:12:17,730
+However, you put the patient on antibiotics, or perhaps the patient may not be feeding,
+
+189
+00:12:18,130 --> 00:12:19,510
+but let's say the patient is feeding.
+
+190
+00:12:19,630 --> 00:12:22,170
+You put the patient on antibiotics, and it doesn't really resolve.
+
+191
+00:12:22,590 --> 00:12:26,310
+Now you become more concerned that perhaps it's not an infection, but it could be,
+
+192
+00:12:26,410 --> 00:12:28,710
+for example, something called inflammatory carcinoma.
+
+193
+00:12:28,710 --> 00:12:32,750
+So then you do a biopsy, and when you do a biopsy, you find the characteristic feature,
+
+194
+00:12:33,150 --> 00:12:37,550
+which is that this type of tumor is characterized by the presence of cancer within the dermal
+
+195
+00:12:37,550 --> 00:12:39,130
+lymphatics, as I've circled here.
+
+196
+00:12:40,270 --> 00:12:44,570
+When you have cancer in the dermal lymphatics, the cancer blocks the dermal lymphatics and
+
+197
+00:12:44,570 --> 00:12:46,310
+decreases the drainage of the breast.
+
+198
+00:12:46,650 --> 00:12:50,890
+That then results in a swollen erythematous breast, and this is called inflammatory carcinoma
+
+199
+00:12:50,890 --> 00:12:51,470
+of the breast.
+
+200
+00:12:51,930 --> 00:12:54,250
+Now, a couple important things about this type of cancer.
+
+201
+00:12:54,250 --> 00:12:59,610
+Now, number one, one very high-yield point to be aware of is the fact that it is a clinical
+
+202
+00:12:59,610 --> 00:13:01,530
+pathologic entity.
+
+203
+00:13:02,010 --> 00:13:07,110
+You need to see inflammatory changes in the breast clinically, and then you must prove that there
+
+204
+00:13:07,110 --> 00:13:09,530
+is tumor in dermal lymphatics pathologically.
+
+205
+00:13:09,970 --> 00:13:12,710
+So both of these pieces are essential for this diagnosis.
+
+206
+00:13:13,450 --> 00:13:14,350
+That's the first point.
+
+207
+00:13:14,670 --> 00:13:20,270
+The second point is that you should be aware that this has a very poor prognosis, and I
+
+208
+00:13:20,270 --> 00:13:24,290
+think that's easy to understand because the tumor is already sitting in the dermal lymphatic
+
+209
+00:13:24,290 --> 00:13:28,410
+spaces and now has access to the lymph nodes and potentially the rest of the body.
+
+210
+00:13:29,070 --> 00:13:32,450
+And the third point that I want to make about this tumor is to remember to always have it
+
+211
+00:13:32,450 --> 00:13:35,830
+in the back of your mind when you see a patient that you think has acute mastitis.
+
+212
+00:13:36,350 --> 00:13:40,170
+So especially on an examination, they can tell you that there's a woman and she's feeding,
+
+213
+00:13:40,650 --> 00:13:45,810
+and you kind of make a diagnosis of acute mastitis, but that after the antibiotics, the disease
+
+214
+00:13:45,810 --> 00:13:47,090
+process does not resolve.
+
+215
+00:13:47,090 --> 00:13:48,630
+And that you need to be careful.
+
+216
+00:13:48,790 --> 00:13:52,550
+Whenever you have acute mastitis, you need to make sure that you're not dealing with an
+
+217
+00:13:52,550 --> 00:13:53,730
+inflammatory carcinoma.
+
+218
+00:13:54,110 --> 00:13:58,630
+So for example, if you have a woman with acute mastitis and you give antibiotics, it's important
+
+219
+00:13:58,630 --> 00:14:03,230
+to see that woman five or ten days later to ensure that the antibiotics took care of the
+
+220
+00:14:03,230 --> 00:14:07,790
+problem and that you didn't miss, for example, an inflammatory carcinoma of the breast.
+
+221
+00:14:08,250 --> 00:14:10,030
+Again, this has a very poor prognosis.
+
+222
+00:14:10,610 --> 00:14:15,030
+The fourth special subtype, which I don't have a picture of, but it is in your text and
+
+223
+00:14:15,030 --> 00:14:17,190
+it is high yield, it's called medullary carcinoma.
+
+224
+00:14:17,630 --> 00:14:22,390
+The special thing about medullary carcinoma is that you have high grade malignant tumor
+
+225
+00:14:22,390 --> 00:14:27,170
+cells with a bunch of inflammatory cells in the background, particularly lymphocytes
+
+226
+00:14:27,170 --> 00:14:28,450
+and plasma cells.
+
+227
+00:14:29,070 --> 00:14:33,290
+Now what's important about this subtype is that there's an increased propensity for this
+
+228
+00:14:33,290 --> 00:14:37,130
+subtype in patients with BRCA1 mutations, and that's high yield.
+
+229
+00:14:37,130 --> 00:14:41,950
+So again, in medullary carcinoma, in which you have high grade malignant cells in an inflammatory
+
+230
+00:14:41,950 --> 00:14:47,850
+background, there's an increased propensity for that subtype of cancer to arise in patients
+
+231
+00:14:47,850 --> 00:14:51,190
+with BRCA1 mutations, and again, that is high yield.
+
+232
+00:14:52,510 --> 00:14:56,750
+Now, after we've completed the ductal types of cancers, we then go to the lobular types
+
+233
+00:14:56,750 --> 00:15:00,650
+of cancers, and let's remind ourselves that I said that if this is the terminal duct and
+
+234
+00:15:00,650 --> 00:15:04,810
+this is the lobular unit, and you've got all of these little globule, all of these little
+
+235
+00:15:04,810 --> 00:15:09,610
+glands within the lobule, if you get a malignant proliferation of cells within the lobule, then
+
+236
+00:15:09,610 --> 00:15:11,850
+we call that lobular carcinoma in situ.
+
+237
+00:15:12,450 --> 00:15:17,950
+And if you get a malignant proliferation of cells that invades, then we call that invasive
+
+238
+00:15:17,950 --> 00:15:19,490
+lobular carcinoma.
+
+239
+00:15:21,130 --> 00:15:25,450
+LCIS, or lobular carcinoma in situ, is a malignant proliferation of cells in the lobules.
+
+240
+00:15:25,810 --> 00:15:28,130
+Of course, there is no invasion of the basement membrane.
+
+241
+00:15:28,710 --> 00:15:32,430
+What's interesting about this entity is that it's usually detected incidentally.
+
+242
+00:15:32,430 --> 00:15:34,750
+What that means is that you find it by accident.
+
+243
+00:15:35,210 --> 00:15:36,490
+It doesn't produce a mass.
+
+244
+00:15:36,870 --> 00:15:38,390
+It doesn't produce calcifications.
+
+245
+00:15:38,850 --> 00:15:40,990
+So you biopsy the breast for one reason.
+
+246
+00:15:41,310 --> 00:15:45,670
+Let's say there is a mass or a calcification that you're worried about, and then it so happens
+
+247
+00:15:45,670 --> 00:15:50,750
+that by chance, or incidentally, you discover that the patient has lobular carcinoma in situ.
+
+248
+00:15:51,410 --> 00:15:55,190
+Now, one of the key features about lobular carcinoma in situ is that when you look at the cells,
+
+249
+00:15:55,250 --> 00:15:59,450
+let's pretend that this is the terminal duct and this is the lobular unit, and you've got
+
+250
+00:15:59,450 --> 00:16:04,050
+these glands here, when you look at the cells, the cells are often discohesive, which means
+
+251
+00:16:04,050 --> 00:16:05,530
+they are not stuck to one another.
+
+252
+00:16:05,670 --> 00:16:07,830
+Instead, they're very separate from one another.
+
+253
+00:16:08,410 --> 00:16:12,550
+And that's important because one of the key characteristics of this particular tumor is
+
+254
+00:16:12,550 --> 00:16:16,150
+that it lacks an adhesion molecule called ecadherin.
+
+255
+00:16:16,470 --> 00:16:20,070
+Now, ecadherin is the glue that allows cells to stick together.
+
+256
+00:16:20,650 --> 00:16:22,470
+It's a cellular adhesion molecule.
+
+257
+00:16:22,470 --> 00:16:25,710
+It's glue that allows these cells to stick to one another.
+
+258
+00:16:25,710 --> 00:16:30,530
+So, if lobular carcinoma in situ is lacking ecadherin, it wouldn't be hard to understand
+
+259
+00:16:30,530 --> 00:16:35,110
+why the cells often appear discohesive or not attached to one another.
+
+260
+00:16:35,550 --> 00:16:40,430
+This is particularly high yield concerning lobular carcinoma, that it lacks ecadherin due
+
+261
+00:16:40,430 --> 00:16:41,930
+to a mutation in that gene.
+
+262
+00:16:42,570 --> 00:16:47,890
+Now, often, lobular carcinoma in situ is actually multifocal and bilateral, so that if a patient
+
+263
+00:16:47,890 --> 00:16:52,430
+has lobular carcinoma, for example, here in the breast, it'll also be here and here
+
+264
+00:16:52,430 --> 00:16:58,550
+often, and it would not be uncommon to also find it in the other breast in various locations.
+
+265
+00:16:59,110 --> 00:17:02,890
+So, lobular carcinoma in situ is often multifocal and bilateral.
+
+266
+00:17:04,070 --> 00:17:09,650
+Now, a current understanding of lobular carcinoma in situ is that it is a risk factor for the
+
+267
+00:17:09,650 --> 00:17:11,210
+future development of breast cancer.
+
+268
+00:17:11,650 --> 00:17:15,030
+So, we don't try to excise lobular carcinoma in situ.
+
+269
+00:17:15,030 --> 00:17:20,350
+Instead, we use pharmacologic agents such as tamoxifen, which is an anti-estrogen agent,
+
+270
+00:17:20,870 --> 00:17:27,130
+with the hopes of decreasing the risk of those cells actually progressing to eventually become
+
+271
+00:17:27,130 --> 00:17:28,570
+invasive carcinoma.
+
+272
+00:17:29,210 --> 00:17:31,910
+And then, in addition, we would give close follow-up.
+
+273
+00:17:32,330 --> 00:17:37,930
+So, our current understanding of lobular carcinoma in situ is that it's more of a risk factor
+
+274
+00:17:37,930 --> 00:17:41,170
+than it is a quote-unquote malignant proliferation.
+
+275
+00:17:41,170 --> 00:17:46,110
+So, generally speaking, with lobular carcinoma in situ, there's a low risk of progression
+
+276
+00:17:46,110 --> 00:17:47,590
+to invasive carcinoma.
+
+277
+00:17:48,350 --> 00:17:53,910
+Invasive lobular carcinoma is a tumor of lobular cells that invades beyond the basement membrane
+
+278
+00:17:53,910 --> 00:17:56,670
+into the actual connective tissue of the breast.
+
+279
+00:17:57,130 --> 00:18:00,910
+Now, one of the interesting things is that, remember, in ductal carcinoma in situ, the
+
+280
+00:18:00,910 --> 00:18:02,870
+cells produce ductal-like structures.
+
+281
+00:18:03,710 --> 00:18:09,290
+However, in invasive lobular carcinoma, the cells classically invade in a single-file pattern.
+
+282
+00:18:09,290 --> 00:18:11,790
+The cells are all dispersed and single from one another.
+
+283
+00:18:12,790 --> 00:18:16,150
+The reason why this occurs is because the tumor cells lack E-cadherin.
+
+284
+00:18:16,530 --> 00:18:21,670
+Remember that E-cadherin is a cellular adhesion molecule that allows cells to stick together.
+
+285
+00:18:21,930 --> 00:18:24,610
+So, that would then allow those cells to make ducts.
+
+286
+00:18:24,910 --> 00:18:28,290
+However, in the case of invasive lobular carcinoma, there is no E-cadherin.
+
+287
+00:18:28,630 --> 00:18:34,230
+Therefore, the cells invade singly, quote-unquote, in a classical single-file pattern.
+
+288
+00:18:34,650 --> 00:18:35,710
+And that's super high yield.
+
+289
+00:18:35,950 --> 00:18:37,230
+Super high yield to know why.
+
+290
+00:18:37,230 --> 00:18:38,730
+E-cadherin mutations.
+
+291
+00:18:39,290 --> 00:18:42,930
+Here's a classic picture, and you can see that there's these tumor cells, which are invading
+
+292
+00:18:42,930 --> 00:18:47,330
+singly in a single-file pattern, and not really producing ductal structures.
+
+293
+00:18:48,230 --> 00:18:51,770
+Now, generally speaking, when we have a patient that has breast cancer, the next thing the
+
+294
+00:18:51,770 --> 00:18:54,650
+patient's going to want to know is, what's my chance of survival?
+
+295
+00:18:56,090 --> 00:19:00,730
+Remember that the main way by which we determine prognosis is the TNM staging system.
+
+296
+00:19:00,730 --> 00:19:04,850
+Now, the T, again, stands for tumor, and that's based on the size of the tumor.
+
+297
+00:19:05,210 --> 00:19:10,250
+The N stands for metastasis to local lymph nodes, and so we would assess the axillary
+
+298
+00:19:10,250 --> 00:19:12,470
+lymph nodes to determine the N stage.
+
+299
+00:19:12,830 --> 00:19:15,090
+And then the M refers to distant metastasis.
+
+300
+00:19:15,630 --> 00:19:19,050
+Now, metastasis is the most important prognostic factor.
+
+301
+00:19:19,050 --> 00:19:24,650
+If a patient has metastasis outside of the region, outside of the breast and the axillary lymph
+
+302
+00:19:24,650 --> 00:19:28,350
+nodes, that would be a very poor prognostic sign.
+
+303
+00:19:29,130 --> 00:19:33,690
+Although metastasis is the most important factor, however, most patients don't usually
+
+304
+00:19:33,690 --> 00:19:34,950
+present with metastasis.
+
+305
+00:19:35,470 --> 00:19:39,390
+So, therefore, the most useful factor becomes spread to axillary lymph nodes.
+
+306
+00:19:39,450 --> 00:19:41,730
+And I hope that's clear, because that's particularly high yield.
+
+307
+00:19:41,730 --> 00:19:43,470
+I'm going to repeat it one more time.
+
+308
+00:19:43,990 --> 00:19:45,590
+Metastasis is most important.
+
+309
+00:19:45,970 --> 00:19:50,790
+However, because most patients don't present with metastasis, what becomes particularly useful
+
+310
+00:19:50,790 --> 00:19:55,490
+in those patients is the second most important factor, which is spread to the axillary lymph
+
+311
+00:19:55,490 --> 00:19:55,750
+nodes.
+
+312
+00:19:56,570 --> 00:20:00,070
+The way by which we determine spread to the axillary lymph nodes is called the sentinel
+
+313
+00:20:00,070 --> 00:20:01,050
+lymph node biopsy.
+
+314
+00:20:01,430 --> 00:20:03,470
+So, let me just highlight the principle here.
+
+315
+00:20:03,990 --> 00:20:07,990
+Basically, if a patient has a tumor within the breast, let's say that this is a cancer within
+
+316
+00:20:07,990 --> 00:20:11,710
+the breast, our understanding is that that breast would then drain to the axillary lymph
+
+317
+00:20:11,730 --> 00:20:16,850
+nodes, and that we would like to examine the axillary lymph nodes to determine whether
+
+318
+00:20:16,850 --> 00:20:20,390
+there's cancer in those nodes, because it affects whether we should, for example, give
+
+319
+00:20:20,390 --> 00:20:22,070
+the patient chemotherapy or not.
+
+320
+00:20:22,710 --> 00:20:27,090
+Now, when we have this cancer within the breast, and we'd like to assess the axilla, one way
+
+321
+00:20:27,090 --> 00:20:29,630
+to do it would be to remove all of the axillary lymph nodes.
+
+322
+00:20:30,110 --> 00:20:35,370
+However, the problem with that is that if the patient has no cancer in the lymph nodes,
+
+323
+00:20:35,450 --> 00:20:39,310
+then we've removed the lymph nodes, and now the patient has no draining from the
+
+324
+00:20:39,310 --> 00:20:42,430
+arm, and therefore would develop swelling of the arm as a complication.
+
+325
+00:20:43,250 --> 00:20:48,350
+It's an acceptable complication if the patient has cancer, but the reality is that 75% of
+
+326
+00:20:48,350 --> 00:20:53,150
+patients who have breast cancer don't even have cancer in the lymph nodes, and so in 75%
+
+327
+00:20:53,150 --> 00:20:56,230
+of our patients, we were causing arm swelling when we didn't really need to.
+
+328
+00:20:56,730 --> 00:21:01,010
+So, someone came up with a brilliant idea called the sentinel lymph node biopsy, where the notion
+
+329
+00:21:01,010 --> 00:21:07,150
+is that you inject the breast with either a blue dye or a radioactive substance, and allow
+
+330
+00:21:07,150 --> 00:21:10,950
+that blue dye or radioactive substance to go to the lymph nodes.
+
+331
+00:21:11,310 --> 00:21:15,190
+Now, it so happens that the lymph nodes in the breast are organized in tiers, so that you
+
+332
+00:21:15,190 --> 00:21:19,010
+kind of have a line of lymph nodes, and then another line of lymph nodes, and another line
+
+333
+00:21:19,010 --> 00:21:20,230
+of lymph nodes behind that.
+
+334
+00:21:21,210 --> 00:21:26,190
+So, the goal in the sentinel lymph node biopsy would be to inject dye or radioactive agent,
+
+335
+00:21:26,190 --> 00:21:33,050
+and then allow that dye to assess the very first line of lymph nodes that is being drained
+
+336
+00:21:33,050 --> 00:21:33,670
+by the breast.
+
+337
+00:21:33,670 --> 00:21:38,370
+Once you've marked those lymph nodes with the blue dye or the radio tracer, you open up
+
+338
+00:21:38,370 --> 00:21:40,470
+the axilla, and you remove those lymph nodes.
+
+339
+00:21:40,830 --> 00:21:44,670
+If those lymph nodes are negative, you can make the assumption that the rest of the lymph
+
+340
+00:21:44,670 --> 00:21:48,690
+nodes behind those nodes are also negative, whereas if these lymph nodes are positive,
+
+341
+00:21:49,050 --> 00:21:52,850
+you'll go back and remove, at that point in time, all of the other lymph nodes.
+
+342
+00:21:53,270 --> 00:21:58,030
+So, that's called the sentinel lymph node biopsy, and it allows us to take minimal number of
+
+343
+00:21:58,030 --> 00:22:01,550
+lymph nodes while still accurately staging the patient.
+
+344
+00:22:03,670 --> 00:22:08,370
+So, that's a good paradigm to be aware of when thinking about prognosis in breast cancer.
+
+345
+00:22:08,370 --> 00:22:12,470
+Now, we can also determine some predictive factors when dealing with breast cancer.
+
+346
+00:22:12,470 --> 00:22:15,950
+And predictive factors predict response to treatment.
+
+347
+00:22:15,950 --> 00:22:18,490
+That's the purpose of determining predictive factors.
+
+348
+00:22:18,490 --> 00:22:22,570
+And there are three key predictive factors that we need to be aware of.
+
+349
+00:22:22,570 --> 00:22:27,770
+The first is ER, the second is PR, and the third is HER2 new gene amplification.
+
+350
+00:22:27,770 --> 00:22:33,950
+Now, basically, the notion is that if the tumor cells express estrogen receptor and the tumor
+
+351
+00:22:33,950 --> 00:22:38,690
+cells express progesterone receptor, then that would mean that we could potentially expect
+
+352
+00:22:38,690 --> 00:22:42,410
+a response when we gave them anti-estrogenic agents, like tamoxifen.
+
+353
+00:22:42,410 --> 00:22:48,470
+And so, we will take a patient's tumor cells and test whether they express estrogen receptor
+
+354
+00:22:48,470 --> 00:22:49,890
+and progesterone receptor.
+
+355
+00:22:50,790 --> 00:22:55,710
+And these are two very important tests we do to predict response to anti-estrogenic agents,
+
+356
+00:22:55,790 --> 00:22:56,910
+such as tamoxifen.
+
+357
+00:22:57,670 --> 00:23:00,010
+And so, this would be two of the important tests.
+
+358
+00:23:00,370 --> 00:23:03,490
+The third is amplification of the HER2 new gene.
+
+359
+00:23:03,830 --> 00:23:09,270
+Now, remember that the HER2 new, I'm going to remind you, going back to our neoplasia lecture,
+
+360
+00:23:09,270 --> 00:23:13,330
+HER2 new is a cell surface growth factor receptor.
+
+361
+00:23:13,870 --> 00:23:19,650
+And if the patient has excess HER2 new, classically due to gene amplification,
+
+362
+00:23:19,930 --> 00:23:22,110
+that's important, it's due to gene amplification,
+
+363
+00:23:22,630 --> 00:23:25,650
+that excess receptor can result in excess growth of the cell,
+
+364
+00:23:25,910 --> 00:23:28,570
+which can then drive the proliferation of the tumor.
+
+365
+00:23:29,070 --> 00:23:34,030
+And so, this is an important predictive factor because we have antibodies that we've designed
+
+366
+00:23:34,030 --> 00:23:36,590
+called HERceptin or trastuzumab.
+
+367
+00:23:36,590 --> 00:23:38,950
+Now, we have antibodies against those receptors,
+
+368
+00:23:39,150 --> 00:23:42,650
+and patients who have excess receptor can be treated with this antibody.
+
+369
+00:23:43,210 --> 00:23:47,050
+Here's a couple stains that I've provided to show you how we actually do this.
+
+370
+00:23:47,330 --> 00:23:51,590
+So, when we have a breast cancer, we can do immunohistochemical stains for estrogen receptor,
+
+371
+00:23:51,750 --> 00:23:52,970
+as I'm showing here.
+
+372
+00:23:53,330 --> 00:23:57,450
+And, of course, the estrogen receptor complex is present in the nucleus.
+
+373
+00:23:57,570 --> 00:24:00,710
+Now, remember that the receptor itself is present in the cytoplasm,
+
+374
+00:24:01,090 --> 00:24:05,750
+but when it binds its partner, it then moves to the nucleus.
+
+375
+00:24:05,750 --> 00:24:09,710
+And so, you can clearly see that the nuclei of all these cells are brown,
+
+376
+00:24:10,110 --> 00:24:12,990
+indicating that the tumor is positive for estrogen receptor.
+
+377
+00:24:13,490 --> 00:24:15,850
+Now, progesterone receptor would look exactly the same
+
+378
+00:24:15,850 --> 00:24:20,190
+because it is also a receptor that translocates itself to the nucleus.
+
+379
+00:24:20,950 --> 00:24:23,490
+HER2 new, on the other hand, would not be present in the nucleus,
+
+380
+00:24:23,650 --> 00:24:26,690
+but is present on the surface of the cells on the cytoplasm.
+
+381
+00:24:26,990 --> 00:24:30,430
+And I've already explained that HER2 new is a growth factor receptor
+
+382
+00:24:30,430 --> 00:24:32,890
+that would be seen on the surface of the cells.
+
+383
+00:24:35,750 --> 00:24:39,410
+Now, a slide, which is that HER2 new is a cell surface receptor.
+
+384
+00:24:39,550 --> 00:24:43,290
+Remember that it's a proto-oncogene that, when amplified, becomes an oncogene.
+
+385
+00:24:44,310 --> 00:24:48,290
+Now, when you think about all of these three key predictive factors,
+
+386
+00:24:48,550 --> 00:24:51,410
+that can create a wide variety of possibilities.
+
+387
+00:24:51,670 --> 00:24:56,190
+For example, if you're thinking about ER and then PR and then HER2 new,
+
+388
+00:24:56,190 --> 00:25:01,870
+it's possible that some patients could have ER positive, PR positive, HER2 negative tumors.
+
+389
+00:25:02,330 --> 00:25:06,270
+It's also possible that you could be ER positive, PR negative, HER2 negative.
+
+390
+00:25:06,810 --> 00:25:12,990
+It's possible to be negative for ER, negative for PR, and positive for HER2, etc., etc.
+
+391
+00:25:13,190 --> 00:25:15,610
+But there's one particular subtype to be aware of,
+
+392
+00:25:15,610 --> 00:25:18,190
+and that's when patients are negative, negative, negative,
+
+393
+00:25:18,190 --> 00:25:20,530
+negative for all three predictive markers.
+
+394
+00:25:20,530 --> 00:25:23,350
+And in those cases, patients are called triple negative.
+
+395
+00:25:23,810 --> 00:25:26,850
+What's important about this subtype is that it has a poor prognosis,
+
+396
+00:25:27,350 --> 00:25:30,710
+and that also African-American women have an increased propensity
+
+397
+00:25:30,710 --> 00:25:32,910
+to develop triple negative carcinoma.
+
+398
+00:25:33,890 --> 00:25:37,530
+Hereditary breast cancer represents 10% of cases of breast cancer,
+
+399
+00:25:37,890 --> 00:25:40,410
+and there are some features that you can see within a patient
+
+400
+00:25:40,410 --> 00:25:42,550
+that would suggest hereditary breast cancer.
+
+401
+00:25:42,930 --> 00:25:46,790
+For example, if the patient has multiple first-degree relatives with breast cancer,
+
+402
+00:25:46,790 --> 00:25:51,050
+you might think about the fact that the patient may have hereditary breast cancer.
+
+403
+00:25:51,550 --> 00:25:54,010
+If the patient has tumor at a premenopausal age,
+
+404
+00:25:54,310 --> 00:25:57,910
+remember that breast cancer is classically a disease of postmenopausal females.
+
+405
+00:25:58,410 --> 00:26:01,050
+However, if the patient gets cancer at a premenopausal age,
+
+406
+00:26:01,310 --> 00:26:04,330
+you might think about testing the patient for hereditary breast cancer.
+
+407
+00:26:04,750 --> 00:26:07,950
+And also, if a patient develops multiple tumors, that would be highly unlikely,
+
+408
+00:26:08,730 --> 00:26:11,030
+and so again, we would test for hereditary breast cancer.
+
+409
+00:26:11,690 --> 00:26:13,570
+When considering hereditary breast cancer,
+
+410
+00:26:13,570 --> 00:26:18,910
+BRCA1 and BRCA2 are currently the two most important single-gene mutations
+
+411
+00:26:18,910 --> 00:26:22,330
+in the domain of hereditary breast cancer.
+
+412
+00:26:22,690 --> 00:26:25,850
+Let's remind ourselves that BRCA1 patients have an increased risk
+
+413
+00:26:25,850 --> 00:26:28,450
+for both breast and ovarian carcinoma,
+
+414
+00:26:28,630 --> 00:26:31,010
+and I'd like to remind you of a couple high-yield points here.
+
+415
+00:26:31,390 --> 00:26:33,910
+Number one, breast cancer, there's an increased propensity
+
+416
+00:26:33,910 --> 00:26:35,930
+for medullary carcinoma of the breast.
+
+417
+00:26:36,310 --> 00:26:38,630
+Remember that discussion that we just had a few moments ago.
+
+418
+00:26:38,630 --> 00:26:43,270
+Now, medullary carcinoma is not the most common type of breast cancer
+
+419
+00:26:43,270 --> 00:26:44,590
+in these particular individuals.
+
+420
+00:26:45,110 --> 00:26:51,590
+However, there is an increased propensity compared to the normal population.
+
+421
+00:26:52,090 --> 00:26:55,690
+And then the second is to remind you that when you consider the ovarian carcinoma
+
+422
+00:26:55,690 --> 00:26:59,790
+in the BRCA1 patients, it's classically a serous carcinoma,
+
+423
+00:27:00,010 --> 00:27:01,890
+and I'd like to very clearly remind you
+
+424
+00:27:01,890 --> 00:27:04,750
+that it doesn't only increase the risk for ovarian carcinoma,
+
+425
+00:27:04,750 --> 00:27:07,050
+but this can also arise within the fallopian tube,
+
+426
+00:27:07,470 --> 00:27:10,090
+and that's a high-yield principle that I talked about in your gynae lectures.
+
+427
+00:27:10,710 --> 00:27:15,190
+When you think about BRCA2, it's classically associated with breast cancer in males.
+
+428
+00:27:15,350 --> 00:27:18,010
+That's one of the classic associations with BRCA2.
+
+429
+00:27:18,450 --> 00:27:21,950
+Now, I'd like to remind you, when patients have a hereditary breast cancer,
+
+430
+00:27:22,390 --> 00:27:26,050
+they may elect to undergo prophylactic mastectomy.
+
+431
+00:27:26,230 --> 00:27:30,570
+So, for example, if a woman learns that she's got a BRCA1 or BRCA2 mutation,
+
+432
+00:27:31,290 --> 00:27:33,670
+she may choose to actually have both breasts removed.
+
+433
+00:27:33,670 --> 00:27:36,290
+If both breasts are removed, however,
+
+434
+00:27:36,590 --> 00:27:39,590
+it's very important to note that a small risk still remains
+
+435
+00:27:39,590 --> 00:27:41,130
+for the development of breast cancer,
+
+436
+00:27:41,490 --> 00:27:44,030
+and that's because sometimes we have excess breast tissue
+
+437
+00:27:44,030 --> 00:27:46,490
+that can go, for example, into the muscle
+
+438
+00:27:46,490 --> 00:27:49,130
+or may be present up in the axilla, etc.
+
+439
+00:27:49,710 --> 00:27:55,370
+And so, although prophylactic mastectomy sharply would reduce the risk
+
+440
+00:27:55,370 --> 00:27:58,650
+of future development of cancer, the risk does not become zero,
+
+441
+00:27:58,790 --> 00:28:01,550
+and those patients still need to be watched carefully.
+
+442
+00:28:01,550 --> 00:28:05,450
+Male breast cancer is the last discussion that we want to have,
+
+443
+00:28:05,570 --> 00:28:07,910
+and all I'd like to say about this is, number one, it's rare.
+
+444
+00:28:08,270 --> 00:28:12,590
+Remember that for every 100 cases of breast cancer, only one will involve a male,
+
+445
+00:28:12,870 --> 00:28:14,710
+whereas 99 will be seen in a female.
+
+446
+00:28:15,450 --> 00:28:17,730
+It presents as a subareolar mast.
+
+447
+00:28:17,950 --> 00:28:21,470
+That's to be expected because we know that the vast majority of breast tissue
+
+448
+00:28:21,470 --> 00:28:24,490
+is in the subareolar region in a male,
+
+449
+00:28:24,810 --> 00:28:27,130
+whereas, again, the vast majority of breast tissue in a female
+
+450
+00:28:27,130 --> 00:28:28,670
+is in the upper outer quadrant.
+
+451
+00:28:29,270 --> 00:28:31,650
+So, usually it's going to be in an older male,
+
+452
+00:28:31,950 --> 00:28:33,490
+and it can produce nipple discharge,
+
+453
+00:28:33,590 --> 00:28:35,090
+and the reason it produces nipple discharge
+
+454
+00:28:35,090 --> 00:28:38,410
+is because the tumor is developing right underneath the nipple.
+
+455
+00:28:39,350 --> 00:28:41,670
+Now, most often, patients who have male breast cancer
+
+456
+00:28:41,670 --> 00:28:43,630
+will develop a ductal carcinoma,
+
+457
+00:28:43,970 --> 00:28:45,790
+and the idea here goes back to embryology,
+
+458
+00:28:45,890 --> 00:28:47,510
+and that is that when you've got a male breast,
+
+459
+00:28:47,570 --> 00:28:48,990
+you do develop terminal ducts,
+
+460
+00:28:49,250 --> 00:28:51,230
+but you don't yet develop those lobules.
+
+461
+00:28:51,230 --> 00:28:55,450
+And so, most of the breast tissue in males is actually ducts
+
+462
+00:28:55,450 --> 00:28:56,590
+with very few lobules,
+
+463
+00:28:56,990 --> 00:28:59,650
+and so they usually develop invasive ductal carcinoma.
+
+464
+00:29:00,070 --> 00:29:03,070
+And the last point is that there's an association with BRCA2 mutation,
+
+465
+00:29:03,210 --> 00:29:04,950
+as I just stated a moment ago,
+
+466
+00:29:05,130 --> 00:29:08,090
+and there's also an increased risk in patients with Klinefelter syndrome.
+
+467
+00:29:08,670 --> 00:29:10,950
+So, this concludes our discussion of breast cancer,
+
+468
+00:29:11,110 --> 00:29:13,170
+and now we can move on to the next chapter.
+

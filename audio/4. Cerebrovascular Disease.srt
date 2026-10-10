@@ -1,0 +1,1072 @@
+1
+00:00:00,000 --> 00:00:02,540
+Okay, moving on to cerebrovascular disease.
+
+2
+00:00:03,000 --> 00:00:07,460
+This is a neurologic deficit that arises due to cerebrovascular compromise.
+
+3
+00:00:08,000 --> 00:00:11,660
+It's usually due to ischemia, or a decreased blood flow to the brain,
+
+4
+00:00:12,000 --> 00:00:14,380
+but it can also be due to hemorrhage into the brain.
+
+5
+00:00:14,860 --> 00:00:17,460
+Now, the first example would be global cerebral ischemia,
+
+6
+00:00:17,700 --> 00:00:20,040
+but before we go there, why don't we just highlight a paradigm.
+
+7
+00:00:20,520 --> 00:00:24,540
+So here's cerebrovascular disease, and of course it can be due to ischemia,
+
+8
+00:00:24,680 --> 00:00:25,980
+or it can be due to hemorrhage.
+
+9
+00:00:25,980 --> 00:00:28,880
+Now, when you have ischemia, that ischemia can be focal,
+
+10
+00:00:28,880 --> 00:00:30,680
+or it can be global.
+
+11
+00:00:31,040 --> 00:00:33,700
+And by focal, we mean that it involves a region of the brain,
+
+12
+00:00:33,940 --> 00:00:37,260
+and by global, we mean that it diffusely involves the entire brain.
+
+13
+00:00:37,620 --> 00:00:40,640
+And so global is called global cerebral ischemia,
+
+14
+00:00:40,920 --> 00:00:42,800
+and that's what your text is referring to here.
+
+15
+00:00:43,180 --> 00:00:45,120
+Now, how would you get global cerebral ischemia?
+
+16
+00:00:45,240 --> 00:00:47,520
+Well, you could get it with low perfusion to the brain.
+
+17
+00:00:47,860 --> 00:00:51,860
+For example, if you have atherosclerosis of a large vessel that's going into the brain,
+
+18
+00:00:52,220 --> 00:00:54,840
+this would then decrease the amount of blood going into the brain,
+
+19
+00:00:54,840 --> 00:00:56,860
+giving you a global cerebral ischemia.
+
+20
+00:00:56,860 --> 00:01:00,940
+You could also see it with acute decrease in blood flow, for example, with shock.
+
+21
+00:01:01,280 --> 00:01:04,460
+This would then reduce the overall amount of blood going into the brain.
+
+22
+00:01:04,900 --> 00:01:06,840
+Similarly, we could see it with anemia.
+
+23
+00:01:07,360 --> 00:01:11,800
+Again, with anemia, we'd have less oxygen going into the brain globally.
+
+24
+00:01:12,420 --> 00:01:17,020
+And finally, in very high yield, you can see it with repeated episodes of hypoglycemia.
+
+25
+00:01:17,420 --> 00:01:20,640
+Recall that glucose is an essential energy source for the brain.
+
+26
+00:01:20,640 --> 00:01:25,100
+And so if you get hypoglycemia, that will globally affect the entire brain,
+
+27
+00:01:25,480 --> 00:01:27,420
+creating a global cerebral ischemia.
+
+28
+00:01:28,200 --> 00:01:32,380
+Now, the clinical features of global cerebral ischemia depend on the severity of the ischemia.
+
+29
+00:01:32,620 --> 00:01:35,220
+So it can be mild, moderate, or severe.
+
+30
+00:01:35,600 --> 00:01:38,900
+When it's mild, you get transient confusion with a complete recovery.
+
+31
+00:01:39,200 --> 00:01:41,160
+The classic example would be an insulinoma.
+
+32
+00:01:41,360 --> 00:01:45,180
+When patients have an insulinoma, the blood sugar goes down, they get confusion,
+
+33
+00:01:45,180 --> 00:01:48,200
+you give them back glucose, and the confusion resolves.
+
+34
+00:01:48,460 --> 00:01:50,920
+So that's an example of mild global ischemia.
+
+35
+00:01:51,320 --> 00:01:55,600
+In severe global ischemia, you get diffuse necrosis of the brain due to the ischemia,
+
+36
+00:01:55,980 --> 00:01:57,760
+and the patient probably wouldn't survive.
+
+37
+00:01:58,100 --> 00:02:01,160
+However, if they did survive, they'd go on to a vegetative state.
+
+38
+00:02:01,620 --> 00:02:04,700
+With moderate global ischemia, you get infarcts in watershed areas.
+
+39
+00:02:05,040 --> 00:02:09,000
+The watershed areas are those regions that are fed by the very end of a circulation.
+
+40
+00:02:09,000 --> 00:02:13,840
+So, for example, the region fed by the very end of the anterior cerebral artery,
+
+41
+00:02:14,060 --> 00:02:16,380
+or the very end of the middle cerebral artery.
+
+42
+00:02:16,740 --> 00:02:21,760
+So these are watershed areas, and we can get infarctions in these areas with moderate global ischemia.
+
+43
+00:02:22,200 --> 00:02:25,300
+In addition, we can get damage to highly vulnerable regions.
+
+44
+00:02:25,680 --> 00:02:28,000
+For example, the pyramidal neurons of the cortex.
+
+45
+00:02:28,500 --> 00:02:31,840
+These are neurons present in layers 3, 5, and 6 of the cortex.
+
+46
+00:02:32,160 --> 00:02:34,920
+Recall that the cortex on histology has multiple layers,
+
+47
+00:02:34,920 --> 00:02:38,880
+and we call them pyramidal neurons because they have a triangular appearance.
+
+48
+00:02:39,280 --> 00:02:41,920
+Now imagine if this is the layers of the cortex,
+
+49
+00:02:42,440 --> 00:02:46,900
+and we get damage to layers 3, layers 5, and layers 6,
+
+50
+00:02:47,160 --> 00:02:49,920
+then this is going to create a line of necrosis,
+
+51
+00:02:50,260 --> 00:02:53,820
+and so this is also known as cortical laminar necrosis.
+
+52
+00:02:54,160 --> 00:02:56,940
+And board examiners like to go after this, so you should be aware of it.
+
+53
+00:02:57,300 --> 00:02:59,340
+Cortical laminar necrosis.
+
+54
+00:02:59,840 --> 00:03:04,420
+Now in addition, another vulnerable region would be the pyramidal neurons of the hippocampus.
+
+55
+00:03:04,420 --> 00:03:07,040
+Remember that the hippocampus is in the temporal lobe,
+
+56
+00:03:07,040 --> 00:03:10,820
+and its job is to transfer information to your long-term memory.
+
+57
+00:03:11,300 --> 00:03:13,220
+And so with moderate global ischemia,
+
+58
+00:03:13,340 --> 00:03:16,760
+you can also get damage to the pyramidal neurons of the hippocampus.
+
+59
+00:03:17,180 --> 00:03:21,120
+And the third area that is highly vulnerable is the Purkinje layer of the cerebellum.
+
+60
+00:03:21,360 --> 00:03:24,880
+So with moderate global ischemia, you could also get cerebellar signs.
+
+61
+00:03:25,620 --> 00:03:28,540
+Moving on to ischemic stroke, let's go back to our paradigm.
+
+62
+00:03:28,680 --> 00:03:30,040
+Here's cerebrovascular disease.
+
+63
+00:03:30,380 --> 00:03:32,960
+Remember that it can be due to ischemia or hemorrhage,
+
+64
+00:03:32,960 --> 00:03:35,700
+and when it's due to ischemia, that can be global or focal.
+
+65
+00:03:36,140 --> 00:03:40,660
+Now when you have focal ischemia, that again involves one region of the brain,
+
+66
+00:03:40,940 --> 00:03:43,440
+it then creates focal neurologic deficits.
+
+67
+00:03:43,940 --> 00:03:47,520
+If the focal neurologic deficits last less than 24 hours,
+
+68
+00:03:48,040 --> 00:03:51,260
+then we call that a transient ischemic attack.
+
+69
+00:03:51,780 --> 00:03:56,280
+And if it lasts greater than 24 hours, then we call that an ischemic stroke.
+
+70
+00:03:56,280 --> 00:04:01,380
+And so that's what your text is saying here when it says that ischemic stroke is regional ischemia
+
+71
+00:04:01,380 --> 00:04:03,880
+that results in focal neurologic deficits.
+
+72
+00:04:04,280 --> 00:04:06,520
+If it's greater than 24 hours, you call it a stroke.
+
+73
+00:04:06,720 --> 00:04:10,580
+And if it's less than 24 hours, you call it a transient ischemic attack.
+
+74
+00:04:10,940 --> 00:04:15,440
+Focusing on ischemic stroke, there are three ways by which you can develop an ischemic stroke.
+
+75
+00:04:15,660 --> 00:04:18,940
+The first is thrombotic.
+
+76
+00:04:19,220 --> 00:04:22,040
+And the idea here is that you've got a blood vessel feeding the cortex,
+
+77
+00:04:22,040 --> 00:04:26,280
+and here's the cortex out here, you've got atherosclerosis within the blood vessel.
+
+78
+00:04:26,680 --> 00:04:28,440
+This atherosclerotic plaque ruptures.
+
+79
+00:04:28,860 --> 00:04:32,460
+That exposes subendothelial collagen and the necrotic debris within the plaque,
+
+80
+00:04:32,740 --> 00:04:34,520
+resulting in formation of a thrombus.
+
+81
+00:04:34,780 --> 00:04:36,080
+So now you cut the blood supply.
+
+82
+00:04:36,420 --> 00:04:40,780
+When you cut this blood supply, you're then going to get infarction way out in the periphery of the cortex,
+
+83
+00:04:41,240 --> 00:04:45,120
+and this infarction will be a pale infarction.
+
+84
+00:04:45,980 --> 00:04:49,480
+Now the second type of stroke will be an embolic stroke.
+
+85
+00:04:49,480 --> 00:04:56,040
+And the idea here is that you've got your blood vessel feeding the cortex.
+
+86
+00:04:56,520 --> 00:05:01,720
+A thromboembolus, for example, from the left heart, comes in and lodges within this blood vessel.
+
+87
+00:05:01,900 --> 00:05:04,920
+That cuts the blood supply long enough for the neurons to die,
+
+88
+00:05:05,300 --> 00:05:09,640
+but then this thrombus gets lysed, and then blood goes back in,
+
+89
+00:05:09,920 --> 00:05:15,800
+which then results in a hemorrhagic infarction here at the periphery of the cortex.
+
+90
+00:05:16,300 --> 00:05:18,300
+And again, that's called an embolic stroke.
+
+91
+00:05:18,300 --> 00:05:22,960
+Now let's briefly visit these in the text, then we'll come back to the third cause of ischemic stroke.
+
+92
+00:05:23,380 --> 00:05:28,420
+And so we say that a thrombotic stroke arises due to rupture of an atherosclerotic plaque.
+
+93
+00:05:28,740 --> 00:05:33,040
+Remember that atherosclerotic plaques usually develop at branch points of arteries.
+
+94
+00:05:33,640 --> 00:05:38,480
+Now, this will then result in a pale infarct at the periphery of the cortex, as I've already explained.
+
+95
+00:05:38,480 --> 00:05:41,800
+And here's a picture just showing you a very, very early infarction.
+
+96
+00:05:42,260 --> 00:05:44,420
+This is all normal here.
+
+97
+00:05:44,720 --> 00:05:47,840
+And then you can kind of see here that this is a little bit discolored,
+
+98
+00:05:48,180 --> 00:05:50,840
+and so this region here is about to undergo infarction.
+
+99
+00:05:51,140 --> 00:05:57,900
+But again, the point that I'm trying to illustrate here is that you get a pale infarct at the periphery of the cortex.
+
+100
+00:05:58,640 --> 00:06:00,600
+The second type of stroke would be an embolic stroke.
+
+101
+00:06:00,600 --> 00:06:07,460
+Here you have a thromboembolus that arises usually from the left side of the heart, classically in the context of atrial fibrillation,
+
+102
+00:06:07,780 --> 00:06:11,880
+and that goes and lodges into the blood vessel, usually the middle cerebral artery.
+
+103
+00:06:12,320 --> 00:06:16,200
+This will then result in a hemorrhagic infarct at the periphery of the cortex.
+
+104
+00:06:16,620 --> 00:06:23,000
+Now, board examiners like you to understand that when you have a thrombotic stroke, for example here,
+
+105
+00:06:23,000 --> 00:06:26,120
+then you are going to get a pale infarction.
+
+106
+00:06:26,920 --> 00:06:33,760
+And when you have an embolic stroke, for example here, then you are going to get a hemorrhagic infarction.
+
+107
+00:06:34,240 --> 00:06:36,440
+And you could ask the question, why? What's the difference?
+
+108
+00:06:36,800 --> 00:06:42,460
+Well, notice that when you have a thrombotic stroke, you rupture the atherosclerotic plaque and you get a thrombus.
+
+109
+00:06:42,780 --> 00:06:44,940
+Now, of course, the body will try to lyse that thrombus.
+
+110
+00:06:45,040 --> 00:06:49,640
+However, because the plaque is present and it is ruptured, you'll quickly just reform the thrombus.
+
+111
+00:06:49,640 --> 00:06:52,980
+So no matter how many times you try to lyse this, it's just going to reform.
+
+112
+00:06:53,380 --> 00:06:58,260
+And so you won't be able to send blood into this region, and so therefore you'll get a pale stroke.
+
+113
+00:06:58,640 --> 00:07:03,560
+However, with an embolic stroke, this embolus can easily be lyced.
+
+114
+00:07:03,780 --> 00:07:09,260
+And once it's lyced, then the blood will be able to return back, and that's what's going to create the hemorrhagic stroke.
+
+115
+00:07:09,500 --> 00:07:13,560
+So it's high yield to know, again, that in a thrombotic stroke, you get a pale infarction,
+
+116
+00:07:13,940 --> 00:07:18,260
+but that in an embolic stroke, you get a hemorrhagic infarction.
+
+117
+00:07:18,260 --> 00:07:22,360
+Now, the third way by which you can get an ischemic stroke is called a lacunar stroke.
+
+118
+00:07:22,700 --> 00:07:29,300
+And the idea here is that this involves the small blood vessels of the brain that undergo highline arteriolosclerosis.
+
+119
+00:07:29,660 --> 00:07:35,660
+Of course, highline arteriolosclerosis would occur with benign hypertension or with diabetes.
+
+120
+00:07:36,240 --> 00:07:43,240
+And when this occurs, this will decrease the blood going through those small blood vessels and will result in a lacunar stroke.
+
+121
+00:07:43,240 --> 00:07:48,920
+Now, the idea here is that if this is a small blood vessel, and you create highline arteriolosclerosis,
+
+122
+00:07:49,080 --> 00:07:51,800
+you then thicken the wall, making the lumen more narrow.
+
+123
+00:07:52,260 --> 00:07:56,400
+This will then result in less blood flow being able to go through this small blood vessel
+
+124
+00:07:56,400 --> 00:08:04,100
+and will result in a little area of infarction, which is in the region being fed by this small blood vessel.
+
+125
+00:08:04,500 --> 00:08:08,240
+Now, this then would, of course, be resorbed, producing a small little cystic region.
+
+126
+00:08:08,240 --> 00:08:14,220
+And they call this a lacunar stroke because it produces small little circular areas that look like lakes.
+
+127
+00:08:14,340 --> 00:08:16,020
+And the word lacunar actually means lake.
+
+128
+00:08:16,260 --> 00:08:18,640
+Now, let's use this image to highlight an important point.
+
+129
+00:08:18,740 --> 00:08:19,900
+Here's the circle of Willis.
+
+130
+00:08:20,400 --> 00:08:26,280
+And the middle cerebral artery would be running this way and eventually would go out and feed the surface of the cortex.
+
+131
+00:08:26,820 --> 00:08:31,520
+Now, recall that from the middle cerebral artery, you have these small little tiny branches that come out
+
+132
+00:08:31,520 --> 00:08:33,880
+and feed the deep structures of the brain.
+
+133
+00:08:33,880 --> 00:08:37,540
+These little blood vessels are called lenticulostriate vessels.
+
+134
+00:08:38,060 --> 00:08:41,920
+And lacunar strokes most often occur in these tiny little blood vessels,
+
+135
+00:08:42,200 --> 00:08:49,000
+which then results in highline arteriolosclerosis and then results in these little lake-like areas of infarction.
+
+136
+00:08:49,440 --> 00:08:54,920
+And so classically, lacunar strokes will be present in the deep structures of the brain.
+
+137
+00:08:55,020 --> 00:09:00,380
+These are the deep structures of the brain here and will usually involve the lenticulostriate blood vessels.
+
+138
+00:09:00,380 --> 00:09:04,640
+And that's what I say here in the text, that it's secondary to highline arteriolosclerosis
+
+139
+00:09:04,640 --> 00:09:08,300
+and that it most commonly involves the lenticulostriate blood vessels.
+
+140
+00:09:08,760 --> 00:09:13,740
+Here's a picture of a lacunar stroke just to remind you that you get these small little lake-like areas
+
+141
+00:09:13,740 --> 00:09:16,500
+within the deep structures of the brain.
+
+142
+00:09:17,260 --> 00:09:21,040
+When you have an ischemic stroke, this will lead to liquefactive necrosis of the brain.
+
+143
+00:09:21,040 --> 00:09:25,500
+And one of the earliest findings on microscopy will be that you will see red neurons.
+
+144
+00:09:25,900 --> 00:09:28,080
+This is particularly high yield for board exams.
+
+145
+00:09:28,240 --> 00:09:31,580
+They'd like you to know that the earliest change is red neurons
+
+146
+00:09:31,580 --> 00:09:34,980
+and that it takes about 12 hours for those red neurons to develop.
+
+147
+00:09:35,520 --> 00:09:38,380
+Now, after the cells die, you'll eventually get inflammation.
+
+148
+00:09:38,900 --> 00:09:42,200
+And so the inflammation will first be neutrophils and then be macrophages.
+
+149
+00:09:42,540 --> 00:09:45,580
+But, of course, in the brain, the macrophages are called the microglial cells.
+
+150
+00:09:45,900 --> 00:09:47,780
+And then, of course, after the first week of inflammation,
+
+151
+00:09:47,780 --> 00:09:52,120
+you'll then go into a healing phase, which is granulation-like tissue.
+
+152
+00:09:52,240 --> 00:09:55,340
+It's not exactly granulation tissue, but it's sort of granulation-like.
+
+153
+00:09:55,800 --> 00:09:58,620
+And then the eventual result, after about a month,
+
+154
+00:09:58,680 --> 00:10:02,600
+will be that you'll have a fluid-filled cystic space surrounded by gliosis.
+
+155
+00:10:02,760 --> 00:10:06,380
+And gliosis simply refers to the reactive astrocytes
+
+156
+00:10:06,380 --> 00:10:11,280
+that will line that cystic space with this gliotic connective tissue.
+
+157
+00:10:11,880 --> 00:10:14,420
+Now, let me just remind you that the sequence here is very similar
+
+158
+00:10:14,420 --> 00:10:16,260
+to the sequence that we had within the heart,
+
+159
+00:10:16,260 --> 00:10:17,820
+if you remember your cardiac lectures.
+
+160
+00:10:18,200 --> 00:10:21,940
+Remember there I told you one day, one week, one month.
+
+161
+00:10:22,280 --> 00:10:25,840
+And the idea here is that it takes about a day for the cells to die.
+
+162
+00:10:25,940 --> 00:10:27,920
+And before that, you would see red neurons.
+
+163
+00:10:28,420 --> 00:10:31,860
+Once the cells die, you'll have a phase of inflammation
+
+164
+00:10:31,860 --> 00:10:33,480
+that is from one day to one week.
+
+165
+00:10:33,740 --> 00:10:35,440
+And it will begin with the neutrophils.
+
+166
+00:10:35,740 --> 00:10:38,540
+And then, eventually, the microglial cells will come in.
+
+167
+00:10:38,760 --> 00:10:42,160
+And then from one week to one month, you'll have this granulation tissue.
+
+168
+00:10:42,160 --> 00:10:44,400
+It's not exactly granulation tissue in the brain,
+
+169
+00:10:44,500 --> 00:10:46,360
+but it's sort of granulation tissue-like.
+
+170
+00:10:46,780 --> 00:10:50,300
+But then, eventually, that will result in this cystic space.
+
+171
+00:10:51,080 --> 00:10:52,320
+So you'll have a cyst.
+
+172
+00:10:52,440 --> 00:10:57,180
+And, of course, there will be gliosis with astrocytes around that cyst.
+
+173
+00:10:57,500 --> 00:11:01,540
+And so that's particularly important that the final stage is a gliotic cyst.
+
+174
+00:11:02,000 --> 00:11:04,720
+Now, there's two areas that board examiners like to focus on here.
+
+175
+00:11:04,720 --> 00:11:06,800
+The first is that you get red neurons.
+
+176
+00:11:07,160 --> 00:11:10,220
+And so these are the red or pink neurons that are present
+
+177
+00:11:10,220 --> 00:11:13,120
+as these cells are dying and undergoing apoptosis.
+
+178
+00:11:13,620 --> 00:11:17,020
+And, of course, this would occur at about 12 hours
+
+179
+00:11:17,020 --> 00:11:20,980
+and would be present for up to the first 24 hours.
+
+180
+00:11:21,340 --> 00:11:22,840
+And then the examiners like you to know
+
+181
+00:11:22,840 --> 00:11:25,400
+that the very end stage is a cystic lesion,
+
+182
+00:11:25,560 --> 00:11:28,000
+which is surrounded by gliosis.
+
+183
+00:11:28,460 --> 00:11:29,960
+And, of course, the center is cystic
+
+184
+00:11:29,960 --> 00:11:32,140
+because it underwent liquefactive necrosis.
+
+185
+00:11:32,820 --> 00:11:34,920
+Now, the next topic is intracerebral hemorrhage.
+
+186
+00:11:34,980 --> 00:11:36,960
+But before we discuss this, let's go back.
+
+187
+00:11:37,280 --> 00:11:38,880
+You have cerebrovascular disease.
+
+188
+00:11:38,980 --> 00:11:41,780
+And this can be due to ischemia or it can be due to hemorrhage.
+
+189
+00:11:42,080 --> 00:11:45,220
+When it's due to ischemia, that can be focal or that can be global.
+
+190
+00:11:45,700 --> 00:11:47,880
+And we've already discussed both focal and global.
+
+191
+00:11:48,180 --> 00:11:49,780
+So now we're going to discuss hemorrhage.
+
+192
+00:11:49,800 --> 00:11:50,940
+And there's two types of hemorrhage.
+
+193
+00:11:51,220 --> 00:11:54,700
+There's intracerebral hemorrhage or hemorrhage into the brain parenchyma.
+
+194
+00:11:55,040 --> 00:11:56,760
+And then there's subarachnoid hemorrhage,
+
+195
+00:11:56,760 --> 00:11:59,740
+which is hemorrhage into the subarachnoid space.
+
+196
+00:11:59,740 --> 00:12:03,000
+And both of these, again, are a type of cerebrovascular disease.
+
+197
+00:12:03,480 --> 00:12:04,700
+With that background in mind,
+
+198
+00:12:04,800 --> 00:12:07,100
+intracerebral hemorrhage is bleeding into the brain.
+
+199
+00:12:07,460 --> 00:12:10,880
+It's classically due to rupture of Charcot-Bouchard microaneurysms,
+
+200
+00:12:11,240 --> 00:12:13,020
+which is a complication of hypertension.
+
+201
+00:12:13,580 --> 00:12:15,860
+And the basal ganglia is the most common site.
+
+202
+00:12:16,220 --> 00:12:18,780
+Let's use this image to clarify some of what we just said.
+
+203
+00:12:19,020 --> 00:12:20,760
+So here is the circle of Willis.
+
+204
+00:12:21,060 --> 00:12:24,360
+The middle cerebral artery is coming up and feeding the surface of the cortex.
+
+205
+00:12:24,360 --> 00:12:27,640
+And recall that you've got these perforating vessels coming here,
+
+206
+00:12:28,000 --> 00:12:31,060
+which are called the lenticulostriate vessels.
+
+207
+00:12:31,540 --> 00:12:34,500
+Now remember that the lenticulostriate blood vessels can undergo
+
+208
+00:12:34,500 --> 00:12:37,520
+highline arteriolosclerosis in the face of hypertension.
+
+209
+00:12:38,080 --> 00:12:41,720
+And that highline arteriolosclerosis will decrease the blood supply through the vessel
+
+210
+00:12:41,720 --> 00:12:44,960
+and could result in lacunar infarctions, as we've already described.
+
+211
+00:12:45,520 --> 00:12:49,020
+However, another possibility would be that you could actually get
+
+212
+00:12:49,020 --> 00:12:53,020
+highline arteriolosclerosis that weakens the wall of these blood vessels,
+
+213
+00:12:53,020 --> 00:12:58,040
+so that the blood vessels develop something called Charcot-Bouchard microaneurysms.
+
+214
+00:12:58,440 --> 00:13:01,020
+Now those Charcot-Bouchard microaneurysms can rupture.
+
+215
+00:13:01,560 --> 00:13:06,280
+And when these rupture, you'll then get bleed within the parenchyma of the brain.
+
+216
+00:13:06,780 --> 00:13:09,900
+Here's a picture highlighting that the basal ganglia is the most common site.
+
+217
+00:13:10,220 --> 00:13:13,820
+And again, of course, that's because you've got these lenticulostriate blood vessels
+
+218
+00:13:13,820 --> 00:13:16,660
+that are feeding the deep structures of the brain.
+
+219
+00:13:17,100 --> 00:13:18,600
+Moving on to subarachnoid hemorrhage,
+
+220
+00:13:18,640 --> 00:13:21,300
+this is when you have bleeding into the subarachnoid space.
+
+221
+00:13:21,300 --> 00:13:25,140
+It presents a sudden headache, quote-unquote the worst headache of my life,
+
+222
+00:13:25,440 --> 00:13:26,320
+with nuchal rigidity.
+
+223
+00:13:26,800 --> 00:13:29,680
+Were an LP to be performed, it would show xanthochromia,
+
+224
+00:13:30,120 --> 00:13:32,820
+which basically refers to a yellow tinge to the CSF
+
+225
+00:13:32,820 --> 00:13:35,020
+because of bilirubin breakdown products.
+
+226
+00:13:35,480 --> 00:13:37,120
+Now when you have a subarachnoid hemorrhage,
+
+227
+00:13:37,200 --> 00:13:39,240
+this is relatively easy on examinations
+
+228
+00:13:39,240 --> 00:13:42,320
+because you'll see a bleed on the bottom of the brain.
+
+229
+00:13:42,660 --> 00:13:46,040
+So really, this is the only thing that gives you a bleed on the bottom of the brain.
+
+230
+00:13:46,120 --> 00:13:47,580
+So they show you the brain upside down
+
+231
+00:13:47,580 --> 00:13:50,360
+with blood sitting on the basal surface,
+
+232
+00:13:50,720 --> 00:13:53,280
+and that then would tell you that there's a subarachnoid hemorrhage.
+
+233
+00:13:53,720 --> 00:13:56,020
+Now very high yield to note that the most frequent cause
+
+234
+00:13:56,020 --> 00:13:59,900
+of a subarachnoid hemorrhage is rupture of a bary aneurysm.
+
+235
+00:14:00,320 --> 00:14:03,940
+Recall that bary aneurysms are thin-walled saccular outpouchings
+
+236
+00:14:03,940 --> 00:14:07,560
+that are most frequently present in the anterior circle of Willis,
+
+237
+00:14:07,680 --> 00:14:11,320
+particularly at the branch points of the anterior communicating artery.
+
+238
+00:14:11,920 --> 00:14:14,060
+Very high yield examiners like you to know
+
+239
+00:14:14,060 --> 00:14:18,680
+that the most frequent location of bary aneurysm is in the anterior circle of Willis
+
+240
+00:14:18,680 --> 00:14:22,440
+at the branch points of the anterior communicating artery.
+
+241
+00:14:22,940 --> 00:14:27,140
+Now the idea here is that these bary aneurysms can easily rupture
+
+242
+00:14:27,140 --> 00:14:29,540
+because they lack a media layer.
+
+243
+00:14:30,020 --> 00:14:34,600
+Illustrating this, here is a blood vessel with an intima, a media, and an adventitia.
+
+244
+00:14:34,700 --> 00:14:37,080
+So this is one wall, and here would be another wall
+
+245
+00:14:37,080 --> 00:14:40,060
+where you have an intima, a media, and an adventitia,
+
+246
+00:14:40,300 --> 00:14:41,900
+and of course blood is flowing this way.
+
+247
+00:14:41,900 --> 00:14:45,440
+Now what happens in a bary aneurysm is that when you get branching,
+
+248
+00:14:45,860 --> 00:14:48,440
+you get turning of the intima at the branch point
+
+249
+00:14:48,440 --> 00:14:51,420
+and turning of the adventitia at the branch point.
+
+250
+00:14:51,780 --> 00:14:54,440
+However, the media fails to develop where the branch is.
+
+251
+00:14:54,740 --> 00:14:57,960
+It would be present as you move further down into the blood vessel,
+
+252
+00:14:58,320 --> 00:15:00,200
+but it fails to develop at the branch point.
+
+253
+00:15:00,580 --> 00:15:02,460
+Now when it fails to develop at the branch point,
+
+254
+00:15:02,560 --> 00:15:04,920
+this then results in a weak wall here,
+
+255
+00:15:05,260 --> 00:15:08,860
+and so you'd get a saccular outpouching of this blood vessel,
+
+256
+00:15:09,020 --> 00:15:10,420
+which is called the bary aneurysm,
+
+257
+00:15:10,420 --> 00:15:12,920
+and of course eventually this can rupture.
+
+258
+00:15:13,740 --> 00:15:15,380
+And so it's very high yield to note
+
+259
+00:15:15,380 --> 00:15:18,880
+that the bary aneurysm lacks a media layer,
+
+260
+00:15:19,120 --> 00:15:21,400
+which then makes it susceptible to rupture.
+
+261
+00:15:21,700 --> 00:15:23,800
+One last point that often shows up on exams,
+
+262
+00:15:24,140 --> 00:15:26,820
+and that is bary aneurysms are associated with Marfan syndrome,
+
+263
+00:15:27,320 --> 00:15:31,500
+and they are also associated with autosomal dominant polycystic kidney disease,
+
+264
+00:15:31,720 --> 00:15:34,880
+which again is the adult form of polycystic kidney disease.
+
+265
+00:15:35,380 --> 00:15:37,100
+Here's a picture of a bary aneurysm.
+
+266
+00:15:37,100 --> 00:15:38,780
+Here you've got a normal blood vessel,
+
+267
+00:15:39,140 --> 00:15:43,160
+and then you can see this saccular outpouching here occurring at a branch point.
+
+268
+00:15:43,500 --> 00:15:46,040
+And that concludes our section on cerebrovascular disease.
+

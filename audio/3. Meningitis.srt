@@ -1,0 +1,324 @@
+1
+00:00:00,000 --> 00:00:03,680
+Moving on to meningitis, this is inflammation of the leptomeninges.
+
+2
+00:00:03,820 --> 00:00:07,740
+In order to understand this, let's go back and remind ourselves that here is the skull,
+
+3
+00:00:08,160 --> 00:00:12,320
+and then tightly attached to the skull is a layer of the meninges called the dura,
+
+4
+00:00:12,780 --> 00:00:18,060
+and then here is the brain, and then tightly attached to the brain is a layer of the meninges called the pia.
+
+5
+00:00:18,480 --> 00:00:24,280
+And then in between, you've got these web-like spaces, which then result in a layer called the arachnoid.
+
+6
+00:00:24,640 --> 00:00:28,540
+And so these are the three layers of the meninges, the pia, the arachnoid, and the dura.
+
+7
+00:00:28,540 --> 00:00:32,820
+And some people like to say that there is a pad in between the brain and the skull.
+
+8
+00:00:33,380 --> 00:00:36,060
+Now, the dura is called the dura because it's thick and durable.
+
+9
+00:00:36,480 --> 00:00:39,540
+And the arachnoid and the pia tend to be very light and thin,
+
+10
+00:00:39,860 --> 00:00:42,740
+and so they're called the leptomeninges or the light meninges.
+
+11
+00:00:43,320 --> 00:00:48,560
+And with that in mind, then you can understand that meningitis is inflammation of the leptomeninges,
+
+12
+00:00:48,640 --> 00:00:50,620
+i.e. the pia and the arachnoid.
+
+13
+00:00:51,320 --> 00:00:53,920
+Here's a picture of meningitis, and you can clearly see the brain.
+
+14
+00:00:54,000 --> 00:00:56,140
+And so when you see the brain, you're looking at the pia.
+
+15
+00:00:56,140 --> 00:01:01,120
+The dura would be durable and thick, and you would have difficulty seeing the surface of the brain clearly.
+
+16
+00:01:01,780 --> 00:01:07,540
+And so, again, within the pia, you can see here that you've got all this inflammation and exudate and pus,
+
+17
+00:01:08,000 --> 00:01:10,660
+and so this represents actually a bacterial meningitis.
+
+18
+00:01:11,680 --> 00:01:14,320
+Meningitis is most commonly due to an infectious agent.
+
+19
+00:01:14,700 --> 00:01:17,700
+It's very high yield to know the agents and the age groups in which they occur.
+
+20
+00:01:17,700 --> 00:01:23,060
+So, for example, in a neonate, the three most common causes are group B strep, E. coli, and listeria.
+
+21
+00:01:23,500 --> 00:01:27,580
+A group B strep and E. coli can arise from the vaginal canal during the birthing process.
+
+22
+00:01:27,960 --> 00:01:33,420
+In fact, in the case of group B strep, we'll test women in the third trimester to see whether they're colonized with group B strep,
+
+23
+00:01:33,700 --> 00:01:40,080
+and if they are, we actually treat them with antibiotics to decrease the risk of exposure of the baby during the birthing process.
+
+24
+00:01:40,080 --> 00:01:44,060
+Neisseria meningitis is the most common cause in children and teenagers.
+
+25
+00:01:44,760 --> 00:01:48,720
+Board examiners like you to know that this enters through the nasopharynx and then goes to the blood,
+
+26
+00:01:48,800 --> 00:01:51,560
+and from the blood, it gets to the meninges.
+
+27
+00:01:52,040 --> 00:01:55,260
+Strep pneumo is the most common cause in adults and the elderly.
+
+28
+00:01:55,780 --> 00:01:59,080
+H flu would be a common cause in non-vaccinated infants.
+
+29
+00:01:59,240 --> 00:02:03,960
+Board examiners like to go after that, especially with all the controversy over immunizations.
+
+30
+00:02:04,600 --> 00:02:08,020
+Coxsackievirus is the most common viral cause of meningitis.
+
+31
+00:02:08,020 --> 00:02:14,360
+It has a fecal-oral transmission, and then fungi can cause meningitis in immunocompromised individuals.
+
+32
+00:02:14,960 --> 00:02:18,800
+Patients with meningitis present with a classic triad of headache, neck stiffness, and fever.
+
+33
+00:02:19,200 --> 00:02:22,580
+The headache and neck stiffness are due to the fact that the meninges are inflamed,
+
+34
+00:02:22,660 --> 00:02:26,200
+and of course, the meninges wrap around the brain, giving headache and neck stiffness
+
+35
+00:02:26,200 --> 00:02:31,020
+because when you bend the neck, you're going to feel the pain of the meninges being inflamed.
+
+36
+00:02:31,440 --> 00:02:33,520
+Fever, of course, because the patient has an infection.
+
+37
+00:02:34,000 --> 00:02:37,000
+In addition, you might see photophobia, especially with virus.
+
+38
+00:02:37,000 --> 00:02:38,820
+It's much more common to see photophobia.
+
+39
+00:02:39,400 --> 00:02:42,700
+Vomiting can be present, and altered mental status can also be seen.
+
+40
+00:02:43,120 --> 00:02:45,720
+When you suspect meningitis, you'll do a lumbar puncture.
+
+41
+00:02:46,040 --> 00:02:50,360
+The goal is to sample the fluid in the subarachnoid space and then to analyze it.
+
+42
+00:02:50,720 --> 00:02:54,980
+Board examiners like you to know that you should normally stick the needle between L4 to L5,
+
+43
+00:02:55,100 --> 00:02:56,460
+the level of the iliac crest.
+
+44
+00:02:56,840 --> 00:03:01,180
+The reason being, which is particularly high yield, is that the spinal cord ends at L2,
+
+45
+00:03:01,180 --> 00:03:05,000
+but the subarachnoid space and the cauda equina, they continue to S2.
+
+46
+00:03:05,360 --> 00:03:11,100
+And so, again, if you stick a needle at L4 to L5, you'll be able to get the subarachnoid space without hitting the cord.
+
+47
+00:03:11,580 --> 00:03:15,540
+Board examiners also like you to know that when you do an LP, you're actually going to go through a few layers.
+
+48
+00:03:15,680 --> 00:03:18,140
+You go through the skin, and then you cross the ligaments.
+
+49
+00:03:18,520 --> 00:03:20,120
+Then you'll enter the epidural space.
+
+50
+00:03:20,120 --> 00:03:25,080
+You'll cross the dura, and then you'll cross the arachnoid, but you will not pierce the pia,
+
+51
+00:03:25,420 --> 00:03:26,760
+and that's particularly high yield.
+
+52
+00:03:26,860 --> 00:03:28,700
+Again, you will not pierce the pia.
+
+53
+00:03:29,260 --> 00:03:32,720
+Once you obtain your fluid, you can then analyze the fluid to determine the cause.
+
+54
+00:03:33,020 --> 00:03:36,740
+So, for example, neutrophils with low glucose would be seen with bacteria.
+
+55
+00:03:37,540 --> 00:03:40,860
+Now, neutrophils, of course, because that's the cell that fights bacterial infection,
+
+56
+00:03:41,280 --> 00:03:45,260
+and then in addition, the glucose would be low because the bacteria, they consume glucose.
+
+57
+00:03:45,800 --> 00:03:51,320
+Now, recall that the normal glucose in the CSF is about two-thirds of that what is present in the serum.
+
+58
+00:03:51,620 --> 00:03:56,700
+So, for example, if the serum glucose is normally 100, then the normal CSF glucose would be about 66.
+
+59
+00:03:57,380 --> 00:04:01,840
+And so, bacteria, they'll consume glucose, giving you a low glucose, so neutrophils plus low glucose.
+
+60
+00:04:02,480 --> 00:04:05,800
+In addition, you'll often see a positive gram stain and culture.
+
+61
+00:04:06,400 --> 00:04:10,580
+In the case of viral meningitis, you'll see lymphocytes, and that's because lymphocytes fight virus.
+
+62
+00:04:10,980 --> 00:04:15,000
+And then you'll see a normal CSF glucose, and that's because virus does not consume glucose.
+
+63
+00:04:15,000 --> 00:04:18,860
+I mean, if you want to talk about virus, the discussion is are they living or are they dead,
+
+64
+00:04:18,980 --> 00:04:21,300
+so forget about the question about eating glucose.
+
+65
+00:04:21,680 --> 00:04:24,980
+They do not consume glucose, and so the glucose will be normal.
+
+66
+00:04:25,540 --> 00:04:28,440
+And finally, in the case of fungal meningitis, you'll also see lymphocytes.
+
+67
+00:04:28,620 --> 00:04:34,340
+However, because fungi consume glucose, there'll be a low CSF glucose as opposed to the viral meningitis.
+
+68
+00:04:34,800 --> 00:04:41,000
+One last high yield point, and that is that the complications of meningitis are classically seen with bacterial meningitis.
+
+69
+00:04:41,340 --> 00:04:45,380
+Again, the idea here is that there really is no space in the head except for the brain.
+
+70
+00:04:45,620 --> 00:04:47,160
+It's a very tight space.
+
+71
+00:04:47,560 --> 00:04:52,000
+And if you get bacterial meningitis, you get a ton of pus and inflammation and inflammatory exudate,
+
+72
+00:04:52,260 --> 00:04:56,100
+and that then creates pressure on the brain, which can then cause the brain to herniate.
+
+73
+00:04:56,440 --> 00:04:59,000
+And when you get a herniation, that's what then results in death.
+
+74
+00:04:59,540 --> 00:05:05,940
+And of course, this would only be seen with bacteria because it's with bacteria that you get the massive amounts of exudate and pus, etc.
+
+75
+00:05:05,940 --> 00:05:11,340
+Now, another series of complications with bacterial meningitis are all based on the healing process.
+
+76
+00:05:11,760 --> 00:05:17,840
+After you get bacterial meningitis, you're going to have massive tissue damage, which will then result in extensive healing and fibrosis.
+
+77
+00:05:18,160 --> 00:05:23,300
+And that fibrosis can knock out the normal pathways of the CSF, giving you hydrocephalus.
+
+78
+00:05:23,600 --> 00:05:28,140
+It can damage the nerves as they exit the brain, so for example, giving you hearing loss.
+
+79
+00:05:28,440 --> 00:05:31,380
+And it can scar the surface of the brain, increasing the risk for seizures.
+
+80
+00:05:31,380 --> 00:05:36,620
+But the take-home point here is that all of this would be primarily seen with bacterial meningitis.
+
+81
+00:05:37,020 --> 00:05:38,760
+And that concludes our section on meningitis.
+

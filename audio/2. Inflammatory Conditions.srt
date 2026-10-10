@@ -1,0 +1,940 @@
+1
+00:00:00,550 --> 00:00:02,750
+Okay, next section, inflammatory conditions.
+
+2
+00:00:02,750 --> 00:00:05,210
+The first disorder is called acute mastitis.
+
+3
+00:00:05,210 --> 00:00:06,810
+Now, to understand this, let's just go back
+
+4
+00:00:06,810 --> 00:00:08,210
+to the whiteboard for a minute.
+
+5
+00:00:08,210 --> 00:00:11,250
+So here's the surface of the skin of the breast,
+
+6
+00:00:11,250 --> 00:00:13,190
+and let's pretend that this is a large duct
+
+7
+00:00:13,190 --> 00:00:14,730
+coming out into the nipple,
+
+8
+00:00:14,730 --> 00:00:16,030
+and in this particular case,
+
+9
+00:00:16,030 --> 00:00:17,870
+you've got a woman who's breastfeeding.
+
+10
+00:00:17,870 --> 00:00:19,030
+Now, when she breastfeeds,
+
+11
+00:00:19,030 --> 00:00:21,370
+there's stress placed on the skin here,
+
+12
+00:00:21,370 --> 00:00:23,310
+and when there's stress placed on the skin,
+
+13
+00:00:23,310 --> 00:00:25,970
+that can result in fissures or disruption of the skin,
+
+14
+00:00:25,970 --> 00:00:28,410
+which then allows for entry of staph aureus.
+
+15
+00:00:28,410 --> 00:00:30,170
+When staph aureus comes into the breast,
+
+16
+00:00:30,170 --> 00:00:33,050
+it will then result in acute mastitis.
+
+17
+00:00:33,050 --> 00:00:36,150
+So again, acute mastitis is bacterial infection of the breast,
+
+18
+00:00:36,150 --> 00:00:37,790
+usually due to staph aureus,
+
+19
+00:00:37,790 --> 00:00:39,830
+and it's associated with breastfeeding.
+
+20
+00:00:39,830 --> 00:00:41,130
+Now, what's the presentation?
+
+21
+00:00:41,130 --> 00:00:43,490
+Well, of course, the patient's gonna have
+
+22
+00:00:43,490 --> 00:00:44,690
+an infection of the breast,
+
+23
+00:00:44,690 --> 00:00:47,670
+and so there'll be a warm erythematous breast.
+
+24
+00:00:47,670 --> 00:00:49,570
+There may be a purulent nipple discharge.
+
+25
+00:00:49,570 --> 00:00:52,130
+Let's say that pus begins to come out of the nipple.
+
+26
+00:00:52,130 --> 00:00:55,130
+That would result in a purulent nipple discharge.
+
+27
+00:00:55,130 --> 00:00:56,430
+Now, the treatment would be twofold.
+
+28
+00:00:56,430 --> 00:00:57,810
+Number one, continued drainage.
+
+29
+00:00:57,810 --> 00:01:00,710
+So, although it's awkward, if the woman was breastfeeding,
+
+30
+00:01:00,710 --> 00:01:02,450
+she would continue to feed the child.
+
+31
+00:01:02,450 --> 00:01:04,850
+And then number two, you wanna give antibiotics
+
+32
+00:01:04,850 --> 00:01:06,550
+to disrupt the staph aureus,
+
+33
+00:01:06,550 --> 00:01:09,650
+and a classic drug that would be used in this circumstance
+
+34
+00:01:09,650 --> 00:01:11,750
+would be dicloxacillin.
+
+35
+00:01:11,750 --> 00:01:13,330
+So let's go back now and read the text.
+
+36
+00:01:13,330 --> 00:01:14,290
+So what do I say?
+
+37
+00:01:14,290 --> 00:01:16,470
+Acute mastitis, bacterial infection of the breast,
+
+38
+00:01:16,470 --> 00:01:18,930
+staph aureus, breastfeeding.
+
+39
+00:01:18,930 --> 00:01:22,230
+And then I say that the presentation is a warm erythematous breast
+
+40
+00:01:22,230 --> 00:01:24,270
+with a purulent nipple discharge.
+
+41
+00:01:24,270 --> 00:01:27,130
+And again, the treatment drainage and antibiotics
+
+42
+00:01:27,130 --> 00:01:29,030
+such as dicloxacillin.
+
+43
+00:01:29,030 --> 00:01:30,710
+So those are all the high yields.
+
+44
+00:01:30,710 --> 00:01:32,670
+Important to note that this particular disorder
+
+45
+00:01:32,670 --> 00:01:35,050
+can progress to formation of an abscess,
+
+46
+00:01:35,050 --> 00:01:37,170
+a walled-off area of inflammation.
+
+47
+00:01:37,170 --> 00:01:39,250
+And so that could then result in a mass.
+
+48
+00:01:39,250 --> 00:01:41,750
+So in some patients with this type of presentation,
+
+49
+00:01:41,750 --> 00:01:44,650
+you may also feel a little bit of a mass.
+
+50
+00:01:44,650 --> 00:01:48,250
+And of course, that would be due to an abscess.
+
+51
+00:01:48,250 --> 00:01:50,530
+The next disorder is perioductal mastitis,
+
+52
+00:01:50,530 --> 00:01:53,350
+and this is inflammation of the subareolar ducts.
+
+53
+00:01:53,350 --> 00:01:55,030
+Let's go to the whiteboard for a minute
+
+54
+00:01:55,030 --> 00:01:56,090
+and do a little normal,
+
+55
+00:01:56,090 --> 00:01:58,390
+and then this disorder becomes very straightforward.
+
+56
+00:01:58,390 --> 00:01:59,690
+So here's the skin of the breast,
+
+57
+00:01:59,690 --> 00:02:02,130
+and here's a large subareolar duct.
+
+58
+00:02:02,130 --> 00:02:05,070
+Let's remind ourselves that this large subareolar duct
+
+59
+00:02:05,070 --> 00:02:09,350
+is lined by epithelial cells, which are columnar.
+
+60
+00:02:09,350 --> 00:02:11,110
+So these are columnar epithelial cells,
+
+61
+00:02:11,110 --> 00:02:13,750
+and underneath that are these myoepithelial cells,
+
+62
+00:02:13,750 --> 00:02:15,450
+of course, that's the normal.
+
+63
+00:02:15,450 --> 00:02:17,490
+Now, I want to remind you that when you look
+
+64
+00:02:17,490 --> 00:02:18,690
+at the lactiferous duct,
+
+65
+00:02:18,690 --> 00:02:20,990
+the ducts that are just going into the nipple,
+
+66
+00:02:20,990 --> 00:02:23,830
+the epithelium here of the lactiferous ducts
+
+67
+00:02:23,830 --> 00:02:26,370
+is a highly specialized epithelium.
+
+68
+00:02:26,370 --> 00:02:27,770
+And remember from chapter one
+
+69
+00:02:27,770 --> 00:02:29,330
+that highly specialized epithelia,
+
+70
+00:02:29,330 --> 00:02:32,310
+they require vitamin A in order to maintain themselves,
+
+71
+00:02:32,310 --> 00:02:34,110
+so that this epithelium here
+
+72
+00:02:34,110 --> 00:02:36,470
+is highly dependent on vitamin A.
+
+73
+00:02:36,470 --> 00:02:37,750
+Now, if a patient smokes,
+
+74
+00:02:37,750 --> 00:02:40,270
+and this disorder is predominantly seen in smokers,
+
+75
+00:02:40,270 --> 00:02:42,250
+by the way, if a patient smokes,
+
+76
+00:02:42,250 --> 00:02:44,790
+they get a relative vitamin A deficiency,
+
+77
+00:02:44,790 --> 00:02:46,990
+and when they get a relative vitamin A deficiency,
+
+78
+00:02:46,990 --> 00:02:48,690
+they lose the ability to maintain
+
+79
+00:02:48,690 --> 00:02:50,230
+this specialized epithelium,
+
+80
+00:02:50,230 --> 00:02:53,130
+so that this epithelium now becomes squamous.
+
+81
+00:02:53,130 --> 00:02:55,030
+And as it becomes squamous,
+
+82
+00:02:55,030 --> 00:02:56,690
+you get this squamous metaplasia
+
+83
+00:02:56,690 --> 00:02:58,870
+that occurs here in the lactiferous ducts,
+
+84
+00:02:58,870 --> 00:03:01,070
+and that then would produce some degree of keratin,
+
+85
+00:03:01,070 --> 00:03:02,970
+which would plug these ducts.
+
+86
+00:03:02,970 --> 00:03:04,370
+Now, when this duct gets plugged,
+
+87
+00:03:04,370 --> 00:03:05,610
+you've blocked a tube,
+
+88
+00:03:05,610 --> 00:03:07,310
+and there's a general principle in pathology
+
+89
+00:03:07,310 --> 00:03:08,810
+that any time you block a tube,
+
+90
+00:03:08,810 --> 00:03:11,950
+you're gonna get inflammation behind that block.
+
+91
+00:03:11,950 --> 00:03:15,350
+So now these patients get inflammation behind the duct,
+
+92
+00:03:15,350 --> 00:03:18,590
+and that then is called perioductal mastitis.
+
+93
+00:03:18,590 --> 00:03:20,790
+Now, what are some of the consequences of this inflammation?
+
+94
+00:03:20,790 --> 00:03:21,630
+Well, first of all,
+
+95
+00:03:21,630 --> 00:03:23,790
+you're gonna have this big area of inflammation
+
+96
+00:03:23,790 --> 00:03:26,030
+with some healing and some fibrosis,
+
+97
+00:03:26,030 --> 00:03:29,490
+so it's gonna feel like a mass in the subareolar region,
+
+98
+00:03:29,490 --> 00:03:32,810
+and so it's gonna present as a subareolar mass.
+
+99
+00:03:32,810 --> 00:03:33,970
+The second thing that's gonna happen
+
+100
+00:03:33,970 --> 00:03:35,310
+is with all of this inflammation,
+
+101
+00:03:35,310 --> 00:03:38,350
+you're gonna get some fibrosis as part of the healing response,
+
+102
+00:03:38,350 --> 00:03:40,310
+and that fibrosis is going to arise
+
+103
+00:03:40,310 --> 00:03:41,990
+through granulation tissue, of course,
+
+104
+00:03:41,990 --> 00:03:43,710
+and you know that granulation tissue
+
+105
+00:03:43,710 --> 00:03:45,850
+contains myofibroblasts,
+
+106
+00:03:45,850 --> 00:03:47,690
+and so myofibroblasts are gonna contract,
+
+107
+00:03:47,690 --> 00:03:50,290
+and they're gonna pull in the skin
+
+108
+00:03:50,290 --> 00:03:51,990
+right in the area of the nipple,
+
+109
+00:03:51,990 --> 00:03:53,890
+and as they pull in the tissue in the skin
+
+110
+00:03:53,890 --> 00:03:54,930
+by their contraction,
+
+111
+00:03:54,930 --> 00:03:56,830
+they're gonna cause nipple retraction,
+
+112
+00:03:56,830 --> 00:03:59,710
+and so these patients can also have nipple retraction.
+
+113
+00:03:59,710 --> 00:04:00,870
+Now, with that as a background,
+
+114
+00:04:00,870 --> 00:04:03,670
+let's go back and read what I say in the book.
+
+115
+00:04:03,670 --> 00:04:06,770
+So, I say that perioductal mastitis
+
+116
+00:04:06,770 --> 00:04:09,270
+is inflammation of the subareolar ducts,
+
+117
+00:04:09,270 --> 00:04:10,870
+usually seen in smokers,
+
+118
+00:04:10,870 --> 00:04:12,210
+I've already explained that,
+
+119
+00:04:12,210 --> 00:04:14,850
+again, because of a relative vitamin A deficiency,
+
+120
+00:04:14,850 --> 00:04:15,990
+and it classically presents
+
+121
+00:04:15,990 --> 00:04:18,910
+as a subareolar mass with nipple retraction.
+
+122
+00:04:18,910 --> 00:04:20,550
+Now, this nipple retraction is important
+
+123
+00:04:20,550 --> 00:04:23,550
+because I think, from my experience with medical students,
+
+124
+00:04:23,550 --> 00:04:25,150
+when they hear the word nipple retraction,
+
+125
+00:04:25,150 --> 00:04:27,590
+they automatically think breast cancer.
+
+126
+00:04:27,590 --> 00:04:29,670
+However, that's not always the case.
+
+127
+00:04:29,670 --> 00:04:32,790
+You can have nipple retraction with, for example,
+
+128
+00:04:32,790 --> 00:04:37,230
+an inflammatory condition such as perioductal mastitis.
+
+129
+00:04:37,230 --> 00:04:39,730
+The next disorder is called mammary duct ectasia,
+
+130
+00:04:39,730 --> 00:04:42,370
+and the idea here is, again, go back to the whiteboard,
+
+131
+00:04:42,370 --> 00:04:45,010
+here's the skin, and then you've got this normal duct,
+
+132
+00:04:45,010 --> 00:04:47,210
+and you get inflammation of the duct,
+
+133
+00:04:47,210 --> 00:04:48,870
+and when you get inflammation of the duct,
+
+134
+00:04:48,870 --> 00:04:51,550
+you get some dilatation of that duct.
+
+135
+00:04:51,550 --> 00:04:53,810
+That's called mammary duct ectasia.
+
+136
+00:04:53,810 --> 00:04:55,410
+Now, as you get dilatation of the duct,
+
+137
+00:04:55,410 --> 00:04:56,910
+all the inflammatory debris
+
+138
+00:04:56,910 --> 00:04:59,050
+is gonna be piling up within that duct,
+
+139
+00:04:59,050 --> 00:05:00,950
+and some of that inflammatory debris
+
+140
+00:05:00,950 --> 00:05:02,750
+will come out of the nipple,
+
+141
+00:05:02,750 --> 00:05:05,390
+giving what is classically seen in this particular disorder
+
+142
+00:05:05,390 --> 00:05:09,290
+of a green-brown nipple discharge, very high yield.
+
+143
+00:05:09,290 --> 00:05:11,890
+Green-brown nipple discharge.
+
+144
+00:05:11,890 --> 00:05:14,570
+And that is basically the idea of mammary duct ectasia.
+
+145
+00:05:14,570 --> 00:05:18,210
+Inflammation of the wall of the subareolar duct,
+
+146
+00:05:18,210 --> 00:05:22,210
+which then results in ectasia, or dilatation, of that duct,
+
+147
+00:05:22,210 --> 00:05:24,570
+and then, of course, that then is gonna result in
+
+148
+00:05:24,570 --> 00:05:28,550
+this green-brown nipple discharge coming out of the duct.
+
+149
+00:05:28,550 --> 00:05:31,150
+Of course, at the same time, because you've got inflammation,
+
+150
+00:05:31,150 --> 00:05:32,850
+you might feel a little bit of a mass.
+
+151
+00:05:32,850 --> 00:05:35,750
+So let's go now and read what I say in the book.
+
+152
+00:05:35,750 --> 00:05:37,930
+So I say mammary duct ectasia is inflammation
+
+153
+00:05:37,930 --> 00:05:40,330
+with dilatation of the subareolar ducts.
+
+154
+00:05:40,330 --> 00:05:41,590
+It's relatively rare.
+
+155
+00:05:41,590 --> 00:05:45,470
+It classically arises in multiparous postmenopausal women.
+
+156
+00:05:45,470 --> 00:05:47,030
+Now, this is very important.
+
+157
+00:05:47,030 --> 00:05:49,070
+The classic history on an examination would be
+
+158
+00:05:49,070 --> 00:05:50,810
+that you would have a multiparous woman,
+
+159
+00:05:50,810 --> 00:05:53,810
+but I want to highlight here that this is a mass, right,
+
+160
+00:05:53,810 --> 00:05:56,370
+because it's gonna form a mass because of the inflammation.
+
+161
+00:05:56,370 --> 00:05:58,970
+This is a mass in a postmenopausal woman.
+
+162
+00:05:58,970 --> 00:06:00,870
+Generally speaking, when we think about masses
+
+163
+00:06:00,870 --> 00:06:05,050
+in postmenopausal women, we're very worried about cancer.
+
+164
+00:06:05,050 --> 00:06:07,610
+And that's because breast cancer is predominantly a disease
+
+165
+00:06:07,610 --> 00:06:09,390
+of postmenopausal women.
+
+166
+00:06:09,390 --> 00:06:13,490
+And so don't, so again, this is the general principle
+
+167
+00:06:13,490 --> 00:06:15,450
+that yes, breast cancer normally occurs
+
+168
+00:06:15,450 --> 00:06:18,090
+in postmenopausal women, but again, you should remember
+
+169
+00:06:18,090 --> 00:06:21,490
+that not every mass in a postmenopausal woman
+
+170
+00:06:21,490 --> 00:06:22,590
+is a breast cancer.
+
+171
+00:06:22,590 --> 00:06:25,830
+And so this is another example where examiners like to try
+
+172
+00:06:25,830 --> 00:06:28,290
+to make you think that they're dealing with breast cancer,
+
+173
+00:06:28,290 --> 00:06:29,690
+but you're not dealing with breast cancer,
+
+174
+00:06:29,690 --> 00:06:31,770
+you're dealing with mammary duct ductasia.
+
+175
+00:06:31,770 --> 00:06:33,010
+And what's gonna give that away
+
+176
+00:06:33,010 --> 00:06:35,110
+is this green-brown nipple discharge.
+
+177
+00:06:35,110 --> 00:06:36,430
+That's super high yield.
+
+178
+00:06:36,430 --> 00:06:38,210
+If you've got green-brown nipple discharge,
+
+179
+00:06:38,210 --> 00:06:41,310
+it's highly suggestive of mammary duct ductasia.
+
+180
+00:06:41,310 --> 00:06:42,550
+Now, of course, if you were worried,
+
+181
+00:06:42,550 --> 00:06:45,410
+and in particular because this is a postmenopausal woman,
+
+182
+00:06:45,410 --> 00:06:47,650
+you might be worried, so you'd do a biopsy.
+
+183
+00:06:47,650 --> 00:06:49,790
+And when you do a biopsy, you'll see chronic inflammation
+
+184
+00:06:49,790 --> 00:06:52,890
+of the plasma cells, and the plasma cells are characteristic
+
+185
+00:06:52,890 --> 00:06:55,630
+as well of this disorder.
+
+186
+00:06:55,630 --> 00:06:58,370
+The last of the inflammatory disorders is fat necrosis.
+
+187
+00:06:58,370 --> 00:07:00,670
+This is where you get necrosis of the breast fat.
+
+188
+00:07:00,670 --> 00:07:02,470
+Now, remember from chapter one of our texts
+
+189
+00:07:02,470 --> 00:07:05,170
+that when you get fat necrosis, there's two ways.
+
+190
+00:07:05,170 --> 00:07:07,110
+You can have enzymatic digestion of the fat,
+
+191
+00:07:07,110 --> 00:07:10,070
+for example, as occurs with the peripancreatic fat
+
+192
+00:07:10,070 --> 00:07:13,410
+in pancreatitis, or you can have trauma-related disruption
+
+193
+00:07:13,410 --> 00:07:15,550
+of the fat, and so in fat necrosis of the breast,
+
+194
+00:07:15,550 --> 00:07:17,550
+it's usually related to trauma.
+
+195
+00:07:17,550 --> 00:07:18,650
+Now, why is this important?
+
+196
+00:07:18,650 --> 00:07:20,610
+Because it can present in two ways.
+
+197
+00:07:20,610 --> 00:07:23,030
+It can present as a mass, so for example,
+
+198
+00:07:23,030 --> 00:07:24,550
+either the woman feels the mass,
+
+199
+00:07:24,550 --> 00:07:26,330
+or the physician feels the mass,
+
+200
+00:07:26,330 --> 00:07:28,790
+and that's because fat necrosis was going to result
+
+201
+00:07:28,790 --> 00:07:30,990
+in disruption of the fat, and some fibrosis,
+
+202
+00:07:30,990 --> 00:07:33,990
+and some giant cell reaction, and some inflammation,
+
+203
+00:07:33,990 --> 00:07:35,610
+which could then form a mass.
+
+204
+00:07:35,610 --> 00:07:38,630
+But perhaps even more classic, and particularly high yield,
+
+205
+00:07:38,630 --> 00:07:42,150
+is that it can also result in calcification on mammogram.
+
+206
+00:07:42,150 --> 00:07:44,210
+The idea, again, is that when you have fat necrosis,
+
+207
+00:07:44,210 --> 00:07:46,010
+you get saponification.
+
+208
+00:07:46,010 --> 00:07:48,110
+Then saponification is the addition of calcium
+
+209
+00:07:48,110 --> 00:07:50,950
+to that fat necrosis, and when a woman goes for mammogram,
+
+210
+00:07:50,950 --> 00:07:52,710
+they'll detect the calcifications,
+
+211
+00:07:52,710 --> 00:07:54,550
+and recall that calcifications are one way
+
+212
+00:07:54,550 --> 00:07:56,650
+by which we screen for breast cancer.
+
+213
+00:07:56,650 --> 00:07:58,550
+So it could produce calcifications,
+
+214
+00:07:58,550 --> 00:08:01,790
+which would then require, in certain cases, a biopsy.
+
+215
+00:08:01,790 --> 00:08:03,530
+And if a biopsy were to be performed,
+
+216
+00:08:03,530 --> 00:08:07,030
+we would see necrotic fat with associated calcifications,
+
+217
+00:08:07,030 --> 00:08:09,610
+because of the quote-unquote saponification,
+
+218
+00:08:09,610 --> 00:08:12,250
+and then the presence of giant cells as well.
+
+219
+00:08:12,250 --> 00:08:14,710
+And that's the classic finding in fat necrosis.
+
+220
+00:08:14,710 --> 00:08:17,050
+Now, I'll just remind you, especially on examinations,
+
+221
+00:08:17,050 --> 00:08:19,350
+they don't usually tell you that there's a history of trauma.
+
+222
+00:08:19,350 --> 00:08:21,950
+In fact, even clinically, most women will not come and say,
+
+223
+00:08:21,950 --> 00:08:23,890
+oh yeah, I had this trauma.
+
+224
+00:08:23,890 --> 00:08:25,590
+They don't recognize that they had trauma.
+
+225
+00:08:25,590 --> 00:08:28,270
+For example, a woman plays softball
+
+226
+00:08:28,270 --> 00:08:30,330
+and gets hit with a softball in the chest.
+
+227
+00:08:30,330 --> 00:08:32,630
+She wouldn't necessarily call that trauma,
+
+228
+00:08:32,630 --> 00:08:34,670
+but that might be sufficient trauma
+
+229
+00:08:34,670 --> 00:08:36,770
+to actually result in fat necrosis.
+
+230
+00:08:36,770 --> 00:08:37,810
+And so when I say trauma,
+
+231
+00:08:37,810 --> 00:08:41,050
+it doesn't need to be a major form of trauma.
+
+232
+00:08:41,050 --> 00:08:43,270
+It could be anything that could damage the fat
+
+233
+00:08:43,270 --> 00:08:45,510
+of the breast parenchyma.
+
+234
+00:08:45,510 --> 00:08:47,250
+And so that closes off our section
+
+235
+00:08:47,250 --> 00:08:49,590
+on inflammatory disorders.
+

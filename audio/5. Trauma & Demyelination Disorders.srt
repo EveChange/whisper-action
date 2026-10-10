@@ -1,0 +1,992 @@
+1
+00:00:00,000 --> 00:00:02,540
+Okay, moving on to trauma, epidural hematoma.
+
+2
+00:00:02,940 --> 00:00:05,100
+Epi means on top, dura refers to the dura,
+
+3
+00:00:05,220 --> 00:00:06,800
+and hematoma is a collection of blood.
+
+4
+00:00:07,080 --> 00:00:09,000
+So you get a collection of blood on top of the dura.
+
+5
+00:00:09,420 --> 00:00:11,540
+Now just remember, going back to normal,
+
+6
+00:00:11,720 --> 00:00:12,680
+here is the skull,
+
+7
+00:00:13,180 --> 00:00:16,360
+and remember that tightly attached to the skull is the dura.
+
+8
+00:00:16,780 --> 00:00:18,760
+Now this is important that it's tightly attached.
+
+9
+00:00:19,140 --> 00:00:21,780
+So in order to get a bleed that's going to be above the dura,
+
+10
+00:00:21,900 --> 00:00:24,380
+you're going to need to rupture a high-pressure circuit
+
+11
+00:00:24,380 --> 00:00:27,000
+so that it can separate the dura from the skull.
+
+12
+00:00:27,360 --> 00:00:28,600
+And so therefore, what's going to happen
+
+13
+00:00:28,600 --> 00:00:29,740
+is you're going to get a fracture.
+
+14
+00:00:30,100 --> 00:00:33,200
+This is going to rupture the middle meningeal artery,
+
+15
+00:00:33,440 --> 00:00:35,260
+artery because you need a high-pressure circuit,
+
+16
+00:00:35,260 --> 00:00:38,100
+and middle meningeal because that's the artery that runs here.
+
+17
+00:00:38,540 --> 00:00:40,720
+And that then is going to result in a collection of blood
+
+18
+00:00:40,720 --> 00:00:42,420
+between the skull and the dura.
+
+19
+00:00:42,640 --> 00:00:44,360
+So when you get this collection of blood,
+
+20
+00:00:44,800 --> 00:00:46,460
+it's going to look like this.
+
+21
+00:00:46,520 --> 00:00:47,300
+Here's the blood,
+
+22
+00:00:47,660 --> 00:00:50,420
+and of course the dura has been separated from the skull.
+
+23
+00:00:50,740 --> 00:00:53,400
+Now because the dura is tightly attached to the skull,
+
+24
+00:00:53,740 --> 00:00:56,260
+you're going to get these points at the edge of the bleed,
+
+25
+00:00:56,260 --> 00:00:58,920
+which are going to remain tightly attached,
+
+26
+00:00:59,040 --> 00:01:02,300
+and then you'll have the separation of the dura here from the skull.
+
+27
+00:01:02,700 --> 00:01:06,360
+And that's going to create the classic lens-shaped lesion on CT,
+
+28
+00:01:06,580 --> 00:01:09,140
+and you get a lens shape because it's attached here still
+
+29
+00:01:09,140 --> 00:01:10,240
+and still attached here.
+
+30
+00:01:10,640 --> 00:01:12,900
+And then what will happen over time is that blood will build up,
+
+31
+00:01:12,940 --> 00:01:14,020
+and as blood builds up,
+
+32
+00:01:14,240 --> 00:01:16,120
+the patient could be completely asymptomatic,
+
+33
+00:01:16,220 --> 00:01:18,980
+but all of a sudden the blood will sort of keep putting pressure on here
+
+34
+00:01:18,980 --> 00:01:21,020
+and eventually rupture this point or this point.
+
+35
+00:01:21,020 --> 00:01:23,380
+That will then further expand the hematoma,
+
+36
+00:01:23,720 --> 00:01:25,420
+and when you get an expansion of the hematoma,
+
+37
+00:01:25,540 --> 00:01:27,320
+that could then result in herniation,
+
+38
+00:01:27,440 --> 00:01:28,700
+which is a lethal complication.
+
+39
+00:01:29,260 --> 00:01:31,340
+And so this is also called the talk-and-die syndrome
+
+40
+00:01:31,340 --> 00:01:34,500
+because the patients can be asymptomatic for a few hours, for example,
+
+41
+00:01:34,940 --> 00:01:37,500
+and then all of a sudden this sort of ruptures or expands further,
+
+42
+00:01:37,760 --> 00:01:40,100
+and then that creates a lethal herniation.
+
+43
+00:01:40,440 --> 00:01:42,420
+So let's go back and read the text with that in mind.
+
+44
+00:01:42,800 --> 00:01:43,760
+Epidural hematoma,
+
+45
+00:01:43,860 --> 00:01:46,400
+you get a collection of blood between the dura and the skull,
+
+46
+00:01:46,400 --> 00:01:50,940
+fracture of the temporal bone with rupture of the middle meningeal artery,
+
+47
+00:01:51,160 --> 00:01:52,160
+particularly high yield.
+
+48
+00:01:52,580 --> 00:01:55,480
+You get a lens-shaped lesion on CT, particularly high yield.
+
+49
+00:01:55,780 --> 00:01:58,840
+You get a lucid interval that may precede the neurologic signs.
+
+50
+00:01:58,960 --> 00:02:02,420
+Again, you can have a few hours or even a day or so when you're totally fine,
+
+51
+00:02:02,540 --> 00:02:03,660
+and then all of a sudden, boom,
+
+52
+00:02:03,780 --> 00:02:07,420
+the hematoma expands as you sort of pull away at the dura one step further,
+
+53
+00:02:07,740 --> 00:02:09,780
+and then that can result in herniation,
+
+54
+00:02:09,880 --> 00:02:11,180
+which is a lethal complication.
+
+55
+00:02:11,640 --> 00:02:14,320
+Again, herniation refers to the pushing of one part of the brain
+
+56
+00:02:14,320 --> 00:02:17,880
+into another part of the brain, which we're going to talk about in a moment.
+
+57
+00:02:18,540 --> 00:02:21,360
+Subdural hematoma is when you have a collection of blood beneath the dura.
+
+58
+00:02:21,760 --> 00:02:24,200
+Now go back and remember that if this is the skull
+
+59
+00:02:24,200 --> 00:02:26,260
+and this is the dura tightly attached,
+
+60
+00:02:26,580 --> 00:02:29,020
+then underneath that is going to be the arachnoid,
+
+61
+00:02:29,360 --> 00:02:32,300
+and of course the arachnoid would then attach to the pia,
+
+62
+00:02:32,520 --> 00:02:35,240
+and the pia is directly connected to the brain.
+
+63
+00:02:35,760 --> 00:02:38,980
+And so what's going to happen here is you're going to get a bleed in this space,
+
+64
+00:02:38,980 --> 00:02:42,680
+and that's called a subdural hematoma underneath the dura.
+
+65
+00:02:43,260 --> 00:02:45,680
+Now this is usually due to rupture of a bridging vein.
+
+66
+00:02:46,040 --> 00:02:48,160
+The way I remember this is that you don't need a lot of pressure
+
+67
+00:02:48,160 --> 00:02:51,300
+to be able to rip through these little arachnoid-like spider webs,
+
+68
+00:02:51,420 --> 00:02:53,540
+and again arachnoid kind of also means spider,
+
+69
+00:02:53,900 --> 00:02:55,300
+and it usually arises with trauma.
+
+70
+00:02:55,460 --> 00:02:58,280
+Now remember here are these bridging veins like this,
+
+71
+00:02:58,580 --> 00:03:00,940
+and so these can easily rupture, especially with trauma,
+
+72
+00:03:01,320 --> 00:03:02,900
+resulting in a subdural hematoma.
+
+73
+00:03:03,240 --> 00:03:05,200
+At the same time, when there's atrophy of the brain,
+
+74
+00:03:05,200 --> 00:03:08,940
+these veins are going to be stretched as the brain is pulled away, for example,
+
+75
+00:03:08,940 --> 00:03:12,820
+and then there's increased risk of rupture with atrophy.
+
+76
+00:03:13,200 --> 00:03:17,380
+And so your text here says that a subdural hematoma is a collection of blood beneath the dura,
+
+77
+00:03:18,100 --> 00:03:22,320
+tearing of bridging veins, high yield, and it usually arises with trauma.
+
+78
+00:03:22,740 --> 00:03:24,540
+Here's a picture of a subdural hematoma.
+
+79
+00:03:24,760 --> 00:03:26,720
+This thick layer here represents the dura,
+
+80
+00:03:26,880 --> 00:03:29,140
+and then you can see that there's blood underneath the dura,
+
+81
+00:03:29,480 --> 00:03:31,280
+and it's sitting on top of the brain here.
+
+82
+00:03:31,280 --> 00:03:34,040
+So again, classic subdural hematoma.
+
+83
+00:03:34,400 --> 00:03:36,380
+This will present with progressive neurologic signs.
+
+84
+00:03:36,500 --> 00:03:40,200
+As the blood slowly builds up and spreads across the surface of the brain,
+
+85
+00:03:40,460 --> 00:03:42,040
+you'll get progressive neurologic signs,
+
+86
+00:03:42,360 --> 00:03:44,480
+and again herniation would be a lethal complication.
+
+87
+00:03:44,640 --> 00:03:47,600
+There's no space in that box for anything but the brain,
+
+88
+00:03:47,680 --> 00:03:50,460
+and so when you add blood, you can eventually cause a herniation.
+
+89
+00:03:51,040 --> 00:03:53,380
+Now again, herniation is displacement of brain tissue.
+
+90
+00:03:53,860 --> 00:03:56,580
+It's due to mass effect or increased intracranial pressure.
+
+91
+00:03:57,060 --> 00:04:00,700
+I'm going to use this simple picture to illustrate the three most common types of herniation.
+
+92
+00:04:00,700 --> 00:04:02,900
+The first is a tonsillar herniation.
+
+93
+00:04:03,060 --> 00:04:04,240
+This is relatively straightforward.
+
+94
+00:04:04,700 --> 00:04:07,120
+You get herniation of the cerebellar tonsils,
+
+95
+00:04:07,260 --> 00:04:10,440
+which is right here through the foramen magnum,
+
+96
+00:04:10,740 --> 00:04:12,540
+which then compresses the brainstem,
+
+97
+00:04:12,860 --> 00:04:14,320
+and when this compresses the brainstem,
+
+98
+00:04:14,440 --> 00:04:16,160
+you can get cardiopulmonary arrest.
+
+99
+00:04:16,540 --> 00:04:20,000
+So this first herniation is a tonsillar herniation.
+
+100
+00:04:20,480 --> 00:04:23,060
+The next herniation is called a subfalcine herniation.
+
+101
+00:04:23,520 --> 00:04:26,660
+This is when you get the cingulate gyrus, which is present here,
+
+102
+00:04:26,660 --> 00:04:30,180
+to herniate underneath the phalx cerebri, which is present here.
+
+103
+00:04:30,620 --> 00:04:33,520
+Now the problem here is that you'll compress the anterior cerebral artery,
+
+104
+00:04:33,820 --> 00:04:35,180
+which will then lead to infarction.
+
+105
+00:04:35,900 --> 00:04:38,120
+The third type of herniation is an uncoherniation.
+
+106
+00:04:38,300 --> 00:04:41,980
+This is when you get herniation of the uncus of the temporal lobe,
+
+107
+00:04:42,040 --> 00:04:42,920
+which is right here,
+
+108
+00:04:43,180 --> 00:04:46,940
+into the area between the cerebellum and the brainstem here,
+
+109
+00:04:47,020 --> 00:04:49,520
+which is also called the tentorum cerebelli.
+
+110
+00:04:49,940 --> 00:04:52,400
+Now the problem is that you're going to then compress three structures.
+
+111
+00:04:52,560 --> 00:04:54,520
+Number one, you're going to compress cranial nerve three,
+
+112
+00:04:54,520 --> 00:04:58,640
+and that's going to result in the eyes moving down and out with a dilated pupil.
+
+113
+00:04:58,980 --> 00:05:01,220
+You'll also compress the posterior cerebral artery,
+
+114
+00:05:01,380 --> 00:05:03,560
+which will give you infarction of the occipital lobe,
+
+115
+00:05:03,860 --> 00:05:08,640
+and then you can also pull on the paramedian artery that's running along the brainstem,
+
+116
+00:05:08,960 --> 00:05:11,660
+and that'll give you direct hemorrhages on the brainstem.
+
+117
+00:05:12,040 --> 00:05:14,800
+And so these are the three complications of an uncoherniation.
+
+118
+00:05:15,340 --> 00:05:16,820
+Moving on to demyelinating disorders,
+
+119
+00:05:16,820 --> 00:05:21,280
+recall that the axons of both the central and the peripheral nervous system are myelinated.
+
+120
+00:05:21,640 --> 00:05:25,060
+The purpose of the myelin is to improve conduction across the axons.
+
+121
+00:05:25,440 --> 00:05:26,600
+In the central nervous system,
+
+122
+00:05:26,700 --> 00:05:30,040
+the key cell that myelinates the axons is the oligodendrocyte,
+
+123
+00:05:30,400 --> 00:05:31,720
+and in the peripheral nervous system,
+
+124
+00:05:31,800 --> 00:05:34,540
+the key cell that myelinates the axons is the Schwann cell.
+
+125
+00:05:34,960 --> 00:05:36,260
+In a demyelinating disorder,
+
+126
+00:05:36,360 --> 00:05:39,680
+you get destruction of the myelin or the oligodendrocytes.
+
+127
+00:05:39,700 --> 00:05:41,980
+And again, here we're going to focus on the central nervous system,
+
+128
+00:05:42,100 --> 00:05:43,540
+so the oligodendrocytes.
+
+129
+00:05:44,000 --> 00:05:46,300
+In this particular case, the axons are preserved,
+
+130
+00:05:46,300 --> 00:05:47,900
+so you don't damage the axons,
+
+131
+00:05:48,240 --> 00:05:52,680
+but the conduction of the impulse across those axons is going to be impaired.
+
+132
+00:05:53,300 --> 00:05:55,520
+The first of these disorders is called leukodystrophies.
+
+133
+00:05:55,640 --> 00:05:56,460
+Leuco means white,
+
+134
+00:05:56,560 --> 00:05:59,560
+and dystrophy means that there's a problem within the white matter.
+
+135
+00:05:59,820 --> 00:06:02,040
+Of course, the white matter is white within the brain
+
+136
+00:06:02,040 --> 00:06:03,560
+because it's loaded with myelin,
+
+137
+00:06:03,600 --> 00:06:05,420
+and that's what gives it the white color.
+
+138
+00:06:05,860 --> 00:06:08,240
+And so leukodystrophies are inherited mutations
+
+139
+00:06:08,240 --> 00:06:12,520
+in enzymes necessary for the production or for the maintenance of myelin.
+
+140
+00:06:12,920 --> 00:06:15,300
+The first of these is metachromatic leukodystrophy.
+
+141
+00:06:15,300 --> 00:06:18,360
+This is when you have a deficiency of aural sulfatase.
+
+142
+00:06:18,680 --> 00:06:20,380
+It's the most common leukodystrophy,
+
+143
+00:06:20,800 --> 00:06:23,160
+and the problem here is that you can't degrade myelin.
+
+144
+00:06:23,320 --> 00:06:26,420
+Now recall that you produce and turn over myelin on a regular basis,
+
+145
+00:06:26,820 --> 00:06:28,380
+and so if you can't destroy the myelin,
+
+146
+00:06:28,460 --> 00:06:30,000
+that will result in a leukodystrophy.
+
+147
+00:06:30,460 --> 00:06:32,960
+And in this particular case, the myelin cannot be degraded,
+
+148
+00:06:33,220 --> 00:06:35,500
+and so it accumulates within the lysosomes.
+
+149
+00:06:35,500 --> 00:06:40,720
+Krabbe's disease is when you have deficiency of galactocerebroside beta-galactosidase,
+
+150
+00:06:40,880 --> 00:06:46,420
+and this then results in the accumulation of galactocerebroside within the macrophages.
+
+151
+00:06:46,900 --> 00:06:51,040
+In adrenal leukodystrophy, you have a problem with both the adrenal gland and the white matter.
+
+152
+00:06:51,300 --> 00:06:55,020
+This is due to impaired addition of coenzyme A to long-chain fatty acids.
+
+153
+00:06:55,020 --> 00:07:00,220
+The fatty acids then accumulate, damaging both the adrenal gland and the white matter.
+
+154
+00:07:00,760 --> 00:07:05,020
+Multiple sclerosis is autoimmune destruction of the CNS myelin and the oligodendrocytes.
+
+155
+00:07:05,820 --> 00:07:10,440
+Very high yield to know that it's the oligodendrocytes that are getting destroyed in multiple sclerosis.
+
+156
+00:07:10,900 --> 00:07:14,320
+This happens to be the most common chronic CNS disease of young adults.
+
+157
+00:07:14,960 --> 00:07:16,820
+Women are more commonly affected than men.
+
+158
+00:07:16,820 --> 00:07:20,840
+Now again, it's an autoimmune disease, and remember the general principle with autoimmune disease
+
+159
+00:07:20,840 --> 00:07:25,660
+is that you have a genetically susceptible individual that sees an environmental trigger.
+
+160
+00:07:25,920 --> 00:07:29,820
+And so the genetic susceptibility here is the association with HLA-DR2,
+
+161
+00:07:30,040 --> 00:07:34,680
+and the environmental trigger is that it's more commonly seen in regions away from the equator,
+
+162
+00:07:35,040 --> 00:07:37,160
+and that's also particularly high yield to know.
+
+163
+00:07:37,820 --> 00:07:41,520
+The clinical features of multiple sclerosis are dependent on the region that's involved.
+
+164
+00:07:41,800 --> 00:07:44,820
+So if the optic nerve is involved, you can have blurry vision in one eye.
+
+165
+00:07:44,820 --> 00:07:48,400
+If the brainstem is involved, the patients can have vertigo and scanning speech.
+
+166
+00:07:48,700 --> 00:07:51,220
+This scanning speech is particularly important in high yield,
+
+167
+00:07:51,540 --> 00:07:54,620
+and that's because this speech will resemble the speech of someone who's drunk,
+
+168
+00:07:54,740 --> 00:07:57,860
+but of course they're not drunk, they simply have multiple sclerosis.
+
+169
+00:07:58,340 --> 00:08:04,300
+And then involvement of the medial longitudinal fasciculus gives you something called internuclear ophthalmoplegia.
+
+170
+00:08:04,680 --> 00:08:07,700
+Now this is relatively high yield because it goes back to neuroanatomy,
+
+171
+00:08:07,980 --> 00:08:09,740
+so let's take a moment to illustrate this.
+
+172
+00:08:10,040 --> 00:08:11,820
+Here's the left eye and the right eye,
+
+173
+00:08:11,820 --> 00:08:16,280
+and of course you've got muscles coming off these eyes here.
+
+174
+00:08:16,280 --> 00:08:20,400
+This is the lateral rectus muscle, medial rectus.
+
+175
+00:08:20,700 --> 00:08:24,080
+This is the medial rectus on this side and the lateral rectus.
+
+176
+00:08:24,460 --> 00:08:30,240
+And what you need to know is that cranial nerve 6 directly attaches to the lateral rectus,
+
+177
+00:08:30,300 --> 00:08:34,640
+and so here's the nucleus of cranial nerve 6 directly attaching to the lateral rectus.
+
+178
+00:08:35,060 --> 00:08:40,580
+Now the medial rectus, you've got here cranial nerve 3 that sort of feeds the medial rectus,
+
+179
+00:08:40,580 --> 00:08:44,320
+and so this will directly feed the medial rectus on either side.
+
+180
+00:08:44,720 --> 00:08:49,640
+And then there'll be a crossover to the cranial nerve 6 on each side,
+
+181
+00:08:49,720 --> 00:08:55,040
+and what is present between this crossover is something called the medial longitudinal fasciculus here
+
+182
+00:08:55,040 --> 00:08:57,640
+and another medial longitudinal fasciculus here.
+
+183
+00:08:58,100 --> 00:09:00,640
+Now let's say that the patient wants to look to the left,
+
+184
+00:09:00,680 --> 00:09:03,620
+so you want to move this eye this way and this eye this way.
+
+185
+00:09:03,620 --> 00:09:06,640
+Well, what's going to happen is this cranial nerve 6 is going to fire,
+
+186
+00:09:07,000 --> 00:09:12,220
+and when it fires, it's going to drag the lateral rectus down, pulling the eye to the left,
+
+187
+00:09:12,360 --> 00:09:14,960
+and at the same time it's going to send a message this way,
+
+188
+00:09:15,100 --> 00:09:18,940
+and it's going to fire cranial nerve 3, which will drag this medial rectus down,
+
+189
+00:09:19,160 --> 00:09:21,360
+which will then pull the right eye to the left.
+
+190
+00:09:21,720 --> 00:09:24,700
+Now imagine if the medial longitudinal fasciculus is damaged,
+
+191
+00:09:25,200 --> 00:09:29,120
+then when you try to look to the left, you'll be able to pull the left eye to the left.
+
+192
+00:09:29,120 --> 00:09:34,000
+However, when you send this message up this way, it's going to be blocked because of the damage here,
+
+193
+00:09:34,260 --> 00:09:36,600
+and you won't be able to pull the right eye to the left.
+
+194
+00:09:37,200 --> 00:09:39,920
+And so this is called intranuclear ophthalmoplegia.
+
+195
+00:09:40,380 --> 00:09:44,200
+Additional clinical features include involvement of the cerebral white matter,
+
+196
+00:09:44,340 --> 00:09:47,680
+which can result in hemiparesis or unilateral loss of sensation.
+
+197
+00:09:48,260 --> 00:09:52,560
+The spinal cord can be involved, which would result in lower extremity loss of sensation or weakness.
+
+198
+00:09:52,940 --> 00:09:55,500
+And then, of course, the autonomic nervous system can be involved,
+
+199
+00:09:55,580 --> 00:09:57,960
+giving you bowel, bladder, and sexual dysfunction.
+
+200
+00:09:57,960 --> 00:10:02,700
+Now the diagnosis of multiple sclerosis is made by MRI, and it will show plaques.
+
+201
+00:10:03,080 --> 00:10:06,700
+You can also do a lumbar puncture, and it would show increased lymphocytes,
+
+202
+00:10:07,220 --> 00:10:11,200
+increased immunoglobulin with oligoclonal immunoglobulin bands.
+
+203
+00:10:11,300 --> 00:10:15,960
+That's high yield, oligoclonal immunoglobulin bands, and then myelin basic protein,
+
+204
+00:10:16,060 --> 00:10:20,600
+and that's because you've destroyed myelin, so myelin basic protein will be present in the CSF.
+
+205
+00:10:20,960 --> 00:10:24,840
+Here's a picture of a brain, and just remember that, of course, you've got gray matter and you've got white matter.
+
+206
+00:10:24,840 --> 00:10:29,520
+And the gray matter is gray because there is no myelin, and the white matter is white because there is myelin.
+
+207
+00:10:29,780 --> 00:10:34,220
+So when you get demyelination, what's going to happen is you're going to get gray areas within the white matter.
+
+208
+00:10:34,540 --> 00:10:38,680
+So, for example, this is a region here where you've got graying of the white matter,
+
+209
+00:10:39,000 --> 00:10:40,580
+and this represents multiple sclerosis.
+
+210
+00:10:41,580 --> 00:10:45,260
+The treatment of multiple sclerosis will be high-dose steroids during an acute attack,
+
+211
+00:10:45,620 --> 00:10:50,460
+and interferon beta can be given, which has been shown to slow the progression of the disease.
+
+212
+00:10:50,460 --> 00:10:53,820
+The next disorder is subacute sclerosing panencephalitis.
+
+213
+00:10:54,140 --> 00:10:56,320
+Encephalitis means that you've got inflammation of the brain,
+
+214
+00:10:56,420 --> 00:10:59,580
+and the word pan tells you that it's involving both the gray and the white matter.
+
+215
+00:11:00,080 --> 00:11:03,400
+This is a progressive debilitating encephalitis that leads to death,
+
+216
+00:11:03,720 --> 00:11:09,420
+and very high yield to know that it's due to a slowly progressing, persistent infection of the brain by measles virus.
+
+217
+00:11:09,860 --> 00:11:13,440
+So this is a slow, persistent infection by measles virus.
+
+218
+00:11:13,800 --> 00:11:17,140
+Infection actually occurs in infancy, and then the damage takes time
+
+219
+00:11:17,140 --> 00:11:20,160
+until eventually the neurologic signs arise years later.
+
+220
+00:11:20,480 --> 00:11:22,500
+It's going to be characterized by viral inclusions.
+
+221
+00:11:22,600 --> 00:11:26,600
+Again, this is due to measles virus within both the gray matter and the white matter.
+
+222
+00:11:26,720 --> 00:11:30,380
+Again, you've got a panencephalitis, and so when it's in the white matter,
+
+223
+00:11:30,460 --> 00:11:33,060
+that's going to be damaging the oligodendrocytes.
+
+224
+00:11:33,700 --> 00:11:40,040
+Progressive multifocal leukoencephalopathy is an encephalopathy that involves the white matter at multiple foci,
+
+225
+00:11:40,560 --> 00:11:43,620
+and it's due to JC virus infection of oligodendrocytes.
+
+226
+00:11:43,620 --> 00:11:46,040
+It's very high yield to note that it's JC virus infection.
+
+227
+00:11:46,040 --> 00:11:49,160
+Now, the patient actually has a latent JC virus infection,
+
+228
+00:11:49,540 --> 00:11:52,780
+but it's immunosuppression that leads to reactivation of the virus.
+
+229
+00:11:53,120 --> 00:11:55,800
+So, for example, AIDS can lead to reactivation of the virus.
+
+230
+00:11:56,200 --> 00:11:59,140
+Patients with leukemia who may be immunosuppressed, for example,
+
+231
+00:11:59,560 --> 00:12:01,400
+can get reactivation of the virus as well.
+
+232
+00:12:01,840 --> 00:12:06,060
+This presents with rapidly progressive neurologic signs that eventually lead to death.
+
+233
+00:12:06,520 --> 00:12:09,360
+And the final disorder is central pontine myelinolysis.
+
+234
+00:12:09,700 --> 00:12:13,740
+This is when you get focal demyelination of the pons, hence the word pontine,
+
+235
+00:12:13,740 --> 00:12:19,560
+and it occurs in the center of the pons, and it's due to rapid IV correction of hyponatremia,
+
+236
+00:12:19,800 --> 00:12:24,860
+particularly in an alcoholic or a patient with liver disease or someone who is severely malnourished.
+
+237
+00:12:25,340 --> 00:12:26,620
+And that's what I've stated here.
+
+238
+00:12:26,960 --> 00:12:31,040
+You get myelinolysis, which means that you start destroying the white matter within the pons.
+
+239
+00:12:31,320 --> 00:12:34,440
+Let's go back and remind ourselves that if this is sort of the cortex of the brain,
+
+240
+00:12:34,440 --> 00:12:40,060
+and then everything is coming down into a brainstem, remember that everybody is sort of feeding into this highway.
+
+241
+00:12:40,420 --> 00:12:45,380
+So all of the axons that are going to be running through this system are all going to come through the pons.
+
+242
+00:12:45,900 --> 00:12:50,620
+And so one of the consequences of central pontine myelinolysis, and particularly high yield for board exams,
+
+243
+00:12:50,940 --> 00:12:53,340
+is that you classically get something called locked-in syndrome.
+
+244
+00:12:53,840 --> 00:12:57,740
+This is when a patient's voluntary movements are completely paralyzed from head to toe.
+
+245
+00:12:58,000 --> 00:13:00,360
+The only exception, classically, is the eyes.
+
+246
+00:13:00,360 --> 00:13:05,340
+So that the only thing that the patient can move is the eyes, and that's why they call it locked-in syndrome.
+
+247
+00:13:05,680 --> 00:13:07,860
+It's as if the patient is locked in their own body.
+
+248
+00:13:08,300 --> 00:13:09,740
+And that concludes this section.
+
