@@ -1,0 +1,2568 @@
+1
+00:00:00,140 --> 00:00:02,600
+Okay, moving on to nephrotic syndrome.
+
+2
+00:00:02,600 --> 00:00:04,640
+These are glomerular disorders,
+
+3
+00:00:04,640 --> 00:00:07,100
+the hallmark of which is proteinuria,
+
+4
+00:00:07,100 --> 00:00:09,540
+and of course, that proteinuria needs to be greater
+
+5
+00:00:09,540 --> 00:00:11,920
+than 3.5 grams per day.
+
+6
+00:00:11,920 --> 00:00:13,240
+Now, the major protein in the blood
+
+7
+00:00:13,240 --> 00:00:14,720
+and the major protein that is lost
+
+8
+00:00:14,720 --> 00:00:17,540
+in this particular group of disorders is albumin,
+
+9
+00:00:17,540 --> 00:00:20,260
+and so the patients become hypoalbuminemic.
+
+10
+00:00:20,260 --> 00:00:22,300
+Now, of course, albumin plays an important role
+
+11
+00:00:22,300 --> 00:00:24,540
+in maintaining the oncotic pressure of the blood,
+
+12
+00:00:24,540 --> 00:00:26,180
+so a loss of albumin would result
+
+13
+00:00:26,180 --> 00:00:27,940
+in a decreased oncotic pressure,
+
+14
+00:00:27,940 --> 00:00:30,380
+and the decreased oncotic pressure would result
+
+15
+00:00:30,380 --> 00:00:35,020
+in increased fluid within the tissue space or edema,
+
+16
+00:00:35,020 --> 00:00:39,000
+and so the consequence of the hypoalbuminemia will be edema.
+
+17
+00:00:39,000 --> 00:00:41,440
+In addition, the patients will lose gamma globulin,
+
+18
+00:00:41,440 --> 00:00:43,700
+which is another important protein within the blood,
+
+19
+00:00:43,700 --> 00:00:45,240
+and the loss of gamma globulin
+
+20
+00:00:45,240 --> 00:00:47,700
+will result in hypogammal globulinemia,
+
+21
+00:00:47,700 --> 00:00:50,980
+which, of course, then will increase the risk of infection.
+
+22
+00:00:50,980 --> 00:00:52,460
+In addition, the patients will develop
+
+23
+00:00:52,460 --> 00:00:54,100
+a hypercoagulable state.
+
+24
+00:00:54,100 --> 00:00:56,780
+Now, the reason that they develop a hypercoagulable state
+
+25
+00:00:56,780 --> 00:01:01,440
+is that they preferentially lose antithrombin 3.
+
+26
+00:01:01,440 --> 00:01:03,640
+So if they lose antithrombin 3,
+
+27
+00:01:03,640 --> 00:01:06,660
+they've lost one of their anticoagulant proteins,
+
+28
+00:01:06,660 --> 00:01:08,740
+and so they become procoagulable.
+
+29
+00:01:08,740 --> 00:01:11,060
+Remember that antithrombin 3 plays the important role
+
+30
+00:01:11,060 --> 00:01:12,460
+of breaking up thrombin,
+
+31
+00:01:12,460 --> 00:01:15,140
+and also of destroying coagulation factors
+
+32
+00:01:15,140 --> 00:01:16,820
+so that you can't produce thrombin.
+
+33
+00:01:16,820 --> 00:01:19,460
+So it is an anticoagulant protein,
+
+34
+00:01:19,460 --> 00:01:22,700
+and if you lose it, you're gonna get hypercoagulable.
+
+35
+00:01:22,700 --> 00:01:25,220
+And finally, the patients are going to have hyperlipidemia
+
+36
+00:01:25,220 --> 00:01:26,800
+and hypercholesterolemia.
+
+37
+00:01:26,800 --> 00:01:28,000
+Now, the way I think about this
+
+38
+00:01:28,000 --> 00:01:30,820
+is because there's loss of so much protein from the blood,
+
+39
+00:01:30,820 --> 00:01:33,520
+the blood becomes, quote-unquote, relatively thin,
+
+40
+00:01:33,520 --> 00:01:36,360
+and so the liver reacts by throwing excess fat
+
+41
+00:01:36,360 --> 00:01:38,900
+into the blood to sort of beef it up a little bit.
+
+42
+00:01:38,900 --> 00:01:41,480
+And it's a funny way of thinking about it, but it works.
+
+43
+00:01:41,480 --> 00:01:44,440
+And so, therefore, the patients become hyperlipidemic
+
+44
+00:01:44,440 --> 00:01:47,040
+and hypercholesterolemic, and this is important.
+
+45
+00:01:47,040 --> 00:01:49,900
+Board examiners like to ask about this as well.
+
+46
+00:01:49,900 --> 00:01:51,440
+The first of the nephrotic syndromes
+
+47
+00:01:51,440 --> 00:01:54,280
+is minimal change disease, this is the most common cause
+
+48
+00:01:54,280 --> 00:01:56,400
+of nephrotic syndrome in children.
+
+49
+00:01:56,400 --> 00:01:58,080
+It's usually idiopathic.
+
+50
+00:01:58,080 --> 00:02:00,400
+That's not anything special because the vast majority
+
+51
+00:02:00,400 --> 00:02:03,000
+of nephrotic syndromes are usually idiopathic.
+
+52
+00:02:03,000 --> 00:02:05,820
+However, it can be associated with Hodgkin's lymphoma,
+
+53
+00:02:05,820 --> 00:02:07,340
+and that's super high yield.
+
+54
+00:02:07,340 --> 00:02:09,440
+In order to understand this association,
+
+55
+00:02:09,440 --> 00:02:11,280
+let's go back and remind ourselves
+
+56
+00:02:11,280 --> 00:02:15,180
+that the glomerular filtration barrier contains three layers.
+
+57
+00:02:15,180 --> 00:02:17,640
+The first is the endothelial cell,
+
+58
+00:02:17,640 --> 00:02:21,860
+sitting on top of a basement membrane, upon which sits
+
+59
+00:02:21,860 --> 00:02:24,740
+the podocytes, or I should say more particularly,
+
+60
+00:02:24,740 --> 00:02:27,520
+the foot processes of the podocytes.
+
+61
+00:02:27,520 --> 00:02:30,400
+Of course, this is also called, this layer of foot processes
+
+62
+00:02:30,400 --> 00:02:33,240
+is also called the epithelial cells.
+
+63
+00:02:33,240 --> 00:02:35,800
+And so you can think of it as endothelial cells
+
+64
+00:02:35,800 --> 00:02:37,700
+sitting on top of a basement membrane,
+
+65
+00:02:37,700 --> 00:02:40,640
+upon which sit the epithelial cells,
+
+66
+00:02:40,640 --> 00:02:43,520
+or the foot processes of the podocytes.
+
+67
+00:02:43,520 --> 00:02:46,820
+Now, this tri-layer forms the filtration barrier
+
+68
+00:02:46,820 --> 00:02:50,000
+for the glomerulus into the tubular space.
+
+69
+00:02:50,000 --> 00:02:53,480
+In minimal change disease, you lose the foot processes.
+
+70
+00:02:53,480 --> 00:02:55,780
+So if this is the endothelial cells here,
+
+71
+00:02:55,780 --> 00:02:57,860
+you get effacement of the foot processes,
+
+72
+00:02:57,860 --> 00:02:59,280
+with this being normal,
+
+73
+00:02:59,280 --> 00:03:01,520
+and then flattening of the foot processes here
+
+74
+00:03:01,520 --> 00:03:03,060
+being abnormal.
+
+75
+00:03:03,060 --> 00:03:05,780
+Now, what causes the effacement of the foot processes
+
+76
+00:03:05,780 --> 00:03:09,460
+in this particular disorder is the production of cytokines.
+
+77
+00:03:09,460 --> 00:03:14,820
+And so cytokines mediate this particular damage
+
+78
+00:03:14,820 --> 00:03:16,340
+to the foot processes.
+
+79
+00:03:16,340 --> 00:03:19,100
+Now, recall that in patients with Hodgkin's lymphoma,
+
+80
+00:03:19,100 --> 00:03:21,540
+you get massive overproduction of cytokines
+
+81
+00:03:21,540 --> 00:03:23,100
+by the Reed-Sternberg cells.
+
+82
+00:03:23,100 --> 00:03:25,380
+In fact, that's why patients with Hodgkin's lymphoma
+
+83
+00:03:25,380 --> 00:03:27,220
+can often present with B symptoms,
+
+84
+00:03:27,220 --> 00:03:29,520
+because the cytokines get released into the blood,
+
+85
+00:03:29,520 --> 00:03:32,480
+giving you fever, chills, night sweats, et cetera.
+
+86
+00:03:32,480 --> 00:03:35,300
+And so in the same way, these cytokines can hit the kidney,
+
+87
+00:03:35,300 --> 00:03:37,200
+and when they hit the glomerular filtration barrier,
+
+88
+00:03:37,200 --> 00:03:39,360
+they can knock out the podocytes, resulting
+
+89
+00:03:39,360 --> 00:03:41,100
+in minimal change disease.
+
+90
+00:03:41,100 --> 00:03:43,540
+Now, regardless of the cause, whether it be idiopathic
+
+91
+00:03:43,540 --> 00:03:45,600
+or associated with Hodgkin's lymphoma,
+
+92
+00:03:45,600 --> 00:03:47,560
+the key findings in minimal change disease
+
+93
+00:03:47,560 --> 00:03:50,500
+will be normal glomeruli on the H&E stain.
+
+94
+00:03:50,500 --> 00:03:51,800
+You might see a little bit of lipid
+
+95
+00:03:51,800 --> 00:03:53,540
+within the proximal tubular cell.
+
+96
+00:03:53,540 --> 00:03:55,520
+However, the hallmark of this disease
+
+97
+00:03:55,520 --> 00:03:58,220
+is normal glomeruli on H&E stain.
+
+98
+00:03:58,220 --> 00:04:00,400
+The key finding, however, is that on EM,
+
+99
+00:04:00,400 --> 00:04:03,500
+the patients will have effacement of the foot processes,
+
+100
+00:04:03,500 --> 00:04:06,280
+as I've already illustrated in our diagram.
+
+101
+00:04:06,280 --> 00:04:08,340
+Now, it's important to note that this disorder
+
+102
+00:04:08,340 --> 00:04:11,480
+is not driven by the deposition of immune complexes,
+
+103
+00:04:11,480 --> 00:04:13,380
+and so therefore, the immunofluorescence
+
+104
+00:04:13,380 --> 00:04:14,520
+will be negative.
+
+105
+00:04:14,520 --> 00:04:17,020
+The immunofluorescence is basically most useful
+
+106
+00:04:17,020 --> 00:04:19,020
+when you have immune complex deposits,
+
+107
+00:04:19,020 --> 00:04:21,120
+and so you won't really see anything specific
+
+108
+00:04:21,120 --> 00:04:22,720
+on the immunofluorescence.
+
+109
+00:04:22,720 --> 00:04:25,280
+Now, another important thing about minimal change disease
+
+110
+00:04:25,280 --> 00:04:27,220
+is that you get selective proteinuria.
+
+111
+00:04:27,220 --> 00:04:28,680
+You do lose albumin, however,
+
+112
+00:04:28,680 --> 00:04:30,960
+you do not lose immunoglobulin.
+
+113
+00:04:30,960 --> 00:04:33,160
+Otherwise stated, the change is so minimal
+
+114
+00:04:33,160 --> 00:04:36,220
+that the only protein that is lost is albumin.
+
+115
+00:04:36,220 --> 00:04:38,620
+This has an excellent response to steroids,
+
+116
+00:04:38,620 --> 00:04:40,160
+and again, that's because the damage
+
+117
+00:04:40,160 --> 00:04:41,720
+is mediated by cytokines.
+
+118
+00:04:41,720 --> 00:04:44,400
+So if you give steroids and you knock out the ability
+
+119
+00:04:44,400 --> 00:04:46,760
+to produce cytokines, that would then result,
+
+120
+00:04:46,760 --> 00:04:49,020
+of course, in an excellent response.
+
+121
+00:04:49,020 --> 00:04:50,720
+And it's important to note that this is really
+
+122
+00:04:50,720 --> 00:04:52,860
+the only nephrotic syndrome in which you get
+
+123
+00:04:52,860 --> 00:04:54,900
+an excellent response to treatment.
+
+124
+00:04:54,900 --> 00:04:57,520
+This is a histologic image of a glomerulus
+
+125
+00:04:57,520 --> 00:04:59,920
+taken from a patient with minimal change disease.
+
+126
+00:04:59,920 --> 00:05:02,380
+Of course, in minimal change disease on H and E,
+
+127
+00:05:02,380 --> 00:05:04,420
+the glomerulus should look normal.
+
+128
+00:05:04,420 --> 00:05:06,380
+And this basically is a normal glomerulus,
+
+129
+00:05:06,380 --> 00:05:07,980
+but it gives us an opportunity to review
+
+130
+00:05:07,980 --> 00:05:09,880
+some normal histology as well.
+
+131
+00:05:09,880 --> 00:05:12,680
+Now, recall that the outer capsule here
+
+132
+00:05:12,680 --> 00:05:14,220
+is called Bowman's capsule.
+
+133
+00:05:14,220 --> 00:05:16,020
+This is called Bowman's space,
+
+134
+00:05:16,020 --> 00:05:17,720
+and then you actually have the glomerulus
+
+135
+00:05:17,720 --> 00:05:18,960
+sitting here in the middle.
+
+136
+00:05:18,960 --> 00:05:21,820
+Now, the glomerulus is divided into lobules,
+
+137
+00:05:21,820 --> 00:05:24,460
+and that's the functional unit of the glomerulus,
+
+138
+00:05:24,460 --> 00:05:26,520
+so you've got all these lobules here.
+
+139
+00:05:26,520 --> 00:05:30,160
+And remember that the lobules are held together by mesangial cells,
+
+140
+00:05:30,160 --> 00:05:33,220
+and so this pink region here represents the mesangium.
+
+141
+00:05:33,220 --> 00:05:36,080
+And the mesangium holds together these capillary loops
+
+142
+00:05:36,080 --> 00:05:39,060
+upon which the filtration actually occurs.
+
+143
+00:05:39,060 --> 00:05:41,720
+And, of course, the filtration barrier
+
+144
+00:05:41,720 --> 00:05:43,420
+should be very thin and delicate.
+
+145
+00:05:43,420 --> 00:05:45,980
+And notice that the wall here of the capillaries,
+
+146
+00:05:45,980 --> 00:05:49,420
+as I'm highlighting here, is very thin and delicate.
+
+147
+00:05:49,420 --> 00:05:51,680
+And so this is a normal glomerulus.
+
+148
+00:05:51,680 --> 00:05:54,680
+Now, on EM, which is where you're going to find the key changes
+
+149
+00:05:54,680 --> 00:05:57,180
+with minimal change disease, you're going to get effacement
+
+150
+00:05:57,180 --> 00:05:59,640
+of the foot processes, as I'm marking here.
+
+151
+00:05:59,640 --> 00:06:01,020
+Again, these are red blood cells,
+
+152
+00:06:01,020 --> 00:06:03,140
+so this would be the blood vessel.
+
+153
+00:06:03,140 --> 00:06:05,380
+Here is the endothelial cells here.
+
+154
+00:06:05,380 --> 00:06:06,940
+This is the basement membrane.
+
+155
+00:06:06,940 --> 00:06:09,340
+And then this is where the foot processes should be.
+
+156
+00:06:09,340 --> 00:06:11,740
+However, you can clearly see that the foot processes
+
+157
+00:06:11,740 --> 00:06:14,080
+are effaced or flattened.
+
+158
+00:06:14,080 --> 00:06:17,140
+And again, that's the hallmark of minimal change disease.
+
+159
+00:06:17,140 --> 00:06:20,320
+The next disorder is focal segmental glomerulus sclerosis.
+
+160
+00:06:20,320 --> 00:06:22,880
+This is the most common cause of nephrotic syndrome
+
+161
+00:06:22,880 --> 00:06:25,760
+in Hispanics and African Americans.
+
+162
+00:06:25,760 --> 00:06:27,720
+Again, as with most nephrotic syndromes,
+
+163
+00:06:27,720 --> 00:06:29,320
+it's usually idiopathic.
+
+164
+00:06:29,320 --> 00:06:32,020
+However, it can be associated with HIV,
+
+165
+00:06:32,020 --> 00:06:34,480
+heroin use, or sickle cell disease.
+
+166
+00:06:34,480 --> 00:06:36,560
+This is very high yield.
+
+167
+00:06:36,560 --> 00:06:38,680
+Now, let me just remind you that if you have a patient
+
+168
+00:06:38,680 --> 00:06:41,320
+on an examination or in the clinics,
+
+169
+00:06:41,320 --> 00:06:45,260
+and they have HIV and then develop nephrotic syndrome,
+
+170
+00:06:45,260 --> 00:06:47,020
+the nephrotic syndrome that they have
+
+171
+00:06:47,020 --> 00:06:50,560
+is focal segmental glomerulus sclerosis.
+
+172
+00:06:50,560 --> 00:06:53,180
+Similarly, the most common cause of nephrotic syndrome
+
+173
+00:06:53,180 --> 00:06:55,220
+in heroin users is going to be
+
+174
+00:06:55,220 --> 00:06:57,460
+focal segmental glomerulus sclerosis.
+
+175
+00:06:57,460 --> 00:06:59,020
+And if you have a sickle cell patient
+
+176
+00:06:59,020 --> 00:07:00,780
+and they develop nephrotic syndrome,
+
+177
+00:07:00,780 --> 00:07:01,960
+again, you're gonna think about
+
+178
+00:07:01,960 --> 00:07:05,220
+focal segmental glomerulus sclerosis.
+
+179
+00:07:05,220 --> 00:07:07,860
+Now, the name focal segmental glomerulus sclerosis
+
+180
+00:07:07,860 --> 00:07:09,960
+actually gives away what we're going to see
+
+181
+00:07:09,960 --> 00:07:11,620
+in this particular disorder.
+
+182
+00:07:11,620 --> 00:07:13,820
+The words glomerulus sclerosis imply
+
+183
+00:07:13,820 --> 00:07:16,060
+that we're going to see a dense pink deposition
+
+184
+00:07:16,060 --> 00:07:18,420
+of collagen within the glomerulus.
+
+185
+00:07:18,420 --> 00:07:21,420
+In addition, this deposition will be segmental.
+
+186
+00:07:21,420 --> 00:07:23,760
+And what segmental means is that if you were to look
+
+187
+00:07:23,760 --> 00:07:25,520
+at the circle of the glomerulus,
+
+188
+00:07:25,520 --> 00:07:28,460
+it would only involve one segment of the glomerulus,
+
+189
+00:07:28,460 --> 00:07:31,700
+whereas other segments of the glomerulus would be normal.
+
+190
+00:07:31,700 --> 00:07:35,800
+Finally, the word focal means that you will have involvement
+
+191
+00:07:35,800 --> 00:07:38,720
+of only some of the glomeruli within the kidney.
+
+192
+00:07:38,720 --> 00:07:41,420
+And so, for example, if there were three glomeruli
+
+193
+00:07:41,420 --> 00:07:44,160
+within the kidney, maybe only one would be involved.
+
+194
+00:07:44,160 --> 00:07:46,520
+And, of course, there aren't three glomeruli in the kidney,
+
+195
+00:07:46,520 --> 00:07:48,520
+but I'm just simply using that as an example.
+
+196
+00:07:48,520 --> 00:07:51,860
+So, again, focal, one out of three, for example.
+
+197
+00:07:51,860 --> 00:07:54,460
+Segmental, the one that is involved,
+
+198
+00:07:54,460 --> 00:07:56,860
+only part of the globe or part of that circle
+
+199
+00:07:56,860 --> 00:07:58,020
+is actually involved.
+
+200
+00:07:58,020 --> 00:07:59,520
+And what's the lesion?
+
+201
+00:07:59,520 --> 00:08:02,520
+Pink sclerosis within the glomerulus on H and E.
+
+202
+00:08:02,520 --> 00:08:05,880
+Now, in this particular disorder, you get effacement
+
+203
+00:08:05,880 --> 00:08:07,880
+of the foot processes on EM.
+
+204
+00:08:07,880 --> 00:08:10,080
+Now, here's how I think about this.
+
+205
+00:08:10,080 --> 00:08:12,380
+What you need to remember is that when you have a patient
+
+206
+00:08:12,380 --> 00:08:14,820
+with minimal change disease, the vast majority
+
+207
+00:08:14,820 --> 00:08:16,880
+of those patients respond to steroids.
+
+208
+00:08:16,880 --> 00:08:19,180
+However, if you were to give a patient with minimal change
+
+209
+00:08:19,180 --> 00:08:21,980
+disease steroids and they didn't respond,
+
+210
+00:08:21,980 --> 00:08:24,660
+what they would progress to would be focal segmental
+
+211
+00:08:24,660 --> 00:08:25,980
+glomerulosclerosis.
+
+212
+00:08:25,980 --> 00:08:29,020
+So, it's sort of the progression of what happens
+
+213
+00:08:29,020 --> 00:08:31,740
+in minimal change disease were the disease
+
+214
+00:08:31,740 --> 00:08:33,480
+to not respond to steroids.
+
+215
+00:08:33,480 --> 00:08:35,520
+And so that helps me to remember that you're going to see
+
+216
+00:08:35,520 --> 00:08:38,580
+the exact same pathology on EM,
+
+217
+00:08:38,580 --> 00:08:41,220
+which is that you'll see effacement of the foot processes.
+
+218
+00:08:41,220 --> 00:08:43,940
+Now, in this disorder, it's not driven
+
+219
+00:08:43,940 --> 00:08:45,880
+by immune complex deposition.
+
+220
+00:08:45,880 --> 00:08:47,340
+And therefore, because it's not driven
+
+221
+00:08:47,340 --> 00:08:49,020
+by immune complex deposition,
+
+222
+00:08:49,020 --> 00:08:51,180
+you really won't see anything significant
+
+223
+00:08:51,180 --> 00:08:52,540
+on immunofluorescence.
+
+224
+00:08:52,540 --> 00:08:54,480
+You can see some nonspecific findings,
+
+225
+00:08:54,480 --> 00:08:57,900
+but for your purposes of grasping this material
+
+226
+00:08:57,900 --> 00:09:00,380
+for examinations and a general understanding,
+
+227
+00:09:00,380 --> 00:09:02,400
+you're not going to really see anything specific
+
+228
+00:09:02,400 --> 00:09:04,180
+on immunofluorescence.
+
+229
+00:09:04,180 --> 00:09:06,180
+Okay, here's a picture of focal segmental
+
+230
+00:09:06,180 --> 00:09:07,600
+glomerulosclerosis.
+
+231
+00:09:07,600 --> 00:09:09,900
+I've shown you the one involved glomerulus.
+
+232
+00:09:09,900 --> 00:09:12,240
+And so here's the globe of the glomerulus.
+
+233
+00:09:12,240 --> 00:09:14,300
+You can clearly see that there's sclerosis
+
+234
+00:09:14,300 --> 00:09:15,480
+within the glomerulus.
+
+235
+00:09:15,480 --> 00:09:17,000
+However, it's segmental.
+
+236
+00:09:17,000 --> 00:09:18,240
+Here it's normal.
+
+237
+00:09:18,240 --> 00:09:20,280
+And here you have sclerosis.
+
+238
+00:09:20,280 --> 00:09:22,840
+Now, of course, focal segmental glomerulosclerosis
+
+239
+00:09:22,840 --> 00:09:25,240
+is going to have a poor response to steroids.
+
+240
+00:09:25,240 --> 00:09:27,020
+The vast majority of nephrotic syndromes,
+
+241
+00:09:27,020 --> 00:09:28,480
+except minimal change disease,
+
+242
+00:09:28,480 --> 00:09:30,240
+usually don't respond to treatment.
+
+243
+00:09:30,240 --> 00:09:33,420
+And so it'll progress to chronic renal failure.
+
+244
+00:09:33,420 --> 00:09:34,820
+The next of the nephrotic syndromes
+
+245
+00:09:34,820 --> 00:09:36,720
+is membranous nephropathy.
+
+246
+00:09:36,720 --> 00:09:38,120
+Now, this is the most common cause
+
+247
+00:09:38,120 --> 00:09:40,440
+of nephrotic syndrome in Caucasian adults.
+
+248
+00:09:40,440 --> 00:09:42,520
+And that's particularly high yield.
+
+249
+00:09:42,520 --> 00:09:43,980
+It's usually idiopathic.
+
+250
+00:09:43,980 --> 00:09:45,720
+But of course, that's nothing special
+
+251
+00:09:45,720 --> 00:09:48,440
+because nephrotic syndromes are usually idiopathic.
+
+252
+00:09:48,440 --> 00:09:51,500
+However, it can be associated with hepatitis B or C,
+
+253
+00:09:51,500 --> 00:09:54,540
+solid tumors, lupus, or some drugs.
+
+254
+00:09:54,540 --> 00:09:57,000
+Now lupus is particularly important here.
+
+255
+00:09:57,000 --> 00:09:59,100
+Let me just remind you that patients with lupus,
+
+256
+00:09:59,100 --> 00:10:01,900
+the most common cause of death is renal failure.
+
+257
+00:10:01,900 --> 00:10:05,680
+And the most common disorder that they get within the kidney
+
+258
+00:10:05,680 --> 00:10:07,640
+is actually a nephritic syndrome
+
+259
+00:10:07,640 --> 00:10:11,080
+called diffuse proliferative glomerulonephritis.
+
+260
+00:10:11,080 --> 00:10:13,040
+However, lupus patients can also present
+
+261
+00:10:13,040 --> 00:10:14,480
+with nephrotic syndrome.
+
+262
+00:10:14,480 --> 00:10:16,640
+And if they present with nephrotic syndrome,
+
+263
+00:10:16,640 --> 00:10:18,980
+then the nephrotic syndrome that they develop
+
+264
+00:10:18,980 --> 00:10:20,920
+is membranous nephropathy.
+
+265
+00:10:20,920 --> 00:10:24,080
+And that's very high yield for board examinations.
+
+266
+00:10:24,080 --> 00:10:26,240
+So it is important to note these associations.
+
+267
+00:10:26,240 --> 00:10:31,220
+For example, hepatitis B and C, solid tumors, lupus, drugs, etc.
+
+268
+00:10:31,220 --> 00:10:32,420
+Now in membranous nephropathy,
+
+269
+00:10:32,420 --> 00:10:35,840
+the key finding is actually given away by the name membranous.
+
+270
+00:10:35,840 --> 00:10:37,420
+So what's going to happen is you're going to get
+
+271
+00:10:37,420 --> 00:10:40,240
+thick glomerular basement membranes on H and E.
+
+272
+00:10:40,240 --> 00:10:44,200
+So that filtration barrier that we normally would see on H and E
+
+273
+00:10:44,200 --> 00:10:46,680
+to be thin and delicate is going to become thick.
+
+274
+00:10:46,680 --> 00:10:48,440
+And so let me show you an image of that
+
+275
+00:10:48,440 --> 00:10:49,840
+just to highlight this principle.
+
+276
+00:10:49,840 --> 00:10:51,340
+Now here is a glomerulus.
+
+277
+00:10:51,340 --> 00:10:52,600
+And when you look at this glomerulus,
+
+278
+00:10:52,600 --> 00:10:56,100
+what you can recognize is that the glomerular filtration membrane
+
+279
+00:10:56,100 --> 00:10:58,280
+has become particularly thick.
+
+280
+00:10:58,280 --> 00:11:01,540
+And so hence, we give it the name membranous nephropathy
+
+281
+00:11:01,540 --> 00:11:03,880
+because that membrane has become thick.
+
+282
+00:11:04,280 --> 00:11:06,180
+Now, you can ask the question,
+
+283
+00:11:06,320 --> 00:11:07,760
+why did the membrane become thick?
+
+284
+00:11:07,760 --> 00:11:10,360
+And in the disorder membranous nephropathy,
+
+285
+00:11:10,360 --> 00:11:13,960
+the key problem is that you have immune complex deposition.
+
+286
+00:11:13,960 --> 00:11:15,200
+I'll give you a little bit of a hint.
+
+287
+00:11:15,200 --> 00:11:18,760
+Any disease that has the word membranous in it,
+
+288
+00:11:18,760 --> 00:11:22,220
+and there's only two, membranous and membranoproliferative,
+
+289
+00:11:22,220 --> 00:11:23,800
+which is going to be the next disorder
+
+290
+00:11:23,800 --> 00:11:25,000
+that we're going to cover,
+
+291
+00:11:25,000 --> 00:11:28,320
+in all of those cases, you get thickening of the membrane,
+
+292
+00:11:28,320 --> 00:11:29,760
+and the thickening of the membrane
+
+293
+00:11:29,760 --> 00:11:32,300
+is due to immune complex deposition.
+
+294
+00:11:32,300 --> 00:11:34,060
+All right, so that's going to be a general theme.
+
+295
+00:11:34,060 --> 00:11:37,160
+And I'll highlight that one more time as we go along.
+
+296
+00:11:37,160 --> 00:11:38,400
+Now, in this particular case,
+
+297
+00:11:38,400 --> 00:11:40,360
+once you have immune complex deposition,
+
+298
+00:11:40,360 --> 00:11:42,820
+then you should know that the immunofluorescence
+
+299
+00:11:42,820 --> 00:11:44,460
+is going to be granular.
+
+300
+00:11:44,460 --> 00:11:47,700
+This is important to highlight, so let me illustrate it.
+
+301
+00:11:47,700 --> 00:11:50,300
+Here again, you've got the endothelial cell,
+
+302
+00:11:50,300 --> 00:11:53,200
+and the endothelial cell sits on the basement membrane,
+
+303
+00:11:53,200 --> 00:11:55,400
+and upon that sits the podocyte.
+
+304
+00:11:55,400 --> 00:11:57,520
+Now, what's going to happen in this disorder
+
+305
+00:11:57,520 --> 00:12:01,560
+is that we are going to get immune complex deposition
+
+306
+00:12:01,560 --> 00:12:04,900
+at the level of the podocyte.
+
+307
+00:12:04,900 --> 00:12:07,020
+So it will be right underneath the podocyte,
+
+308
+00:12:07,020 --> 00:12:09,500
+or right under the epithelial cell,
+
+309
+00:12:09,500 --> 00:12:12,160
+and so it's also called subepithelial.
+
+310
+00:12:12,160 --> 00:12:13,760
+Now, a few important things.
+
+311
+00:12:13,760 --> 00:12:16,120
+Number one, these deposits will be detectable
+
+312
+00:12:16,120 --> 00:12:17,600
+by immunofluorescence.
+
+313
+00:12:17,600 --> 00:12:19,500
+And the immunofluorescence is going to light up
+
+314
+00:12:19,500 --> 00:12:21,460
+the little grains of deposit,
+
+315
+00:12:21,460 --> 00:12:23,400
+or the little circular deposits,
+
+316
+00:12:23,400 --> 00:12:26,300
+which basically is then going to produce a granular,
+
+317
+00:12:26,300 --> 00:12:29,040
+or a grainy immunofluorescence.
+
+318
+00:12:29,040 --> 00:12:30,900
+At the same time, the other point to note
+
+319
+00:12:30,900 --> 00:12:33,400
+is that when these deposits are sitting
+
+320
+00:12:33,400 --> 00:12:36,640
+underneath the epithelial cell, or the podocyte,
+
+321
+00:12:36,640 --> 00:12:40,100
+the podocyte will respond by trying to lay down
+
+322
+00:12:40,100 --> 00:12:41,600
+additional basement membrane.
+
+323
+00:12:41,600 --> 00:12:44,600
+Basically, epithelial cells need to sit on basement membrane,
+
+324
+00:12:44,600 --> 00:12:46,160
+and they don't like to be kicked off
+
+325
+00:12:46,160 --> 00:12:48,600
+of their basement membrane by these deposits.
+
+326
+00:12:48,600 --> 00:12:51,040
+Now, as they lay down additional basement membrane,
+
+327
+00:12:51,040 --> 00:12:52,800
+what's going to happen is you're going to generate
+
+328
+00:12:52,800 --> 00:12:55,560
+a dome over the deposit.
+
+329
+00:12:55,560 --> 00:12:58,320
+And then, let's pretend there's another deposit here.
+
+330
+00:12:58,320 --> 00:13:01,500
+You're going to generate another dome over that deposit.
+
+331
+00:13:01,500 --> 00:13:04,600
+And in between the dome, you're going to create these spikes.
+
+332
+00:13:04,600 --> 00:13:07,260
+And so you get this spike and dome,
+
+333
+00:13:07,260 --> 00:13:10,860
+spike and dome appearance on EM.
+
+334
+00:13:10,860 --> 00:13:13,860
+And that's a classic description of the EM
+
+335
+00:13:13,860 --> 00:13:15,700
+of membranous nephropathy.
+
+336
+00:13:15,700 --> 00:13:18,120
+Now, let's go back and just see what we say here in the notes.
+
+337
+00:13:18,120 --> 00:13:20,200
+So membranous nephropathy is called membranous
+
+338
+00:13:20,200 --> 00:13:23,660
+because you get thick glomerular basement membranes on H and E.
+
+339
+00:13:23,660 --> 00:13:26,520
+Of course, anytime you have the word membranous in the name
+
+340
+00:13:26,520 --> 00:13:28,920
+of the disorder when we're studying these disorders,
+
+341
+00:13:28,920 --> 00:13:31,760
+it's going to be due to immune complex deposition.
+
+342
+00:13:31,760 --> 00:13:35,020
+The immune complex deposition is going to give us a granular
+
+343
+00:13:35,020 --> 00:13:38,160
+immunofluorescence because we're going to light up each of those
+
+344
+00:13:38,160 --> 00:13:40,760
+little grainy immune complexes.
+
+345
+00:13:40,760 --> 00:13:43,760
+Now, of course, because this is subepithelial and this disorder
+
+346
+00:13:43,760 --> 00:13:46,420
+is characterized by subepithelial deposits,
+
+347
+00:13:46,420 --> 00:13:49,080
+we're going to generate a spike and dome appearance
+
+348
+00:13:49,080 --> 00:13:51,120
+on the electron microscopy.
+
+349
+00:13:51,120 --> 00:13:53,980
+Here is the H and E image that I've already shown you.
+
+350
+00:13:53,980 --> 00:13:56,120
+And the key problem here is that you've got thickening
+
+351
+00:13:56,120 --> 00:13:58,320
+of this glomerular filtration barrier
+
+352
+00:13:58,320 --> 00:14:00,180
+or thickening of the membrane.
+
+353
+00:14:00,180 --> 00:14:02,020
+When you look at this on immunofluorescence,
+
+354
+00:14:02,020 --> 00:14:03,680
+what you're going to see is this grainy
+
+355
+00:14:03,680 --> 00:14:05,720
+or granular immunofluorescence.
+
+356
+00:14:05,720 --> 00:14:07,180
+And so just focus here for a minute.
+
+357
+00:14:07,180 --> 00:14:10,080
+Can you appreciate all the little dots that are going,
+
+358
+00:14:10,080 --> 00:14:11,880
+that are being put together in order to create
+
+359
+00:14:11,880 --> 00:14:13,780
+this immunofluorescence pattern?
+
+360
+00:14:13,780 --> 00:14:15,840
+Again, that's the granular immunofluorescence.
+
+361
+00:14:15,840 --> 00:14:18,820
+And granular immunofluorescence equals
+
+362
+00:14:18,820 --> 00:14:21,140
+immune complex deposition problem.
+
+363
+00:14:21,140 --> 00:14:23,220
+It tells you that there is immune complex
+
+364
+00:14:23,220 --> 00:14:25,120
+depositing within that membrane.
+
+365
+00:14:25,120 --> 00:14:27,380
+Of course, you would then do EM to try to localize
+
+366
+00:14:27,380 --> 00:14:28,980
+where the immune complex is.
+
+367
+00:14:28,980 --> 00:14:30,980
+And in this particular case, the immune complex
+
+368
+00:14:30,980 --> 00:14:33,820
+is right underneath the podocyte.
+
+369
+00:14:33,820 --> 00:14:35,740
+And it's kicking off the podocyte.
+
+370
+00:14:35,740 --> 00:14:37,980
+Now, of course, when the podocyte is separated
+
+371
+00:14:37,980 --> 00:14:40,780
+from its basement membrane, it's not going to be happy about that.
+
+372
+00:14:40,780 --> 00:14:43,520
+And so it's going to lay down new basement membrane.
+
+373
+00:14:43,520 --> 00:14:45,180
+And when it lays down new basement membrane,
+
+374
+00:14:45,180 --> 00:14:47,880
+you're going to create these domes and then a spike
+
+375
+00:14:47,880 --> 00:14:50,540
+and then another dome and then another dome.
+
+376
+00:14:50,540 --> 00:14:53,480
+And this would be the spike here in between the deposits.
+
+377
+00:14:53,480 --> 00:14:57,580
+So again, domes on top of the deposits and spikes in between.
+
+378
+00:14:57,580 --> 00:15:00,120
+The next nephrotic syndrome is membranoproliferative
+
+379
+00:15:00,120 --> 00:15:01,480
+glomerulonephritis.
+
+380
+00:15:01,480 --> 00:15:04,720
+The term membrano tells you that you're going to get thickening
+
+381
+00:15:04,720 --> 00:15:07,020
+of that capillary membrane on H and E.
+
+382
+00:15:07,020 --> 00:15:08,920
+And of course, whenever you have the word membrano
+
+383
+00:15:08,920 --> 00:15:10,880
+when you have thickening of the capillary membrane,
+
+384
+00:15:10,880 --> 00:15:13,160
+it's going to be due to immune complex deposition,
+
+385
+00:15:13,160 --> 00:15:14,380
+as I've already explained.
+
+386
+00:15:14,380 --> 00:15:17,080
+And of course, whenever you have immune complex deposition,
+
+387
+00:15:17,080 --> 00:15:19,420
+you're going to have a granular immunofluorescence.
+
+388
+00:15:19,420 --> 00:15:22,720
+Now, in addition, notice that we have the word proliferative here.
+
+389
+00:15:22,720 --> 00:15:25,880
+And what proliferative means is that the mesangial cell
+
+390
+00:15:25,880 --> 00:15:28,880
+that's holding together all of those capillary loops,
+
+391
+00:15:28,880 --> 00:15:32,460
+the cytoplasm of the mesangial cell is going to proliferate
+
+392
+00:15:32,460 --> 00:15:36,020
+and it's going to, it's going to separate the deposit,
+
+393
+00:15:36,020 --> 00:15:38,660
+creating a classic tram track appearance.
+
+394
+00:15:38,660 --> 00:15:39,820
+Let's illustrate this.
+
+395
+00:15:39,820 --> 00:15:43,000
+So here you have the endothelial cell.
+
+396
+00:15:43,000 --> 00:15:45,020
+And of course, the endothelial cell sits
+
+397
+00:15:45,020 --> 00:15:46,760
+on top of basement membrane.
+
+398
+00:15:46,760 --> 00:15:50,420
+And then above that, you've got the foot processes
+
+399
+00:15:50,420 --> 00:15:52,100
+of the podocytes.
+
+400
+00:15:52,100 --> 00:15:53,620
+Now in this particular disorder,
+
+401
+00:15:53,620 --> 00:15:57,300
+let's imagine that you get a immune complex deposit.
+
+402
+00:15:57,300 --> 00:15:59,660
+And the immune complex deposit in membranoproliferative
+
+403
+00:15:59,660 --> 00:16:02,460
+can be underneath the endothelium or it can be
+
+404
+00:16:02,460 --> 00:16:03,900
+in the basement membrane.
+
+405
+00:16:03,900 --> 00:16:06,020
+Let's put it here underneath the endothelium
+
+406
+00:16:06,020 --> 00:16:07,260
+for the time being.
+
+407
+00:16:07,260 --> 00:16:09,820
+Now what's going to happen is here is the mesangial cell
+
+408
+00:16:09,820 --> 00:16:11,820
+holding together the capillary.
+
+409
+00:16:11,820 --> 00:16:14,120
+And when the mesangial cell sees this deposit,
+
+410
+00:16:14,120 --> 00:16:16,960
+it will proliferate its cytoplasm and basically cut
+
+411
+00:16:16,960 --> 00:16:18,700
+through the middle of that deposit.
+
+412
+00:16:18,700 --> 00:16:20,360
+When it cuts through the middle of the deposit,
+
+413
+00:16:20,360 --> 00:16:24,320
+it's going to create or separate the deposit into two pieces.
+
+414
+00:16:24,320 --> 00:16:27,960
+And these two pieces are going to look like a tram track.
+
+415
+00:16:27,960 --> 00:16:31,120
+You know, two lines which basically form a track.
+
+416
+00:16:31,120 --> 00:16:33,100
+And so that's why I say here in your notes
+
+417
+00:16:33,100 --> 00:16:35,820
+that it's going to have a classic tram track appearance.
+
+418
+00:16:35,820 --> 00:16:37,900
+Now this is the easiest thing to remember
+
+419
+00:16:37,900 --> 00:16:39,260
+for board examinations.
+
+420
+00:16:39,260 --> 00:16:40,900
+Because the name tells you, right,
+
+421
+00:16:40,900 --> 00:16:42,460
+that you've got a membrane,
+
+422
+00:16:42,460 --> 00:16:44,300
+and that there's going to be proliferation
+
+423
+00:16:44,300 --> 00:16:46,820
+of the mesangial cells, hence the word proliferative.
+
+424
+00:16:46,820 --> 00:16:49,460
+And that proliferation of the cytoplasm of the mesangium
+
+425
+00:16:49,460 --> 00:16:51,500
+is going to cut the deposit in half,
+
+426
+00:16:51,500 --> 00:16:53,760
+creating two lines, which is a tram track.
+
+427
+00:16:53,760 --> 00:16:54,700
+So it's a giveaway.
+
+428
+00:16:54,700 --> 00:16:56,460
+If they were to ask you on the board exam,
+
+429
+00:16:56,460 --> 00:16:58,620
+which of the following has a tram track appearance,
+
+430
+00:16:58,620 --> 00:17:01,700
+it's a giveaway that the answer would be membranoproliferative.
+
+431
+00:17:01,700 --> 00:17:04,460
+All right, so again, I use the name to help me
+
+432
+00:17:04,460 --> 00:17:06,100
+because I think it takes you very far
+
+433
+00:17:06,100 --> 00:17:09,100
+when you're considering many of the disorders in pathology.
+
+434
+00:17:09,100 --> 00:17:11,020
+Now unfortunately, we're not done.
+
+435
+00:17:11,020 --> 00:17:14,460
+When you have membranoproliferative glomerulonephritis,
+
+436
+00:17:14,460 --> 00:17:16,900
+it's actually divided into two types.
+
+437
+00:17:16,900 --> 00:17:18,500
+And it's divided into two types
+
+438
+00:17:18,500 --> 00:17:20,920
+based on the location of the deposits.
+
+439
+00:17:20,920 --> 00:17:22,360
+So let's illustrate this.
+
+440
+00:17:22,360 --> 00:17:24,320
+This is the endothelial cell.
+
+441
+00:17:24,320 --> 00:17:26,360
+That's sitting on top of a basement membrane.
+
+442
+00:17:26,360 --> 00:17:28,860
+And of course, the podocytes are sitting on the opposite side.
+
+443
+00:17:28,860 --> 00:17:30,820
+These are the epithelial cells.
+
+444
+00:17:30,820 --> 00:17:34,460
+In type one membranoproliferative glomerulonephritis,
+
+445
+00:17:34,460 --> 00:17:38,700
+you get deposits underneath the endothelial cell
+
+446
+00:17:38,700 --> 00:17:40,560
+or subendothelial.
+
+447
+00:17:40,560 --> 00:17:42,620
+So this would be type one.
+
+448
+00:17:42,620 --> 00:17:44,960
+And important to note that type one
+
+449
+00:17:44,960 --> 00:17:48,020
+is associated with hepatitis B virus
+
+450
+00:17:48,020 --> 00:17:51,480
+and hepatitis C virus infections.
+
+451
+00:17:51,480 --> 00:17:53,380
+That's particularly high yield.
+
+452
+00:17:53,380 --> 00:17:55,520
+Now in type one, it's also important to note,
+
+453
+00:17:55,520 --> 00:17:57,880
+and you should add this to the margin of your text,
+
+454
+00:17:57,880 --> 00:18:00,820
+that type one is more often associated
+
+455
+00:18:00,820 --> 00:18:03,060
+with the formation of tram tracts.
+
+456
+00:18:03,060 --> 00:18:05,260
+Okay, so type one, I would say a few things.
+
+457
+00:18:05,260 --> 00:18:08,360
+Number one, hepatitis B virus, hepatitis C virus,
+
+458
+00:18:08,360 --> 00:18:09,980
+and more often associated
+
+459
+00:18:09,980 --> 00:18:12,260
+with the formation of tram tracts.
+
+460
+00:18:12,260 --> 00:18:16,020
+In type two membranoproliferative glomerulonephritis,
+
+461
+00:18:16,020 --> 00:18:20,120
+you get deposition of the immune complexes
+
+462
+00:18:20,120 --> 00:18:22,180
+within the basement membrane.
+
+463
+00:18:22,180 --> 00:18:24,660
+So this is type two.
+
+464
+00:18:24,660 --> 00:18:25,980
+Now in type two,
+
+465
+00:18:25,980 --> 00:18:29,460
+there is a very super high yield association.
+
+466
+00:18:29,460 --> 00:18:32,960
+And that is that these patients have an antibody
+
+467
+00:18:32,960 --> 00:18:36,420
+in their blood called C3 nephritic factor.
+
+468
+00:18:36,420 --> 00:18:38,260
+Basically it's an autoantibody.
+
+469
+00:18:38,260 --> 00:18:40,280
+It's called C3 nephritic factor,
+
+470
+00:18:40,280 --> 00:18:43,220
+and it stabilizes C3 convertase.
+
+471
+00:18:43,220 --> 00:18:45,260
+Now the stabilization of C3 convertase
+
+472
+00:18:45,260 --> 00:18:47,660
+leads to the over-activation of complement,
+
+473
+00:18:47,660 --> 00:18:49,360
+which then results in inflammation,
+
+474
+00:18:49,360 --> 00:18:51,700
+and then can drive this process forward.
+
+475
+00:18:51,700 --> 00:18:52,860
+Now let me just hit home on this
+
+476
+00:18:52,860 --> 00:18:54,800
+in order to highlight this high yield point.
+
+477
+00:18:54,800 --> 00:18:57,900
+So remember that C3 is an important component of complement,
+
+478
+00:18:57,900 --> 00:19:03,560
+and C3 gets converted into C3A and C3B.
+
+479
+00:19:03,560 --> 00:19:05,920
+Now the enzyme that's going to cause this conversion
+
+480
+00:19:05,920 --> 00:19:09,360
+is called C3 convertase.
+
+481
+00:19:09,360 --> 00:19:12,100
+Remember that whenever you generate C3 convertase,
+
+482
+00:19:12,100 --> 00:19:14,700
+you very quickly destroy C3 convertase,
+
+483
+00:19:14,700 --> 00:19:17,100
+because you only want to turn complement on
+
+484
+00:19:17,100 --> 00:19:20,260
+for just a very, very limited period of time.
+
+485
+00:19:20,260 --> 00:19:23,140
+So normally C3 convertase would be destroyed rapidly.
+
+486
+00:19:23,140 --> 00:19:25,200
+However, in these patients with type two,
+
+487
+00:19:25,200 --> 00:19:27,500
+membranoproliferative glomerulonephritis,
+
+488
+00:19:27,500 --> 00:19:30,860
+they actually have an antibody that blocks C3 convertase
+
+489
+00:19:30,860 --> 00:19:32,340
+and stabilizes it.
+
+490
+00:19:32,340 --> 00:19:33,660
+Now it doesn't block the activity,
+
+491
+00:19:33,660 --> 00:19:36,500
+but it stabilizes it so it can't be broken down.
+
+492
+00:19:36,500 --> 00:19:37,900
+So when it can't be broken down,
+
+493
+00:19:37,900 --> 00:19:40,700
+this is going to result in over-activation of complement,
+
+494
+00:19:40,700 --> 00:19:43,160
+and so you're going to get a decreased serum C3
+
+495
+00:19:43,160 --> 00:19:45,260
+with an over-activation of complement.
+
+496
+00:19:45,260 --> 00:19:47,100
+That's going to result in inflammation
+
+497
+00:19:47,100 --> 00:19:50,800
+and inflammatory damage within the glomerulus.
+
+498
+00:19:50,800 --> 00:19:51,600
+Now with that in mind,
+
+499
+00:19:51,600 --> 00:19:53,600
+I'd like to highlight one more important point,
+
+500
+00:19:53,600 --> 00:19:56,100
+and that is membranoproliferative glomerulonephritis
+
+501
+00:19:56,100 --> 00:19:58,340
+can actually produce nephritic syndrome
+
+502
+00:19:58,340 --> 00:20:00,900
+or nephrotic syndrome or both.
+
+503
+00:20:00,900 --> 00:20:02,540
+Now I put it in this discussion here
+
+504
+00:20:02,540 --> 00:20:05,440
+because it fits well with the concept of membranous
+
+505
+00:20:05,440 --> 00:20:08,280
+and then thinking about membranoproliferative after that.
+
+506
+00:20:08,280 --> 00:20:10,800
+So I combined it here because it has the potential
+
+507
+00:20:10,800 --> 00:20:12,480
+to create nephrotic syndrome.
+
+508
+00:20:12,480 --> 00:20:13,640
+However, you should bear in mind
+
+509
+00:20:13,640 --> 00:20:16,200
+that it can also create nephritic syndrome,
+
+510
+00:20:16,200 --> 00:20:18,100
+or sometimes it can create both.
+
+511
+00:20:18,100 --> 00:20:21,100
+And of course, if you have over-activation of complement
+
+512
+00:20:21,100 --> 00:20:22,700
+as you would have in type two,
+
+513
+00:20:22,700 --> 00:20:24,940
+you're going to get inflammation within the glomerulus,
+
+514
+00:20:24,940 --> 00:20:26,480
+and that inflammation is going to be more
+
+515
+00:20:26,480 --> 00:20:29,480
+of a nephritic syndrome than it would be a nephrotic syndrome.
+
+516
+00:20:29,480 --> 00:20:31,580
+However, for the purposes of learning,
+
+517
+00:20:31,580 --> 00:20:35,240
+I think it's nice to put membranous glomerulonephropathy
+
+518
+00:20:35,240 --> 00:20:38,900
+sort of right before membranoproliferative glomerulonephritis.
+
+519
+00:20:38,900 --> 00:20:40,400
+Now another reason why I do it
+
+520
+00:20:40,400 --> 00:20:42,280
+is because it helps me to remember
+
+521
+00:20:42,280 --> 00:20:44,280
+that in the membranotype diseases,
+
+522
+00:20:44,280 --> 00:20:46,640
+whether it be membranous or membranoproliferative,
+
+523
+00:20:46,640 --> 00:20:49,600
+you're always going to have immune complex deposits,
+
+524
+00:20:49,600 --> 00:20:51,900
+and that those immune complex deposits
+
+525
+00:20:51,900 --> 00:20:53,640
+will be in one of three locations.
+
+526
+00:20:53,640 --> 00:20:55,180
+And the diseases together,
+
+527
+00:20:55,180 --> 00:20:57,200
+they cover every possible location.
+
+528
+00:20:57,200 --> 00:21:00,140
+What I mean by that is that here's the endothelial cell,
+
+529
+00:21:00,140 --> 00:21:01,880
+and then you've got the basement membrane,
+
+530
+00:21:01,880 --> 00:21:05,280
+and then on top of that you've got the podocyte, correct?
+
+531
+00:21:05,280 --> 00:21:07,820
+Now what can happen here is that you can get deposits
+
+532
+00:21:07,820 --> 00:21:10,920
+underneath the epithelium, that's called subepithelium,
+
+533
+00:21:10,920 --> 00:21:15,320
+and that's seen in membranous glomerulonephropathy.
+
+534
+00:21:15,320 --> 00:21:17,980
+And then you can also get deposits in this,
+
+535
+00:21:17,980 --> 00:21:22,180
+underneath the endothelium, and that's seen in type one,
+
+536
+00:21:22,180 --> 00:21:25,140
+membranoproliferative glomerulonephritis,
+
+537
+00:21:25,140 --> 00:21:27,780
+or you can get deposits within the basement membrane,
+
+538
+00:21:27,780 --> 00:21:33,420
+and that's seen in type two, membranoproliferative glomerulonephritis.
+
+539
+00:21:33,420 --> 00:21:36,520
+So notice that in these membranous type diseases,
+
+540
+00:21:36,520 --> 00:21:38,340
+there are, you covered all three layers, right?
+
+541
+00:21:38,340 --> 00:21:39,640
+There was one possibility of being
+
+542
+00:21:39,640 --> 00:21:41,320
+underneath the endothelial cell,
+
+543
+00:21:41,320 --> 00:21:43,640
+one possibility of being in the basement membrane,
+
+544
+00:21:43,640 --> 00:21:46,480
+and one possibility of being underneath the epithelial cell.
+
+545
+00:21:46,480 --> 00:21:48,120
+And so we covered all three.
+
+546
+00:21:48,120 --> 00:21:52,860
+One, two, and then membranous up here.
+
+547
+00:21:52,860 --> 00:21:55,760
+So all three were covered by these diseases.
+
+548
+00:21:55,760 --> 00:21:59,000
+And again, in all of these diseases, the key problem is immune complex,
+
+549
+00:21:59,000 --> 00:22:02,260
+so you're gonna get a granular immunofluorescence, et cetera, et cetera.
+
+550
+00:22:02,260 --> 00:22:04,760
+And so that's the way I like to think about these disorders.
+
+551
+00:22:04,760 --> 00:22:08,020
+In fact, the way I overall think about nephrotic syndrome
+
+552
+00:22:08,020 --> 00:22:10,120
+is that there's basically six causes,
+
+553
+00:22:10,120 --> 00:22:11,820
+and I put them together in twos.
+
+554
+00:22:11,820 --> 00:22:14,620
+So you've got minimal change disease and FSGS,
+
+555
+00:22:14,620 --> 00:22:18,960
+and in both of those disorders, the key problem is effacement of the foot process,
+
+556
+00:22:18,960 --> 00:22:21,660
+and then you've got membranous and membranoproliferative,
+
+557
+00:22:21,660 --> 00:22:26,160
+and in those two disorders, the key problem is deposition of immune complexes,
+
+558
+00:22:26,160 --> 00:22:28,160
+which is then going to give you granular immunofluorescence
+
+559
+00:22:28,160 --> 00:22:30,660
+and all the classic findings that we've described.
+
+560
+00:22:30,660 --> 00:22:33,660
+And then there's two more causes of nephrotic syndrome,
+
+561
+00:22:33,660 --> 00:22:34,660
+so there's six in all.
+
+562
+00:22:34,660 --> 00:22:37,660
+And the next two are going to be systemic diseases
+
+563
+00:22:37,660 --> 00:22:41,160
+that then affect the glomerulus to cause a nephrotic syndrome.
+
+564
+00:22:41,160 --> 00:22:43,660
+And so the first of those is diabetes mellitus.
+
+565
+00:22:43,660 --> 00:22:47,660
+Now what happens in diabetes is that you get a high serum glucose, obviously.
+
+566
+00:22:47,660 --> 00:22:51,660
+And the high serum glucose results in non-enzymatic glycosylation
+
+567
+00:22:51,660 --> 00:22:53,660
+of the vascular basement membrane.
+
+568
+00:22:53,660 --> 00:22:56,660
+Now when you stick sugar on the basement membrane
+
+569
+00:22:56,660 --> 00:23:00,660
+without the use of enzyme, that's called non-enzymatic glycosylation.
+
+570
+00:23:00,660 --> 00:23:03,660
+Of course, when that happens to the vascular basement membrane,
+
+571
+00:23:03,660 --> 00:23:06,660
+that's going to result in the basement membrane becoming leaky,
+
+572
+00:23:06,660 --> 00:23:09,660
+and so what's going to happen is that protein will leak into the wall
+
+573
+00:23:09,660 --> 00:23:13,660
+of the blood vessel, creating something called highline arteriolosclerosis.
+
+574
+00:23:13,660 --> 00:23:17,660
+And we talked about highline arteriolosclerosis in the vascular section,
+
+575
+00:23:17,660 --> 00:23:21,660
+and recall there, I told you that highline arteriolosclerosis
+
+576
+00:23:21,660 --> 00:23:26,660
+occurs with both hypertension, in particular benign hypertension, and diabetes.
+
+577
+00:23:26,660 --> 00:23:28,660
+Now when you get highline arteriolosclerosis,
+
+578
+00:23:28,660 --> 00:23:31,660
+the problem is that you get thickening of the blood vessel wall
+
+579
+00:23:31,660 --> 00:23:34,660
+with this protein-like material,
+
+580
+00:23:34,660 --> 00:23:37,660
+which then results in a decrease in the caliber of the lumen.
+
+581
+00:23:37,660 --> 00:23:40,660
+Now it's important to note that in diabetes, what actually happens
+
+582
+00:23:40,660 --> 00:23:44,660
+is that if this is the afferent arteriole, and here is the efferent arteriole,
+
+583
+00:23:44,660 --> 00:23:49,660
+you get preferential highline arteriolosclerosis in the efferent arteriole.
+
+584
+00:23:49,660 --> 00:23:53,660
+Now that's going to reduce the caliber of the lumen,
+
+585
+00:23:53,660 --> 00:23:56,660
+and creating an increased pressure in the glomerulus, right?
+
+586
+00:23:56,660 --> 00:24:00,660
+If you tighten this, there's going to be more back pressure here in the glomerulus.
+
+587
+00:24:00,660 --> 00:24:05,660
+That increased pressure in the glomerulus is going to create hyperfiltration,
+
+588
+00:24:05,660 --> 00:24:09,660
+which is going to initially begin as microalbuminuria,
+
+589
+00:24:09,660 --> 00:24:15,660
+but eventually you'll get sclerosis of the mesangium of the glomerulus,
+
+590
+00:24:15,660 --> 00:24:18,660
+and as you get sclerosis of the mesangium of the glomerulus,
+
+591
+00:24:18,660 --> 00:24:20,660
+it'll progress to nephrotic syndrome.
+
+592
+00:24:20,660 --> 00:24:23,660
+Now one of the important things to recognize concerning this pathogenesis
+
+593
+00:24:23,660 --> 00:24:26,660
+is that if you give patients ACE inhibitors,
+
+594
+00:24:26,660 --> 00:24:29,660
+you can actually slow the progression of the hyperfiltration injury.
+
+595
+00:24:29,660 --> 00:24:34,660
+And the reason is because angiotensin II also squeezes down here,
+
+596
+00:24:34,660 --> 00:24:36,660
+and so now that additional squeezing down
+
+597
+00:24:36,660 --> 00:24:39,660
+is only going to create additional hyperfiltration injury.
+
+598
+00:24:39,660 --> 00:24:41,660
+So if you can block angiotensin II,
+
+599
+00:24:41,660 --> 00:24:44,660
+you'll decrease some of that pressure at the efferent arteriole,
+
+600
+00:24:44,660 --> 00:24:47,660
+which will then decrease the hyperfiltration injury.
+
+601
+00:24:47,660 --> 00:24:49,660
+So let's read together what we say in the text.
+
+602
+00:24:49,660 --> 00:24:51,660
+In diabetes, you get high serum glucose
+
+603
+00:24:51,660 --> 00:24:55,660
+that leads to non-enzymatic glicosylation of the vascular basement membrane.
+
+604
+00:24:55,660 --> 00:24:58,660
+By the way, that's the very first change that occurs in the kidney.
+
+605
+00:24:58,660 --> 00:25:02,660
+Non-enzymatic glicosylation of the vascular basement membrane.
+
+606
+00:25:02,660 --> 00:25:05,660
+Sometimes examiners will ask you what's the first change.
+
+607
+00:25:05,660 --> 00:25:08,660
+This then results in highline arteriolosclerosis.
+
+608
+00:25:08,660 --> 00:25:12,660
+Of course, the efferent arteriole is preferentially affected,
+
+609
+00:25:12,660 --> 00:25:14,660
+leading to a high glomerular filtration pressure.
+
+610
+00:25:14,660 --> 00:25:18,660
+The high filtration pressure results in microalbuminuria.
+
+611
+00:25:18,660 --> 00:25:20,660
+This eventually progresses to nephrotic syndrome.
+
+612
+00:25:20,660 --> 00:25:22,660
+The hallmark of nephrotic syndrome would be
+
+613
+00:25:22,660 --> 00:25:24,660
+that you would see sclerosis of the mesangium,
+
+614
+00:25:24,660 --> 00:25:28,660
+and that sclerosis results in these classic nodules
+
+615
+00:25:28,660 --> 00:25:30,660
+called Kimmel-Steele-Wilson nodules.
+
+616
+00:25:30,660 --> 00:25:33,660
+And as I've mentioned, ACE inhibitors would slow the progression
+
+617
+00:25:33,660 --> 00:25:36,660
+of hyperfiltration-induced damage.
+
+618
+00:25:36,660 --> 00:25:37,660
+So here's a picture of the glomerulus.
+
+619
+00:25:37,660 --> 00:25:39,660
+Here's the round glomerulus here.
+
+620
+00:25:39,660 --> 00:25:42,660
+And notice that in the mesangium, you've got this dense sclerosis.
+
+621
+00:25:42,660 --> 00:25:45,660
+And of course, these are Kimmel-Steele-Wilson nodules.
+
+622
+00:25:45,660 --> 00:25:47,660
+There's a perfect one right here.
+
+623
+00:25:47,660 --> 00:25:50,660
+Very high yield, as this is pathognomonic for diabetes.
+
+624
+00:25:50,660 --> 00:25:53,660
+The last disorder that can create nephrotic syndrome
+
+625
+00:25:53,660 --> 00:25:55,660
+would be systemic amyloidosis.
+
+626
+00:25:55,660 --> 00:25:57,660
+Remember that when patients have systemic amyloidosis,
+
+627
+00:25:57,660 --> 00:26:00,660
+the kidney is the most commonly involved organ.
+
+628
+00:26:00,660 --> 00:26:02,660
+I told you that when we talked about amyloid.
+
+629
+00:26:02,660 --> 00:26:05,660
+The amyloid will deposit in the mesangium,
+
+630
+00:26:05,660 --> 00:26:07,660
+and that will result in a nephrotic syndrome.
+
+631
+00:26:07,660 --> 00:26:10,660
+Of course, a biopsy would show Congo red staining
+
+632
+00:26:10,660 --> 00:26:14,660
+with apple green birefringents under polarized light.
+
+633
+00:26:14,660 --> 00:26:16,660
+Now basically, in summary, we've done the nephrotic syndromes,
+
+634
+00:26:16,660 --> 00:26:18,660
+but just remember there are six nephrotic syndromes,
+
+635
+00:26:18,660 --> 00:26:20,660
+and study them in pairs.
+
+636
+00:26:20,660 --> 00:26:22,660
+Minimal change disease, FSGS.
+
+637
+00:26:22,660 --> 00:26:25,660
+Membranous, membranoproliferative.
+
+638
+00:26:25,660 --> 00:26:27,660
+And then diabetes, and amyloid.
+
+639
+00:26:27,660 --> 00:26:30,660
+And so in each of these, again, you have some common themes.
+
+640
+00:26:30,660 --> 00:26:33,660
+And I think if you understand nephrotic syndrome in this way,
+
+641
+00:26:33,660 --> 00:26:35,660
+you'll be very strong in this topic.
+
+642
+00:26:35,660 --> 00:26:38,660
+That concludes our discussion of nephrotic syndrome.
+

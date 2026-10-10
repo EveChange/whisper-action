@@ -1,0 +1,1560 @@
+1
+00:00:00,000 --> 00:00:03,820
+The next set of disorders that we're going to cover are those that can lead to cirrhosis.
+
+2
+00:00:04,500 --> 00:00:09,580
+Cirrhosis is end-stage liver damage, and it's characterized by disruption of the normal hepatic parenchyma
+
+3
+00:00:09,580 --> 00:00:16,440
+by these broad bands of fibrosis, and in between the broad bands of fibrosis are regenerative nodules of hepatocytes.
+
+4
+00:00:17,040 --> 00:00:22,140
+Here's a picture of cirrhosis, and notice that you've got all these little circles of nodular tissue,
+
+5
+00:00:22,620 --> 00:00:26,520
+and then you can see in between them, these are separated by bands of fibrosis.
+
+6
+00:00:26,520 --> 00:00:30,300
+And normally, remember that the surface of the liver should be totally smooth,
+
+7
+00:00:30,680 --> 00:00:36,660
+and so you can clearly see that there's this nodular disruption of the surface of the liver indicative of cirrhosis.
+
+8
+00:00:37,220 --> 00:00:43,140
+Were you to look at this on microscopic image, what you would see is broad bands of fibrosis, as I'm highlighting here,
+
+9
+00:00:43,520 --> 00:00:46,900
+which are separating nodules of liver parenchyma.
+
+10
+00:00:47,240 --> 00:00:49,420
+Again, this is the hallmark of cirrhosis.
+
+11
+00:00:49,580 --> 00:00:56,400
+And one of the things that's high yield concerning cirrhosis is that the fibrosis is mediated by the stellate cell,
+
+12
+00:00:56,800 --> 00:00:59,660
+and so this is important because the board examiners will go after it.
+
+13
+00:00:59,860 --> 00:01:05,180
+The stellate cell can actually secrete TGF-beta, and this is actually the key mediator of that fibrosis.
+
+14
+00:01:05,580 --> 00:01:11,500
+Recall that the stellate cell lies beneath the endothelial cells that line the sinusoids of the hepatic plates.
+
+15
+00:01:12,200 --> 00:01:15,800
+When you think about the clinical features of cirrhosis, they're all based on damage to the liver.
+
+16
+00:01:16,180 --> 00:01:20,760
+For example, one category of clinical findings will be based on portal hypertension.
+
+17
+00:01:21,340 --> 00:01:27,220
+Because there will be portal hypertension, all of the organs that are draining through the portal system will have an increased hydrostatic pressure.
+
+18
+00:01:27,660 --> 00:01:30,740
+This will lead to ascites, which is fluid in the peritoneal cavity.
+
+19
+00:01:31,560 --> 00:01:35,740
+It will lead to enlargement of the spleen, which is called congestive splenomegaly.
+
+20
+00:01:36,120 --> 00:01:40,660
+And that enlarged spleen can actually become hyperactive and begin to consume red cells or platelets,
+
+21
+00:01:41,040 --> 00:01:46,640
+and that would be called hypersplenism, that is the consumption of red cells and platelets by an enlarged spleen.
+
+22
+00:01:46,640 --> 00:01:54,180
+In addition, we can see portal systemic shunts, and some examples include esophageal varices, hemorrhoids, and caplet medusae.
+
+23
+00:01:54,560 --> 00:01:58,740
+All of these are examples of portal systemic shunts because you can't get the blood through the liver.
+
+24
+00:01:59,020 --> 00:02:01,220
+And a final complication is hepatorenal syndrome.
+
+25
+00:02:01,600 --> 00:02:05,880
+This is a rapidly developing renal failure in the context or in the face of cirrhosis.
+
+26
+00:02:06,920 --> 00:02:13,400
+Of course, the liver plays an important role in detoxifying the blood, and if we lose liver function, that role will be decreased.
+
+27
+00:02:13,400 --> 00:02:18,780
+This will result in mental status changes associated with asterixis and eventually leading to coma.
+
+28
+00:02:19,600 --> 00:02:25,200
+These mental status changes would be due to increased serum ammonia, and this would be reversible because it is metabolic.
+
+29
+00:02:25,940 --> 00:02:29,720
+In addition, the liver plays an important role in removing estrogen from the blood,
+
+30
+00:02:30,120 --> 00:02:34,800
+and so if the liver is not able to do so, we will get signs and symptoms of excess estrogen.
+
+31
+00:02:34,800 --> 00:02:39,800
+For example, gynecomastia, spider angiometa, and palmar erythema.
+
+32
+00:02:40,120 --> 00:02:43,600
+All of these are signs and symptoms of excess estrogen.
+
+33
+00:02:44,020 --> 00:02:52,820
+And finally, we could get jaundice in the context of cirrhosis because of the fact that the liver hepatocytes play an important role in conjugating bilirubin.
+
+34
+00:02:53,700 --> 00:02:58,240
+Another important manifestation of cirrhosis would arise because of decreased protein synthesis.
+
+35
+00:02:58,240 --> 00:03:04,720
+For example, the liver plays an important role in making albumin, but if the liver is not functioning, there would be hypoalbuminemia.
+
+36
+00:03:05,320 --> 00:03:09,660
+Of course, this would also decrease the oncotic pressure of the blood, further leading to edema.
+
+37
+00:03:10,360 --> 00:03:17,920
+In addition, the liver makes the vast majority of coagulation factors and also plays an important role in activating vitamin K via epoxide reductase,
+
+38
+00:03:18,320 --> 00:03:20,240
+and so therefore the patients can develop a coagulopathy.
+
+39
+00:03:20,240 --> 00:03:25,580
+Now, it's important to note that with this coagulopathy, both the PT and the PTT would rise.
+
+40
+00:03:25,960 --> 00:03:28,600
+However, the PT is used to follow the degree of deficiency.
+
+41
+00:03:29,120 --> 00:03:32,380
+And the way I remember this is that it's very similar to the warfarin effect.
+
+42
+00:03:32,740 --> 00:03:38,620
+Of course, warfarin blocks epoxide reductase, and the PT is used to follow the degree of warfarin effect.
+
+43
+00:03:38,940 --> 00:03:42,680
+And in the same way in coagulopathy, you lose epoxide reductase,
+
+44
+00:03:42,680 --> 00:03:49,500
+and therefore PT is used to follow the effect of cirrhosis on the status of the coagulation system.
+
+45
+00:03:49,500 --> 00:03:54,580
+One of the mechanisms by which cirrhosis can develop is alcohol-related liver disease.
+
+46
+00:03:55,360 --> 00:04:00,720
+Now, alcohol-related liver disease can actually present with three classic patterns of injury.
+
+47
+00:04:01,160 --> 00:04:05,040
+In each case, there is damage of the hepatic parenchyma due to consumption of alcohol.
+
+48
+00:04:05,780 --> 00:04:08,720
+The first change that we can see with alcohol is called fatty liver.
+
+49
+00:04:09,520 --> 00:04:14,760
+Here, we get accumulation of fat within the hepatocytes, which then results in a heavy, greasy liver.
+
+50
+00:04:15,220 --> 00:04:18,240
+This is reversible and resolves with abstinence.
+
+51
+00:04:18,240 --> 00:04:20,860
+Here's an image of fatty change within the liver.
+
+52
+00:04:21,300 --> 00:04:25,400
+Notice all these circular clear spaces indicating that there is fat in the cells.
+
+53
+00:04:25,860 --> 00:04:30,900
+Here's a gross image of a liver with fatty change, and it appears large and slightly yellow,
+
+54
+00:04:31,280 --> 00:04:33,860
+and has a greasy or shiny appearance.
+
+55
+00:04:34,520 --> 00:04:38,780
+Another pathology that can arise with alcohol is called alcoholic hepatitis.
+
+56
+00:04:39,140 --> 00:04:45,020
+This is direct chemical injury to the hepatocytes by alcohol, and it generally is seen with binge drinking.
+
+57
+00:04:45,020 --> 00:04:51,480
+Now, the key mediator here is acetylaldehyde, which is a derivative of alcohol, and that's what then damages the hepatocytes.
+
+58
+00:04:52,020 --> 00:04:56,100
+The key finding in alcoholic hepatitis will be swelling or ballooning of the hepatocytes.
+
+59
+00:04:56,240 --> 00:05:00,560
+Note the enlargement and the ballooning of these cells with necrosis and acute inflammation,
+
+60
+00:05:00,980 --> 00:05:03,980
+and one highly characteristic feature called the malary body.
+
+61
+00:05:03,980 --> 00:05:08,520
+And here I'm circling for you the multiple malary bodies seen in these hepatocytes.
+
+62
+00:05:08,940 --> 00:05:16,600
+It's high yield to note, for the purposes of board examination, that the malary bodies are damaged intermediate filaments within the hepatocytes.
+
+63
+00:05:17,100 --> 00:05:24,040
+Board examiners will ask you what the malary bodies contain, and again, those are damaged intermediate filaments within the hepatocytes.
+
+64
+00:05:24,040 --> 00:05:30,140
+The presentation of alcoholic hepatitis is painful hepatomegaly with elevated liver enzymes.
+
+65
+00:05:30,520 --> 00:05:35,380
+However, one very high yield point to note is that the AST will be greater than the ALT.
+
+66
+00:05:35,640 --> 00:05:41,060
+Now, this pattern is a little different than what we would expect to see in most other causes of liver damage.
+
+67
+00:05:41,440 --> 00:05:47,360
+And the reason is that the AST is actually located in the mitochondria, and alcohol is a mitochondrial poison.
+
+68
+00:05:47,360 --> 00:05:51,820
+And so when we damage the mitochondria, we preferentially get an increase in the AST.
+
+69
+00:05:52,400 --> 00:05:56,860
+And again, that's a fairly characteristic marker of alcohol-related damage of the liver.
+
+70
+00:05:57,260 --> 00:05:59,360
+Alcoholic hepatitis can result in death.
+
+71
+00:06:00,080 --> 00:06:04,220
+The third possible pattern of damage to the liver in the face of alcohol is cirrhosis.
+
+72
+00:06:04,700 --> 00:06:10,540
+This is a complication of chronic alcohol-induced liver damage, and it's seen in about 10 to 20% of alcoholics.
+
+73
+00:06:10,840 --> 00:06:15,620
+Of course, patients with cirrhosis would present with the signs and symptoms that I've covered just a little while ago.
+
+74
+00:06:15,620 --> 00:06:21,380
+Non-alcoholic fatty liver disease is when you get fatty change, hepatitis, and or cirrhosis.
+
+75
+00:06:21,560 --> 00:06:23,740
+So these are the three key changes we saw with alcohol.
+
+76
+00:06:24,220 --> 00:06:27,080
+However, these occur without a known exposure to alcohol.
+
+77
+00:06:27,700 --> 00:06:31,380
+This is generally associated with obesity, and it's a diagnosis of exclusion.
+
+78
+00:06:31,760 --> 00:06:34,740
+That is that you sort of make the assumption that alcohol must be involved
+
+79
+00:06:34,740 --> 00:06:38,580
+until you've absolutely proved that the patient is not abusing alcohol.
+
+80
+00:06:39,020 --> 00:06:43,120
+One very helpful finding here would be that the ALT would be greater than the AST.
+
+81
+00:06:43,120 --> 00:06:46,720
+And again, that's because in this particular case, alcohol is not involved.
+
+82
+00:06:47,060 --> 00:06:50,900
+And you're well aware, as I just mentioned, that the AST is a mitochondrial enzyme
+
+83
+00:06:50,900 --> 00:06:54,540
+and is preferentially increased when there is alcohol-based damage.
+
+84
+00:06:55,920 --> 00:06:58,520
+Hemochromatosis is another disorder that can lead to cirrhosis.
+
+85
+00:06:59,060 --> 00:07:04,700
+And in hemochromatosis, we get excess body iron that deposits in tissues and then damages organs.
+
+86
+00:07:05,060 --> 00:07:07,540
+The deposition in tissues is called hemociderosis,
+
+87
+00:07:07,820 --> 00:07:11,540
+and when it actually damages the tissues, we call that hemochromatosis.
+
+88
+00:07:11,540 --> 00:07:16,680
+Now, very high yield to note, the damage is actually caused by the generation of free radicals.
+
+89
+00:07:17,020 --> 00:07:22,860
+Recall that iron has the ability, via the Fenton reaction, to cause the formation of free radicals.
+
+90
+00:07:23,100 --> 00:07:27,120
+And so when you get excess iron within the tissues, you'll get generation of free radicals,
+
+91
+00:07:27,140 --> 00:07:29,920
+and that's what mediates the damage in this particular disorder.
+
+92
+00:07:30,460 --> 00:07:34,200
+Now, it's important to note that hemochromatosis can be primary or secondary.
+
+93
+00:07:34,860 --> 00:07:38,400
+Let's go back and review a little bit of biochemistry in order to understand this distinction.
+
+94
+00:07:38,400 --> 00:07:44,380
+Recall that the enterocyte in the duodenum takes up iron from the lumen of the gut.
+
+95
+00:07:44,880 --> 00:07:49,740
+Now, the enterocyte will basically take up almost all the iron that is present within the gut.
+
+96
+00:07:50,060 --> 00:07:54,120
+However, the enterocyte will hold on to it and will not pass it off into the blood
+
+97
+00:07:54,120 --> 00:07:56,480
+unless there is a need within the blood.
+
+98
+00:07:56,760 --> 00:08:01,560
+So basically, the enterocyte has the ability to detect whether or not iron is necessary
+
+99
+00:08:01,560 --> 00:08:06,000
+and will only pass the iron off into the blood when iron is required.
+
+100
+00:08:06,000 --> 00:08:10,980
+Now, that's important because this is the key regulatory step in the human body for iron.
+
+101
+00:08:11,300 --> 00:08:14,240
+Remember that the human body has no way of getting rid of iron.
+
+102
+00:08:14,700 --> 00:08:17,200
+Yes, the female can lose a little bit in her menstrual cycle,
+
+103
+00:08:17,520 --> 00:08:20,380
+and yes, we do lose a little bit by the sloughing of our skin.
+
+104
+00:08:20,700 --> 00:08:24,120
+However, for all practical purposes, there is no real way to get rid of iron.
+
+105
+00:08:24,540 --> 00:08:27,820
+And so the regulatory role of the enterocyte is extremely important.
+
+106
+00:08:28,260 --> 00:08:32,000
+Now, what happens in primary hemochromatosis is that dysregulation gets disrupted
+
+107
+00:08:32,000 --> 00:08:35,500
+so that whatever comes into the enterocyte goes directly into the blood.
+
+108
+00:08:35,940 --> 00:08:38,700
+That, of course, is going to result in a massive iron overload,
+
+109
+00:08:39,040 --> 00:08:41,860
+which is going to deposit in tissues as hemosiderosis
+
+110
+00:08:41,860 --> 00:08:45,840
+and eventually will damage the tissues, resulting in hemochromatosis.
+
+111
+00:08:46,360 --> 00:08:49,860
+And so this is the basic pathogenesis of primary hemochromatosis.
+
+112
+00:08:50,320 --> 00:08:52,660
+Now, it's important to note that in primary hemochromatosis,
+
+113
+00:08:52,820 --> 00:08:55,620
+the reason why this enterocyte dysregulation occurs
+
+114
+00:08:55,620 --> 00:08:59,300
+is because you have mutations in a gene called the HFE gene.
+
+115
+00:08:59,300 --> 00:09:02,980
+And the most common mutation is called C282Y.
+
+116
+00:09:03,640 --> 00:09:07,220
+Another way by which we can get hemochromatosis is secondary hemochromatosis.
+
+117
+00:09:07,640 --> 00:09:12,200
+In this particular case, hemochromatosis arises as a complication of transfusions.
+
+118
+00:09:12,680 --> 00:09:14,400
+Remember that every time we give a transfusion,
+
+119
+00:09:14,500 --> 00:09:17,820
+the red blood cells are only going to last for a maximum 120 days.
+
+120
+00:09:18,220 --> 00:09:19,900
+Now, those red blood cells will be turned over,
+
+121
+00:09:20,200 --> 00:09:23,680
+and when the hemoglobin in the cells is turned over, the iron will be recycled.
+
+122
+00:09:24,320 --> 00:09:27,760
+And then there is no way to get rid of that iron, as I've just mentioned earlier.
+
+123
+00:09:27,760 --> 00:09:30,800
+So every bag of blood is basically a bag of iron.
+
+124
+00:09:31,200 --> 00:09:35,560
+Eventually, all of that iron will build up in the tissues, causing hemochromatosis,
+
+125
+00:09:36,120 --> 00:09:39,860
+and eventually the organs will get damaged, resulting in hemochromatosis.
+
+126
+00:09:40,180 --> 00:09:42,820
+This disorder usually presents in late adulthood
+
+127
+00:09:42,820 --> 00:09:46,000
+because it takes time for the iron to build up and damage the tissues.
+
+128
+00:09:46,380 --> 00:09:50,840
+And the classic triad is cirrhosis, secondary diabetes, and bronze skin.
+
+129
+00:09:51,200 --> 00:09:54,160
+Now, basically what's happening here is that as iron deposits in these tissues,
+
+130
+00:09:54,160 --> 00:09:57,340
+you get end-stage damage, which then destroys the tissues.
+
+131
+00:09:57,720 --> 00:10:00,120
+So, again, cirrhosis would be end-stage liver damage.
+
+132
+00:10:00,440 --> 00:10:03,620
+You get damage to the islets, resulting in secondary diabetes mellitus.
+
+133
+00:10:03,960 --> 00:10:08,600
+This is also called bronze diabetes because the pancreas has a bronze color on gross exam.
+
+134
+00:10:08,920 --> 00:10:12,000
+And then you get bronzing of the skin because iron can deposit in the skin.
+
+135
+00:10:12,500 --> 00:10:16,220
+Additional findings are cardiac arrhythmia, if the iron deposits in the heart,
+
+136
+00:10:16,600 --> 00:10:20,180
+and gonadal dysfunction because iron can also deposit within the testicle,
+
+137
+00:10:20,500 --> 00:10:22,100
+resulting in testicular atrophy.
+
+138
+00:10:22,100 --> 00:10:26,000
+Now, the lab findings are going to be based on an iron-overloaded state.
+
+139
+00:10:26,360 --> 00:10:29,880
+So, because the tissues are loaded with iron and you have tremendous iron stores,
+
+140
+00:10:30,160 --> 00:10:31,140
+the ferritin will be high.
+
+141
+00:10:31,460 --> 00:10:34,680
+Of course, any time the ferritin is high, the TIBC is also low.
+
+142
+00:10:35,140 --> 00:10:37,260
+Much of that iron will actually leak out into the blood,
+
+143
+00:10:37,520 --> 00:10:41,260
+giving you a high serum iron with a high percent saturation.
+
+144
+00:10:41,900 --> 00:10:44,820
+And so these are the key lab findings in hemochromatosis.
+
+145
+00:10:45,360 --> 00:10:49,460
+When you suspect hemochromatosis, you'll perform a biopsy, usually of the liver,
+
+146
+00:10:49,460 --> 00:10:52,080
+and you'll see a brown pigment within the hepatocytes.
+
+147
+00:10:52,520 --> 00:10:55,440
+Now, again, remember that when you have a brown pigment in the hepatocytes,
+
+148
+00:10:55,500 --> 00:10:56,940
+there's a couple things that it could be.
+
+149
+00:10:57,260 --> 00:10:59,580
+For example, the brown pigment could be lipofuscin,
+
+150
+00:10:59,680 --> 00:11:02,880
+which is a wear-and-tear pigment that would be present within the liver cells.
+
+151
+00:11:03,220 --> 00:11:05,360
+It could also be iron from hemochromatosis.
+
+152
+00:11:05,780 --> 00:11:10,340
+And so one way by which we can make the distinction is to do a special stain called a Prussian blue stain.
+
+153
+00:11:10,740 --> 00:11:14,900
+The Prussian blue stain will turn iron blue but will not mark the lipofuscin,
+
+154
+00:11:14,900 --> 00:11:16,960
+i.e. the lipofuscin will remain brown.
+
+155
+00:11:17,440 --> 00:11:18,900
+Here's a picture of hemochromatosis,
+
+156
+00:11:19,060 --> 00:11:22,660
+and you can clearly see the brown pigment piling up within the hepatocytes.
+
+157
+00:11:23,040 --> 00:11:25,360
+Now, again, in order to prove that this brown pigment is iron,
+
+158
+00:11:25,460 --> 00:11:28,340
+we can do a Prussian blue stain, and the iron would turn blue.
+
+159
+00:11:28,560 --> 00:11:31,840
+Just for comparative purposes, and because examiners like to go after it,
+
+160
+00:11:32,080 --> 00:11:35,340
+this is a picture of lipofuscin within the hepatocytes.
+
+161
+00:11:35,660 --> 00:11:37,500
+Notice that it is also a brown pigment,
+
+162
+00:11:37,880 --> 00:11:43,820
+and this is a wear-and-tear pigment that is derived from the breakdown of peroxidized lipids.
+
+163
+00:11:43,820 --> 00:11:49,400
+This pigment piles up in the lysosomes and is just basically a sign that the cells have aged.
+
+164
+00:11:49,660 --> 00:11:51,740
+It's sort of like the gray hair of the cells,
+
+165
+00:11:51,860 --> 00:11:54,760
+so that when you see lipofuscin, you know that the cell is old
+
+166
+00:11:54,760 --> 00:11:56,880
+and has been around for a very long period of time.
+
+167
+00:11:57,520 --> 00:12:00,460
+Patients who have hemochromatosis can be treated by phlebotomy.
+
+168
+00:12:00,820 --> 00:12:02,960
+The idea here is to remove red cells,
+
+169
+00:12:03,060 --> 00:12:06,120
+and of course red cells contain iron, which would decrease the iron load.
+
+170
+00:12:06,500 --> 00:12:09,760
+Also important to note, there's an increased risk of hepatocellular carcinoma.
+
+171
+00:12:09,860 --> 00:12:13,120
+Again, that's because the iron will generate all these free radicals,
+
+172
+00:12:13,820 --> 00:12:17,600
+can damage DNA, which would then increase the risk of potential mutations
+
+173
+00:12:17,600 --> 00:12:20,580
+to form hepatocellular or liver carcinoma.
+
+174
+00:12:21,460 --> 00:12:25,060
+Wilson's disease is another disorder that can result in cirrhosis.
+
+175
+00:12:25,620 --> 00:12:31,240
+It's an autosomal recessive defect in the ATP-mediated hepatocyte copper transport system.
+
+176
+00:12:31,660 --> 00:12:34,580
+This results in an inability to put copper into bile,
+
+177
+00:12:35,060 --> 00:12:39,280
+and it also results in an inability to incorporate copper into ceruloplasmin,
+
+178
+00:12:39,280 --> 00:12:42,680
+which is the key molecule that carries copper around in the blood.
+
+179
+00:12:43,340 --> 00:12:46,060
+As a result, because you can't put copper into the bile,
+
+180
+00:12:46,220 --> 00:12:47,920
+copper will build up in the hepatocytes.
+
+181
+00:12:48,300 --> 00:12:51,440
+It will then leak into the serum and eventually deposit in tissues.
+
+182
+00:12:51,860 --> 00:12:55,420
+Now copper, just like iron, has the ability to induce free radical damage,
+
+183
+00:12:55,780 --> 00:12:58,020
+and so hydroxyl free radicals will be produced,
+
+184
+00:12:58,280 --> 00:12:59,740
+which will then lead to tissue damage.
+
+185
+00:13:00,200 --> 00:13:03,100
+This disease presents in childhood and manifests as cirrhosis.
+
+186
+00:13:03,640 --> 00:13:05,820
+Patients can also have neurologic manifestations.
+
+187
+00:13:05,820 --> 00:13:09,820
+Now among the neurologic manifestations includes behavioral changes,
+
+188
+00:13:10,260 --> 00:13:14,600
+dementia, chorea, Parkinson-like symptoms, etc.
+
+189
+00:13:14,860 --> 00:13:18,240
+And so this can mimic many of the other disorders that we'll study
+
+190
+00:13:18,240 --> 00:13:20,440
+when we learn about neurodegenerative disease.
+
+191
+00:13:20,740 --> 00:13:23,520
+So for example, if a child has Parkinson's-like symptoms,
+
+192
+00:13:23,600 --> 00:13:26,120
+we might think about Wilson's disease.
+
+193
+00:13:26,460 --> 00:13:28,920
+Similarly, dementia or chorea,
+
+194
+00:13:29,240 --> 00:13:32,780
+which you might normally associate with Huntington's disease, for example,
+
+195
+00:13:32,780 --> 00:13:36,040
+you might want to think about Wilson's disease as another possibility.
+
+196
+00:13:36,740 --> 00:13:39,080
+There's also deposition of copper within the cornea,
+
+197
+00:13:39,200 --> 00:13:40,740
+resulting in Kaiser-Flesher rings.
+
+198
+00:13:41,160 --> 00:13:44,380
+Of course, because there's going to be a generation of free radicals by the copper,
+
+199
+00:13:44,740 --> 00:13:47,060
+there'll be an increased risk of hepatocellular carcinoma.
+
+200
+00:13:47,460 --> 00:13:49,020
+The treatment here is D-penicillamine,
+
+201
+00:13:49,360 --> 00:13:51,480
+which is basically a copper chelating agent.
+
+202
+00:13:52,040 --> 00:13:54,820
+Now on laboratory exam, there will be an increased urinary copper.
+
+203
+00:13:55,000 --> 00:13:57,420
+Some of the copper in the serum will actually leak out into the urine.
+
+204
+00:13:57,820 --> 00:13:59,780
+There'll be decreased serum ceruloplasmin.
+
+205
+00:13:59,780 --> 00:14:02,780
+Again, we don't have the ability to put copper into ceruloplasmin,
+
+206
+00:14:03,560 --> 00:14:07,260
+and so therefore, we won't have as much ceruloplasmin floating around within the blood.
+
+207
+00:14:07,680 --> 00:14:10,000
+And finally, there'll be increased copper on liver biopsy
+
+208
+00:14:10,000 --> 00:14:12,080
+because copper can't be put into the bile.
+
+209
+00:14:12,720 --> 00:14:15,400
+Primary biliary cirrhosis is an autoimmune disease
+
+210
+00:14:15,400 --> 00:14:19,000
+in which you get granulominus destruction of the intrahepatic bile ducts.
+
+211
+00:14:19,380 --> 00:14:20,680
+This is classically seen in women.
+
+212
+00:14:20,800 --> 00:14:21,760
+The average age is 40,
+
+213
+00:14:22,100 --> 00:14:24,560
+and it can be associated with other autoimmune diseases.
+
+214
+00:14:24,860 --> 00:14:25,820
+But that's nothing special
+
+215
+00:14:25,820 --> 00:14:30,160
+because almost every autoimmune disease can be associated with other autoimmune diseases.
+
+216
+00:14:30,640 --> 00:14:31,720
+We don't know the etiology,
+
+217
+00:14:31,880 --> 00:14:35,680
+but we do know that there's an antimitylchondrial antibody that's present in the serum,
+
+218
+00:14:36,040 --> 00:14:37,400
+and that helps to mark the disease.
+
+219
+00:14:37,700 --> 00:14:40,660
+And that's very high yield for the purposes of examinations.
+
+220
+00:14:41,140 --> 00:14:42,980
+The patients present with obstructive jaundice,
+
+221
+00:14:43,020 --> 00:14:45,320
+and that's because you're knocking out the bile ducts.
+
+222
+00:14:45,440 --> 00:14:47,180
+And cirrhosis is a late complication.
+
+223
+00:14:47,600 --> 00:14:49,380
+With all that obstruction,
+
+224
+00:14:49,800 --> 00:14:51,080
+eventually you get liver damage,
+
+225
+00:14:51,080 --> 00:14:52,820
+which can then lead to cirrhosis,
+
+226
+00:14:53,260 --> 00:14:55,680
+and hence the name primary biliary cirrhosis.
+
+227
+00:14:56,640 --> 00:14:59,240
+Primary sclerosing cholangitis is a disorder
+
+228
+00:14:59,240 --> 00:15:01,120
+in which you get inflammation and fibrosis
+
+229
+00:15:01,120 --> 00:15:04,420
+of the intrahepatic and extrahepatic bile ducts.
+
+230
+00:15:04,920 --> 00:15:07,020
+This results in perioductal fibrosis
+
+231
+00:15:07,020 --> 00:15:09,800
+with a classic onion skin appearance.
+
+232
+00:15:10,360 --> 00:15:12,620
+Here's an image highlighting the perioductal fibrosis.
+
+233
+00:15:12,940 --> 00:15:14,620
+Notice that you've got all this fibrosis
+
+234
+00:15:14,620 --> 00:15:16,420
+wrapping around this bile duct,
+
+235
+00:15:16,760 --> 00:15:18,940
+and you can clearly see it's associated with inflammation.
+
+236
+00:15:18,940 --> 00:15:22,160
+And so the characteristic is perioductal fibrosis
+
+237
+00:15:22,160 --> 00:15:23,620
+with an onion skin appearance.
+
+238
+00:15:23,960 --> 00:15:25,860
+What you would see if this was the duct
+
+239
+00:15:25,860 --> 00:15:27,600
+is that you would have fibrosis,
+
+240
+00:15:28,020 --> 00:15:29,420
+and then fibrosis here,
+
+241
+00:15:29,820 --> 00:15:31,080
+and then fibrosis here,
+
+242
+00:15:31,240 --> 00:15:33,940
+and the regions in between would appear slightly dilated.
+
+243
+00:15:34,320 --> 00:15:35,400
+And so what this creates
+
+244
+00:15:35,400 --> 00:15:37,200
+is sort of a string of pearl appearance,
+
+245
+00:15:37,300 --> 00:15:38,160
+where this is a pearl,
+
+246
+00:15:38,500 --> 00:15:40,180
+and this is the string in between the pearl,
+
+247
+00:15:40,480 --> 00:15:41,680
+and this is again the pearl,
+
+248
+00:15:42,260 --> 00:15:44,660
+with the fibrosed areas representing the string
+
+249
+00:15:44,660 --> 00:15:46,000
+in between the pearl.
+
+250
+00:15:46,500 --> 00:15:48,300
+The etiology of this disorder is unknown,
+
+251
+00:15:48,300 --> 00:15:50,320
+but it's very high yield to note,
+
+252
+00:15:50,460 --> 00:15:51,520
+especially for board exams,
+
+253
+00:15:51,840 --> 00:15:53,780
+that it's associated with ulcerative colitis,
+
+254
+00:15:54,180 --> 00:15:56,400
+and also that the P anca can be positive.
+
+255
+00:15:56,700 --> 00:15:57,740
+But you're well aware of the fact
+
+256
+00:15:57,740 --> 00:15:59,200
+that patients with ulcerative colitis
+
+257
+00:15:59,200 --> 00:16:00,580
+can also have a P anca,
+
+258
+00:16:00,740 --> 00:16:02,540
+so that shouldn't be too hard to remember.
+
+259
+00:16:03,320 --> 00:16:05,540
+Patients classically present with obstructive jaundice,
+
+260
+00:16:05,600 --> 00:16:07,760
+and again, that's because they're blocking the bile duct,
+
+261
+00:16:07,820 --> 00:16:09,620
+and so they're going to get the classic signs and symptoms
+
+262
+00:16:09,620 --> 00:16:10,920
+that we've discussed previously.
+
+263
+00:16:11,560 --> 00:16:13,180
+Cirrhosis is a late complication,
+
+264
+00:16:13,440 --> 00:16:16,180
+and there's an increased risk for cholangiocarcinoma,
+
+265
+00:16:16,180 --> 00:16:17,900
+which is cancer of the bile ducts.
+
+266
+00:16:18,620 --> 00:16:20,400
+Rice syndrome is fulminant liver failure
+
+267
+00:16:20,400 --> 00:16:21,900
+and encephalopathy in a child
+
+268
+00:16:21,900 --> 00:16:24,320
+who has a viral illness and then takes aspirin.
+
+269
+00:16:24,760 --> 00:16:25,880
+We don't know what causes it,
+
+270
+00:16:25,960 --> 00:16:27,460
+but we do know of the association.
+
+271
+00:16:27,880 --> 00:16:29,800
+In fact, if you purchase any bottle of aspirin
+
+272
+00:16:29,800 --> 00:16:30,980
+and read the back label,
+
+273
+00:16:31,300 --> 00:16:33,120
+it'll clearly say do not give aspirin
+
+274
+00:16:33,120 --> 00:16:34,620
+to a child with a viral illness.
+
+275
+00:16:35,140 --> 00:16:37,640
+We don't fully understand the mechanism of this disorder.
+
+276
+00:16:37,980 --> 00:16:40,420
+However, we do know that there is mitochondrial damage
+
+277
+00:16:40,420 --> 00:16:41,400
+of the hepatocytes,
+
+278
+00:16:41,480 --> 00:16:43,080
+and perhaps that plays an important role.
+
+279
+00:16:43,080 --> 00:16:46,100
+Again, high yield to know that there is mitochondrial damage
+
+280
+00:16:46,100 --> 00:16:47,080
+of the hepatocytes.
+
+281
+00:16:47,600 --> 00:16:49,500
+These patients present with hypoglycemia,
+
+282
+00:16:49,840 --> 00:16:51,460
+markedly elevated liver enzymes,
+
+283
+00:16:51,820 --> 00:16:52,840
+and nausea with vomiting,
+
+284
+00:16:53,180 --> 00:16:54,920
+and it can progress to coma and death.
+
+285
+00:16:55,240 --> 00:16:56,300
+Now, I should make a note here.
+
+286
+00:16:56,380 --> 00:16:57,820
+You generally never give a child
+
+287
+00:16:57,820 --> 00:16:59,180
+with a viral illness aspirin.
+
+288
+00:16:59,500 --> 00:17:01,440
+However, remember that there is one disease
+
+289
+00:17:01,440 --> 00:17:03,240
+that can sort of look like a viral illness,
+
+290
+00:17:03,460 --> 00:17:05,560
+but would require that you give the patient aspirin.
+
+291
+00:17:05,840 --> 00:17:07,220
+Do you recall that disease?
+
+292
+00:17:07,860 --> 00:17:09,280
+The answer is Kawasaki syndrome,
+
+293
+00:17:09,280 --> 00:17:11,740
+which is a vasculitis that preferentially involves
+
+294
+00:17:11,740 --> 00:17:14,620
+the coronary arteries and presents with signs and symptoms
+
+295
+00:17:14,620 --> 00:17:17,560
+like conjunctivitis and fever, etc.,
+
+296
+00:17:17,560 --> 00:17:18,820
+that mimic a viral illness.
+
+297
+00:17:19,280 --> 00:17:21,440
+And again, that's high yield for board examinations.
+
+298
+00:17:22,000 --> 00:17:23,160
+Moving on to liver tumors,
+
+299
+00:17:23,300 --> 00:17:25,900
+hepatic adenoma is a benign tumor of hepatocytes.
+
+300
+00:17:26,460 --> 00:17:27,620
+Very high yield association
+
+301
+00:17:27,620 --> 00:17:30,480
+is that it is related to oral contraceptive use
+
+302
+00:17:30,480 --> 00:17:32,960
+and that it will regress upon cessation
+
+303
+00:17:32,960 --> 00:17:34,540
+of the oral contraceptives.
+
+304
+00:17:34,860 --> 00:17:36,380
+Now, although this is a benign tumor,
+
+305
+00:17:36,380 --> 00:17:39,220
+there is a feared complication that it can rupture,
+
+306
+00:17:39,560 --> 00:17:41,480
+resulting in intraperitoneal hemorrhage,
+
+307
+00:17:41,760 --> 00:17:42,960
+especially during pregnancy
+
+308
+00:17:42,960 --> 00:17:44,460
+when there's high levels of estrogen,
+
+309
+00:17:44,780 --> 00:17:46,360
+which can drive the growth of this tumor.
+
+310
+00:17:46,760 --> 00:17:48,680
+Now, again, the reason why there's a risk of rupture
+
+311
+00:17:48,680 --> 00:17:50,640
+is because the tumors are subcaptular,
+
+312
+00:17:50,760 --> 00:17:52,320
+right underneath the capsule of the liver,
+
+313
+00:17:52,660 --> 00:17:54,180
+and so they can rupture through the capsule
+
+314
+00:17:54,180 --> 00:17:56,340
+and then cause intraperitoneal hemorrhage.
+
+315
+00:17:56,860 --> 00:17:58,900
+The risk factors for hepatocellular carcinoma
+
+316
+00:17:58,900 --> 00:18:00,180
+include chronic hepatitis.
+
+317
+00:18:00,260 --> 00:18:03,060
+So, for example, hepatitis B virus and hepatitis C virus,
+
+318
+00:18:03,180 --> 00:18:05,520
+both of which can result in chronic hepatitis,
+
+319
+00:18:05,520 --> 00:18:07,920
+can increase the risk for hepatocellular carcinoma.
+
+320
+00:18:08,620 --> 00:18:10,140
+In addition, any cause of cirrhosis
+
+321
+00:18:10,140 --> 00:18:12,480
+is a risk factor for hepatocellular carcinoma.
+
+322
+00:18:12,880 --> 00:18:15,760
+For example, non-alcoholic fatty liver disease,
+
+323
+00:18:16,180 --> 00:18:18,060
+hemochromatosis, Wilson's disease,
+
+324
+00:18:18,280 --> 00:18:20,360
+alpha-1 antitrypsin deficiency, etc.
+
+325
+00:18:20,560 --> 00:18:22,660
+All of these are important causes of cirrhosis.
+
+326
+00:18:23,200 --> 00:18:25,340
+Finally, one super high yield risk factor
+
+327
+00:18:25,340 --> 00:18:27,520
+is aflatoxins derived from aspergillus.
+
+328
+00:18:27,980 --> 00:18:30,720
+Recall from our lecture in the neoplasia chapter
+
+329
+00:18:30,720 --> 00:18:33,040
+that I told you that in some countries of the world,
+
+330
+00:18:33,040 --> 00:18:36,000
+there is a very high incidence of hepatocellular carcinoma
+
+331
+00:18:36,000 --> 00:18:37,340
+due to this mechanism.
+
+332
+00:18:37,760 --> 00:18:38,560
+Now, in those countries,
+
+333
+00:18:38,660 --> 00:18:40,800
+they store grains for extended periods of time,
+
+334
+00:18:41,140 --> 00:18:43,300
+and aspergillus tends to grow on those grains.
+
+335
+00:18:43,640 --> 00:18:45,280
+It then releases aflatoxins,
+
+336
+00:18:45,360 --> 00:18:46,320
+which when consumed,
+
+337
+00:18:46,620 --> 00:18:49,320
+result in an increased risk for hepatocellular carcinoma.
+
+338
+00:18:49,700 --> 00:18:51,860
+Very high yield for board examinations.
+
+339
+00:18:52,280 --> 00:18:54,820
+The aflatoxins actually induce P53 mutations,
+
+340
+00:18:55,240 --> 00:18:56,240
+and that's the mechanism
+
+341
+00:18:56,240 --> 00:18:58,580
+by which hepatocellular carcinoma will arise.
+
+342
+00:18:59,180 --> 00:19:01,960
+Hepatocellular carcinoma loves to invade the hepatic vein,
+
+343
+00:19:01,960 --> 00:19:03,980
+and any time you invade the hepatic vein,
+
+344
+00:19:04,060 --> 00:19:05,560
+that increases the risk for a syndrome
+
+345
+00:19:05,560 --> 00:19:06,800
+called Bud Chiari syndrome.
+
+346
+00:19:07,180 --> 00:19:09,620
+The idea here is that if this is the liver,
+
+347
+00:19:10,800 --> 00:19:13,400
+recall that you've got a portal vein going into the liver,
+
+348
+00:19:13,640 --> 00:19:15,920
+and then you've got a hepatic vein coming out of the liver.
+
+349
+00:19:16,520 --> 00:19:17,580
+In Bud Chiari syndrome,
+
+350
+00:19:17,720 --> 00:19:19,440
+you get thrombosis of the hepatic vein,
+
+351
+00:19:19,760 --> 00:19:22,400
+which can then result in painful hepatosplenomegaly,
+
+352
+00:19:22,720 --> 00:19:23,160
+ascites,
+
+353
+00:19:23,500 --> 00:19:25,900
+and eventual necrosis of the liver with death.
+
+354
+00:19:26,320 --> 00:19:28,420
+Now, among the causes of Bud Chiari,
+
+355
+00:19:28,820 --> 00:19:31,040
+one is hepatocellular carcinoma,
+
+356
+00:19:31,040 --> 00:19:33,600
+and that's because if hepatocellular carcinoma
+
+357
+00:19:33,600 --> 00:19:34,600
+is growing within the liver,
+
+358
+00:19:35,140 --> 00:19:37,340
+it has a propensity to involve the hepatic vein,
+
+359
+00:19:37,540 --> 00:19:39,180
+which could then result in thrombosis.
+
+360
+00:19:39,740 --> 00:19:40,760
+Of course, this would present
+
+361
+00:19:40,760 --> 00:19:42,560
+with painful hepatomegaly and ascites
+
+362
+00:19:42,560 --> 00:19:44,580
+and could potentially lead to death.
+
+363
+00:19:45,340 --> 00:19:47,500
+Hepatocellular carcinoma has a poor prognosis,
+
+364
+00:19:47,620 --> 00:19:49,780
+and that's because the tumors are often detected late,
+
+365
+00:19:50,080 --> 00:19:52,120
+and that's because usually the patients have cirrhosis
+
+366
+00:19:52,120 --> 00:19:53,780
+or some other problem in the liver,
+
+367
+00:19:54,080 --> 00:19:55,780
+and that masks the symptoms
+
+368
+00:19:55,780 --> 00:19:57,600
+of the hepatocellular carcinoma.
+
+369
+00:19:57,600 --> 00:20:00,060
+One of the serum tumor markers that is useful
+
+370
+00:20:00,060 --> 00:20:02,160
+for hepatocellular carcinoma is alpha-fetoprotein.
+
+371
+00:20:03,160 --> 00:20:04,200
+That's important to remember.
+
+372
+00:20:04,700 --> 00:20:06,880
+The final point I'd like to make concerning liver tumors
+
+373
+00:20:06,880 --> 00:20:08,260
+is metastasis to the liver.
+
+374
+00:20:08,820 --> 00:20:11,380
+Metastasis to the liver is more common than primary tumors.
+
+375
+00:20:11,940 --> 00:20:14,360
+Important sources include colon carcinoma,
+
+376
+00:20:14,500 --> 00:20:15,640
+pancreatic carcinoma,
+
+377
+00:20:16,000 --> 00:20:18,400
+and then lung and breast can also spread to the liver.
+
+378
+00:20:18,900 --> 00:20:19,920
+When you have metastasis,
+
+379
+00:20:19,920 --> 00:20:21,900
+you're going to get multiple nodules in the liver,
+
+380
+00:20:22,260 --> 00:20:24,020
+and clinically, this is going to be detected
+
+381
+00:20:24,020 --> 00:20:26,120
+as a large liver or hepatomegaly
+
+382
+00:20:26,120 --> 00:20:28,240
+with a nodular free edge of the liver.
+
+383
+00:20:28,360 --> 00:20:30,520
+When you feel the edge of the liver on physical exam,
+
+384
+00:20:30,620 --> 00:20:32,180
+you can feel the bumps in the liver
+
+385
+00:20:32,180 --> 00:20:34,580
+because there are multiple nodules within the liver.
+
+386
+00:20:35,160 --> 00:20:36,840
+Here's a classic image just highlighting
+
+387
+00:20:36,840 --> 00:20:39,420
+that you've got multiple nodules within the liver,
+
+388
+00:20:39,580 --> 00:20:41,800
+and of course, we would feel those nodules
+
+389
+00:20:41,800 --> 00:20:44,320
+on the free edge of the liver on physical exam.
+
+390
+00:20:44,740 --> 00:20:47,340
+And that concludes this section as well as the chapter.
+

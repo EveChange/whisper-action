@@ -1,0 +1,464 @@
+1
+00:00:00,040 --> 00:00:04,740
+Welcome to chapter 12. This chapter deals with kidney and urinary tract pathology.
+
+2
+00:00:04,960 --> 00:00:10,780
+We're going to begin with congenital lesions. These are relatively high yield because they
+
+3
+00:00:10,780 --> 00:00:16,380
+give us a chance to tie a little bit of embryology in with organ systems. And of course, that's
+
+4
+00:00:16,380 --> 00:00:21,480
+really a great way for examiners to go after embryology type questions in the context of
+
+5
+00:00:21,480 --> 00:00:27,380
+clinical scenarios. So the first disorder that we want to be familiar with is called a horseshoe
+
+6
+00:00:27,380 --> 00:00:32,880
+kidney. Now the idea here is that we get a conjoined kidney, usually at the lower pole,
+
+7
+00:00:33,420 --> 00:00:38,540
+and this is the most common congenital renal anomaly. Here's a picture of a horseshoe kidney,
+
+8
+00:00:38,740 --> 00:00:44,340
+and you can clearly see that this kidney obviously has the shape of a horseshoe. What is important,
+
+9
+00:00:44,500 --> 00:00:49,740
+however, is that this kidney is usually going to be located abnormally in the lower abdomen.
+
+10
+00:00:50,360 --> 00:00:55,620
+Now this becomes important because recall from embryology that the kidney is actually developed
+
+11
+00:00:55,620 --> 00:01:01,640
+in the pelvis, and then it ascends into the abdomen. Now imagine that as this kidney is trying to
+
+12
+00:01:01,640 --> 00:01:07,640
+ascend into the abdomen, it's going to get stuck on the root of the inferior mesenteric artery,
+
+13
+00:01:08,140 --> 00:01:14,160
+and so as it's trying to go up and it gets stuck on the root of the IMA, its ascension is going to be
+
+14
+00:01:14,160 --> 00:01:20,080
+blocked, and so this kidney will be abnormally located in the abdomen. The next congenital disorder
+
+15
+00:01:20,080 --> 00:01:25,880
+is renal agenesis. A means without, and genesis means production, so in this particular case there's an
+
+16
+00:01:25,880 --> 00:01:31,100
+absence of kidney formation. Now that absence of kidney formation can be unilateral or it can be
+
+17
+00:01:31,100 --> 00:01:37,260
+bilateral. In unilateral agenesis, the complication will be that the patient will be lacking one kidney,
+
+18
+00:01:37,680 --> 00:01:44,540
+and the consequence of that will be that the existing kidney will undergo hypertrophy. Now the existing
+
+19
+00:01:44,540 --> 00:01:48,360
+kidney, when it undergoes hypertrophy, is actually going to be doing the work of two kidneys.
+
+20
+00:01:48,360 --> 00:01:54,760
+That's not really a problem until many years down the line, and that's when hyperfiltration injury
+
+21
+00:01:54,760 --> 00:02:02,580
+will begin to lead to a risk of renal failure. In bilateral renal agenesis, there is lack of
+
+22
+00:02:02,580 --> 00:02:07,880
+formation of both kidneys, and if I had to summarize this in one word, I would summarize it with
+
+23
+00:02:07,880 --> 00:02:14,460
+oligohydramnios. Recall from embryology that the baby floats around in amniotic fluid, and that
+
+24
+00:02:14,460 --> 00:02:20,060
+amniotic fluid essentially is the baby's filtrate coming from the kidney, i.e. the baby's floating
+
+25
+00:02:20,060 --> 00:02:26,740
+around in its own urine. The consequence of having low amniotic fluid are multiple. Number one, the
+
+26
+00:02:26,740 --> 00:02:32,720
+fetus will develop lung hypoplasia. Go back and remind yourselves that when the lung develops
+
+27
+00:02:32,720 --> 00:02:39,980
+embryologically, one way by which it grows is by stretch, and so as the baby is in the womb, it's breathing
+
+28
+00:02:39,980 --> 00:02:46,120
+in and out amniotic fluid, and the breathing in of amniotic fluid stretches the lung, and when the
+
+29
+00:02:46,120 --> 00:02:51,760
+baby breathes out, that again causes collapse of the lung, and it's the stretching and the collapse
+
+30
+00:02:51,760 --> 00:02:57,000
+of the lung that actually allows for development of the lung to occur. So you can imagine that if there
+
+31
+00:02:57,000 --> 00:03:02,680
+isn't enough amniotic fluid, the lung will not be expanded appropriately, and therefore the lung will
+
+32
+00:03:02,680 --> 00:03:08,880
+undergo hypoplasia, and so one consequence of having bilateral renal agenesis is lung hypoplasia.
+
+33
+00:03:08,880 --> 00:03:14,420
+Another consequence is that there will be a flat face with low-set ears, and the way I think about this is
+
+34
+00:03:14,420 --> 00:03:19,960
+that normally the baby's in a bubble, and it's floating around in amniotic fluid. However, if the amniotic fluid
+
+35
+00:03:19,960 --> 00:03:26,160
+is low or lacking, then the face will get pressed up against the wall of the uterus, and if the face gets pressed
+
+36
+00:03:26,160 --> 00:03:31,800
+up against the wall of the uterus, for example, then that will result in a flat face with low-set ears.
+
+37
+00:03:32,680 --> 00:03:38,500
+And finally, there can also be a risk of developmental defects of the extremities. Same consequence, the extremities
+
+38
+00:03:38,500 --> 00:03:43,580
+normally require that bubble of amniotic fluid to develop properly, but here they're going to be
+
+39
+00:03:43,580 --> 00:03:48,480
+pressed up against mom's tissue, and when they're pressed up against mom, that's going to result in
+
+40
+00:03:48,480 --> 00:03:56,580
+developmental defects of the extremities. This entire sequence, hypoplasia of the lung, flat face with
+
+41
+00:03:56,580 --> 00:04:01,700
+low-set ears, and developmental defects of the extremities, this whole sequence is called Potter sequence,
+
+42
+00:04:01,700 --> 00:04:06,780
+and that's something to be familiar with. Again, it goes back to embryology. Bilateral renal
+
+43
+00:04:06,780 --> 00:04:12,780
+agenesis is incompatible with life. However, when an examination of the fetus was done, we'd see the
+
+44
+00:04:12,780 --> 00:04:19,140
+classic findings of Potter sequence, very high yield because it ties into embryology. Here's a picture of
+
+45
+00:04:19,140 --> 00:04:25,320
+a fetus with Potter sequence. There's flattening of the face with low-set ears, and then some extremity
+
+46
+00:04:25,320 --> 00:04:30,880
+defects as well. Again, high yield to remember that these are all a consequence of oligohydramnios.
+
+47
+00:04:31,780 --> 00:04:37,080
+The next of the congenital defects is actually going to be kicking off a little bit of a theme.
+
+48
+00:04:37,700 --> 00:04:43,020
+Now, what we want to discuss as we move forward are some congenital defects that result in cyst
+
+49
+00:04:43,020 --> 00:04:48,680
+formation in the kidney, and there's a few of them. The first of them is dysplastic kidney. The idea
+
+50
+00:04:48,680 --> 00:04:54,140
+here is that you have a non-inherited, and that's important, congenital malformation of the
+
+51
+00:04:54,140 --> 00:04:59,520
+renal parenchyma that's characterized by cysts with abnormal tissue. Now, basically, these patients
+
+52
+00:04:59,520 --> 00:05:05,580
+develop cysts within their kidney. However, this is not inherited. The cysts are characterized by
+
+53
+00:05:05,580 --> 00:05:12,400
+abnormal tissue, especially cartilage. Here's a picture of an example where we've got a cystic
+
+54
+00:05:12,400 --> 00:05:19,920
+space, and that cystic space is lined by a wall, and within that wall, we can clearly see that there
+
+55
+00:05:19,920 --> 00:05:26,800
+is cartilage. Dysplastic kidney is actually not inherited, and that's important because if a fetus
+
+56
+00:05:26,800 --> 00:05:34,360
+has dysplastic kidney, and we asked the question, what's the risk of developing a similar dysplastic
+
+57
+00:05:34,360 --> 00:05:43,140
+kidney in a subsequent pregnancy, the risk would be relatively low because, again, this is not an inherited
+
+58
+00:05:43,140 --> 00:05:49,660
+disorder. Now, clinically, this is usually unilateral. However, on examinations, it's usually
+
+59
+00:05:49,660 --> 00:05:54,800
+bilateral, and the reason it's usually bilateral on examinations is because they like to try to confuse
+
+60
+00:05:54,800 --> 00:05:59,540
+you with inherited polycystic kidney disease. I think every medical student, when they hear about
+
+61
+00:05:59,540 --> 00:06:03,980
+cysts in the kidney, the first thing that comes to their mind is polycystic kidney disease. However,
+
+62
+00:06:03,980 --> 00:06:08,140
+it is important to note that there are other diseases that can also cause cysts in the kidney,
+
+63
+00:06:08,680 --> 00:06:12,940
+and so examiners like to go after them to see if they can get you to knee-jerk and select
+
+64
+00:06:12,940 --> 00:06:18,680
+polycystic kidney disease to see whether you really understand the spectrum of what can happen
+
+65
+00:06:18,680 --> 00:06:25,020
+within the kidney. The next of the cystic diseases of the kidney is polycystic kidney disease,
+
+66
+00:06:25,280 --> 00:06:32,740
+also known as PKD. This is an inherited defect, and it always results in bilateral enlargement of the
+
+67
+00:06:32,740 --> 00:06:38,460
+kidneys. The reason that the kidneys are enlarged is that the patients get cysts in both the renal cortex
+
+68
+00:06:38,460 --> 00:06:46,500
+and the medulla, and that's important to note. Again, inherited defect, bilateral, with cysts in the
+
+69
+00:06:46,500 --> 00:06:52,840
+renal cortex and the medulla. Now, when you look at a picture of polycystic kidney disease, you clearly see
+
+70
+00:06:52,840 --> 00:06:59,640
+that there is cyst formation and that the kidney is enlarged. So both kidneys, again, will be enlarged.
+
+71
+00:06:59,640 --> 00:07:05,260
+Now, polycystic kidney disease can actually be divided into two subtypes. There's an autosomal recessive form
+
+72
+00:07:05,260 --> 00:07:11,560
+and an autosomal dominant form. The autosomal recessive form classically used to be called the juvenile form,
+
+73
+00:07:11,560 --> 00:07:17,560
+and that's because it usually presents in infants. It presents with renal failure and hypertension,
+
+74
+00:07:18,600 --> 00:07:24,700
+and newborns can present with the Potter sequence, very high yield. Imagine if a patient has autosomal
+
+75
+00:07:24,700 --> 00:07:30,500
+recessive polycystic kidney disease, and it's so severe that the kidney isn't functioning. It's as if
+
+76
+00:07:30,500 --> 00:07:36,120
+they have bilateral renal agenesis. Again, the kidneys would not be producing fluid, and hence there would be
+
+77
+00:07:36,120 --> 00:07:41,240
+oligohydramnios with all of the resultant consequences of oligohydramnios, i.e. Potter
+
+78
+00:07:41,240 --> 00:07:47,480
+sequence. The associations of polycystic kidney disease are also important to know, and in an autosomal
+
+79
+00:07:47,480 --> 00:07:55,380
+recessive form, it'll be associated with congenital hepatic fibrosis and hepatic cysts. The way I think
+
+80
+00:07:55,380 --> 00:08:00,560
+about this is that the patients get cysts in the kidney and cysts in the liver, and that the cysts in
+
+81
+00:08:00,560 --> 00:08:06,400
+the liver can result in congenital hepatic fibrosis. The presenting sign of this congenital hepatic
+
+82
+00:08:06,400 --> 00:08:11,840
+fibrosis will be that the patients will have signs and symptoms of portal hypertension. So when you have
+
+83
+00:08:11,840 --> 00:08:18,000
+a baby with signs and symptoms of portal hypertension, think about autosomal recessive polycystic kidney
+
+84
+00:08:18,000 --> 00:08:24,800
+disease. The additional form of polycystic kidney disease is autosomal dominant form, and the autosomal
+
+85
+00:08:24,800 --> 00:08:33,200
+dominant form presents in young adults. Some people like to use the mnemonic ADULT. So the AD is
+
+86
+00:08:33,200 --> 00:08:38,800
+autosomal dominant, and it's also the first two letters of adult. So this presents in young adults.
+
+87
+00:08:39,360 --> 00:08:45,840
+Now, the defect is actually present in the fetus at the time of birth, so it's due to a mutation in
+
+88
+00:08:45,840 --> 00:08:52,960
+adult polycystic kidney disease gene 1 or adult polycystic kidney disease gene 2. But the cysts,
+
+89
+00:08:52,960 --> 00:08:58,800
+they develop over time. And since the cysts develop over time, these patients will present
+
+90
+00:08:58,800 --> 00:09:05,840
+as adults. The way by which they present is hypertension, hematuria, and worsening renal failure.
+
+91
+00:09:05,840 --> 00:09:11,360
+The hypertension is usually due to an increased renin, so that these patients will also have an
+
+92
+00:09:11,360 --> 00:09:18,560
+increased plasma renin. There are some associations to be aware of in this particular form of polycystic
+
+93
+00:09:18,560 --> 00:09:25,840
+kidney disease, and they include bary aneurysms, hepatic cysts, and mitral valve prolapse. And the
+
+94
+00:09:25,840 --> 00:09:31,360
+bary aneurysms are particularly important because they are a cause of death in this particular subgroup
+
+95
+00:09:31,360 --> 00:09:36,720
+of patients. So if you have a clinical vignette, for example, in which you're told that there is a
+
+96
+00:09:36,720 --> 00:09:43,280
+family history of renal disease, and there is death occurring because of renal disease or brain
+
+97
+00:09:43,280 --> 00:09:48,400
+hemorrhage in, for example, the grandfather or the great grandfather, then you really want to put two
+
+98
+00:09:48,400 --> 00:09:53,680
+and two together and think about autosomal dominant polycystic kidney disease. The way I have my
+
+99
+00:09:53,680 --> 00:10:00,320
+students remember this is that they get cysts in the liver, cysts in the brain, and cysts in the kidney.
+
+100
+00:10:00,880 --> 00:10:06,240
+Now, what do I mean by that? Well, the cysts in the kidney are the cysts of polycystic kidney disease.
+
+101
+00:10:06,240 --> 00:10:12,400
+The cysts in the brain is a cystic dilatation of a blood vessel in the brain. And remember that
+
+102
+00:10:12,400 --> 00:10:19,760
+bary aneurysms are basically balloon-like dilatations of a blood vessel in the brain. So you can think
+
+103
+00:10:19,760 --> 00:10:25,120
+about it as quote unquote a cyst. Additionally, they get hepatic cysts or cysts in the liver.
+
+104
+00:10:25,120 --> 00:10:30,000
+The last of the associations to be familiar with is mitral valve prolapse, and these patients can also
+
+105
+00:10:30,000 --> 00:10:35,360
+have mitral valve prolapse. And again, mitral valve prolapse can rarely be a cause of death as well.
+
+106
+00:10:36,240 --> 00:10:41,760
+The final of the cystic diseases and congenital diseases that we want to discuss is medullary
+
+107
+00:10:41,760 --> 00:10:46,480
+cystic kidney disease. Now, what's important here is, again, this is an inherited defect.
+
+108
+00:10:47,200 --> 00:10:54,240
+There are cysts in the kidney. However, the cysts are in the medullary collecting ducts of the kidney,
+
+109
+00:10:54,240 --> 00:10:59,760
+hence the name medullary cystic kidney disease. So that's one key distinction from polycystic kidney
+
+110
+00:10:59,760 --> 00:11:05,040
+disease is that here the cysts would be in the medullary collecting ducts. A second important
+
+111
+00:11:05,040 --> 00:11:10,480
+distinction from polycystic kidney disease is the fact that these patients have shrunken kidneys.
+
+112
+00:11:11,280 --> 00:11:15,840
+Now remember that in polycystic kidney disease, whether it be adult form or juvenile form,
+
+113
+00:11:15,840 --> 00:11:22,080
+the kidneys will be enlarged. However, in medullary cystic kidney disease, the kidneys are shrunken
+
+114
+00:11:22,080 --> 00:11:29,360
+and the patients will present with worsening renal failure. So again, shrunken kidneys with cysts in
+
+115
+00:11:29,360 --> 00:11:34,880
+the medulla of the kidney. And that concludes our congenital section. We're now going to move on to
+
+116
+00:11:34,880 --> 00:11:37,600
+acute renal failure.
+

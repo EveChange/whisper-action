@@ -1,0 +1,908 @@
+1
+00:00:00,000 --> 00:00:11,600
+Okay, moving on to urinary tract infection, let's just remind ourselves that we've got this urethra, which is draining the bladder, and of course, what feeds into the bladder are the ureters, and those are coming off the kidney.
+
+2
+00:00:12,000 --> 00:00:17,680
+So, in urinary tract infection, we can have infection of the urethra, the bladder, or the kidneys.
+
+3
+00:00:18,280 --> 00:00:26,060
+Now, most commonly, when you get infection of any of these regions, it's usually due to an ascending infection, so it starts in the urethra, and it works its way up.
+
+4
+00:00:26,060 --> 00:00:33,760
+This helps to explain why there's an increased incidence in females. It also helps to explain why the risk factors include, for example, sexual intercourse.
+
+5
+00:00:34,200 --> 00:00:38,220
+With sexual intercourse, there's an increased risk of introducing bacteria into this tract.
+
+6
+00:00:38,820 --> 00:00:43,980
+Urinary stasis, whenever you have stasis of urine, there'll be an increased risk for bacteria to grow in that urine.
+
+7
+00:00:44,460 --> 00:00:51,100
+And catheters, because if you have a catheter, that provides a conduit for bacteria to actually get into this pathway.
+
+8
+00:00:51,480 --> 00:00:55,560
+Now, when you have inflammation of the bladder, that is called cystitis.
+
+9
+00:00:56,060 --> 00:01:04,140
+And cystitis will present with dysuria, which is pain with urination, urinary frequency, urgency, and suprapubic pain.
+
+10
+00:01:04,680 --> 00:01:09,120
+And one of the interesting things about cystitis is that systemic signs are usually absent.
+
+11
+00:01:09,580 --> 00:01:12,340
+With that background in mind, let's go ahead and read what we have in the text.
+
+12
+00:01:12,340 --> 00:01:15,980
+So, urinary tract infection is infection of the urethral, bladder, or kidney.
+
+13
+00:01:16,460 --> 00:01:20,560
+Most commonly arises due to ascending infection, increased risk in females.
+
+14
+00:01:21,040 --> 00:01:24,420
+One of the risk factors, sexual intercourse, urinary stasis, and catheters.
+
+15
+00:01:24,420 --> 00:01:31,800
+When you have inflammation of the bladder, that's called cystitis, it presents with dysuria, urinary frequency, urgency, suprapubic pain.
+
+16
+00:01:32,140 --> 00:01:34,260
+You really don't have systemic signs.
+
+17
+00:01:34,380 --> 00:01:36,720
+You're not going to have fevers, chills, night sweats, etc.
+
+18
+00:01:37,340 --> 00:01:41,600
+Now, lab findings are particularly helpful in making the diagnosis of cystitis.
+
+19
+00:01:42,020 --> 00:01:46,820
+The urinalysis will show cloudy urine with greater than 10 white blood cells per high power field.
+
+20
+00:01:46,820 --> 00:01:55,380
+The urine dipstick will show positive leukocyte esterase, and of course, that's due to the fact that you've got pus in the urine, and one of the enzymes would be leukocyte esterase.
+
+21
+00:01:55,840 --> 00:01:57,240
+In addition, there'll be nitrites.
+
+22
+00:01:57,700 --> 00:02:02,280
+Now, bacteria, they take nitrates, which are present in the urine, and convert it to nitrites.
+
+23
+00:02:02,400 --> 00:02:07,840
+And so, when you have nitrites, that tells you that you have bacteria within the urine.
+
+24
+00:02:07,840 --> 00:02:13,700
+And finally, the gold standard is culture greater than 100,000 colony-forming units.
+
+25
+00:02:14,020 --> 00:02:15,200
+That's the gold standard.
+
+26
+00:02:15,760 --> 00:02:17,420
+The etiologies include E. coli.
+
+27
+00:02:17,520 --> 00:02:19,740
+This is the vast majority of cystitis.
+
+28
+00:02:20,300 --> 00:02:24,840
+Staph saprophyticus can be particularly seen in young, sexually active women.
+
+29
+00:02:25,160 --> 00:02:28,480
+However, even in this demographic, E. coli is the most common cause.
+
+30
+00:02:29,000 --> 00:02:31,120
+Other causes include Klebsiella pneumoniae.
+
+31
+00:02:31,120 --> 00:02:38,840
+A proteus is interesting, because when it causes a cystitis, you get an alkaline urine, which also has an ammonia scent, and so that's important.
+
+32
+00:02:39,280 --> 00:02:42,860
+And then enterococcus fecalus can also result in cystitis.
+
+33
+00:02:43,500 --> 00:02:52,240
+Now, if a patient presents with sterile pyuria, which basically means that they have pyuria, but they have a negative urine culture, then you want to think about urethritis.
+
+34
+00:02:52,680 --> 00:02:58,560
+Now, remember that if they have pyuria, you'll see greater than 10 white blood cells per high-power field in the urinalysis,
+
+35
+00:02:58,560 --> 00:03:03,280
+and you'll see leukocyte esterase on the urine dipstick, but the culture would be negative.
+
+36
+00:03:03,380 --> 00:03:07,080
+And remember, the culture was the gold standard for making the diagnosis of cystitis.
+
+37
+00:03:07,460 --> 00:03:11,980
+So when you have pyuria, but you have a negative culture, you're thinking about urethritis.
+
+38
+00:03:12,340 --> 00:03:16,660
+And that's important, because the key organisms then become chlamydia and Neisseria.
+
+39
+00:03:17,460 --> 00:03:19,420
+Pylinephritis is when you get infection of the kidney.
+
+40
+00:03:19,800 --> 00:03:22,940
+Now, this is also usually going to be due to an ascending infection,
+
+41
+00:03:23,300 --> 00:03:27,440
+and there'll be an increased risk if there's reflux from the bladder up to the ureters.
+
+42
+00:03:27,440 --> 00:03:33,620
+Of course, if what's in the bladder is being refluxed into the kidney, there'll be an increased risk for infection to go up to the kidney.
+
+43
+00:03:34,100 --> 00:03:38,040
+Now, patients with pyelonephritis do present with systemic signs, so you get fever.
+
+44
+00:03:38,520 --> 00:03:46,080
+And in addition, you get flank pain, because the inflammation results in sensitization of the nerves of the capsule of the kidney,
+
+45
+00:03:46,460 --> 00:03:48,040
+and so that would result in flank pain.
+
+46
+00:03:48,320 --> 00:03:51,220
+You get white blood cell casts and leukocytosis.
+
+47
+00:03:51,220 --> 00:03:58,120
+Now, the reason you get the white blood cell casts is because when the infection ascends up from the ureter into the kidney,
+
+48
+00:03:58,400 --> 00:04:01,040
+it's going to be walking its way up the tubule.
+
+49
+00:04:01,440 --> 00:04:06,800
+And as it walks its way up the tubule, that's going to result in inflammatory cells coming into the tubule,
+
+50
+00:04:07,100 --> 00:04:10,780
+and those inflammatory cells will cast themselves in the shape of the tubule,
+
+51
+00:04:11,060 --> 00:04:15,460
+so that when this is urinated out, you're actually going to get a white blood cell cast.
+
+52
+00:04:15,460 --> 00:04:19,420
+And that's an important finding in pyelonephritis.
+
+53
+00:04:20,000 --> 00:04:27,020
+In addition, you'll have symptoms of cystitis as well, and again, that's because the infection usually ascends from the bladder up into the kidney.
+
+54
+00:04:27,440 --> 00:04:32,680
+The most common pathogens for pyelonephritis include E. coli, Klebsiella can also do it,
+
+55
+00:04:32,940 --> 00:04:36,200
+and Enterococcus can also work its way up into the kidney.
+
+56
+00:04:36,640 --> 00:04:43,820
+Chronic pyelonephritis is when you get interstitial fibrosis and atrophy of the tubules due to multiple bouts of acute pyelonephritis.
+
+57
+00:04:43,820 --> 00:04:50,740
+Now, it's classically seen in a child that has vesicoureteral reflux, or VUR, or it can also be seen with obstruction.
+
+58
+00:04:51,140 --> 00:04:52,920
+Let's just talk about VUR for a moment.
+
+59
+00:04:53,200 --> 00:04:56,720
+Here's the bladder, and recall that the ureters, of course, plug into the bladder,
+
+60
+00:04:57,020 --> 00:04:59,180
+and they plug in at a very particular angle.
+
+61
+00:04:59,540 --> 00:05:04,260
+This angle helps to prevent the reflux of urine back up into the ureter.
+
+62
+00:05:04,600 --> 00:05:08,940
+However, if there's a malformation of this angle or of this apparatus,
+
+63
+00:05:08,940 --> 00:05:13,100
+there can be an increased risk of reflux up into the kidney,
+
+64
+00:05:13,420 --> 00:05:18,940
+and the reflux up into the kidney could then result in chronic scarring and interstitial fibrosis
+
+65
+00:05:18,940 --> 00:05:22,320
+with atrophy of the tubules, which is called chronic pyelonephritis.
+
+66
+00:05:22,840 --> 00:05:28,820
+Now, on gross exam, in chronic pyelonephritis, the kidneys will show cortical scarring and blunted calyces.
+
+67
+00:05:29,380 --> 00:05:35,320
+Now, one of the characteristic patterns of scarring is when you have scarring at the upper pole and lower pole,
+
+68
+00:05:35,320 --> 00:05:37,880
+and that's characteristic of VUR.
+
+69
+00:05:38,840 --> 00:05:44,940
+Now, the histology in chronic pyelonephritis will show atrophic tubules that are loaded with protonaceous material,
+
+70
+00:05:45,400 --> 00:05:51,100
+and this protonaceous material is reminiscent of the colloid that would be present within thyroid follicles,
+
+71
+00:05:51,560 --> 00:05:54,400
+and hence they call that thyroidization of the kidney.
+
+72
+00:05:54,800 --> 00:05:55,620
+Here's a picture.
+
+73
+00:05:55,820 --> 00:06:00,500
+You can see that these tubules are loaded with all this pink material that resembles colloid,
+
+74
+00:06:00,500 --> 00:06:08,360
+and so, therefore, these mimic thyroid follicles, and hence the term thyroidization of the kidney.
+
+75
+00:06:09,620 --> 00:06:13,240
+Nepherolithiasis is when you get precipitation of a urinary solute as a stone.
+
+76
+00:06:13,620 --> 00:06:16,720
+Now, recall that there are many different solutes that are present in the urine.
+
+77
+00:06:17,120 --> 00:06:22,980
+If that solute achieves a high enough concentration that it can precipitate, that can then result in a stone.
+
+78
+00:06:23,360 --> 00:06:28,420
+So the risk factors would be high concentration of the solute, as I've just explained, or low urine volume,
+
+79
+00:06:28,420 --> 00:06:33,240
+and, of course, low urine volume would result in an increased concentration of the solute.
+
+80
+00:06:33,580 --> 00:06:38,220
+Now, the classic presentation of nephrolithiasis is that you get colicky pain with hematuria
+
+81
+00:06:38,220 --> 00:06:44,380
+and unilateral flank tenderness as you try to pass that stone through the ureters.
+
+82
+00:06:44,820 --> 00:06:50,080
+Now, the stone is usually passed within hours, but if it's not, then surgical intervention may be required.
+
+83
+00:06:50,540 --> 00:06:54,780
+This table highlights some of the key types of stones and associated high-yield points,
+
+84
+00:06:55,100 --> 00:06:57,460
+and so we're going to spend a couple of moments going over it.
+
+85
+00:06:57,460 --> 00:07:01,700
+Now, one common type of stone, in fact, the most common type of stone seen in adults,
+
+86
+00:07:02,020 --> 00:07:05,180
+is a calcium oxalate or a calcium phosphate stone.
+
+87
+00:07:05,600 --> 00:07:09,960
+Now, if a patient has a calcium stone, then obviously there was high calcium within the urine,
+
+88
+00:07:10,360 --> 00:07:15,300
+and so one of the very important things that you have to exclude in these patients is hypercalcemia,
+
+89
+00:07:15,640 --> 00:07:19,800
+because, of course, if there's a high calcium in the urine, it may have come from a high calcium in the blood.
+
+90
+00:07:20,400 --> 00:07:26,340
+However, it's important to note that actually the most common cause of calcium stone is not hypercalcemia,
+
+91
+00:07:26,340 --> 00:07:29,780
+but instead something called idiopathic hypercalcemia,
+
+92
+00:07:30,100 --> 00:07:34,200
+where, for some reason, the patients actually put excess calcium into the urine,
+
+93
+00:07:34,560 --> 00:07:37,380
+but the calcium level in the blood is actually normal.
+
+94
+00:07:37,780 --> 00:07:41,100
+Now, you can also see a calcium oxalate stone with Crohn's disease,
+
+95
+00:07:41,440 --> 00:07:46,860
+and that's because the small bowel damage in Crohn's disease results in increased resorption of oxalate,
+
+96
+00:07:47,120 --> 00:07:50,240
+which can then bind calcium, creating a calcium oxalate stone.
+
+97
+00:07:50,240 --> 00:07:54,340
+The treatment for this type of stone would be hydrochlorothiazine.
+
+98
+00:07:54,660 --> 00:07:59,700
+This is a calcium-sparing diuretic and would decrease the amount of calcium going into the urine,
+
+99
+00:08:00,140 --> 00:08:02,780
+decreasing the risk for future development of stones.
+
+100
+00:08:03,460 --> 00:08:09,680
+The second most common type of stone is an ammonium-magnesium-phosphate stone, also called an AMP stone.
+
+101
+00:08:10,000 --> 00:08:14,880
+The most common cause of this type of stone is infection with urease-positive organisms,
+
+102
+00:08:14,880 --> 00:08:21,060
+such as Proteus or Klebsiella, and these organisms result in alkalinization of the urine,
+
+103
+00:08:21,380 --> 00:08:23,140
+which then leads to formation of the stone.
+
+104
+00:08:23,660 --> 00:08:29,040
+Now, it's very high yield to note that this classically results in a staghorn colliculus in the renal calyces.
+
+105
+00:08:29,540 --> 00:08:33,400
+Now, this would not normally be passed, and therefore, it would have to be surgically removed.
+
+106
+00:08:33,740 --> 00:08:37,500
+And one of the key complications is that this stone can act as a nidus for UTI,
+
+107
+00:08:37,500 --> 00:08:42,520
+and so the patients can develop urinary tract infections because of the presence of this stone.
+
+108
+00:08:42,620 --> 00:08:44,760
+So, again, it needs to be surgically removed.
+
+109
+00:08:45,100 --> 00:08:48,080
+In addition, you're going to have to treat the organism that caused it,
+
+110
+00:08:48,140 --> 00:08:52,720
+whether it be Proteus or Klebsiella, to prevent future recurrence of such a stone.
+
+111
+00:08:53,540 --> 00:08:56,800
+The third most common type of stone is a uric acid stone.
+
+112
+00:08:57,140 --> 00:09:01,620
+Now, this stone is radiolucent, which means that it would not be visible on x-ray,
+
+113
+00:09:01,620 --> 00:09:05,280
+and that's important because the other types of stones that we just talked about,
+
+114
+00:09:05,280 --> 00:09:09,060
+the calcium stone and the AMP stone, would be seen on x-ray.
+
+115
+00:09:09,540 --> 00:09:15,960
+Now, the risk factors for the uric acid stone are hot, arid climates, low urine volume, and acidic pH.
+
+116
+00:09:16,180 --> 00:09:19,500
+All of these things increase the risk of uric acid stones.
+
+117
+00:09:19,920 --> 00:09:23,180
+This is the most common type of stone seen in patients with gout.
+
+118
+00:09:23,500 --> 00:09:26,080
+Again, uric acid is associated with gout.
+
+119
+00:09:26,420 --> 00:09:30,900
+And then, it's also seen in patients with hyperuricemia or myeloproliferative disorders.
+
+120
+00:09:30,900 --> 00:09:34,100
+Now, hyperuricemia could be seen, for example, in leukemia,
+
+121
+00:09:34,100 --> 00:09:36,940
+where you're generating a lot of cells, and a lot of cells are turning over,
+
+122
+00:09:37,040 --> 00:09:38,580
+and so a lot of nucleus would turn over.
+
+123
+00:09:38,960 --> 00:09:41,140
+And it can also be seen in myeloproliferative disorders.
+
+124
+00:09:41,300 --> 00:09:44,460
+Again, in myeloproliferative disorders, you're generating a lot of cells,
+
+125
+00:09:44,560 --> 00:09:46,100
+and so there's a lot of nuclear turnover,
+
+126
+00:09:46,480 --> 00:09:49,660
+and so that can also result in high levels of uric acid.
+
+127
+00:09:50,140 --> 00:09:52,400
+Now, treatment of this type of stone involves hydration
+
+128
+00:09:52,400 --> 00:09:56,400
+and alkalinization of the urine, for example, with potassium bicarbonate.
+
+129
+00:09:56,580 --> 00:10:00,020
+Now, again, remember that acidic pH helps to form this type of stone,
+
+130
+00:10:00,020 --> 00:10:03,020
+so an alkaline urine would protect against formation.
+
+131
+00:10:03,700 --> 00:10:07,400
+Allopurinol can also be used in patients with gout to decrease the uric acid.
+
+132
+00:10:08,220 --> 00:10:10,520
+The fourth and final type of stone is a cysteine stone.
+
+133
+00:10:10,840 --> 00:10:13,280
+This is a very rare cause of nephrolithiasis.
+
+134
+00:10:13,400 --> 00:10:16,720
+It's seen in children, and it's classically associated with cystinuria,
+
+135
+00:10:16,880 --> 00:10:20,600
+where you have a genetic defect of the tubules so that you don't resorb cysteine.
+
+136
+00:10:20,980 --> 00:10:23,740
+If you don't resorb cysteine, cysteine piles up in the filtrate,
+
+137
+00:10:24,040 --> 00:10:25,920
+increasing the risk for a cysteine stone.
+
+138
+00:10:25,920 --> 00:10:30,540
+Now, very important to note that this can also produce a staghorn colliculus.
+
+139
+00:10:30,940 --> 00:10:34,200
+So, a staghorn colliculus in an adult, you're thinking AMP stone.
+
+140
+00:10:34,580 --> 00:10:38,000
+However, a staghorn colliculus in a kid, you're thinking a cysteine stone.
+
+141
+00:10:38,440 --> 00:10:43,020
+And the treatment can involve hydration and alkalinization of the urine as well.
+
+142
+00:10:43,600 --> 00:10:46,780
+Moving on to chronic renal failure, this is end-stage kidney failure.
+
+143
+00:10:47,100 --> 00:10:49,500
+Important to note that you can get end-stage kidney failure
+
+144
+00:10:49,500 --> 00:10:51,180
+from any of the compartments of the kidney.
+
+145
+00:10:51,520 --> 00:10:54,840
+For example, if you damage the glomeruli, you can get end-stage kidney failure,
+
+146
+00:10:54,840 --> 00:10:59,300
+as we saw in nephrotic syndrome or rapidly progressive glomerulonephritis.
+
+147
+00:10:59,880 --> 00:11:03,000
+If you damage the tubules, you can get end-stage renal failure.
+
+148
+00:11:04,200 --> 00:11:06,920
+Inflammatory diseases can result in end-stage renal failure,
+
+149
+00:11:07,320 --> 00:11:11,000
+and damage to the blood vessels can also result in end-stage renal failure.
+
+150
+00:11:11,000 --> 00:11:17,460
+The three most common causes of chronic renal failure are diabetes, hypertension, and glomerular disease.
+
+151
+00:11:18,120 --> 00:11:20,420
+Now, when patients develop end-stage kidney failure,
+
+152
+00:11:20,740 --> 00:11:24,080
+they are going to have several clinical features associated with that.
+
+153
+00:11:24,080 --> 00:11:25,660
+The first is uremia.
+
+154
+00:11:26,060 --> 00:11:29,040
+And uremia is a clinical constellation of symptoms
+
+155
+00:11:29,040 --> 00:11:32,520
+that are based on increased nitrogenous waste products in the blood.
+
+156
+00:11:32,880 --> 00:11:35,920
+For example, the patients will have nausea, anorexia,
+
+157
+00:11:36,220 --> 00:11:37,700
+they can develop pericarditis,
+
+158
+00:11:38,040 --> 00:11:39,300
+they get platelet dysfunction,
+
+159
+00:11:39,500 --> 00:11:43,940
+and that's because the uremia inhibits both platelet adhesion and platelet aggregation.
+
+160
+00:11:44,400 --> 00:11:46,820
+They can get encephalopathy with asterixis,
+
+161
+00:11:47,240 --> 00:11:50,540
+and then they can get deposition of urea crystals in the skin.
+
+162
+00:11:50,540 --> 00:11:53,320
+And all of this is sort of the constellation of uremia,
+
+163
+00:11:53,740 --> 00:11:56,900
+which is due to the increased nitrogenous waste products in the blood.
+
+164
+00:11:57,560 --> 00:12:00,460
+In addition, patients can also develop salt and water retention.
+
+165
+00:12:00,900 --> 00:12:03,840
+And when there's salt and water retention, of course, there will be hypertension.
+
+166
+00:12:04,480 --> 00:12:08,480
+Patients can also develop hyperkalemia because they're not able to excrete potassium,
+
+167
+00:12:08,880 --> 00:12:12,980
+along with a metabolic acidosis because they're not able to get rid of organic acids.
+
+168
+00:12:12,980 --> 00:12:16,560
+And so this would be, again, an anion gap, metabolic acidosis.
+
+169
+00:12:17,100 --> 00:12:20,840
+Anemia can also be seen, and that's because the kidney normally makes erythropoietin,
+
+170
+00:12:20,900 --> 00:12:24,160
+and so if you get damage to the kidney, you might get less erythropoietin.
+
+171
+00:12:24,560 --> 00:12:26,660
+One of the things that board examiners like you to know
+
+172
+00:12:26,660 --> 00:12:31,780
+is that erythropoietin is produced by the renal peritubular interstitial cells.
+
+173
+00:12:32,260 --> 00:12:35,100
+The renal peritubular interstitial cells.
+
+174
+00:12:35,520 --> 00:12:36,980
+Patients can also have hypocalcemia.
+
+175
+00:12:37,660 --> 00:12:39,840
+There's two main reasons for the hypocalcemia.
+
+176
+00:12:39,840 --> 00:12:44,160
+Number one, because there's decreased 1-alpha-hydroxylation of vitamin D.
+
+177
+00:12:44,460 --> 00:12:47,720
+Recall that vitamin D is 1-alpha-hydroxylated by the kidney
+
+178
+00:12:47,720 --> 00:12:49,860
+in the proximal renal tubular cells.
+
+179
+00:12:50,360 --> 00:12:52,860
+And then number two, because the kidney is failing,
+
+180
+00:12:52,980 --> 00:12:54,760
+it's not able to excrete phosphate,
+
+181
+00:12:55,160 --> 00:12:58,520
+and if you can't excrete phosphate, you're going to get hyperphosphatemia.
+
+182
+00:12:58,640 --> 00:13:01,320
+Now remember that the high phosphate will bind with calcium,
+
+183
+00:13:01,760 --> 00:13:04,780
+and so therefore the free calcium will become low,
+
+184
+00:13:05,120 --> 00:13:08,280
+which is another reason why patients develop hypocalcemia.
+
+185
+00:13:08,280 --> 00:13:11,080
+Finally, they can develop renal osteodystrophy.
+
+186
+00:13:11,520 --> 00:13:15,060
+Now renal osteodystrophy is a damage to the bone
+
+187
+00:13:15,060 --> 00:13:16,760
+that occurs because of renal failure.
+
+188
+00:13:17,080 --> 00:13:19,080
+And there's actually three independent components.
+
+189
+00:13:19,600 --> 00:13:22,320
+The first is that you get osteitis fibrosis cystica.
+
+190
+00:13:22,740 --> 00:13:26,220
+Now the idea here is that the patients have hypocalcemia.
+
+191
+00:13:26,360 --> 00:13:30,280
+And because they have hypocalcemia, the PTH levels will rise,
+
+192
+00:13:30,600 --> 00:13:33,300
+and when the PTH levels rise, that will hit the bone,
+
+193
+00:13:33,620 --> 00:13:35,900
+and eventually it will cause resorption of calcium.
+
+194
+00:13:35,900 --> 00:13:39,180
+Now as you get resorption of calcium, you're eventually going to burn out the bone,
+
+195
+00:13:39,640 --> 00:13:43,740
+and as you burn out and destroy the bone, you get fibrosis and cyst formation.
+
+196
+00:13:44,200 --> 00:13:46,780
+And so that's called osteitis fibrosa cystica.
+
+197
+00:13:47,260 --> 00:13:49,940
+Now at the same time, the patients will also have osteomalacia.
+
+198
+00:13:50,400 --> 00:13:51,560
+Now what is osteomalacia?
+
+199
+00:13:51,760 --> 00:13:56,680
+This is when you cannot mineralize the osteoid made by the osteoblast.
+
+200
+00:13:57,320 --> 00:13:59,680
+So let's take a step back, remind ourselves that the osteoblast,
+
+201
+00:14:00,480 --> 00:14:03,680
+they lay down new bone, but they don't lay down bone, they lay down osteoid.
+
+202
+00:14:03,680 --> 00:14:07,780
+And that osteoid then needs to be mineralized with calcium and phosphate.
+
+203
+00:14:08,440 --> 00:14:11,240
+However, if the patients don't have good vitamin D function,
+
+204
+00:14:11,620 --> 00:14:13,500
+their calcium levels will be low,
+
+205
+00:14:13,900 --> 00:14:16,540
+and hence they won't be able to mineralize that new bone.
+
+206
+00:14:16,960 --> 00:14:19,360
+And so therefore, they'll develop osteomalacia.
+
+207
+00:14:19,840 --> 00:14:22,380
+And finally, they can develop osteoporosis.
+
+208
+00:14:22,760 --> 00:14:26,280
+And that's when you leach calcium from the bone slowly over time.
+
+209
+00:14:26,760 --> 00:14:30,860
+Now the reason why they get osteoporosis is because they have a metabolic acidosis.
+
+210
+00:14:30,860 --> 00:14:35,240
+And one of the buffering systems for acidosis is to buffer it against the bone.
+
+211
+00:14:35,580 --> 00:14:38,480
+When you buffer it against the bone, that leaches calcium from the bone.
+
+212
+00:14:38,800 --> 00:14:41,580
+And the slow leaching of calcium from the bone over time
+
+213
+00:14:41,580 --> 00:14:44,940
+would then result in osteoporosis, or parotic bone.
+
+214
+00:14:45,540 --> 00:14:50,020
+Now patients with end-stage renal failure are going to require dialysis or renal transplant.
+
+215
+00:14:50,540 --> 00:14:54,460
+Important to note that when patients have end-stage renal failure, the kidneys are shrunken.
+
+216
+00:14:54,460 --> 00:14:58,580
+If you then put that kidney on dialysis, cysts will develop.
+
+217
+00:14:58,920 --> 00:15:01,880
+So often, patients on dialysis will develop cysts of their kidney.
+
+218
+00:15:02,220 --> 00:15:05,700
+However, they will have a shrunken kidney upon which cysts develop.
+
+219
+00:15:06,020 --> 00:15:09,000
+So it's different than, for example, a polycystic kidney disease
+
+220
+00:15:09,000 --> 00:15:10,980
+where you have big kidneys with cysts.
+
+221
+00:15:11,020 --> 00:15:13,160
+These would be shrunken kidneys with cysts.
+
+222
+00:15:13,180 --> 00:15:16,280
+And they, of course, would occur in the context of end-stage renal failure.
+
+223
+00:15:16,780 --> 00:15:19,200
+Superhigh yield to note that patients who are on dialysis
+
+224
+00:15:19,200 --> 00:15:22,820
+have an increased risk for the development of renal cell carcinoma
+
+225
+00:15:22,820 --> 00:15:25,320
+in that shrunken end-stage kidney.
+
+226
+00:15:25,600 --> 00:15:27,180
+Again, that's superhigh yield to note.
+
+227
+00:15:27,600 --> 00:15:30,120
+And that concludes this particular series of sections.
+
