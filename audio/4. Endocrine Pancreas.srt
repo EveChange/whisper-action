@@ -1,0 +1,1040 @@
+1
+00:00:00,000 --> 00:00:02,140
+Moving on to endocrine pancreas,
+
+2
+00:00:02,240 --> 00:00:04,480
+recall that the pancreas is sort of two organs in one.
+
+3
+00:00:04,580 --> 00:00:08,320
+There's an exocrine pancreas that produces the digestive enzymes
+
+4
+00:00:08,320 --> 00:00:10,540
+that are then secreted into the small bowel.
+
+5
+00:00:11,100 --> 00:00:13,260
+And then there's the endocrine pancreas,
+
+6
+00:00:13,340 --> 00:00:15,620
+which is what we're going to discuss in this particular chapter.
+
+7
+00:00:16,300 --> 00:00:19,280
+The endocrine pancreas is actually composed of clusters of cells
+
+8
+00:00:19,280 --> 00:00:20,720
+called the islets of Langerhans.
+
+9
+00:00:21,160 --> 00:00:23,000
+Each islet contains multiple cell types,
+
+10
+00:00:23,140 --> 00:00:25,940
+and these cell types then produce one particular type of hormone.
+
+11
+00:00:26,360 --> 00:00:28,940
+For example, insulin is secreted by the beta cells.
+
+12
+00:00:28,940 --> 00:00:31,380
+Examiners like you to know that the beta cells
+
+13
+00:00:31,380 --> 00:00:33,100
+lie in the center of the islets.
+
+14
+00:00:33,200 --> 00:00:34,960
+That's an important thing that shows up on exams.
+
+15
+00:00:35,520 --> 00:00:38,200
+Recall that insulin is the major anabolic hormone of the body.
+
+16
+00:00:38,440 --> 00:00:41,880
+It upregulates GLUT4 receptors on skeletal muscle and adipose tissue.
+
+17
+00:00:42,520 --> 00:00:45,020
+This then allows for glucose to enter into those tissues,
+
+18
+00:00:45,140 --> 00:00:46,680
+which then lowers the serum glucose.
+
+19
+00:00:47,160 --> 00:00:49,120
+When glucose enters into those tissues,
+
+20
+00:00:49,240 --> 00:00:51,020
+it leads to increased glycogen synthesis,
+
+21
+00:00:51,240 --> 00:00:52,500
+increased protein synthesis,
+
+22
+00:00:52,700 --> 00:00:55,680
+and increased synthesis of fat or lipogenesis.
+
+23
+00:00:56,400 --> 00:00:58,760
+Recall that insulin is opposed by glucagon,
+
+24
+00:00:58,760 --> 00:01:01,100
+which is secreted by the alpha cells of the islets,
+
+25
+00:01:01,580 --> 00:01:03,800
+and the glucagon increases blood sugar
+
+26
+00:01:03,800 --> 00:01:06,840
+via breakdown of glycogen or glycogenolysis
+
+27
+00:01:06,840 --> 00:01:09,180
+and via breakdown of fat or lipolysis.
+
+28
+00:01:09,860 --> 00:01:11,380
+Here's a picture of an islet,
+
+29
+00:01:11,600 --> 00:01:13,200
+and I put this picture here to remind you
+
+30
+00:01:13,200 --> 00:01:16,300
+that the beta cells sit in the center of the islet.
+
+31
+00:01:16,800 --> 00:01:19,060
+First disorder is type 1 diabetes mellitus.
+
+32
+00:01:19,200 --> 00:01:21,340
+This is when you have an insulin deficiency,
+
+33
+00:01:21,880 --> 00:01:23,700
+which then leads to a metabolic disorder
+
+34
+00:01:23,700 --> 00:01:25,580
+characterized by hyperglycemia.
+
+35
+00:01:25,580 --> 00:01:28,680
+So again, key problem is that you lose the ability to produce insulin.
+
+36
+00:01:29,140 --> 00:01:33,120
+This occurs because you have an autoimmune destruction of the beta cells by T lymphocytes.
+
+37
+00:01:33,240 --> 00:01:34,900
+It's a type 4 hypersensitivity.
+
+38
+00:01:35,460 --> 00:01:38,500
+The characteristic finding will be inflammation of the islets.
+
+39
+00:01:38,660 --> 00:01:40,020
+Board examiners like you to know that.
+
+40
+00:01:40,180 --> 00:01:41,920
+You will see inflammation of the islets.
+
+41
+00:01:42,420 --> 00:01:45,580
+It's associated with HLA-DR3 and HLA-DR4,
+
+42
+00:01:45,960 --> 00:01:49,240
+and patients can have autoantibodies against insulin in their blood.
+
+43
+00:01:49,520 --> 00:01:54,260
+These are often present and may be seen years before the actual clinical disease develops.
+
+44
+00:01:54,260 --> 00:01:56,320
+Now, this will manifest in childhood.
+
+45
+00:01:56,540 --> 00:01:57,620
+That's when it usually occurs,
+
+46
+00:01:58,000 --> 00:02:00,480
+and it manifests with features of insulin deficiency.
+
+47
+00:02:00,960 --> 00:02:02,420
+So because there is insulin deficiency,
+
+48
+00:02:02,600 --> 00:02:04,340
+the patients will have high serum glucose.
+
+49
+00:02:04,580 --> 00:02:09,540
+Of course, a lack of insulin will lead to decreased uptake by skeletal muscle and fat.
+
+50
+00:02:10,080 --> 00:02:13,460
+In addition, the patients will have weight loss and low muscle mass,
+
+51
+00:02:13,540 --> 00:02:16,200
+and again, that's because they have unopposed glucagon,
+
+52
+00:02:16,480 --> 00:02:19,340
+and the glucagon will result in gluconeogenesis,
+
+53
+00:02:19,540 --> 00:02:22,320
+which requires amino acids, and so you'll break down muscle.
+
+54
+00:02:22,320 --> 00:02:24,980
+Glycogenolysis, where you'll break down glycogen,
+
+55
+00:02:25,140 --> 00:02:27,800
+and lipolysis, where you will break down fat.
+
+56
+00:02:28,320 --> 00:02:30,960
+They can also have polyphagia, which means that they eat a lot.
+
+57
+00:02:31,240 --> 00:02:34,440
+In addition, the patients will have polyuria with glucose in the urine,
+
+58
+00:02:34,780 --> 00:02:36,420
+and will also be drinking a lot.
+
+59
+00:02:36,900 --> 00:02:39,420
+Now, the idea here is that you'll have a high glucose in the blood,
+
+60
+00:02:39,660 --> 00:02:42,160
+and that will result in a high filtration by the kidney.
+
+61
+00:02:42,940 --> 00:02:46,320
+The hyperglycemia will exceed the renal ability to resorb sugar,
+
+62
+00:02:46,320 --> 00:02:48,500
+and you'll start losing sugar in the urine.
+
+63
+00:02:48,980 --> 00:02:52,080
+That's an osmotically active substance, which will also draw water with it,
+
+64
+00:02:52,320 --> 00:02:55,580
+and so again, you'll have polyuria with glucose in the urine,
+
+65
+00:02:55,680 --> 00:02:57,900
+and polydipsia, where the patients will be drinking a lot.
+
+66
+00:02:58,180 --> 00:03:00,060
+And the treatment is lifelong insulin.
+
+67
+00:03:00,580 --> 00:03:03,780
+One of the feared complications, and one of the classic mechanisms
+
+68
+00:03:03,780 --> 00:03:08,680
+by which type 1 diabetes can present, is diabetic ketoacidosis.
+
+69
+00:03:09,280 --> 00:03:12,280
+This is characterized by excessive ketoacids within the serum,
+
+70
+00:03:12,420 --> 00:03:14,680
+hence the term diabetic ketoacidosis.
+
+71
+00:03:15,060 --> 00:03:17,720
+It often arises with stress, for example, infection,
+
+72
+00:03:18,140 --> 00:03:21,240
+and the idea here is that when you have stress, you get release of epinephrine,
+
+73
+00:03:21,540 --> 00:03:23,700
+and epinephrine increases glucagon.
+
+74
+00:03:24,020 --> 00:03:26,860
+Now, glucagon, of course, will increase lipolysis,
+
+75
+00:03:27,240 --> 00:03:31,760
+and when you increase lipolysis, that's going to result in increased free fatty acids.
+
+76
+00:03:32,260 --> 00:03:35,760
+Those free fatty acids will go to the liver and be converted to ketone bodies,
+
+77
+00:03:35,760 --> 00:03:41,480
+and the ketone bodies, for example, are beta-hydroxybutyric acid and acetoacetic acid.
+
+78
+00:03:42,040 --> 00:03:45,880
+Of course, these acids would then be the hallmark of diabetic ketoacidosis.
+
+79
+00:03:46,240 --> 00:03:48,180
+Clinically, the patients will have a very high sugar,
+
+80
+00:03:48,320 --> 00:03:54,040
+and that's because the glucagon is also inducing gluconeogenesis and glycogenolysis,
+
+81
+00:03:54,160 --> 00:03:55,540
+and so the sugar will be very high.
+
+82
+00:03:55,960 --> 00:03:58,660
+They'll have an anion-gap metabolic acidosis,
+
+83
+00:03:58,720 --> 00:04:01,860
+and that is because they've got ketoacids floating around in the blood.
+
+84
+00:04:02,440 --> 00:04:05,120
+They'll have hyperkalemia, and this can happen for a few different reasons.
+
+85
+00:04:05,120 --> 00:04:09,160
+Number one, insulin is useful for driving potassium into cells,
+
+86
+00:04:09,260 --> 00:04:12,760
+and so if they don't have insulin, the potassium will be outside of the cell,
+
+87
+00:04:12,840 --> 00:04:13,920
+giving them a hyperkalemia.
+
+88
+00:04:14,400 --> 00:04:16,340
+And number two, when they get an acidosis,
+
+89
+00:04:16,420 --> 00:04:20,380
+one of the buffering mechanisms is to put hydrogen into the cell and bring potassium out,
+
+90
+00:04:20,760 --> 00:04:23,040
+and so they'll have a high potassium within their serum.
+
+91
+00:04:23,320 --> 00:04:26,760
+Now, it's important to note that much of this potassium will actually be lost in the urine,
+
+92
+00:04:27,240 --> 00:04:29,900
+and so over time, although the potassium is high in the blood,
+
+93
+00:04:30,200 --> 00:04:32,280
+they're actually depleting the body of potassium,
+
+94
+00:04:32,280 --> 00:04:36,380
+and so overall, the potassium is low in the body because it's being lost in the urine.
+
+95
+00:04:36,940 --> 00:04:39,280
+In addition, the patients will have cost-mall respirations,
+
+96
+00:04:39,380 --> 00:04:42,140
+and that's because they're trying to blow off this acidosis.
+
+97
+00:04:42,220 --> 00:04:47,720
+They'll have dehydration because the hyperglycemia is leading to a massive diuresis,
+
+98
+00:04:48,100 --> 00:04:53,280
+and they can have a fruity-smelling breath due to the presence of acetone within their serum.
+
+99
+00:04:53,720 --> 00:04:55,400
+The treatment involves giving fluids.
+
+100
+00:04:55,540 --> 00:05:00,520
+The patients are often dehydrated because of the diuretic effect of having so much sugar in the urine.
+
+101
+00:05:00,520 --> 00:05:04,860
+In addition, insulin is given to counter the effects of glucagon and to replace insulin.
+
+102
+00:05:05,340 --> 00:05:08,500
+In addition, you'll have to replace electrolytes, in particular potassium.
+
+103
+00:05:09,180 --> 00:05:12,940
+Recall that although the patients are hyperkalemic, they've lost a lot of potassium in the urine.
+
+104
+00:05:13,260 --> 00:05:16,060
+When you give insulin, that's going to force potassium into the cells,
+
+105
+00:05:16,160 --> 00:05:20,200
+and also when you reverse the acidosis, potassium will also go back into the cells,
+
+106
+00:05:20,680 --> 00:05:22,520
+and so these patients can quickly become hypokalemic,
+
+107
+00:05:23,660 --> 00:05:27,620
+and so you need to replace potassium while all of this is going on.
+
+108
+00:05:27,620 --> 00:05:34,740
+Now, in type 2 diabetes, you have end-organ resistance to insulin that leads to hyperglycemia.
+
+109
+00:05:35,060 --> 00:05:37,400
+This is the most common type of diabetes.
+
+110
+00:05:37,700 --> 00:05:38,820
+Its incidence is rising.
+
+111
+00:05:39,360 --> 00:05:42,480
+The classic patient is a middle-aged obese adult.
+
+112
+00:05:42,920 --> 00:05:47,980
+Obesity leads to a decreased number of insulin receptors on the skeletal muscle and the adipose tissue.
+
+113
+00:05:48,320 --> 00:05:50,360
+That's very high yield for board examinations.
+
+114
+00:05:50,580 --> 00:05:53,200
+They like you to know the mechanism of insulin resistance,
+
+115
+00:05:53,400 --> 00:05:55,880
+and it is due to a decreased number of insulin receptors.
+
+116
+00:05:55,880 --> 00:05:59,820
+There's a very strong genetic predisposition for type 2 diabetes.
+
+117
+00:05:59,980 --> 00:06:05,300
+In fact, the genetic predisposition for type 2 diabetes is stronger than it is for type 1 diabetes,
+
+118
+00:06:05,440 --> 00:06:07,580
+and that's also a high yield board association.
+
+119
+00:06:08,400 --> 00:06:11,820
+In these particular patients, early on, the insulin levels are increased,
+
+120
+00:06:11,960 --> 00:06:17,180
+and that's because there's an insulin resistance, and so the pancreas and so the islets will produce excess insulin.
+
+121
+00:06:17,540 --> 00:06:21,180
+However, later there will be insulin deficiency as you get beta cell exhaustion.
+
+122
+00:06:21,180 --> 00:06:27,840
+One of the interesting high yield points that you'll see on histology is that the islets will become full of amyloid,
+
+123
+00:06:28,180 --> 00:06:31,720
+and so you can clearly see that there's all this amyloid within this islet here,
+
+124
+00:06:32,000 --> 00:06:34,560
+and that's very high yield for the purposes of exams.
+
+125
+00:06:35,060 --> 00:06:38,000
+Now, clinically, these patients will have polyuria and polydipsia.
+
+126
+00:06:38,360 --> 00:06:42,280
+At the same time, they'll have hyperglycemia, but often it's clinically silent,
+
+127
+00:06:42,280 --> 00:06:47,380
+and in fact, many patients with type 2 diabetes don't even know that they have the disease.
+
+128
+00:06:48,040 --> 00:06:51,000
+The diagnosis is made by detecting a high blood sugar.
+
+129
+00:06:51,340 --> 00:06:54,880
+You can do so by finding a random blood glucose greater than 200,
+
+130
+00:06:55,480 --> 00:07:00,260
+by measuring a fasting blood glucose, which should be greater than 126,
+
+131
+00:07:00,680 --> 00:07:04,660
+or by doing a glucose tolerance test where you give the patients a specific amount of glucose
+
+132
+00:07:04,660 --> 00:07:07,840
+and then measure the glucose after a few hours,
+
+133
+00:07:08,300 --> 00:07:11,600
+and the presence of greater than 200 milligrams per deciliter of glucose
+
+134
+00:07:11,600 --> 00:07:16,100
+two hours after the glucose load is also sufficient to make a diagnosis of diabetes.
+
+135
+00:07:16,500 --> 00:07:19,000
+Treatment involves weight loss by a diet and exercise,
+
+136
+00:07:19,540 --> 00:07:21,200
+and in fact, this is the first-line treatment.
+
+137
+00:07:21,680 --> 00:07:24,440
+You could give drug therapy to counter the insulin resistance,
+
+138
+00:07:24,880 --> 00:07:29,000
+and finally, in the end stage of the disease, the patients do become insulin-dependent.
+
+139
+00:07:29,320 --> 00:07:31,400
+One of the key complications in type 2 diabetes
+
+140
+00:07:31,400 --> 00:07:34,060
+is the risk for hyperosmolar non-ketotic coma.
+
+141
+00:07:34,560 --> 00:07:37,480
+This is when the patients get very high blood glucose levels,
+
+142
+00:07:37,780 --> 00:07:40,340
+which then leads to a life-threatening diuresis.
+
+143
+00:07:40,400 --> 00:07:42,800
+So again, the high glucose will get filtered by the kidney,
+
+144
+00:07:43,280 --> 00:07:45,440
+and the glucose is an osmotically active agent,
+
+145
+00:07:45,540 --> 00:07:47,960
+which will then result in a massive diuresis.
+
+146
+00:07:48,600 --> 00:07:50,800
+Now, this would then result in hypotension and coma,
+
+147
+00:07:51,120 --> 00:07:53,680
+and in particular, it's important to note that ketones are absent.
+
+148
+00:07:53,840 --> 00:07:57,160
+In this particular case, the patients do have small amounts of circulating insulin,
+
+149
+00:07:57,160 --> 00:08:01,520
+and that insulin is sufficient enough to counter the effects of glucagon,
+
+150
+00:08:01,600 --> 00:08:03,120
+and so ketones are usually absent.
+
+151
+00:08:03,320 --> 00:08:04,940
+Again, going back to the term here,
+
+152
+00:08:05,240 --> 00:08:09,160
+hyperosmolar, high blood sugar, non-ketotic, you don't have ketones, coma.
+
+153
+00:08:09,280 --> 00:08:12,440
+You get life-threatening diuresis, which could put the patient into coma.
+
+154
+00:08:12,720 --> 00:08:15,460
+Now, the last discussion, as far as diabetes is concerned,
+
+155
+00:08:15,700 --> 00:08:17,600
+is to cover the complications of diabetes.
+
+156
+00:08:18,080 --> 00:08:19,780
+And so basically, what I would like to remind you
+
+157
+00:08:19,780 --> 00:08:23,520
+is that there are two major mechanisms by which you get complications in diabetes.
+
+158
+00:08:23,520 --> 00:08:28,060
+The first is non-enzymatic glycosylation of vascular basement membrane.
+
+159
+00:08:28,360 --> 00:08:30,340
+Non-enzymatic means you don't need an enzyme,
+
+160
+00:08:30,440 --> 00:08:33,260
+and glycosylation means that you're sticking sugar onto something.
+
+161
+00:08:33,700 --> 00:08:36,680
+And so when you stick sugar onto the vascular basement membrane,
+
+162
+00:08:36,920 --> 00:08:38,580
+it's going to result in certain complications.
+
+163
+00:08:39,240 --> 00:08:41,720
+When this occurs on the large and medium-sized vessels,
+
+164
+00:08:42,020 --> 00:08:44,120
+you're going to increase the risk for atherosclerosis.
+
+165
+00:08:44,520 --> 00:08:47,140
+And this then leads to many of the complications of diabetes.
+
+166
+00:08:47,280 --> 00:08:50,120
+For example, cardiovascular disease is the leading cause of death,
+
+167
+00:08:50,120 --> 00:08:53,120
+and cardiovascular disease is caused by atherosclerosis.
+
+168
+00:08:53,680 --> 00:08:58,820
+Peripheral vascular disease is a leading cause of non-traumatic amputations in diabetic patients.
+
+169
+00:08:59,200 --> 00:09:02,400
+And so atherosclerosis and all its related complications will occur.
+
+170
+00:09:02,940 --> 00:09:07,080
+In addition, diabetics also get non-enzymatic glycosylation of their small blood vessels.
+
+171
+00:09:07,500 --> 00:09:10,080
+That then leads to highline arteriolosclerosis,
+
+172
+00:09:10,200 --> 00:09:12,900
+and we covered this in detail in the vascular chapter.
+
+173
+00:09:13,620 --> 00:09:17,160
+Now, the classic location for highline arteriolosclerosis would be in the kidney.
+
+174
+00:09:17,160 --> 00:09:21,080
+And recall that if this is the afferent arteriole, and this is the glomerulus,
+
+175
+00:09:21,180 --> 00:09:24,280
+and this is the efferent arteriole, a couple of things can happen.
+
+176
+00:09:24,380 --> 00:09:28,260
+Number one, you're going to get preferential involvement of the efferent arteriole.
+
+177
+00:09:28,560 --> 00:09:30,960
+That's going to increase the pressure within the glomerulus,
+
+178
+00:09:31,060 --> 00:09:32,680
+creating a hyperfiltration injury.
+
+179
+00:09:33,040 --> 00:09:35,460
+The initial phase will be that you'll get microalbuminuria.
+
+180
+00:09:35,460 --> 00:09:40,880
+Eventually, you'll get sclerosis of the mesangium, resulting in Kimmel-Steel-Wilson nodules,
+
+181
+00:09:41,180 --> 00:09:42,860
+which will then result in nephrotic syndrome.
+
+182
+00:09:43,180 --> 00:09:48,040
+So one complication of the highline arteriolosclerosis within the kidney will be nephrotic syndrome.
+
+183
+00:09:48,460 --> 00:09:53,340
+Another complication will be that you will get some arteriolosclerosis of the afferent arteriole.
+
+184
+00:09:53,640 --> 00:10:00,260
+This will then decrease the blood supply to the glomerulus and can result in diffuse sclerosis of the glomerulus,
+
+185
+00:10:00,660 --> 00:10:04,040
+which would then, of course, also result in chronic renal failure.
+
+186
+00:10:04,040 --> 00:10:07,860
+And so these patients can develop chronic renal failure over time as well.
+
+187
+00:10:08,260 --> 00:10:14,180
+Finally, the third complication of non-enzymatic glicosylation is that you will have non-enzymatic glicosylation of hemoglobin.
+
+188
+00:10:14,540 --> 00:10:19,800
+And when you get non-enzymatic glicosylation of hemoglobin, that produces a special hemoglobin called hemoglobin A1c.
+
+189
+00:10:20,240 --> 00:10:24,100
+And it's important to note that hemoglobin A1c is a marker of glycemic control,
+
+190
+00:10:24,220 --> 00:10:27,320
+because remember that the red blood cells, they last 120 days.
+
+191
+00:10:27,380 --> 00:10:33,960
+And so you can get an idea of how well the sugar has been controlled over a period of time by looking at hemoglobin A1c.
+
+192
+00:10:34,480 --> 00:10:37,220
+Here's a picture of highline arteriolosclerosis.
+
+193
+00:10:37,420 --> 00:10:44,300
+Remember that highline arteriolosclerosis refers to the fact that you get pink material within the walls of small blood vessels,
+
+194
+00:10:44,440 --> 00:10:45,640
+hence the term arteriolo.
+
+195
+00:10:45,960 --> 00:10:52,240
+And this then decreases the luminal caliber, resulting in the complications that we've already described.
+
+196
+00:10:52,500 --> 00:10:55,220
+Here's a picture of a kidney with glomerulosclerosis.
+
+197
+00:10:55,220 --> 00:10:59,260
+The idea here is that you've got a shrunken kidney that appears scarred on its surface.
+
+198
+00:10:59,600 --> 00:11:06,540
+And the reason it appears scarred on its surface is because you've got all that sclerosis going on in the glomeruli that I've already described.
+
+199
+00:11:06,960 --> 00:11:11,140
+Again, this would then lead to chronic renal failure that is classically seen in diabetics.
+
+200
+00:11:12,080 --> 00:11:16,280
+The second complication of having a high sugar is that you'll get asthmatic damage in certain cells.
+
+201
+00:11:16,680 --> 00:11:21,500
+Now it's important to note that there are some cells in the body that will take up sugar without the need for insulin.
+
+202
+00:11:21,500 --> 00:11:25,320
+For example, the Schwann cells have the ability to take up sugar without insulin.
+
+203
+00:11:26,020 --> 00:11:29,280
+And so if you've got a high blood sugar, you're going to get high sugar within the Schwann cells.
+
+204
+00:11:29,720 --> 00:11:35,040
+When you have high glucose within the Schwann cells, aldose reductase will convert the glucose to sorbitol.
+
+205
+00:11:35,320 --> 00:11:37,160
+And sorbitol will lead to osmotic damage.
+
+206
+00:11:37,340 --> 00:11:38,740
+This is very high yield.
+
+207
+00:11:39,260 --> 00:11:44,800
+Now when you cause osmotic damage of the Schwann cells, recall that the Schwann cells, they myelinate the peripheral nervous system.
+
+208
+00:11:45,260 --> 00:11:48,620
+And so that's going to result in the neuropathy that's seen in diabetics.
+
+209
+00:11:48,620 --> 00:11:52,900
+In addition, the pericytes of the retinal blood vessels can take up sugar without insulin.
+
+210
+00:11:53,360 --> 00:11:57,920
+And so let's remind ourselves that if this is the small blood vessel within the retina,
+
+211
+00:11:58,240 --> 00:12:01,520
+and you've got the endothelial cells here, we're just talking about the capillaries.
+
+212
+00:12:01,660 --> 00:12:03,940
+Again, endothelial cells sitting on basement membrane.
+
+213
+00:12:04,360 --> 00:12:09,600
+Remember that underneath the endothelial cells in the microvasculature, in the capillaries, for example, in the venules,
+
+214
+00:12:09,980 --> 00:12:12,120
+you've got these small cells called pericytes.
+
+215
+00:12:12,520 --> 00:12:14,660
+And so here's an example of the pericytes here.
+
+216
+00:12:14,660 --> 00:12:18,640
+What happens with a high sugar is that sugar goes into these pericytes.
+
+217
+00:12:18,840 --> 00:12:21,680
+Aldose reductase converts the sugar to sorbitol.
+
+218
+00:12:22,060 --> 00:12:24,780
+That then causes osmotic damage, and the pericytes die.
+
+219
+00:12:25,180 --> 00:12:30,460
+When the pericytes die, you will then weaken this blood vessel wall, which will then result in an aneurysm.
+
+220
+00:12:30,840 --> 00:12:33,140
+And so you can get aneurysms within the retina.
+
+221
+00:12:33,440 --> 00:12:37,320
+These aneurysms can rupture, and then you get hemorrhage, and that then causes blindness.
+
+222
+00:12:37,820 --> 00:12:40,260
+And recall that diabetes is an important cause of blindness.
+
+223
+00:12:40,260 --> 00:12:43,860
+And finally, the lens can take a glucose even without insulin.
+
+224
+00:12:44,260 --> 00:12:50,580
+And so the high glucose will go into the lens, will be converted to sorbitol by aldose reductase, again, high yield.
+
+225
+00:12:51,000 --> 00:12:55,300
+And that will then result in cataracts, and so that's also a complication seen in diabetics.
+
+226
+00:12:55,760 --> 00:12:59,720
+Moving on to pancreatic endocrine tumors, these are tumors of the islet cells.
+
+227
+00:13:00,000 --> 00:13:02,200
+They're often a component of MEN1.
+
+228
+00:13:02,400 --> 00:13:08,000
+MEN, again, is multiple endocrine neoplasia, where you get neoplasia of multiple endocrine organs.
+
+229
+00:13:08,000 --> 00:13:16,900
+In MEN1, the classic finding would be parathyroid hyperplasia, pituitary adenoma, and then a pancreatic endocrine tumor.
+
+230
+00:13:18,420 --> 00:13:21,740
+Insulinoma is when you have a tumor that produces insulin.
+
+231
+00:13:22,180 --> 00:13:27,480
+You get episodic hypoglycemia with mental status changes that are relieved by glucose.
+
+232
+00:13:28,080 --> 00:13:30,900
+So the glucose would be down because of the insulinoma.
+
+233
+00:13:31,140 --> 00:13:32,240
+The insulin would be up.
+
+234
+00:13:32,460 --> 00:13:35,460
+And very important, very high yield, the C-peptide would also be up.
+
+235
+00:13:35,460 --> 00:13:41,200
+Recall that when the body produces insulin, it also produces an additional protein with it called C-peptide.
+
+236
+00:13:41,620 --> 00:13:47,800
+And so if you have a high insulin with a high C-peptide, it indicates that you're making the insulin within the human body,
+
+237
+00:13:47,880 --> 00:13:50,160
+and hence you probably have an insulinoma.
+
+238
+00:13:50,700 --> 00:13:53,440
+However, if the patient has a high insulin with no C-peptide,
+
+239
+00:13:53,520 --> 00:13:56,520
+it means that they perhaps may be injecting themselves with insulin,
+
+240
+00:13:56,660 --> 00:13:59,780
+for example, to seek the attention of medical professionals.
+
+241
+00:13:59,780 --> 00:14:02,680
+Gastrinoma is a tumor that produces gastrin.
+
+242
+00:14:02,760 --> 00:14:08,940
+Recall that gastrin goes to the parietal cells of the stomach and then causes the parietal cells to produce acid via their proton pumps.
+
+243
+00:14:09,560 --> 00:14:14,080
+So if you have a gastrinoma, you're going to get excess production of acid by the parietal cells,
+
+244
+00:14:14,220 --> 00:14:17,520
+which will then result in treatment-resistant peptic ulcers.
+
+245
+00:14:17,880 --> 00:14:19,760
+That's called Zolliger-Ellison syndrome.
+
+246
+00:14:20,320 --> 00:14:24,240
+These ulcers can be multiple, and they can extend into the jejunum.
+
+247
+00:14:24,240 --> 00:14:27,040
+And so these are some of the classic features of a gastrinoma.
+
+248
+00:14:27,680 --> 00:14:31,280
+A somatostatinoma is when you have a tumor that produces somatostatin.
+
+249
+00:14:31,920 --> 00:14:37,340
+Somatostatin inhibits gastrin, and so the patients will have low acid production by the stomach, or achlorhydria.
+
+250
+00:14:38,040 --> 00:14:40,440
+Somatostatin also inhibits cholecystokinin.
+
+251
+00:14:40,820 --> 00:14:45,140
+Recall that cholecystokinin, or CCK, is important for contraction of the gallbladder,
+
+252
+00:14:45,460 --> 00:14:48,660
+and so when you have a somatostatinoma, you won't have contraction of the gallbladder.
+
+253
+00:14:48,660 --> 00:14:54,100
+And lack of contraction of the gallbladder will increase the risk for gallstones and for steatorrhea.
+
+254
+00:14:54,260 --> 00:15:00,000
+Of course, if you're not putting the bile into the small bowel, you won't be able to digest fat very well,
+
+255
+00:15:00,260 --> 00:15:01,920
+and so the patients will get steatorrhea.
+
+256
+00:15:02,480 --> 00:15:06,840
+VIP-oma is a tumor that produces VIP, or vasoactive intestinal peptide.
+
+257
+00:15:07,220 --> 00:15:09,660
+This will result in a watery diarrhea, achlorhydria.
+
+258
+00:15:10,500 --> 00:15:14,840
+Remember that VIP inhibits gastric acid secretion, and hypokalemia.
+
+259
+00:15:15,340 --> 00:15:17,680
+And so these are the key findings in VIP-oma.
+
+260
+00:15:17,680 --> 00:15:21,040
+And that concludes our section on the endocrine pancreas.
+

@@ -1,0 +1,992 @@
+1
+00:00:01,780 --> 00:00:04,560
+Okay, the next section of your text deals with the vagina.
+
+2
+00:00:05,080 --> 00:00:09,100
+Recall that the vagina is a fibromuscular canal that leads to the cervix,
+
+3
+00:00:09,480 --> 00:00:12,480
+and the first of the disorders that we want to talk about is adenosis.
+
+4
+00:00:12,840 --> 00:00:16,080
+However, before we can understand adenosis, we need a little bit of background,
+
+5
+00:00:16,240 --> 00:00:17,700
+and so I'm going to take you to the whiteboard.
+
+6
+00:00:18,280 --> 00:00:21,180
+Again, the vagina is a fibromuscular canal,
+
+7
+00:00:21,640 --> 00:00:25,080
+and this fibromuscular canal is lined by surface epithelium,
+
+8
+00:00:25,080 --> 00:00:28,880
+and it so happens that the surface epithelium of this canal
+
+9
+00:00:28,880 --> 00:00:34,440
+is stratified squamous epithelium that is non-keratinizing.
+
+10
+00:00:34,820 --> 00:00:38,180
+And so what I'm drawing here, each of these boxes represents a squamous cell
+
+11
+00:00:38,180 --> 00:00:41,680
+that together is forming this stratified squamous epithelium
+
+12
+00:00:41,680 --> 00:00:43,320
+that, again, is non-keratinizing.
+
+13
+00:00:43,940 --> 00:00:46,900
+Now, this is the normal lining of the vaginal canal.
+
+14
+00:00:47,420 --> 00:00:49,660
+However, if we go back to embryology,
+
+15
+00:00:49,660 --> 00:00:53,840
+recall that the vaginal canal is actually derived from two different things.
+
+16
+00:00:54,420 --> 00:00:57,000
+The lower one-third of the vaginal canal
+
+17
+00:00:57,000 --> 00:01:00,540
+is derived from something called the urogenital sinus,
+
+18
+00:01:00,960 --> 00:01:03,960
+and the upper two-thirds of the vaginal canal
+
+19
+00:01:03,960 --> 00:01:06,720
+is derived from something called the malarian duct.
+
+20
+00:01:07,220 --> 00:01:08,480
+Now, remember that the malarian duct
+
+21
+00:01:08,480 --> 00:01:11,340
+is the source of the female reproductive system.
+
+22
+00:01:11,480 --> 00:01:14,340
+So, for example, the uterus is derived from the malarian duct,
+
+23
+00:01:14,640 --> 00:01:16,600
+the tubes are derived from the malarian duct,
+
+24
+00:01:16,920 --> 00:01:18,900
+the cervix is derived from the malarian duct,
+
+25
+00:01:18,900 --> 00:01:20,600
+and the upper two-thirds of the vagina
+
+26
+00:01:20,600 --> 00:01:22,440
+is also derived from the malarian duct.
+
+27
+00:01:23,060 --> 00:01:26,400
+Now, let's go back down to this lower one-third urogenital sinus.
+
+28
+00:01:26,400 --> 00:01:35,480
+The cells that line the urogenital sinus are normally stratified squamous epithelium.
+
+29
+00:01:35,840 --> 00:01:43,460
+However, the cells that line the upper two-thirds that was derived from the malarian duct in utero is columnar.
+
+30
+00:01:44,400 --> 00:01:49,960
+And so what happens during development is that the stratified squamous epithelium from the lower one-third
+
+31
+00:01:49,960 --> 00:01:56,940
+begins to extend during development again, all the way up to eventually replace the entire vaginal canal
+
+32
+00:01:56,940 --> 00:02:00,480
+so that these columnar cells should disappear and be replaced by squamous cells.
+
+33
+00:02:01,220 --> 00:02:05,600
+If there is a disruption of this process and the columnar cells persist,
+
+34
+00:02:06,340 --> 00:02:11,960
+then the presence of persistent columnar epithelium in the vaginal canal is called adenosis.
+
+35
+00:02:12,500 --> 00:02:14,320
+And that's what I've mentioned here in your text.
+
+36
+00:02:14,320 --> 00:02:20,520
+So adenosis is focal persistence of columnar epithelium in the upper vagina
+
+37
+00:02:20,520 --> 00:02:24,620
+because, of course, the upper vagina is derived from the malarian duct.
+
+38
+00:02:25,500 --> 00:02:28,060
+Now, this can rarely happen in a normal individual.
+
+39
+00:02:28,640 --> 00:02:34,580
+However, the key association is that adenosis is seen with increased incidence in females
+
+40
+00:02:34,580 --> 00:02:38,300
+that are exposed to a drug called DES in utero,
+
+41
+00:02:38,460 --> 00:02:42,680
+or females that were, I should say, exposed to a drug called DES in utero.
+
+42
+00:02:42,680 --> 00:02:46,840
+Now, DES, we need a little bit of a pharmacology tie-in here.
+
+43
+00:02:47,240 --> 00:02:49,680
+So DES actually stands for diethylstilbestarol,
+
+44
+00:02:50,440 --> 00:02:54,060
+and it is an estrogen-like compound that was developed in the late 1930s.
+
+45
+00:02:54,600 --> 00:02:57,940
+It was initially used to treat symptoms of postmenopause,
+
+46
+00:02:58,040 --> 00:03:01,680
+but over time it gained popularity for prevention of pregnancy-related complications.
+
+47
+00:03:02,820 --> 00:03:06,200
+So, for example, women who had miscarriage or who had preterm labor
+
+48
+00:03:06,200 --> 00:03:10,360
+would be given this drug while they were pregnant.
+
+49
+00:03:10,360 --> 00:03:13,940
+Eventually, we learned that this drug crossed the placenta,
+
+50
+00:03:14,120 --> 00:03:18,400
+and when it crossed the placenta, it would cause disruption of uterine development,
+
+51
+00:03:18,780 --> 00:03:22,380
+and one of the things that it would disrupt was a conversion of columnar epithelium
+
+52
+00:03:22,380 --> 00:03:25,800
+to squamous epithelium in the vaginal canal.
+
+53
+00:03:26,140 --> 00:03:30,840
+So again, remember that the lower one-third, which was derived from the urogenital sinus, was squamous,
+
+54
+00:03:31,240 --> 00:03:35,480
+and the upper two-thirds, which was derived from the malarian duct, was columnar.
+
+55
+00:03:35,480 --> 00:03:39,700
+And these squamous cells would go up and would normally replace the columnar cells.
+
+56
+00:03:40,020 --> 00:03:42,320
+However, DES would block this process,
+
+57
+00:03:42,940 --> 00:03:47,560
+and women who were exposed to DES in utero when this process was occurring in fetal life
+
+58
+00:03:47,560 --> 00:03:51,620
+would eventually not have this process occur properly,
+
+59
+00:03:51,960 --> 00:03:53,980
+and so they would have residual columnar cells,
+
+60
+00:03:54,100 --> 00:03:58,220
+and the presence of those residual columnar cells was called adenosis.
+
+61
+00:03:59,140 --> 00:04:01,160
+Here's an example of a patient with adenosis.
+
+62
+00:04:01,880 --> 00:04:04,120
+Essentially, I'm drawing the basement membrane here,
+
+63
+00:04:04,640 --> 00:04:09,680
+and everything to the left of this basement membrane is stratified squamous epithelium,
+
+64
+00:04:10,200 --> 00:04:11,980
+and here represents the canal.
+
+65
+00:04:12,360 --> 00:04:14,560
+So essentially, everything to the left is normal.
+
+66
+00:04:15,160 --> 00:04:19,400
+Now, in this particular woman, as the squamous cells came up and replaced,
+
+67
+00:04:19,800 --> 00:04:22,740
+the other thing that should have happened is that the columnar cells
+
+68
+00:04:22,740 --> 00:04:27,400
+that were present deep underneath the epithelium, within the canal itself,
+
+69
+00:04:27,700 --> 00:04:29,200
+should also have been resorbed.
+
+70
+00:04:29,200 --> 00:04:34,500
+And in this particular case, which these cells again here that I'm circling should have been resorbed.
+
+71
+00:04:34,920 --> 00:04:38,020
+However, in this particular case, these cells are not resorbed,
+
+72
+00:04:38,100 --> 00:04:42,500
+and so you have persistence of columnar epithelium in the upper two-thirds of the vaginal canal.
+
+73
+00:04:42,660 --> 00:04:44,520
+Now, you wouldn't know that this is the upper two-thirds.
+
+74
+00:04:44,600 --> 00:04:45,540
+I'd have to tell you that.
+
+75
+00:04:45,980 --> 00:04:47,760
+But in the upper two-thirds of the vaginal canal,
+
+76
+00:04:48,140 --> 00:04:53,480
+and so it's this persistence of columnar epithelium that again refers to adenosis,
+
+77
+00:04:53,480 --> 00:04:57,860
+and this picture is actually taken from a woman who was exposed to DES in utero.
+
+78
+00:04:58,460 --> 00:05:00,420
+Now, adenosis wouldn't be that big of an issue,
+
+79
+00:05:00,780 --> 00:05:03,480
+but the key problem is that adenosis can lead to another complication,
+
+80
+00:05:04,240 --> 00:05:06,400
+which is called clear-cell adenocarcinoma.
+
+81
+00:05:06,960 --> 00:05:09,820
+Carcinoma, of course, refers to a malignant proliferation of cells.
+
+82
+00:05:10,400 --> 00:05:13,320
+Adeno refers to the fact that those cells are forming glands,
+
+83
+00:05:13,860 --> 00:05:16,480
+and clear-cell tells us that they have a clear cytoplasm.
+
+84
+00:05:16,480 --> 00:05:22,460
+And so, essentially, the complication of adenosis is that women could develop later on in life
+
+85
+00:05:22,460 --> 00:05:24,420
+clear-cell adenocarcinoma.
+
+86
+00:05:24,920 --> 00:05:29,480
+And this is a rare complication of DES-associated vaginal adenosis.
+
+87
+00:05:30,580 --> 00:05:34,560
+Now, it was the discovery of clear-cell adenocarcinoma,
+
+88
+00:05:34,640 --> 00:05:38,960
+along with other complications that eventually led to the cessation of DES usage,
+
+89
+00:05:39,320 --> 00:05:43,880
+and ever since about the late 1970s, we no longer used this drug.
+
+90
+00:05:43,880 --> 00:05:47,140
+I'd like to briefly just talk about some of these other complications,
+
+91
+00:05:47,720 --> 00:05:50,020
+because it is important to know.
+
+92
+00:05:50,500 --> 00:05:54,480
+And so, let's just kind of review the patient populations that could be exposed to DES.
+
+93
+00:05:54,980 --> 00:05:58,940
+So, the first patient population that could be exposed would be a DES mom.
+
+94
+00:05:59,100 --> 00:06:02,640
+So, this is a mother who was pregnant, let's say, in the 60s,
+
+95
+00:06:02,720 --> 00:06:05,960
+and she had some preterm labor, and so she was exposed to DES.
+
+96
+00:06:06,500 --> 00:06:08,660
+Now, if DES mom was carrying a girl,
+
+97
+00:06:08,840 --> 00:06:11,420
+then the drug would cross the placenta,
+
+98
+00:06:11,540 --> 00:06:13,440
+and she would produce a DES daughter.
+
+99
+00:06:15,920 --> 00:06:19,580
+And if a DES mom was carrying a boy,
+
+100
+00:06:19,700 --> 00:06:21,280
+then the drug would cross the placenta,
+
+101
+00:06:21,400 --> 00:06:23,180
+and it would produce a DES son.
+
+102
+00:06:24,020 --> 00:06:27,080
+So, these are kind of the key populations that could be exposed to DES.
+
+103
+00:06:27,680 --> 00:06:30,960
+Now, DES daughters, the key first complication,
+
+104
+00:06:31,080 --> 00:06:31,960
+which we've already discussed,
+
+105
+00:06:32,040 --> 00:06:34,040
+is that they could get vaginal adenosis.
+
+106
+00:06:35,100 --> 00:06:39,480
+And the problem with adenosis is that that adenosis could potentially become
+
+107
+00:06:39,480 --> 00:06:43,120
+something called clear cell adenal carcinoma,
+
+108
+00:06:43,240 --> 00:06:46,080
+which was the feared complication of exposure to DES.
+
+109
+00:06:46,620 --> 00:06:49,380
+Another thing that could happen in a DES daughter
+
+110
+00:06:49,380 --> 00:06:54,420
+is that there could be abnormalities of just the formation of the uterus and the tubes,
+
+111
+00:06:54,500 --> 00:06:58,120
+in particular, the smooth muscle of the uterus and the tubes.
+
+112
+00:06:58,120 --> 00:07:02,760
+And so, they would get abnormalities in the formation of the uterus in relation to the tubes.
+
+113
+00:07:02,760 --> 00:07:09,380
+And this could lead to an increased risk of ectopic pregnancy, infertility, or pregnancy loss.
+
+114
+00:07:09,500 --> 00:07:12,520
+So, pregnancy and gestational type problems.
+
+115
+00:07:13,080 --> 00:07:16,600
+So, those are the two major complications that would arise in DES daughters.
+
+116
+00:07:16,600 --> 00:07:20,880
+Now, DES sons, fortunately, they have no significant complications.
+
+117
+00:07:21,840 --> 00:07:25,380
+Now, DES moms, the one key complication that I would point out,
+
+118
+00:07:25,660 --> 00:07:29,600
+is that DES moms, or mothers who were exposed to DES when they were pregnant,
+
+119
+00:07:30,000 --> 00:07:33,980
+have a slightly increased risk for breast carcinoma.
+
+120
+00:07:35,680 --> 00:07:37,320
+And that shouldn't be hard to remember,
+
+121
+00:07:37,480 --> 00:07:41,360
+because DES essentially was an estrogen-derived compound.
+
+122
+00:07:42,080 --> 00:07:46,280
+And breast carcinoma is something that is related to estrogen exposure.
+
+123
+00:07:46,280 --> 00:07:51,640
+And so, it's not hard to associate the exposure of an estrogen-like compound
+
+124
+00:07:51,640 --> 00:07:54,560
+with a cancer that's related to exposure to estrogen.
+
+125
+00:07:55,000 --> 00:07:58,320
+And so, those are the key patient populations that would be exposed to DES.
+
+126
+00:07:58,640 --> 00:08:00,060
+And those are the key complications.
+
+127
+00:08:00,300 --> 00:08:04,740
+And it's the learning of all of this that led to the cessation, again,
+
+128
+00:08:04,820 --> 00:08:06,980
+of the use of the drug, and it's no longer in use.
+
+129
+00:08:07,880 --> 00:08:10,040
+The second disorder that we want to talk about
+
+130
+00:08:10,040 --> 00:08:12,600
+is something called embrinal rhabdomyosarcoma.
+
+131
+00:08:12,600 --> 00:08:16,620
+Sarcoma refers to a malignant mesenchymal proliferation.
+
+132
+00:08:17,340 --> 00:08:23,620
+And rhabdomyo refers to a cell that has features of skeletal muscle.
+
+133
+00:08:24,000 --> 00:08:28,380
+And so, this is a malignant proliferation of immature skeletal muscle.
+
+134
+00:08:29,260 --> 00:08:31,060
+It's relatively rare.
+
+135
+00:08:31,440 --> 00:08:34,140
+I highly doubt you'll ever see one in your practice.
+
+136
+00:08:34,560 --> 00:08:38,020
+However, those things that are rare in practice are often common on exams,
+
+137
+00:08:38,020 --> 00:08:40,720
+and so, it's important to be aware of this disorder.
+
+138
+00:08:41,680 --> 00:08:46,840
+Now, this disorder has a very interesting presentation that you need to be aware of.
+
+139
+00:08:47,220 --> 00:08:50,760
+And that is that this disorder often presents with bleeding
+
+140
+00:08:50,760 --> 00:08:57,460
+and a grape-like mass, which is arising from the vagina, if it's a female,
+
+141
+00:08:57,800 --> 00:08:59,760
+or the penis, if it's a male.
+
+142
+00:08:59,760 --> 00:09:04,020
+And it classically occurs in a child less than five years of age.
+
+143
+00:09:04,640 --> 00:09:07,120
+Because this produces this grape-like mass,
+
+144
+00:09:07,620 --> 00:09:09,820
+now, it's also called sarcoma botrydes,
+
+145
+00:09:09,960 --> 00:09:12,540
+and botrydes refers to grape-like mass,
+
+146
+00:09:12,580 --> 00:09:14,940
+or it's a term that literally means grape-like mass.
+
+147
+00:09:15,460 --> 00:09:17,540
+Here's a picture of the grape-like mass,
+
+148
+00:09:17,640 --> 00:09:19,360
+and all I'm showing you here is the mass.
+
+149
+00:09:19,420 --> 00:09:21,720
+I'm not showing you, obviously, the protrusion of the mass
+
+150
+00:09:21,720 --> 00:09:23,260
+from the vagina or the penis.
+
+151
+00:09:23,660 --> 00:09:26,940
+But essentially, you notice all these grape-like bubbles,
+
+152
+00:09:27,060 --> 00:09:28,700
+or grape-like protrusions here.
+
+153
+00:09:28,700 --> 00:09:32,260
+And so, they call this sarcoma botrydes,
+
+154
+00:09:32,420 --> 00:09:34,720
+again, because of the grape-like mass,
+
+155
+00:09:34,760 --> 00:09:38,500
+and it also, of course, represents an embryonorhabdomyosarcoma.
+
+156
+00:09:38,800 --> 00:09:41,080
+Now, they don't usually show this picture on exams,
+
+157
+00:09:41,160 --> 00:09:43,880
+but they often show a picture of a five-year-old girl,
+
+158
+00:09:43,960 --> 00:09:45,020
+which is the classic picture,
+
+159
+00:09:45,240 --> 00:09:47,580
+and they show this mass protruding from the vagina,
+
+160
+00:09:47,800 --> 00:09:49,480
+and so that would be the classic presentation.
+
+161
+00:09:51,840 --> 00:09:53,120
+Embryonorhabdomyosarcoma has a key cell,
+
+162
+00:09:53,460 --> 00:09:54,660
+which forms the tumor,
+
+163
+00:09:55,060 --> 00:09:57,400
+and that cell is called a rhabdomyoblast.
+
+164
+00:09:57,400 --> 00:10:00,360
+The rhabdomyo, again, refers to skeletal muscle,
+
+165
+00:10:00,520 --> 00:10:03,540
+and the blast refers to the fact that it is an immature cell.
+
+166
+00:10:03,920 --> 00:10:06,820
+So, rhabdomyosarcoma is actually defined
+
+167
+00:10:06,820 --> 00:10:09,120
+by the presence of rhabdomyoblast,
+
+168
+00:10:09,180 --> 00:10:10,480
+and that's an important take-home here.
+
+169
+00:10:11,160 --> 00:10:14,340
+Now, a couple of features of the rhabdomyoblast
+
+170
+00:10:14,340 --> 00:10:15,320
+that we should be aware of.
+
+171
+00:10:15,720 --> 00:10:17,520
+The first is that rhabdomyoblast
+
+172
+00:10:17,520 --> 00:10:20,860
+will often show cytoplasmic cross-driation.
+
+173
+00:10:21,000 --> 00:10:22,980
+So, when you look at a rhabdomyoblast,
+
+174
+00:10:23,040 --> 00:10:24,240
+and you look at the cytoplasm,
+
+175
+00:10:24,240 --> 00:10:28,080
+you'll often see these cross-driations running up and down the cytoplasm,
+
+176
+00:10:28,400 --> 00:10:30,900
+similar to what you would see in skeletal muscle.
+
+177
+00:10:31,400 --> 00:10:32,820
+And so, if I were to tell you, for example,
+
+178
+00:10:32,880 --> 00:10:34,860
+that there is a child, and they have a tumor,
+
+179
+00:10:35,060 --> 00:10:39,280
+and the pathologist says that the tumor exhibits cytoplasmic cross-driations,
+
+180
+00:10:39,620 --> 00:10:42,020
+you're going to think about a rhabdomyoblast,
+
+181
+00:10:42,360 --> 00:10:44,640
+and in turn, a rhabdomyosarcoma.
+
+182
+00:10:45,280 --> 00:10:47,880
+Another way by which we can define the rhabdomyoblast,
+
+183
+00:10:47,980 --> 00:10:50,500
+or maybe I should say identify the rhabdomyoblast,
+
+184
+00:10:50,500 --> 00:10:52,900
+is to use something called immunohistochemistry.
+
+185
+00:10:53,440 --> 00:10:56,800
+Now, we can stain for certain antigens present in the cell,
+
+186
+00:10:57,040 --> 00:10:58,820
+which would then help us to identify the cell.
+
+187
+00:10:59,220 --> 00:11:01,180
+And two of the key antigens that are helpful
+
+188
+00:11:01,180 --> 00:11:03,120
+in identifying a rhabdomyoblast
+
+189
+00:11:03,120 --> 00:11:06,380
+are desmin and myogenin.
+
+190
+00:11:07,200 --> 00:11:10,360
+Desmin, again, is the intermediate filament
+
+191
+00:11:10,360 --> 00:11:12,240
+that is present in muscle cells.
+
+192
+00:11:12,360 --> 00:11:15,480
+And so, if we know that a cell is positive for desmin,
+
+193
+00:11:15,480 --> 00:11:17,540
+we know that it is a muscle cell.
+
+194
+00:11:18,140 --> 00:11:22,040
+And myogenin is a nuclear transcription factor
+
+195
+00:11:22,040 --> 00:11:24,960
+that would be present in immature skeletal muscle.
+
+196
+00:11:25,520 --> 00:11:28,640
+And so, if the tumor is positive for desmin and myogenin,
+
+197
+00:11:28,920 --> 00:11:30,120
+that would automatically tell us
+
+198
+00:11:30,120 --> 00:11:31,400
+that we're dealing with muscle
+
+199
+00:11:31,400 --> 00:11:33,780
+that is immature skeletal muscle,
+
+200
+00:11:34,040 --> 00:11:36,240
+and of course, because it's producing a mass or a tumor,
+
+201
+00:11:36,580 --> 00:11:39,320
+that would indicate a rhabdomyosarcoma.
+
+202
+00:11:39,640 --> 00:11:41,040
+And so, these are some important features
+
+203
+00:11:41,040 --> 00:11:43,200
+of rhabdomyosarcoma that we should be aware of.
+
+204
+00:11:43,200 --> 00:11:46,440
+The final disorder that we're going to talk about
+
+205
+00:11:46,440 --> 00:11:47,760
+is vaginal carcinoma.
+
+206
+00:11:48,160 --> 00:11:49,840
+Vaginal carcinoma is a carcinoma
+
+207
+00:11:49,840 --> 00:11:52,140
+that arises from the squamous epithelium
+
+208
+00:11:52,140 --> 00:11:53,800
+that lines the vaginal mucosa.
+
+209
+00:11:53,960 --> 00:11:57,000
+I've already told you that the entire vaginal mucosa
+
+210
+00:11:57,000 --> 00:11:58,900
+is lined by squamous epithelium.
+
+211
+00:11:59,320 --> 00:12:02,360
+This tumor is classically related to high-risk HPV,
+
+212
+00:12:02,480 --> 00:12:07,400
+so you're thinking about HPV 16, 18, 31, and 33.
+
+213
+00:12:07,960 --> 00:12:11,800
+And the precursor lesion for this is dysplasia,
+
+214
+00:12:11,800 --> 00:12:16,760
+which, again, is called the vaginal intraepithelial neoplasia,
+
+215
+00:12:17,060 --> 00:12:20,360
+also called the VAIN.
+
+216
+00:12:21,760 --> 00:12:25,860
+And that, again, is the dysplastic precursor
+
+217
+00:12:25,860 --> 00:12:27,940
+from high-risk HPV,
+
+218
+00:12:28,220 --> 00:12:30,760
+which eventually becomes vaginal carcinoma.
+
+219
+00:12:31,300 --> 00:12:32,440
+Now, one important thing to note
+
+220
+00:12:32,440 --> 00:12:34,380
+is that patients who get vaginal carcinoma
+
+221
+00:12:34,380 --> 00:12:36,840
+that eventually invades and spreads
+
+222
+00:12:36,840 --> 00:12:39,480
+will get spread to regional lymph nodes
+
+223
+00:12:39,480 --> 00:12:42,760
+as, again, carcinomas generally go to regional lymph nodes.
+
+224
+00:12:43,120 --> 00:12:44,640
+But what you need to know
+
+225
+00:12:44,640 --> 00:12:46,340
+and what's particularly high-yield here
+
+226
+00:12:46,340 --> 00:12:49,660
+is that because the vagina is derived
+
+227
+00:12:49,660 --> 00:12:50,880
+from two different sources,
+
+228
+00:12:51,100 --> 00:12:52,620
+depending on where the cancer is,
+
+229
+00:12:52,700 --> 00:12:55,160
+the spread will be to two different sets of lymph nodes.
+
+230
+00:12:55,560 --> 00:12:57,140
+So recall, again, that the vagina,
+
+231
+00:12:57,320 --> 00:12:58,380
+the lower one-third,
+
+232
+00:12:59,000 --> 00:13:01,760
+is derived from something called the urogenital sinus.
+
+233
+00:13:01,760 --> 00:13:05,240
+And so cancers that arise from the lower one-third
+
+234
+00:13:05,240 --> 00:13:08,120
+will actually spread to the inguinal nodes.
+
+235
+00:13:09,300 --> 00:13:12,660
+Recall, again, that the upper two-thirds of the vagina
+
+236
+00:13:12,660 --> 00:13:14,760
+is derived from the malarian duct.
+
+237
+00:13:15,240 --> 00:13:17,080
+And so cancers from the upper two-thirds
+
+238
+00:13:17,080 --> 00:13:20,240
+will actually spread to the regional iliac nodes.
+
+239
+00:13:20,520 --> 00:13:22,260
+And this is, again, particularly high-yield
+
+240
+00:13:22,260 --> 00:13:24,020
+because it's a nice way that examiners
+
+241
+00:13:24,020 --> 00:13:26,240
+can go back to basic anatomy
+
+242
+00:13:26,240 --> 00:13:29,020
+and test you on relationship of embryology
+
+243
+00:13:29,020 --> 00:13:31,920
+and basic anatomy to clinically relevant issues
+
+244
+00:13:31,920 --> 00:13:32,880
+related to cancer.
+
+245
+00:13:33,520 --> 00:13:35,600
+And that concludes the section on vagina.
+
+246
+00:13:35,780 --> 00:13:37,480
+Again, a lot of important principles
+
+247
+00:13:37,480 --> 00:13:40,100
+that are derived from some important tie-ins.
+
+248
+00:13:40,560 --> 00:13:42,380
+And hopefully you'll be able to paste all that together.
+

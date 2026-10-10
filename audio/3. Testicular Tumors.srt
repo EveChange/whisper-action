@@ -1,0 +1,1432 @@
+1
+00:00:00,210 --> 00:00:02,410
+Okay, moving on to testicular tumors.
+
+2
+00:00:02,830 --> 00:00:04,850
+My recommendation before you do this section
+
+3
+00:00:04,850 --> 00:00:07,010
+would be to make sure that you master the section
+
+4
+00:00:07,010 --> 00:00:09,110
+on female ovarian tumors.
+
+5
+00:00:09,710 --> 00:00:12,230
+And that's because once you understand ovarian tumors,
+
+6
+00:00:12,550 --> 00:00:14,070
+testicular tumors are all downhill.
+
+7
+00:00:14,610 --> 00:00:16,430
+Now, remember that in the female ovary,
+
+8
+00:00:16,530 --> 00:00:18,490
+we had three compartments that could lead to tumors.
+
+9
+00:00:18,930 --> 00:00:20,310
+We had the surface epithelium,
+
+10
+00:00:20,390 --> 00:00:22,290
+which created surface epithelial tumors.
+
+11
+00:00:22,730 --> 00:00:24,970
+We had the germ cell leading to germ cell tumors.
+
+12
+00:00:25,310 --> 00:00:26,930
+And then we had the sex cord stroma,
+
+13
+00:00:27,050 --> 00:00:28,790
+which was the connective and supportive tissue
+
+14
+00:00:28,790 --> 00:00:31,710
+of the ovary, which leads to sex cord stromal tumors.
+
+15
+00:00:32,230 --> 00:00:33,750
+Now, fortunately, within the testicle,
+
+16
+00:00:33,830 --> 00:00:35,210
+we don't have surface epithelium,
+
+17
+00:00:35,290 --> 00:00:36,590
+so that makes life a little easy.
+
+18
+00:00:37,010 --> 00:00:38,750
+And so, therefore, there are only two types
+
+19
+00:00:38,750 --> 00:00:39,830
+of testicular tumors.
+
+20
+00:00:40,210 --> 00:00:41,370
+There's the germ cell tumor
+
+21
+00:00:41,370 --> 00:00:43,490
+and then the sex cord stromal tumor.
+
+22
+00:00:44,010 --> 00:00:45,550
+Patients with testicular tumors,
+
+23
+00:00:45,670 --> 00:00:48,510
+they present with a firm, painless testicular mass.
+
+24
+00:00:48,850 --> 00:00:51,110
+And, of course, because it is a solid, firm mass,
+
+25
+00:00:51,350 --> 00:00:52,890
+it cannot be transluminated.
+
+26
+00:00:53,430 --> 00:00:55,810
+Again, this is in contrast to a hydrosoe,
+
+27
+00:00:55,950 --> 00:00:57,310
+which would be transluminated.
+
+28
+00:00:57,310 --> 00:00:59,070
+Now, one very high yield
+
+29
+00:00:59,070 --> 00:01:00,550
+and important point to recognize
+
+30
+00:01:00,550 --> 00:01:03,270
+is that testicular tumors are not biopsied.
+
+31
+00:01:03,610 --> 00:01:06,410
+This is against the general principle of medicine
+
+32
+00:01:06,410 --> 00:01:08,750
+where you always biopsy cancer
+
+33
+00:01:08,750 --> 00:01:10,070
+to prove that it's cancer
+
+34
+00:01:10,070 --> 00:01:11,430
+and to subtype the cancer.
+
+35
+00:01:11,870 --> 00:01:13,410
+However, in the case of the testicle,
+
+36
+00:01:13,530 --> 00:01:15,770
+this is not performed for two basic reasons.
+
+37
+00:01:16,130 --> 00:01:17,870
+Number one, if this is the testicle
+
+38
+00:01:17,870 --> 00:01:18,870
+sitting in the scrotum,
+
+39
+00:01:19,170 --> 00:01:20,450
+if a biopsy were performed,
+
+40
+00:01:20,750 --> 00:01:22,890
+you would pull the tumor out from the testicle
+
+41
+00:01:22,890 --> 00:01:25,370
+and potentially seed the scrotum.
+
+42
+00:01:25,370 --> 00:01:27,170
+And, of course, that would not be desirable.
+
+43
+00:01:27,670 --> 00:01:28,630
+So that's the first reason
+
+44
+00:01:28,630 --> 00:01:30,950
+why we don't biopsy testicular tumors.
+
+45
+00:01:31,590 --> 00:01:34,470
+The second reason why we don't biopsy testicular tumors
+
+46
+00:01:34,470 --> 00:01:36,910
+is that the vast majority of testicular tumors
+
+47
+00:01:36,910 --> 00:01:38,270
+are actually germ cell tumors.
+
+48
+00:01:38,630 --> 00:01:41,330
+In fact, greater than 95% of testicular tumors
+
+49
+00:01:41,330 --> 00:01:42,390
+are germ cell tumors,
+
+50
+00:01:42,750 --> 00:01:44,370
+and germ cell tumors are all malignant.
+
+51
+00:01:44,810 --> 00:01:46,370
+So, for all practical purposes,
+
+52
+00:01:46,790 --> 00:01:49,250
+the vast majority of testicular tumors are malignant.
+
+53
+00:01:49,970 --> 00:01:51,550
+Germ cell tumors, as I just mentioned,
+
+54
+00:01:51,550 --> 00:01:53,270
+are the most common type,
+
+55
+00:01:53,390 --> 00:01:56,070
+greater than 95% of testicular tumors.
+
+56
+00:01:56,510 --> 00:01:59,490
+They usually occur between the ages of 15 to 40.
+
+57
+00:01:59,970 --> 00:02:02,030
+Risk factors include cryptorchidism,
+
+58
+00:02:02,190 --> 00:02:03,590
+or an undescended testicle,
+
+59
+00:02:04,010 --> 00:02:05,470
+and Klinefelter syndrome.
+
+60
+00:02:06,210 --> 00:02:08,510
+Let's go back and just briefly remind ourselves,
+
+61
+00:02:08,710 --> 00:02:11,090
+as we spoke about when we talked about the female ovary,
+
+62
+00:02:11,350 --> 00:02:13,610
+that there are really five key germ cell tumors
+
+63
+00:02:13,610 --> 00:02:15,090
+to be familiar with at your level.
+
+64
+00:02:15,430 --> 00:02:17,150
+Remember that the germ cell has the ability
+
+65
+00:02:17,150 --> 00:02:18,390
+to make baby tissues,
+
+66
+00:02:18,930 --> 00:02:21,950
+and so therefore you can get tumors of baby-like tissues.
+
+67
+00:02:22,290 --> 00:02:23,670
+For example, the teratoma,
+
+68
+00:02:23,850 --> 00:02:25,850
+which would represent mature baby tissue,
+
+69
+00:02:26,270 --> 00:02:27,710
+and embryonal carcinoma,
+
+70
+00:02:28,070 --> 00:02:30,310
+which would represent embryo-like cells.
+
+71
+00:02:30,790 --> 00:02:31,470
+And then, in addition,
+
+72
+00:02:31,670 --> 00:02:33,690
+the germ cells have the ability to make placenta,
+
+73
+00:02:34,010 --> 00:02:35,790
+and when you get a tumor of placental tissue,
+
+74
+00:02:35,870 --> 00:02:37,490
+that's called a choriocarcinoma.
+
+75
+00:02:37,870 --> 00:02:40,250
+The germ cells also have the ability to make yolk sac,
+
+76
+00:02:40,570 --> 00:02:43,010
+and so when you get a tumor of yolk sac,
+
+77
+00:02:43,070 --> 00:02:44,210
+that's called a yolk sac tumor,
+
+78
+00:02:44,210 --> 00:02:46,410
+and finally, the germ cells have the ability
+
+79
+00:02:46,410 --> 00:02:47,890
+to make additional germ cells.
+
+80
+00:02:48,310 --> 00:02:50,470
+Now, in the ovary, that was called a dysgerminoma.
+
+81
+00:02:50,810 --> 00:02:52,250
+However, in the testicle,
+
+82
+00:02:52,370 --> 00:02:53,690
+that is called a seminoma,
+
+83
+00:02:54,070 --> 00:02:54,850
+seminoma,
+
+84
+00:02:55,290 --> 00:02:56,810
+as if it contains sperm,
+
+85
+00:02:57,150 --> 00:02:58,690
+or germ cell-like cells.
+
+86
+00:02:59,310 --> 00:03:01,710
+Now, in the case of germ cell tumors within the testicle,
+
+87
+00:03:01,990 --> 00:03:03,230
+remember that all are malignant,
+
+88
+00:03:03,590 --> 00:03:05,330
+and we divide germ cell tumors
+
+89
+00:03:05,330 --> 00:03:07,570
+into seminoma and non-seminoma,
+
+90
+00:03:07,750 --> 00:03:09,170
+and this is a major division
+
+91
+00:03:09,170 --> 00:03:10,910
+in our understanding of germ cell tumors,
+
+92
+00:03:10,910 --> 00:03:15,510
+and that's because seminoma usually responds to radiotherapy,
+
+93
+00:03:16,230 --> 00:03:17,750
+metastasizes late,
+
+94
+00:03:18,050 --> 00:03:20,010
+and has an excellent prognosis,
+
+95
+00:03:20,490 --> 00:03:21,590
+versus non-seminoma,
+
+96
+00:03:21,690 --> 00:03:23,850
+which has a variable response to treatment,
+
+97
+00:03:24,350 --> 00:03:26,150
+and metastasizes early.
+
+98
+00:03:26,790 --> 00:03:28,470
+So we're going to first start with seminoma.
+
+99
+00:03:28,870 --> 00:03:30,870
+Seminoma, of course, is a malignant tumor
+
+100
+00:03:30,870 --> 00:03:34,870
+of large cells with clear cytoplasm and central nuclei.
+
+101
+00:03:35,270 --> 00:03:37,770
+In fact, this description is very similar
+
+102
+00:03:37,770 --> 00:03:40,470
+to the description of dysgerminoma within the ovary,
+
+103
+00:03:40,470 --> 00:03:42,670
+and so seminoma in the testicle
+
+104
+00:03:42,670 --> 00:03:45,370
+equals dysgerminoma within the ovary.
+
+105
+00:03:45,810 --> 00:03:47,190
+Now, when a seminoma is present,
+
+106
+00:03:47,550 --> 00:03:49,210
+the gross examination of the testicle
+
+107
+00:03:49,210 --> 00:03:51,330
+will reveal a homogenous mass
+
+108
+00:03:51,330 --> 00:03:53,070
+with no hemorrhage or necrosis.
+
+109
+00:03:53,390 --> 00:03:55,590
+This is how yield examiners like to ask you this,
+
+110
+00:03:55,830 --> 00:03:57,970
+so that the mass itself will be homogenous
+
+111
+00:03:57,970 --> 00:04:00,030
+with no hemorrhage and no necrosis,
+
+112
+00:04:00,310 --> 00:04:02,390
+and I'll show you a picture of this in a moment.
+
+113
+00:04:02,870 --> 00:04:05,550
+Rare cases of seminoma can produce beta-HCG.
+
+114
+00:04:05,950 --> 00:04:08,830
+Now, remember that we classically associate beta-HCG
+
+115
+00:04:08,830 --> 00:04:12,230
+with choriocarcinoma or the tumor of placental tissue.
+
+116
+00:04:12,690 --> 00:04:16,550
+However, rare cases of seminoma can also produce beta-HCG,
+
+117
+00:04:16,770 --> 00:04:18,470
+and we have already discussed the fact
+
+118
+00:04:18,470 --> 00:04:20,750
+that seminoma has a good prognosis
+
+119
+00:04:20,750 --> 00:04:23,050
+and responds to radiotherapy.
+
+120
+00:04:23,510 --> 00:04:24,790
+Here's a picture of seminoma.
+
+121
+00:04:25,110 --> 00:04:27,570
+What we have here are large cells
+
+122
+00:04:27,570 --> 00:04:30,110
+with clear cytoplasm and central nuclei,
+
+123
+00:04:30,110 --> 00:04:32,590
+and, of course, the dysgerminoma in the ovary
+
+124
+00:04:32,590 --> 00:04:34,010
+would look very similar.
+
+125
+00:04:34,530 --> 00:04:36,430
+Here's the gross picture of a seminoma.
+
+126
+00:04:36,430 --> 00:04:39,030
+In seminoma, recall that it is a homogenous mass
+
+127
+00:04:39,030 --> 00:04:41,430
+with no hemorrhage and no necrosis.
+
+128
+00:04:41,790 --> 00:04:43,170
+And, again, examiners like you to know
+
+129
+00:04:43,170 --> 00:04:45,170
+that it is a homogenous mass
+
+130
+00:04:45,170 --> 00:04:47,070
+with no hemorrhage and no necrosis.
+
+131
+00:04:47,530 --> 00:04:50,390
+As far as the non-seminominus tumors are concerned,
+
+132
+00:04:50,730 --> 00:04:52,950
+the first that we'll discuss is embryonal carcinoma.
+
+133
+00:04:53,210 --> 00:04:55,250
+Remember that we're going to divide testicular tumors
+
+134
+00:04:55,250 --> 00:04:57,030
+into seminoma and non-seminoma.
+
+135
+00:04:57,350 --> 00:04:59,350
+So now we're talking about the non-seminomas.
+
+136
+00:04:59,710 --> 00:05:01,530
+The first would be embryonal carcinoma.
+
+137
+00:05:01,850 --> 00:05:03,350
+Again, this is a malignant tumor
+
+138
+00:05:03,350 --> 00:05:05,090
+of immature primitive cells.
+
+139
+00:05:05,530 --> 00:05:08,590
+Again, they're embryo-like, hence the word embryonal.
+
+140
+00:05:08,690 --> 00:05:11,410
+They're very primitive, like the cells of the embryo.
+
+141
+00:05:11,950 --> 00:05:13,010
+It is important to note,
+
+142
+00:05:13,130 --> 00:05:15,010
+and examiners like to press on this issue,
+
+143
+00:05:15,350 --> 00:05:18,090
+and that is that the tumor can form glands.
+
+144
+00:05:18,530 --> 00:05:21,110
+It's going to be a hemorrhagic mass with necrosis,
+
+145
+00:05:21,430 --> 00:05:23,230
+and that's because it's a primitive tumor
+
+146
+00:05:23,230 --> 00:05:24,730
+and is rapidly growing.
+
+147
+00:05:24,950 --> 00:05:25,610
+It'll be bloody.
+
+148
+00:05:25,750 --> 00:05:26,590
+It'll be necrotic.
+
+149
+00:05:27,070 --> 00:05:30,430
+This tumor is aggressive with early hematogenous spread.
+
+150
+00:05:30,430 --> 00:05:32,830
+Again, the cells are primitive and embryo-like,
+
+151
+00:05:33,130 --> 00:05:34,370
+and so they're genetically programmed
+
+152
+00:05:34,370 --> 00:05:35,930
+to move and spread rapidly.
+
+153
+00:05:36,570 --> 00:05:38,430
+When patients with embryonal carcinoma
+
+154
+00:05:38,430 --> 00:05:40,090
+are treated with chemotherapy,
+
+155
+00:05:40,590 --> 00:05:42,250
+an interesting thing that can occur
+
+156
+00:05:42,250 --> 00:05:43,950
+is that the tumor can differentiate.
+
+157
+00:05:44,530 --> 00:05:46,950
+So because these are very primitive embryo-like cells,
+
+158
+00:05:47,290 --> 00:05:49,570
+that tumor can actually become something more mature.
+
+159
+00:05:49,930 --> 00:05:52,850
+For example, chemotherapy can cause the embryonal carcinoma
+
+160
+00:05:52,850 --> 00:05:54,110
+to become a teratoma,
+
+161
+00:05:54,350 --> 00:05:55,830
+and that's particularly high yield
+
+162
+00:05:55,830 --> 00:05:57,310
+for board examinations as well.
+
+163
+00:05:57,830 --> 00:05:59,550
+Now, embryonal carcinoma is very primitive,
+
+164
+00:05:59,550 --> 00:06:01,250
+and it also has the ability
+
+165
+00:06:01,250 --> 00:06:04,370
+to secrete alpha-fetoprotein or beta-HCG,
+
+166
+00:06:04,690 --> 00:06:06,150
+and that, again, is important to note.
+
+167
+00:06:06,610 --> 00:06:09,870
+Classically, you would associate AFP with the Oaksac tumor,
+
+168
+00:06:10,190 --> 00:06:12,470
+and classically, you would associate beta-HCG
+
+169
+00:06:12,470 --> 00:06:15,290
+with choriocarcinoma, the tumor of placental tissue.
+
+170
+00:06:15,830 --> 00:06:17,390
+However, it's important to note
+
+171
+00:06:17,390 --> 00:06:22,490
+that embryonal carcinoma can secrete either AFP or beta-HCG.
+
+172
+00:06:23,290 --> 00:06:25,030
+Here's a picture of embryonal carcinoma.
+
+173
+00:06:25,290 --> 00:06:26,670
+You've got primitive cells,
+
+174
+00:06:26,670 --> 00:06:28,770
+and in this particular case, they're forming glands,
+
+175
+00:06:29,450 --> 00:06:30,990
+and I thought this was a perfect picture
+
+176
+00:06:30,990 --> 00:06:32,850
+because, again, examiners like you to know
+
+177
+00:06:32,850 --> 00:06:36,290
+that embryonal carcinoma does have the ability to form glands.
+
+178
+00:06:36,750 --> 00:06:37,670
+Here's a gross picture.
+
+179
+00:06:38,030 --> 00:06:40,090
+This is the tumor here in the testicle.
+
+180
+00:06:40,430 --> 00:06:41,950
+Again, this is the normal up here,
+
+181
+00:06:42,190 --> 00:06:45,690
+and you can clearly see that this is a hemorrhagic or bloody mass,
+
+182
+00:06:46,150 --> 00:06:47,310
+and, again, that's indicative
+
+183
+00:06:47,310 --> 00:06:51,030
+that you're dealing with a non-seminominus germ cell tumor,
+
+184
+00:06:51,030 --> 00:06:53,670
+and, in this particular case, embryonal carcinoma.
+
+185
+00:06:54,410 --> 00:06:57,550
+Oaksac tumor is a malignant tumor that resembles a yolk sac.
+
+186
+00:06:57,990 --> 00:07:00,530
+It's the most common testicular tumor in children.
+
+187
+00:07:00,790 --> 00:07:01,450
+That's how it yield.
+
+188
+00:07:01,790 --> 00:07:02,810
+So, for your purposes,
+
+189
+00:07:02,990 --> 00:07:05,250
+when you have a testicular tumor in a child,
+
+190
+00:07:05,350 --> 00:07:06,610
+for example, a five-year-old,
+
+191
+00:07:06,890 --> 00:07:08,610
+then you really want to consider yolk sac
+
+192
+00:07:08,610 --> 00:07:09,830
+on the top of your differential.
+
+193
+00:07:10,310 --> 00:07:12,290
+Now, of course, yolk sac tumor has the ability
+
+194
+00:07:12,290 --> 00:07:13,950
+to produce alpha-fetoprotein,
+
+195
+00:07:14,310 --> 00:07:18,490
+and so AFP is characteristically elevated in yolk sac tumors.
+
+196
+00:07:18,490 --> 00:07:21,430
+The characteristic histology of yolk sac tumor
+
+197
+00:07:21,430 --> 00:07:23,290
+is called a Schiller-Duvall body.
+
+198
+00:07:23,690 --> 00:07:25,630
+Now, this isn't the most common histology,
+
+199
+00:07:26,030 --> 00:07:28,110
+but it's the classic characteristic histology,
+
+200
+00:07:28,530 --> 00:07:30,230
+and, hence, it shows up on examinations.
+
+201
+00:07:30,730 --> 00:07:34,030
+This is also called a glomeruloid-like structure.
+
+202
+00:07:34,410 --> 00:07:37,290
+That's the way the examiners like to describe it.
+
+203
+00:07:37,370 --> 00:07:39,670
+Again, a glomeruloid-like structure.
+
+204
+00:07:40,050 --> 00:07:43,110
+And the idea here is that this sort of mimics the glomerulus.
+
+205
+00:07:43,430 --> 00:07:45,370
+Let's pretend that this is Bowman's capsule,
+
+206
+00:07:45,810 --> 00:07:47,310
+and this is Bowman's space,
+
+207
+00:07:47,310 --> 00:07:49,510
+and then this is the glomerulus
+
+208
+00:07:49,510 --> 00:07:51,170
+with a blood vessel running through it.
+
+209
+00:07:51,430 --> 00:07:53,590
+Again, it doesn't exactly look like the glomerulus,
+
+210
+00:07:53,750 --> 00:07:55,110
+but it's glomerulus-like,
+
+211
+00:07:55,550 --> 00:07:58,510
+and so, therefore, it's called a glomeruloid structure.
+
+212
+00:07:58,650 --> 00:08:00,410
+And, again, those are called Schiller-Duvall bodies,
+
+213
+00:08:00,670 --> 00:08:02,650
+and they're characteristic for yolk sac tumor.
+
+214
+00:08:03,670 --> 00:08:06,130
+Choriocarcinoma is a malignant tumor of placental-like tissue,
+
+215
+00:08:06,450 --> 00:08:07,610
+and so it contains the cells
+
+216
+00:08:07,610 --> 00:08:09,450
+that normally line the placental villi,
+
+217
+00:08:09,710 --> 00:08:12,310
+and those are syncytiotrophoblasts and cytotrophoblasts.
+
+218
+00:08:13,270 --> 00:08:15,310
+Now, remember that the syncytiotrophoblasts
+
+219
+00:08:15,310 --> 00:08:17,410
+are gonna make beta-HCG.
+
+220
+00:08:17,590 --> 00:08:19,530
+It's high yield to know that the beta-HCG
+
+221
+00:08:19,530 --> 00:08:21,910
+comes from the syncytiotrophoblast.
+
+222
+00:08:22,350 --> 00:08:24,430
+Now, when the beta-HCG is made by this tumor,
+
+223
+00:08:24,710 --> 00:08:27,410
+that's gonna result in elevation of the beta-HCG.
+
+224
+00:08:27,730 --> 00:08:29,630
+However, another important thing to remember
+
+225
+00:08:29,630 --> 00:08:31,910
+is that when you have a high beta-HCG,
+
+226
+00:08:32,390 --> 00:08:34,130
+the alpha subunit of HCG
+
+227
+00:08:34,130 --> 00:08:39,030
+is similar to the alpha subunits of FSH, LH, and TSH,
+
+228
+00:08:39,030 --> 00:08:42,610
+and therefore, patients can present with hyperthyroidism
+
+229
+00:08:42,610 --> 00:08:46,190
+because the HCG can activate the TSH receptor
+
+230
+00:08:46,190 --> 00:08:49,630
+or gynecomastia because the HCG can activate
+
+231
+00:08:49,630 --> 00:08:51,590
+the FSH and LH receptors,
+
+232
+00:08:51,810 --> 00:08:54,830
+and that's very high yield for the purposes of examinations.
+
+233
+00:08:55,410 --> 00:08:57,730
+Now, this tumor is going to produce
+
+234
+00:08:57,730 --> 00:08:59,630
+syncytiotrophoblasts and cytotrophoblasts,
+
+235
+00:09:00,370 --> 00:09:01,790
+so it mimics placental tissue.
+
+236
+00:09:02,130 --> 00:09:04,190
+However, remember that the functional unit
+
+237
+00:09:04,190 --> 00:09:05,770
+of the placenta was the villus,
+
+238
+00:09:05,770 --> 00:09:07,250
+so that when you look at a placenta,
+
+239
+00:09:07,370 --> 00:09:09,770
+you've got a villus with a blood vessel
+
+240
+00:09:09,770 --> 00:09:10,690
+running through the center,
+
+241
+00:09:11,010 --> 00:09:13,050
+and then you've got the syncytiotrophoblasts
+
+242
+00:09:13,050 --> 00:09:15,450
+and cytotrophoblasts growing around the edge.
+
+243
+00:09:16,170 --> 00:09:17,770
+However, in the case of choriocarcinoma,
+
+244
+00:09:18,550 --> 00:09:20,770
+it's very important to note that you don't get villi.
+
+245
+00:09:20,990 --> 00:09:22,770
+You only get the syncytiotrophoblasts
+
+246
+00:09:23,610 --> 00:09:24,890
+and the cytotrophoblasts.
+
+247
+00:09:25,510 --> 00:09:27,630
+Now, of course, syncytiotrophoblasts
+
+248
+00:09:27,630 --> 00:09:29,850
+and cytotrophoblasts are genetically programmed
+
+249
+00:09:29,850 --> 00:09:31,290
+to find blood vessels.
+
+250
+00:09:31,850 --> 00:09:33,690
+That's what the placenta does
+
+251
+00:09:33,690 --> 00:09:35,450
+when it implants into the uterine wall.
+
+252
+00:09:36,010 --> 00:09:38,050
+And so this tumor will metastasize
+
+253
+00:09:38,050 --> 00:09:39,630
+very early via the blood.
+
+254
+00:09:39,950 --> 00:09:41,790
+In fact, one of the characteristics of this tumor
+
+255
+00:09:41,790 --> 00:09:44,530
+is that you tend to have a tiny primary
+
+256
+00:09:44,530 --> 00:09:45,590
+within the testicle
+
+257
+00:09:45,590 --> 00:09:47,450
+and then massive tumor
+
+258
+00:09:47,450 --> 00:09:48,690
+throughout the rest of the body.
+
+259
+00:09:49,250 --> 00:09:51,290
+And that's a little bit against the convention
+
+260
+00:09:51,290 --> 00:09:53,170
+when we think about cancer.
+
+261
+00:09:53,490 --> 00:09:54,990
+Remember, if the patient's got, for example,
+
+262
+00:09:55,070 --> 00:09:56,110
+a large breast mass
+
+263
+00:09:56,110 --> 00:09:57,790
+and a tiny mass in the liver,
+
+264
+00:09:57,970 --> 00:10:00,350
+then we would assume that the breast mass is the primary
+
+265
+00:10:00,350 --> 00:10:02,250
+and that the tiny mass in the liver
+
+266
+00:10:02,250 --> 00:10:04,390
+is probably metastatic from the breast.
+
+267
+00:10:04,390 --> 00:10:06,590
+However, in this particular case,
+
+268
+00:10:06,670 --> 00:10:08,250
+you have a tiny mass in the testicle
+
+269
+00:10:08,250 --> 00:10:10,590
+and massive disease throughout the rest of the body.
+
+270
+00:10:10,910 --> 00:10:12,710
+But because you know that choriocarcinoma
+
+271
+00:10:12,710 --> 00:10:14,190
+rapidly goes into the blood,
+
+272
+00:10:14,470 --> 00:10:15,970
+you can assume that the primary
+
+273
+00:10:15,970 --> 00:10:17,350
+is actually in the testicle.
+
+274
+00:10:17,730 --> 00:10:19,870
+So again, that's important to note as well.
+
+275
+00:10:20,710 --> 00:10:22,330
+Here's a picture of choriocarcinoma.
+
+276
+00:10:22,670 --> 00:10:24,250
+These are the cytotrophoblasts
+
+277
+00:10:24,970 --> 00:10:27,350
+and these larger cells, multinucleated,
+
+278
+00:10:27,630 --> 00:10:29,330
+are the syncytiotrophoblasts.
+
+279
+00:10:29,330 --> 00:10:31,150
+And again, there would be no villi
+
+280
+00:10:31,150 --> 00:10:32,930
+produced by this particular tumor.
+
+281
+00:10:33,830 --> 00:10:35,890
+Teratoma is the final germ cell tumor.
+
+282
+00:10:36,230 --> 00:10:38,250
+This is a tumor of mature fetal tissue.
+
+283
+00:10:38,590 --> 00:10:41,390
+It's derived from two or three embryonic layers.
+
+284
+00:10:41,870 --> 00:10:43,590
+Now, very high yield to note,
+
+285
+00:10:43,950 --> 00:10:46,430
+teratoma was benign in females.
+
+286
+00:10:46,670 --> 00:10:49,030
+However, in males, it is malignant.
+
+287
+00:10:49,710 --> 00:10:51,990
+All right, teratoma is benign in females.
+
+288
+00:10:52,250 --> 00:10:53,990
+However, in males, it is malignant.
+
+289
+00:10:53,990 --> 00:10:58,150
+And teratoma can also produce AFP or beta-8CG.
+
+290
+00:10:58,590 --> 00:11:00,650
+So these are a few high yields
+
+291
+00:11:00,650 --> 00:11:02,410
+to be aware of concerning teratoma.
+
+292
+00:11:02,870 --> 00:11:04,430
+Now, although we spend so much time
+
+293
+00:11:04,430 --> 00:11:05,690
+dividing germ cell tumors
+
+294
+00:11:05,690 --> 00:11:07,590
+into these very distinct categories,
+
+295
+00:11:07,970 --> 00:11:09,870
+the vast majority of germ cell tumors
+
+296
+00:11:09,870 --> 00:11:10,890
+are usually mixed.
+
+297
+00:11:11,290 --> 00:11:13,690
+So, for example, a patient can have
+
+298
+00:11:13,690 --> 00:11:15,990
+a yolk sac tumor plus a choriocarcinoma
+
+299
+00:11:16,690 --> 00:11:19,610
+or a teratoma plus a seminoma.
+
+300
+00:11:20,070 --> 00:11:21,550
+And so it's important to remember
+
+301
+00:11:21,550 --> 00:11:24,390
+that most germ cell tumors in the testicle
+
+302
+00:11:24,390 --> 00:11:25,290
+are actually mixed.
+
+303
+00:11:25,690 --> 00:11:28,230
+And the prognosis is based on the worst component.
+
+304
+00:11:28,670 --> 00:11:30,790
+So, for example, if you have a seminoma
+
+305
+00:11:30,790 --> 00:11:32,570
+and associated with that seminoma
+
+306
+00:11:32,570 --> 00:11:33,710
+is a choriocarcinoma,
+
+307
+00:11:33,970 --> 00:11:35,430
+then the prognosis would be based
+
+308
+00:11:35,430 --> 00:11:36,670
+on the choriocarcinoma.
+
+309
+00:11:38,230 --> 00:11:39,310
+Sex-cord stromal tumors
+
+310
+00:11:39,310 --> 00:11:41,030
+are the second category of tumor
+
+311
+00:11:41,030 --> 00:11:42,610
+that can arise within the testicle.
+
+312
+00:11:42,990 --> 00:11:44,130
+These tumors resemble
+
+313
+00:11:44,130 --> 00:11:46,530
+the normal sex-cord stromal tissues
+
+314
+00:11:46,530 --> 00:11:48,850
+of the testicle and are usually benign.
+
+315
+00:11:49,390 --> 00:11:51,150
+Here's an image of the normal testicle
+
+316
+00:11:51,150 --> 00:11:53,490
+just to remind you of the sex-cord stromal tissues.
+
+317
+00:11:53,950 --> 00:11:56,610
+So the sex-cord includes the Sertoli cells.
+
+318
+00:11:56,890 --> 00:11:58,430
+And remember that the Sertoli cells
+
+319
+00:11:58,430 --> 00:12:00,370
+are the cells that line the tubules.
+
+320
+00:12:00,870 --> 00:12:03,150
+And, of course, this area here is the tubule.
+
+321
+00:12:03,430 --> 00:12:05,610
+So you could potentially get a Sertoli cell tumor.
+
+322
+00:12:06,010 --> 00:12:08,030
+At the same time, you've got these pink cells
+
+323
+00:12:08,030 --> 00:12:09,630
+in between the tubules,
+
+324
+00:12:09,710 --> 00:12:10,950
+which are called lydic cells.
+
+325
+00:12:11,350 --> 00:12:13,610
+And so you can also develop a lydic cell tumor.
+
+326
+00:12:14,130 --> 00:12:16,570
+Now, lydic cell tumors usually produce androgen.
+
+327
+00:12:17,010 --> 00:12:18,530
+And so because they produce androgen,
+
+328
+00:12:18,530 --> 00:12:20,590
+you're going to get precocious puberty in children,
+
+329
+00:12:21,070 --> 00:12:24,490
+or it could also result in gynecomastia in adults.
+
+330
+00:12:25,370 --> 00:12:27,590
+One of the characteristics on histology
+
+331
+00:12:27,590 --> 00:12:28,590
+of a lydic cell tumor
+
+332
+00:12:28,590 --> 00:12:31,030
+is that you see these crystals within the cells.
+
+333
+00:12:31,350 --> 00:12:32,890
+And these are called rinky crystals.
+
+334
+00:12:33,070 --> 00:12:34,430
+And that's, again, how you'll to know
+
+335
+00:12:34,430 --> 00:12:37,230
+that lydic cell tumors often have rinky crystals.
+
+336
+00:12:37,910 --> 00:12:40,030
+Sertoli cell tumors will be composed of tubules.
+
+337
+00:12:40,110 --> 00:12:41,430
+And, of course, the Sertoli cells
+
+338
+00:12:41,430 --> 00:12:43,210
+are the cells that normally line the tubules.
+
+339
+00:12:43,370 --> 00:12:44,950
+So the tumor of Sertoli cells
+
+340
+00:12:44,950 --> 00:12:46,150
+will also form tubules.
+
+341
+00:12:46,570 --> 00:12:48,810
+And these are usually clinically silent.
+
+342
+00:12:49,390 --> 00:12:51,030
+The final point to make in this section
+
+343
+00:12:51,030 --> 00:12:53,450
+is that when you have a testicular mass
+
+344
+00:12:53,450 --> 00:12:55,210
+in the testicle,
+
+345
+00:12:55,310 --> 00:12:57,130
+it's, of course, usually a germ cell tumor.
+
+346
+00:12:57,470 --> 00:12:59,730
+But that germ cell tumors normally occur
+
+347
+00:12:59,730 --> 00:13:01,250
+between the age of 15 to 40.
+
+348
+00:13:01,630 --> 00:13:04,730
+If you have a testicular tumor in a male
+
+349
+00:13:04,730 --> 00:13:06,730
+greater than the age of 60, for example,
+
+350
+00:13:07,090 --> 00:13:09,650
+then the most common cause would be lymphoma.
+
+351
+00:13:10,390 --> 00:13:12,490
+Again, it's important to note the age of the patient.
+
+352
+00:13:12,490 --> 00:13:14,870
+Between 15 to 40, you think about germ cell tumors.
+
+353
+00:13:14,990 --> 00:13:16,350
+But greater than the age of 60,
+
+354
+00:13:16,490 --> 00:13:19,050
+the more common cause of a testicular mass is lymphoma.
+
+355
+00:13:19,390 --> 00:13:20,590
+This is usually bilateral.
+
+356
+00:13:21,050 --> 00:13:22,870
+And the lymphoma that develops in the testicle
+
+357
+00:13:22,870 --> 00:13:26,150
+is usually a diffuse large B cell type of lymphoma.
+
+358
+00:13:26,590 --> 00:13:28,790
+And that concludes our section on testicular tumors.
+
