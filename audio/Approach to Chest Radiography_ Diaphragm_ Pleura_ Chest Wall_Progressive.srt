@@ -1,0 +1,1556 @@
+1
+00:00:05,620 --> 00:00:12,860
+In this module, we will continue our discussion regarding approach to interpretation of chest radiographs
+
+2
+00:00:12,860 --> 00:00:17,920
+with discussion of evaluation of the diaphragm, pleura, and chest wall.
+
+3
+00:00:19,160 --> 00:00:24,620
+Following completion of this module, the learner should be able to employ a systematic search pattern
+
+4
+00:00:24,620 --> 00:00:27,040
+for interpreting chest radiographs,
+
+5
+00:00:27,700 --> 00:00:32,960
+identify commonly encountered abnormalities of the diaphragm, pleura, and chest wall,
+
+6
+00:00:32,960 --> 00:00:40,460
+and describe the relative sensitivities of various radiographic views in the detection of pleural effusions.
+
+7
+00:00:42,300 --> 00:00:48,460
+Returning to our inside-out approach, in the first module, we discussed assessment of line and tube placement,
+
+8
+00:00:49,220 --> 00:00:54,020
+evaluation of the trachea and large central airways, as well as the mediastinum and heart.
+
+9
+00:00:54,900 --> 00:01:01,120
+We're going to continue this search pattern in this module with discussion of the diaphragm and pleura.
+
+10
+00:01:01,120 --> 00:01:07,420
+Because assessment of the lungs takes quite a bit more time, we're going to skip the lungs,
+
+11
+00:01:07,500 --> 00:01:09,760
+and that'll be a separate module in module 3.
+
+12
+00:01:10,580 --> 00:01:13,860
+And then we're going to skip on to the bones and soft tissue.
+
+13
+00:01:14,040 --> 00:01:18,860
+So in this module, we'll discuss the diaphragm, pleura, and bones and soft tissues.
+
+14
+00:01:20,380 --> 00:01:23,820
+Now remember in our search pattern, we started on the inside.
+
+15
+00:01:24,020 --> 00:01:28,500
+Lines and tubes, trachea and airways, mediastinum, heart, and hyla.
+
+16
+00:01:28,500 --> 00:01:32,980
+Now we're going to start to move towards the outside.
+
+17
+00:01:33,160 --> 00:01:38,140
+So we're going to have our eyes follow the diaphragm from medial to lateral.
+
+18
+00:01:39,180 --> 00:01:43,020
+One of the major things we're going to be looking for is what's the height of the diaphragm.
+
+19
+00:01:43,060 --> 00:01:45,920
+And typically the right is higher than the left is shown here.
+
+20
+00:01:46,620 --> 00:01:52,140
+In addition, we want to assess the location of the apex of the diaphragm.
+
+21
+00:01:52,140 --> 00:01:56,720
+So the apex or the highest point that it appears on the frontal view
+
+22
+00:01:56,720 --> 00:02:00,820
+is typically a little bit closer to the midline than it is lateral.
+
+23
+00:02:01,360 --> 00:02:07,700
+So in this example, we have the apex of the right and the apex of the left hemidiaphragms here.
+
+24
+00:02:07,780 --> 00:02:11,600
+So these are usually about a third of the way from the midline to the lateral chest wall.
+
+25
+00:02:11,600 --> 00:02:16,660
+In addition, as we go from pure lung to pure abdominal soft tissues,
+
+26
+00:02:16,960 --> 00:02:24,480
+we should see this gradation of opacity deep to the apex of the diaphragm.
+
+27
+00:02:25,580 --> 00:02:30,780
+And what we're seeing here is more and more soft tissue and less and less lung
+
+28
+00:02:30,780 --> 00:02:34,480
+as we go from the thoracic cavity to the abdominal cavity.
+
+29
+00:02:34,480 --> 00:02:40,960
+If it's a well-penetrated examination, you are sometimes able to identify lung vessels
+
+30
+00:02:40,960 --> 00:02:46,920
+actually through the diaphragm from aerated lung outlining these vessels,
+
+31
+00:02:47,080 --> 00:02:54,780
+both anterior and posterior, to the apex of the diaphragm in the anterior and posterior sulci.
+
+32
+00:02:55,320 --> 00:03:00,460
+And then finally, while we're here, we should look deep to the diaphragms
+
+33
+00:03:00,460 --> 00:03:03,900
+to assess for any free intraperitoneal gas that you might see,
+
+34
+00:03:03,900 --> 00:03:07,040
+especially on an upright chest radiograph.
+
+35
+00:03:08,180 --> 00:03:13,900
+Now let's look at some potential causes of an elevation or at least apparent elevation of the diaphragm,
+
+36
+00:03:14,660 --> 00:03:17,020
+beginning with discussion of a subpalmonic effusion.
+
+37
+00:03:17,800 --> 00:03:22,240
+Now the term subpalmonic effusion refers to fluid collecting at the base of the lung,
+
+38
+00:03:22,760 --> 00:03:28,960
+between the lung base and the diaphragm in an upright or semi-upright patient.
+
+39
+00:03:28,960 --> 00:03:35,500
+So rather than blunting the costophrenic angle, which is what typically happens,
+
+40
+00:03:35,980 --> 00:03:41,300
+in this case, you get what looks like an apparent elevation of the diaphragm,
+
+41
+00:03:41,360 --> 00:03:45,720
+secondary to fluid collecting between the diaphragm and the lung base.
+
+42
+00:03:45,720 --> 00:03:52,220
+So what are some of the radiographic clues that this apparent elevation of the diaphragm is really a subpalmonic effusion?
+
+43
+00:03:52,740 --> 00:03:58,560
+Well, the first is lateralization of the apparent apex of the diaphragm.
+
+44
+00:03:58,920 --> 00:04:05,660
+So in cases of subpalmonic effusion, this gets moved more laterally.
+
+45
+00:04:05,660 --> 00:04:10,260
+So we talked about it on the previous slide is that apex usually being about a third of the way
+
+46
+00:04:10,260 --> 00:04:14,060
+between the midline and lateral chest wall, so a little bit more medial.
+
+47
+00:04:14,340 --> 00:04:18,700
+Now it gets pushed laterally, so the apparent apex looks more lateral.
+
+48
+00:04:19,300 --> 00:04:24,120
+In addition, instead of that gradation of opacity behind the diaphragm that we talked about,
+
+49
+00:04:24,660 --> 00:04:32,720
+you actually have a uniform opacity because now you're just visualizing the fluid beneath the lung base,
+
+50
+00:04:32,720 --> 00:04:34,880
+as shown there.
+
+51
+00:04:36,520 --> 00:04:39,960
+You will also lose visualization of the lung vessels.
+
+52
+00:04:41,040 --> 00:04:45,200
+Now if there's any question about, okay, is this really a subpalmonic effusion or not,
+
+53
+00:04:45,220 --> 00:04:49,100
+you can do a lateral decubitus image, and we'll talk about this a little bit later.
+
+54
+00:04:49,620 --> 00:04:54,080
+You want to put the affected side down, so in this case, you would ask for a right side down
+
+55
+00:04:54,080 --> 00:05:01,960
+or left side up decubitus view to see if this fluid layers along the dependent thoracic cavity
+
+56
+00:05:01,960 --> 00:05:05,000
+to confirm that there is, in fact, pleural fluid present.
+
+57
+00:05:07,190 --> 00:05:09,990
+Eventration of the diaphragm can cause elevation.
+
+58
+00:05:10,950 --> 00:05:17,430
+This refers to a focal contour deformity in the hemidiaphragm due to a congenital absence
+
+59
+00:05:17,430 --> 00:05:19,510
+of the diaphragmatic muscle.
+
+60
+00:05:19,670 --> 00:05:24,530
+So usually that muscle is replaced by this membranous sheath, which is weak
+
+61
+00:05:24,530 --> 00:05:27,270
+and allows a focal contour deformity.
+
+62
+00:05:27,270 --> 00:05:33,270
+In this case, notice the apparent double contour of the right hemidiaphragm.
+
+63
+00:05:33,610 --> 00:05:40,870
+This is that same case of eventration showing that double contour of the right diaphragm.
+
+64
+00:05:42,230 --> 00:05:49,330
+A sagittal reconstructed view of the right diaphragm in this patient shows that, in fact,
+
+65
+00:05:49,370 --> 00:05:54,730
+there is this focal eventration or weakening of the diaphragm that allows the liver to kind
+
+66
+00:05:54,730 --> 00:05:58,170
+of pooch up into the thoracic cavity.
+
+67
+00:05:59,350 --> 00:06:04,770
+The normal diaphragm, in this case, is posterior so that you can see on a frontal radiograph
+
+68
+00:06:04,770 --> 00:06:08,270
+why you have this kind of double contour.
+
+69
+00:06:10,550 --> 00:06:15,950
+Weakness or paralysis of the diaphragm can lead to elevation of the diaphragm.
+
+70
+00:06:15,950 --> 00:06:23,930
+Unlike eventration, which also leads to elevation of the diaphragm, diaphragmatic paralysis typically
+
+71
+00:06:23,930 --> 00:06:29,790
+will affect the entire hemidiaphragm and not be a focal abnormality like most eventrations.
+
+72
+00:06:30,410 --> 00:06:37,930
+In this example, we have a frontal and lateral chest radiograph showing elevation of the right diaphragm,
+
+73
+00:06:38,310 --> 00:06:42,150
+in this case secondary to diaphragmatic paralysis.
+
+74
+00:06:42,150 --> 00:06:57,320
+In this case, test your knowledge of etiologies of elevation or at least apparent elevation of the diaphragm.
+
+75
+00:06:57,980 --> 00:07:02,440
+In this example, the right hemidiaphragm is elevated.
+
+76
+00:07:03,280 --> 00:07:07,740
+Notice that there's really no focal contour abnormality to suggest an eventration.
+
+77
+00:07:08,880 --> 00:07:11,760
+In addition, there are no findings of subpalmonic effusion.
+
+78
+00:07:11,760 --> 00:07:18,700
+So if we look as we go from the lung to the abdomen, we have that normal gradation of opacity
+
+79
+00:07:18,700 --> 00:07:24,800
+from relatively lucent to relatively opaque as we go from the lung to the abdomen.
+
+80
+00:07:25,500 --> 00:07:32,880
+Also notice that deep to the apex of the diaphragm, we can identify lung vessels
+
+81
+00:07:32,880 --> 00:07:37,640
+so that we know that these lung vessels have aerated lung around them.
+
+82
+00:07:37,640 --> 00:07:44,800
+Unlike with subpalmonic effusion where you lose that gradation opacity and you obscure any vessels
+
+83
+00:07:44,800 --> 00:07:53,420
+that you might see deep to the diaphragm because of fluid collecting between the base of the lung
+
+84
+00:07:53,420 --> 00:07:57,340
+and the diaphragm that you would see with subpalmonic effusion.
+
+85
+00:07:57,920 --> 00:08:02,640
+So therefore, imaging findings in this case are most suggestive of diaphragmatic paralysis.
+
+86
+00:08:02,640 --> 00:08:07,700
+As we move from medial to lateral, evaluating the diaphragms,
+
+87
+00:08:08,640 --> 00:08:13,800
+our eyes will be at the level of the lateral costophenic sulci to assess for pleural effusions.
+
+88
+00:08:14,360 --> 00:08:20,040
+And then we'll move up along the lateral chest wall from base to apex,
+
+89
+00:08:20,740 --> 00:08:25,060
+assessing the pleura for things like thickening, fluid, or pneumothoraces.
+
+90
+00:08:25,060 --> 00:08:30,720
+So the pleural space is a potential space that can fill either with fluid,
+
+91
+00:08:31,360 --> 00:08:36,120
+which we term a pleural effusion, or gas, which we term a pneumothorax,
+
+92
+00:08:36,320 --> 00:08:38,560
+or a combination of fluid and gas.
+
+93
+00:08:39,000 --> 00:08:43,660
+Now the important thing here is that the appearance of both an effusion and a pneumothorax
+
+94
+00:08:43,660 --> 00:08:48,540
+will depend on the patient positioning at the time of imaging.
+
+95
+00:08:48,540 --> 00:08:56,200
+So we'll talk about the appearance of effusions and pneumothoraces on both supine and upright images.
+
+96
+00:08:56,500 --> 00:08:59,780
+In addition, we'll talk about the use of decubitus views,
+
+97
+00:08:59,880 --> 00:09:03,780
+particularly for assessment of pleural effusions.
+
+98
+00:09:06,030 --> 00:09:10,510
+Pleural effusion refers to fluid within the pleural space.
+
+99
+00:09:11,170 --> 00:09:16,350
+Now that fluid will collect in the dependent portion of the pleural cavity.
+
+100
+00:09:16,350 --> 00:09:21,330
+The dependent portion of the cavity will vary depending on the position of the patient.
+
+101
+00:09:22,230 --> 00:09:28,770
+So in an upright position, the most dependent portion of the pleural cavity will be at the lung base.
+
+102
+00:09:29,670 --> 00:09:37,670
+So pleural effusions in the upright patient will manifest themselves as an increased density in the lung base.
+
+103
+00:09:38,510 --> 00:09:41,850
+The fluid will spill out into the lateral costophenic sulcus,
+
+104
+00:09:41,850 --> 00:09:45,310
+causing blunting of the lateral costophenic sulcus,
+
+105
+00:09:45,670 --> 00:09:47,930
+as well as the meniscus effect,
+
+106
+00:09:48,270 --> 00:09:52,530
+as the fluid layers along the thoracic wall.
+
+107
+00:09:53,330 --> 00:09:58,810
+The example on the left shows a moderate to large left pleural effusion,
+
+108
+00:09:59,810 --> 00:10:02,370
+with blunting of the lateral costophenic sulcus,
+
+109
+00:10:03,410 --> 00:10:06,430
+and the meniscus effect as shown by the arrow.
+
+110
+00:10:06,430 --> 00:10:11,910
+The image on the right shows small to moderate bilateral pleural effusions,
+
+111
+00:10:12,350 --> 00:10:17,310
+with blunting of the costophenic angles bilaterally, as well as the meniscus effect.
+
+112
+00:10:20,750 --> 00:10:22,970
+In an upright patient on a lateral view,
+
+113
+00:10:23,990 --> 00:10:28,510
+pleural fluid will first be detected in the posterior costophenic angles.
+
+114
+00:10:29,090 --> 00:10:32,010
+So you'll have blunting of the posterior costophenic sulci.
+
+115
+00:10:32,010 --> 00:10:39,550
+Because the posterior costophenic sulci are the most dependent portion of the cavity,
+
+116
+00:10:40,030 --> 00:10:44,850
+so even more dependent than the lateral costophenic angles identified on the frontal view,
+
+117
+00:10:45,990 --> 00:10:51,630
+you're able to detect smaller amounts of pleural fluid on the lateral view as compared to the frontal view.
+
+118
+00:10:52,150 --> 00:10:56,470
+In other words, fluid will collect in that posterior costophenic sulcus,
+
+119
+00:10:56,470 --> 00:11:02,590
+and will be detected before there's enough fluid to spill out to cause blunting of the lateral costophenic angles,
+
+120
+00:11:02,710 --> 00:11:04,130
+which we can detect on a frontal view.
+
+121
+00:11:04,270 --> 00:11:05,950
+So let's look at an example of this.
+
+122
+00:11:06,410 --> 00:11:14,970
+The image on the left is a frontal view with well-maintained lateral costophenic angles bilaterally.
+
+123
+00:11:15,810 --> 00:11:23,870
+However, on the lateral view, there is blunting of the right posterior costophenic angle.
+
+124
+00:11:23,870 --> 00:11:29,850
+So remember on the lateral view, the right ribs are magnified and project posterior to the left ribs
+
+125
+00:11:29,850 --> 00:11:33,210
+because the left side is closer to the detector,
+
+126
+00:11:33,330 --> 00:11:37,210
+so there's more magnification of the right side of the body.
+
+127
+00:11:37,830 --> 00:11:42,490
+So here we can see the larger and more posteriorly projecting ribs are the right ribs,
+
+128
+00:11:42,750 --> 00:11:48,010
+and if we look closely, we can see that there's no right posterior costophenic sulcus.
+
+129
+00:11:48,010 --> 00:11:59,370
+In fact, it's blunted from the presence of pleural fluid, which we can see layering along the posterior margin of the pleural cavity
+
+130
+00:11:59,370 --> 00:12:01,070
+because of that meniscus effect.
+
+131
+00:12:01,650 --> 00:12:07,210
+So here we have a small amount of pleural fluid that's detected on the lateral view,
+
+132
+00:12:07,490 --> 00:12:09,750
+collecting in that posterior costophenic sulcus,
+
+133
+00:12:09,750 --> 00:12:15,910
+that is not yet visible on the frontal view because we don't have enough fluid to spill out
+
+134
+00:12:15,910 --> 00:12:21,370
+into the lateral costophenic angles to cause blunting that can be detected on the frontal view.
+
+135
+00:12:23,810 --> 00:12:26,910
+In the supine patient, pleural effusions look a little different
+
+136
+00:12:26,910 --> 00:12:34,690
+because the effusion actually now layers along the posterior pleural cavity.
+
+137
+00:12:34,690 --> 00:12:38,490
+So in the upright patient, all the fluid will collect at the lung base,
+
+138
+00:12:38,750 --> 00:12:44,190
+but when that same patient then goes supine, that fluid will layer out.
+
+139
+00:12:44,350 --> 00:12:46,630
+Now most of the fluid will stay at the lung base,
+
+140
+00:12:46,990 --> 00:12:54,970
+and as we move from base to apex, as that fluid layers, it becomes less and less in volume,
+
+141
+00:12:55,130 --> 00:12:58,950
+so the column becomes thinner and thinner from base to apex,
+
+142
+00:12:58,950 --> 00:13:05,710
+so this results in sort of a graded opacity or opacity gradient from opaque to lucent
+
+143
+00:13:05,710 --> 00:13:07,970
+as we go from base to apex.
+
+144
+00:13:08,390 --> 00:13:10,790
+So that fluid will layer posteriorly.
+
+145
+00:13:10,950 --> 00:13:16,570
+As we see in this example, you'll have this gradation of fluid more opaque at the base
+
+146
+00:13:16,570 --> 00:13:21,490
+and becomes less and less opaque or more lucent as we go to the apex,
+
+147
+00:13:21,490 --> 00:13:29,070
+and in addition, you have the diaphragms are obscured by the adjacent pleural fluid,
+
+148
+00:13:29,190 --> 00:13:31,670
+so we don't see well-defined diaphragms.
+
+149
+00:13:31,730 --> 00:13:39,270
+So this layering effect and graded opacity is characteristic for a pleural effusion in a supine patient.
+
+150
+00:13:40,810 --> 00:13:45,890
+Now let's look at how decubitus imaging may be helpful in detection of pleural fluid.
+
+151
+00:13:45,890 --> 00:13:52,670
+In this example, we have a frontal view of the chest in an upright position, essentially.
+
+152
+00:13:52,810 --> 00:13:55,550
+The patient is sitting, and this is an AP radiograph.
+
+153
+00:13:56,470 --> 00:13:59,550
+Notice that there's abnormal opacity at the left lung base,
+
+154
+00:13:59,830 --> 00:14:05,190
+but really it's difficult to know if this is a pleural effusion or just some atelectasis or airspace disease
+
+155
+00:14:05,190 --> 00:14:06,830
+or maybe a combination of the two.
+
+156
+00:14:07,410 --> 00:14:13,410
+So if we want to determine if there is a fluid component to this opacity,
+
+157
+00:14:13,410 --> 00:14:19,430
+that is, is there at least a component of pleural effusion, how might we do this?
+
+158
+00:14:20,310 --> 00:14:27,510
+Well, we can use a decubitus view, and what we do here is we put the potentially affected side in the dependent position
+
+159
+00:14:27,510 --> 00:14:32,110
+so that if fluid is present, it will layer along the thorax.
+
+160
+00:14:32,730 --> 00:14:35,850
+So here we're thinking there may be a small left pleural effusion,
+
+161
+00:14:35,850 --> 00:14:40,990
+so we want to do a left side down lateral decubitus view, as we see here.
+
+162
+00:14:42,190 --> 00:14:47,670
+And notice now the opacity layering along the dependent portion of the thoracic cavity
+
+163
+00:14:47,670 --> 00:14:51,590
+that represents layering pleural effusion fluid,
+
+164
+00:14:51,970 --> 00:14:56,790
+so that we can be sure that at least part of that opacity on that frontal view
+
+165
+00:14:56,790 --> 00:14:59,690
+is secondary to a pleural effusion.
+
+166
+00:14:59,690 --> 00:15:08,670
+So decubitus views are the most sensitive way to detect pleural effusions on chest radiography.
+
+167
+00:15:09,990 --> 00:15:15,710
+Regarding pleural effusion detection, CT and ultrasound are more sensitive than chest radiography.
+
+168
+00:15:16,770 --> 00:15:23,030
+Decubitus chest radiographs are the most sensitive view in terms of chest radiography
+
+169
+00:15:23,030 --> 00:15:29,590
+for detection of pleural effusions, followed by the upright lateral view, the upright frontal view,
+
+170
+00:15:29,590 --> 00:15:31,850
+and then finally the supine view.
+
+171
+00:15:32,970 --> 00:15:37,630
+You can confirm the presence as well as the mobility of pleural fluid
+
+172
+00:15:37,630 --> 00:15:42,230
+with an ipsilateral decubitus view or with ultrasound.
+
+173
+00:15:42,990 --> 00:15:47,530
+So let's say you have a patient that has a supine radiograph.
+
+174
+00:15:47,530 --> 00:15:53,230
+There's a question of a left pleural effusion if you wanted to determine if that's real
+
+175
+00:15:53,230 --> 00:15:56,150
+and if it is real, whether or not it's free-flowing or not.
+
+176
+00:15:56,590 --> 00:16:02,090
+You can do a left side down decubitus view to see if it layers along the dependent portion of the thorax,
+
+177
+00:16:02,330 --> 00:16:04,230
+or you can do an ultrasound.
+
+178
+00:16:06,030 --> 00:16:08,690
+Now let's move on to detection of a pneumothorax.
+
+179
+00:16:09,470 --> 00:16:13,610
+Pneumothorax refers to the collection of gas within the pleural space.
+
+180
+00:16:13,610 --> 00:16:20,170
+Unlike fluid in the pleural space, which collects in the dependent portion of the space,
+
+181
+00:16:20,730 --> 00:16:23,670
+gas will collect in the non-dependent portion.
+
+182
+00:16:24,150 --> 00:16:29,390
+So just like a pleural effusion, the appearance of a pneumothorax on a radiograph
+
+183
+00:16:29,390 --> 00:16:32,450
+will vary depending on the patient position.
+
+184
+00:16:33,390 --> 00:16:36,610
+So the key here is to identify the position,
+
+185
+00:16:36,610 --> 00:16:44,490
+and therefore then you would know the most non-dependent portion of the pleural space in that position.
+
+186
+00:16:44,630 --> 00:16:49,310
+So in the upright position, the most non-dependent portion is in the lung apex,
+
+187
+00:16:49,570 --> 00:16:54,090
+and this is where we would expect to identify a pneumothorax in an upright patient.
+
+188
+00:16:54,590 --> 00:17:00,010
+The image on the left is a CT that shows a small right-sided pneumothorax.
+
+189
+00:17:00,010 --> 00:17:04,290
+We can see that gas collects in the pleural space
+
+190
+00:17:04,290 --> 00:17:08,850
+and displaces the visceral pleura away from the parietal pleura.
+
+191
+00:17:09,750 --> 00:17:17,450
+And this displacement of the visceral pleura will be key to identifying a pneumothorax on a radiograph.
+
+192
+00:17:17,970 --> 00:17:21,130
+The image on the right is a frontal radiograph,
+
+193
+00:17:21,130 --> 00:17:25,610
+and it shows a curvilinear line at the left lung apex,
+
+194
+00:17:25,970 --> 00:17:32,130
+which represents the displaced visceral pleural line.
+
+195
+00:17:35,620 --> 00:17:40,900
+Now the appearance of the pneumothorax will vary depending on the status of the underlying lung.
+
+196
+00:17:41,320 --> 00:17:45,820
+So if the underlying lung is completely collapsed,
+
+197
+00:17:45,820 --> 00:17:49,380
+then a pneumothorax will appear as an interface
+
+198
+00:17:49,380 --> 00:17:55,340
+between the abnormal lucency of the gas in the pleural space
+
+199
+00:17:55,340 --> 00:18:00,600
+and the underlying completely collapsed and opaque lung.
+
+200
+00:18:01,200 --> 00:18:04,080
+So for example, the image on the left,
+
+201
+00:18:05,380 --> 00:18:10,980
+we have an interface between the pleural space and collapsed lung.
+
+202
+00:18:12,700 --> 00:18:16,480
+However, if the lung remains aerated deep to the pneumothorax,
+
+203
+00:18:16,480 --> 00:18:19,180
+the pneumothorax will not appear as an interface,
+
+204
+00:18:19,780 --> 00:18:22,340
+but will instead appear as a line.
+
+205
+00:18:22,540 --> 00:18:25,540
+That's the inward displacement of the visceral pleural line
+
+206
+00:18:25,540 --> 00:18:29,020
+that's detected as a line as shown here
+
+207
+00:18:29,020 --> 00:18:32,880
+because there's gas in the pleural space on one side
+
+208
+00:18:32,880 --> 00:18:36,300
+as well as gas within the lung parenchyma on the other.
+
+209
+00:18:38,750 --> 00:18:39,930
+Now in a supine patient,
+
+210
+00:18:40,050 --> 00:18:42,230
+the most non-dependent portion of the pleural cavity
+
+211
+00:18:42,230 --> 00:18:43,790
+is actually at the lung base.
+
+212
+00:18:44,310 --> 00:18:48,030
+So we would expect to detect pneumothoraces in supine patients
+
+213
+00:18:48,030 --> 00:18:52,650
+at the lung base in contrast to the upright patient
+
+214
+00:18:52,650 --> 00:18:58,030
+where we typically identify pneumothoraces in the lung apex.
+
+215
+00:18:58,510 --> 00:19:01,390
+So in a supine patient to detect the pneumothorax,
+
+216
+00:19:01,810 --> 00:19:04,590
+we're going to look for gas collecting at the lung base.
+
+217
+00:19:04,690 --> 00:19:06,830
+So the lung base will look too lucent.
+
+218
+00:19:07,510 --> 00:19:09,350
+Now sometimes this will manifest itself
+
+219
+00:19:09,350 --> 00:19:14,990
+as a very sharply outlined cardiac or diaphragmatic contour.
+
+220
+00:19:14,990 --> 00:19:17,370
+In other words, you're able to see the heart border
+
+221
+00:19:17,370 --> 00:19:20,790
+or the border of the diaphragm much better than you typically would
+
+222
+00:19:20,790 --> 00:19:24,350
+because the lung parenchyma is now replaced by pure gas
+
+223
+00:19:24,350 --> 00:19:26,050
+in the pleural space.
+
+224
+00:19:26,550 --> 00:19:29,810
+In addition, sometimes that gas at the lung base
+
+225
+00:19:29,810 --> 00:19:33,750
+within the pleural space can actually dissect down
+
+226
+00:19:33,750 --> 00:19:37,330
+into the lateral costophrinic sulcus
+
+227
+00:19:37,330 --> 00:19:39,710
+and cause a lucent and deep sulcus.
+
+228
+00:19:39,790 --> 00:19:42,230
+And this is termed the deep sulcus sign.
+
+229
+00:19:42,430 --> 00:19:46,510
+It's indicative of a pneumothorax in a supine patient.
+
+230
+00:19:47,070 --> 00:19:48,950
+So the example shown here,
+
+231
+00:19:49,350 --> 00:19:53,150
+you can see that that right lateral costophrinic sulcus
+
+232
+00:19:53,150 --> 00:19:55,270
+is deep and lucent as shown here.
+
+233
+00:19:55,870 --> 00:19:57,890
+And this is an example of a patient
+
+234
+00:19:57,890 --> 00:20:02,430
+with a right-sided pneumothorax in a supine position.
+
+235
+00:20:02,430 --> 00:20:05,250
+And you can see adjacent ancillary findings
+
+236
+00:20:05,250 --> 00:20:07,430
+of rib fractures and chest wall gas.
+
+237
+00:20:09,590 --> 00:20:12,050
+Now anytime you detect a pneumothorax,
+
+238
+00:20:12,110 --> 00:20:14,070
+you don't want to stop at near detection.
+
+239
+00:20:14,530 --> 00:20:15,990
+You always have to ask yourself,
+
+240
+00:20:16,390 --> 00:20:20,350
+do I see any signs of a tension pneumothorax in this patient?
+
+241
+00:20:20,410 --> 00:20:23,470
+Because this would need to be treated emergently.
+
+242
+00:20:24,410 --> 00:20:28,130
+So tension pneumothoraces are associated with mass effect
+
+243
+00:20:28,130 --> 00:20:32,630
+from the abnormal collection of gas in the pleural space.
+
+244
+00:20:32,630 --> 00:20:36,090
+So you're looking for signs of mass effect.
+
+245
+00:20:36,190 --> 00:20:40,430
+So these include contralateral shift of the mediastinum.
+
+246
+00:20:40,710 --> 00:20:42,270
+So for example, in this case,
+
+247
+00:20:42,990 --> 00:20:44,970
+we have a right-sided pneumothorax.
+
+248
+00:20:45,010 --> 00:20:46,590
+We can see the visceral pleural line
+
+249
+00:20:46,590 --> 00:20:51,510
+and the lucent right thorax related to the pneumothorax itself.
+
+250
+00:20:52,890 --> 00:20:55,590
+We have contralateral shift.
+
+251
+00:20:55,670 --> 00:20:58,530
+So there's leftward shift from a right pneumothorax
+
+252
+00:20:58,530 --> 00:20:59,890
+of the mediastinum.
+
+253
+00:20:59,890 --> 00:21:02,850
+So we have contralateral mediastinal shift.
+
+254
+00:21:03,750 --> 00:21:08,210
+The ipsilateral or the same side as which the pneumothorax is on.
+
+255
+00:21:08,310 --> 00:21:12,090
+So the ipsilateral diaphragm is typically depressed as we see here.
+
+256
+00:21:12,350 --> 00:21:14,210
+It's pushed down from the mass effect.
+
+257
+00:21:14,210 --> 00:21:22,590
+And then sometimes you'll see actually an increased interspace rib distance on the ipsilateral side
+
+258
+00:21:22,590 --> 00:21:25,350
+because basically the thorax is being expanded.
+
+259
+00:21:25,630 --> 00:21:29,990
+So the rib distance will increase relative to the contralateral side.
+
+260
+00:21:30,670 --> 00:21:34,310
+So this patient has a right tension pneumothorax.
+
+261
+00:21:34,310 --> 00:21:38,330
+Also note that the lung base is too loosened.
+
+262
+00:21:38,750 --> 00:21:42,450
+You see a very well-defined right diaphragm.
+
+263
+00:21:43,590 --> 00:21:45,590
+And then you can see a deep sulcus.
+
+264
+00:21:46,870 --> 00:21:51,190
+So this person has kind of all the findings of the supine pneumothorax
+
+265
+00:21:51,190 --> 00:21:55,870
+as well as a tension component as evidenced by the associated mass effect.
+
+266
+00:21:55,870 --> 00:22:04,460
+A pneumothorax refers to the presence of both fluid and gas within the pleural space.
+
+267
+00:22:05,100 --> 00:22:10,740
+In this example, we have a frontal view on the left and a lateral view on the right,
+
+268
+00:22:12,660 --> 00:22:15,960
+demonstrating a right-sided pneumothorax.
+
+269
+00:22:15,960 --> 00:22:23,540
+We can identify the visceral pleural line that's displaced because of the presence of gas within the pleural space.
+
+270
+00:22:24,620 --> 00:22:30,880
+And in addition, we have blunting of the right lateral as well as the poster costophrenic angles,
+
+271
+00:22:31,320 --> 00:22:35,880
+secondary to fluid layering in the dependent portion of the thoracic cavity,
+
+272
+00:22:36,300 --> 00:22:39,240
+which is at the lung base in this upright patient.
+
+273
+00:22:39,800 --> 00:22:42,940
+Also notice the interface between the fluid and the gas.
+
+274
+00:22:42,940 --> 00:22:49,100
+It's a straight line, which reflects a gas fluid level.
+
+275
+00:22:50,980 --> 00:22:56,280
+You can identify other abnormalities of the pleura besides pleural effusions and pneumothoraces.
+
+276
+00:22:57,180 --> 00:23:00,520
+Specifically, you may be able to identify pleural thickening
+
+277
+00:23:00,520 --> 00:23:05,040
+or the presence of calcified pleural plaques on radiography.
+
+278
+00:23:05,780 --> 00:23:10,220
+Both of these images are frontal views of the chest that demonstrate pleural plaques.
+
+279
+00:23:10,220 --> 00:23:15,960
+Along the diaphragmatic pleura on the left-sided image.
+
+280
+00:23:17,580 --> 00:23:22,500
+And in the pleura of the midlung on the left-sided image.
+
+281
+00:23:23,300 --> 00:23:28,180
+So the way that these appear will depend on what part of the pleura is calcified.
+
+282
+00:23:28,300 --> 00:23:33,160
+So if you are looking at a portion of the pleura that's tangent to where you are,
+
+283
+00:23:33,160 --> 00:23:36,240
+it will appear as a line or a band.
+
+284
+00:23:36,800 --> 00:23:39,720
+Whereas if you're looking at the pleural plaque on FOS,
+
+285
+00:23:39,960 --> 00:23:45,520
+it'll have a more bizarre type of appearance as it does on the image on the right.
+
+286
+00:23:46,100 --> 00:23:48,340
+So in addition to effusions and pneumothoraces,
+
+287
+00:23:48,560 --> 00:23:51,900
+we want to look for pleural thickening as well as pleural plaques.
+
+288
+00:23:58,030 --> 00:24:00,730
+This question tests your knowledge of the relative sensitivities
+
+289
+00:24:00,730 --> 00:24:04,810
+of the different radiographic views and detection of pleural effusion.
+
+290
+00:24:05,430 --> 00:24:07,450
+Decubitus views are the most sensitive.
+
+291
+00:24:08,510 --> 00:24:12,990
+In this example, there is a left-side-down lateral decubitus view of the chest
+
+292
+00:24:12,990 --> 00:24:20,250
+showing a small pleural effusion layering along the dependent thoracic cavity in the pleural space.
+
+293
+00:24:20,250 --> 00:24:26,930
+The upright lateral chest radiograph is the next most sensitive view.
+
+294
+00:24:27,610 --> 00:24:31,550
+Here we see fluid collecting in the posterior costophrinic sulcus
+
+295
+00:24:31,550 --> 00:24:37,010
+resulting in increased opacity and blunting of the costophrinic angle posteriorly.
+
+296
+00:24:37,890 --> 00:24:42,250
+If enough fluid is present within the pleural space,
+
+297
+00:24:43,710 --> 00:24:50,010
+blunting of the lateral costophrinic angles can be identified on the upright frontal view
+
+298
+00:24:50,010 --> 00:24:51,130
+as shown here.
+
+299
+00:24:51,770 --> 00:24:55,710
+There's a left pleural effusion with blunting of the left lateral costophrinic sulcus.
+
+300
+00:24:56,770 --> 00:25:03,130
+And then finally, the most insensitive view for detection of pleural effusions
+
+301
+00:25:03,130 --> 00:25:07,570
+is the supine frontal radiograph
+
+302
+00:25:07,570 --> 00:25:14,250
+where we have the layering effect of pleural fluid resulting in this gradation of opacity
+
+303
+00:25:14,250 --> 00:25:20,330
+from more opaque to more lucent as we go from lung base to lung apex.
+
+304
+00:25:22,130 --> 00:25:25,710
+After evaluating the diaphragm and the pleural space,
+
+305
+00:25:25,950 --> 00:25:28,450
+you want to move on to assessment of the lungs,
+
+306
+00:25:28,450 --> 00:25:31,950
+which we'll talk about in the next module.
+
+307
+00:25:31,950 --> 00:25:34,430
+After evaluation of the lungs,
+
+308
+00:25:35,130 --> 00:25:39,970
+you want to round out or complete your thorough or systematic approach
+
+309
+00:25:39,970 --> 00:25:44,710
+with assessment of the chest wall as well as the upper abdomen.
+
+310
+00:25:45,230 --> 00:25:49,790
+Now really, you can include the upper abdomen in assessment of the diaphragms like we talked about
+
+311
+00:25:49,790 --> 00:25:53,210
+because really the main thing you want to be looking for
+
+312
+00:25:53,210 --> 00:25:56,110
+is the presence of free intraperitoneal gas,
+
+313
+00:25:56,210 --> 00:26:02,510
+which will manifest itself as a lucency deep to the diaphragm.
+
+314
+00:26:02,670 --> 00:26:04,450
+And we talk about this in other modules.
+
+315
+00:26:05,170 --> 00:26:07,290
+But regarding assessment of the chest wall,
+
+316
+00:26:07,370 --> 00:26:10,910
+we need to evaluate both the bones and the soft tissues.
+
+317
+00:26:11,650 --> 00:26:13,890
+Number one, it's important to be thorough
+
+318
+00:26:13,890 --> 00:26:16,830
+because these findings in the chest wall
+
+319
+00:26:16,830 --> 00:26:20,070
+can be intrinsically important in and of themselves,
+
+320
+00:26:20,070 --> 00:26:25,010
+but they can also be clues to underlying intrathoracic pathology.
+
+321
+00:26:25,190 --> 00:26:29,790
+In other words, you might see some gas in the subcutaneous soft tissues,
+
+322
+00:26:30,130 --> 00:26:33,230
+which may be indicative of an underlying pneumothorax.
+
+323
+00:26:35,500 --> 00:26:39,780
+Now the point here is not to give a comprehensive discussion
+
+324
+00:26:39,780 --> 00:26:44,720
+of all of the bone or soft tissue finding that you might encounter on a chest radiograph.
+
+325
+00:26:45,260 --> 00:26:48,120
+Instead, it's merely to make you aware
+
+326
+00:26:48,120 --> 00:26:52,580
+that you really need to assess the bones and soft tissues of the chest wall
+
+327
+00:26:52,580 --> 00:26:58,140
+on every chest radiograph that you interpret as part of a systematic approach.
+
+328
+00:26:58,740 --> 00:27:01,700
+In this frontal chest radiograph,
+
+329
+00:27:01,840 --> 00:27:03,400
+there's a lot going on.
+
+330
+00:27:03,500 --> 00:27:06,180
+There's underlying lung pathology, some lines and tubes.
+
+331
+00:27:06,960 --> 00:27:08,100
+And if we're not careful, though,
+
+332
+00:27:08,120 --> 00:27:12,580
+we can miss the overall big picture of the abnormal bone.
+
+333
+00:27:12,580 --> 00:27:15,380
+So there's a diffuse mottled appearance of the bones.
+
+334
+00:27:16,120 --> 00:27:19,640
+And more focally, there's destruction of a posterior right rib
+
+335
+00:27:19,640 --> 00:27:21,980
+that we can identify here.
+
+336
+00:27:22,560 --> 00:27:25,160
+And in an up-close view, I think you can see the detail.
+
+337
+00:27:25,320 --> 00:27:26,980
+You can see rib destruction.
+
+338
+00:27:27,160 --> 00:27:31,160
+So this is a patient with osseous metastasis.
+
+339
+00:27:34,150 --> 00:27:38,970
+In this example, we identify gas within the soft tissues of the right chest wall.
+
+340
+00:27:38,970 --> 00:27:42,650
+Now, this finding in and of itself may not be important,
+
+341
+00:27:43,030 --> 00:27:48,190
+but it can be a clue to underlying disease that might be significant.
+
+342
+00:27:48,650 --> 00:27:51,050
+So in this example, on an oblique view,
+
+343
+00:27:51,170 --> 00:27:56,530
+we can again see the gas within the right chest wall of soft tissues.
+
+344
+00:27:57,510 --> 00:27:59,470
+But we also notice that there's a rib fracture,
+
+345
+00:28:00,030 --> 00:28:02,590
+which again, in and of itself, might not be that important.
+
+346
+00:28:03,110 --> 00:28:06,930
+However, this patient also had a very tiny right pneumothorax
+
+347
+00:28:06,930 --> 00:28:11,870
+that could be important that may have not otherwise been identified
+
+348
+00:28:11,870 --> 00:28:15,670
+unless you were really scrutinizing or looking for this pneumothorax,
+
+349
+00:28:16,010 --> 00:28:20,330
+which you would be if you identified these ancillary findings
+
+350
+00:28:20,330 --> 00:28:23,290
+of soft tissue gas and underlying rib fractures.
+
+351
+00:28:23,650 --> 00:28:29,290
+In this module, we discussed evaluation of the diaphragm,
+
+352
+00:28:29,550 --> 00:28:30,970
+pleural space, and chest wall.
+
+353
+00:28:32,170 --> 00:28:36,650
+Regarding the diaphragm, we reviewed the radiographic findings
+
+354
+00:28:36,650 --> 00:28:41,390
+of potential causes of an elevated diaphragm,
+
+355
+00:28:41,390 --> 00:28:46,130
+or at least the appearance of an elevated diaphragm on chest radiography,
+
+356
+00:28:46,530 --> 00:28:51,710
+including true diaphragmatic elevation caused by paralysis and eventration,
+
+357
+00:28:52,130 --> 00:28:55,790
+as well as the apparent elevation of the diaphragm
+
+358
+00:28:55,790 --> 00:28:57,570
+caused by a subpalmonic effusion.
+
+359
+00:28:57,570 --> 00:29:05,150
+We talked about how the radiographic appearance of pleural effusions and pneumothoraces vary
+
+360
+00:29:05,150 --> 00:29:08,350
+depending on the position of the patient,
+
+361
+00:29:08,590 --> 00:29:12,990
+with pleural fluid settling to the dependent portion of the pleural space,
+
+362
+00:29:13,530 --> 00:29:20,170
+and pleural gas moving to the non-dependent portion of the pleural space.
+
+363
+00:29:20,310 --> 00:29:24,910
+And again, these will vary depending on the position of the patient.
+
+364
+00:29:24,910 --> 00:29:28,590
+So with pleural effusions, we expect increased opacity,
+
+365
+00:29:29,250 --> 00:29:31,550
+blunting of the costophrenic angles,
+
+366
+00:29:31,850 --> 00:29:37,070
+and the meniscus effect caused by the fluid layering against the chest wall.
+
+367
+00:29:37,490 --> 00:29:41,770
+We discussed the relative sensitivities for different radiographic views
+
+368
+00:29:41,770 --> 00:29:44,170
+regarding the detection of pleural effusions,
+
+369
+00:29:44,270 --> 00:29:46,770
+with the cubitus views being the most sensitive,
+
+370
+00:29:47,690 --> 00:29:50,650
+and lateral upright views being more sensitive
+
+371
+00:29:50,650 --> 00:29:53,290
+than frontal upright views of the chest.
+
+372
+00:29:53,290 --> 00:29:55,950
+Regarding pneumothoraces,
+
+373
+00:29:56,190 --> 00:29:59,010
+we talked about detection of the visceral pleural line
+
+374
+00:29:59,010 --> 00:30:02,750
+as being really the most specific finding for a pneumothorax.
+
+375
+00:30:03,210 --> 00:30:05,570
+We talked about the deep sulcus sign
+
+376
+00:30:05,570 --> 00:30:11,450
+as a radiographic sign of a pneumothorax in a supine patient.
+
+377
+00:30:11,630 --> 00:30:13,710
+And again, remember that in a supine patient,
+
+378
+00:30:13,950 --> 00:30:17,010
+the most non-dependent portion of the thoracic cavity
+
+379
+00:30:17,010 --> 00:30:18,670
+is at the lung base.
+
+380
+00:30:18,670 --> 00:30:22,070
+And then finally, we rounded out our discussion
+
+381
+00:30:22,070 --> 00:30:26,850
+with a brief evaluation of the chest wall
+
+382
+00:30:26,850 --> 00:30:30,070
+with attention not only to the bones of the chest wall,
+
+383
+00:30:30,170 --> 00:30:31,670
+but also to the soft tissues,
+
+384
+00:30:31,930 --> 00:30:35,270
+given that these findings may be intrinsically important,
+
+385
+00:30:35,730 --> 00:30:40,790
+or they may be an indicator of some underlying intrathoracic pathology
+
+386
+00:30:40,790 --> 00:30:43,090
+that might not otherwise be evident.
+
+387
+00:30:43,090 --> 00:30:46,230
+That brings us to the end of this unit.
+
+388
+00:30:46,670 --> 00:30:48,870
+Please complete the corresponding quiz questions
+
+389
+00:30:48,870 --> 00:30:50,650
+to receive credit for this course.
+

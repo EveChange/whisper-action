@@ -1,0 +1,2004 @@
+1
+00:00:05,620 --> 00:00:10,700
+In this module, we will cover evaluation of the lung fields on chest radiography.
+
+2
+00:00:10,700 --> 00:00:16,700
+This will conclude our discussion for an approach to interpretation of chest radiographs.
+
+3
+00:00:17,620 --> 00:00:22,400
+Following completion of this module, the learner should be able to employ a systematic approach
+
+4
+00:00:22,400 --> 00:00:29,480
+for interpreting chest radiographs, contrast the radiographic appearance of emphysema and
+
+5
+00:00:29,480 --> 00:00:37,760
+fibrotic lung disease, identify airspace, disease, interstitial opacities, atelectasis, and pulmonary
+
+6
+00:00:37,760 --> 00:00:44,500
+nodules on chest radiographs, describe and identify the silhouette and spine signs, and
+
+7
+00:00:44,500 --> 00:00:48,380
+finally, distinguish pulmonary nodules, masses, and cavities.
+
+8
+00:00:49,540 --> 00:00:55,560
+Just as a reminder of the big picture, this module will deal with evaluation of the lung
+
+9
+00:00:55,560 --> 00:01:03,240
+fields, but remember this is in the larger context of a systematic search pattern in assessing
+
+10
+00:01:03,240 --> 00:01:04,780
+a chest radiograph.
+
+11
+00:01:05,860 --> 00:01:11,020
+We want to begin assessment of the lungs with a big picture view.
+
+12
+00:01:11,740 --> 00:01:17,720
+We want to assess both the lung volume and density before we start getting into the details
+
+13
+00:01:17,720 --> 00:01:19,680
+of focal abnormalities within the lung.
+
+14
+00:01:20,340 --> 00:01:25,540
+Regarding lung volume, you have to be careful when assessing this because sometimes a lung
+
+15
+00:01:25,540 --> 00:01:32,680
+a poor inspiration can mimic true low lung volumes, and on the other hand, sometimes
+
+16
+00:01:32,680 --> 00:01:38,020
+somebody who is fit and takes a very good deep breath, that can mimic hyperinflation.
+
+17
+00:01:38,420 --> 00:01:42,160
+But the first thing you want to look for is, okay, what is the overall lung volume?
+
+18
+00:01:42,280 --> 00:01:42,840
+Is it normal?
+
+19
+00:01:43,440 --> 00:01:44,820
+Is it too inflated?
+
+20
+00:01:45,140 --> 00:01:47,160
+Or are there low lung volumes?
+
+21
+00:01:47,700 --> 00:01:50,240
+Then you want to look at overall density of the lungs.
+
+22
+00:01:50,340 --> 00:01:52,960
+Now remember the lungs aren't purely gas.
+
+23
+00:01:52,960 --> 00:01:59,000
+They do have some density to them because of the bronchi and the pulmonary vessels.
+
+24
+00:01:59,140 --> 00:02:04,020
+So the bronchovascular markings give the lung its normal radio density.
+
+25
+00:02:04,600 --> 00:02:07,520
+So when evaluating density, again, you want to say, is this normal?
+
+26
+00:02:08,300 --> 00:02:11,060
+Or are the lungs too opaque or too lucent?
+
+27
+00:02:11,180 --> 00:02:14,920
+And what's the pattern of this density if there's an abnormality?
+
+28
+00:02:14,920 --> 00:02:18,620
+Is this a focal abnormality or a diffuse abnormality?
+
+29
+00:02:19,080 --> 00:02:22,260
+And then finally, you always want to use symmetry as your friend.
+
+30
+00:02:22,720 --> 00:02:27,240
+So evaluating the lungs, you want to evaluate both the right and left lungs and compare them
+
+31
+00:02:27,240 --> 00:02:28,280
+to one another.
+
+32
+00:02:28,400 --> 00:02:30,580
+So look at symmetry of findings.
+
+33
+00:02:32,480 --> 00:02:38,040
+Emphysema is a disease process that results in overall increased lung lucency and volume.
+
+34
+00:02:38,040 --> 00:02:46,740
+The radiographic findings in emphysema are secondary to two processes, lung destruction and hyperinflation.
+
+35
+00:02:47,120 --> 00:02:52,780
+As we can see in this example, the lungs are overall radiolucent.
+
+36
+00:02:53,420 --> 00:02:56,080
+There's a relative paucity of pulmonary vessels.
+
+37
+00:02:57,180 --> 00:02:59,980
+And sometimes you can see thin wall bully.
+
+38
+00:03:00,240 --> 00:03:02,960
+These are all sequelae of lung destruction.
+
+39
+00:03:02,960 --> 00:03:08,780
+In addition, you will identify sequelae of hyperinflation.
+
+40
+00:03:09,180 --> 00:03:15,640
+In this example, we can see flattening of the hemidiaphragms as well as an increase in cranial
+
+41
+00:03:15,640 --> 00:03:20,820
+caudal height or tall lungs, both sequelae of hyperinflation.
+
+42
+00:03:21,880 --> 00:03:29,240
+On the lateral view, some of the characteristic findings of emphysema as a reflection of hyperinflation
+
+43
+00:03:29,240 --> 00:03:36,460
+include, again, flattening of the diaphragm, increased anteroposterior dimension of the
+
+44
+00:03:36,460 --> 00:03:41,400
+thoracic cavity, and an enlarged retrosternal clear space.
+
+45
+00:03:43,610 --> 00:03:50,750
+In contrast to emphysema, vibrotic lung disease is characterized by an increased opacity and
+
+46
+00:03:50,750 --> 00:03:51,890
+diminished lung volumes.
+
+47
+00:03:52,390 --> 00:03:57,890
+Remember, when assessing overall lung volumes, you want to be careful not to over-recall true
+
+48
+00:03:57,890 --> 00:04:02,930
+low lung volumes because of a poor inspiratory effort.
+
+49
+00:04:04,190 --> 00:04:10,310
+In terms of opacity of the lung with vibrotic lung disease, there's an increased opacity secondary
+
+50
+00:04:10,310 --> 00:04:12,210
+to the thickened interstitium.
+
+51
+00:04:12,330 --> 00:04:18,630
+So as you can see in this example, assuming appropriate inspiratory effort, the lung volumes
+
+52
+00:04:18,630 --> 00:04:27,090
+here are low, but there's a diffuse increase in lung opacity from that thickened interstitium.
+
+53
+00:04:27,090 --> 00:04:29,390
+So this is an example of fibrotic lung disease.
+
+54
+00:04:35,780 --> 00:04:39,280
+This question tests your knowledge of the radiographic findings of emphysema.
+
+55
+00:04:39,600 --> 00:04:45,420
+Remember, the two broad categories of findings include lung destruction and hyperinflation.
+
+56
+00:04:46,200 --> 00:04:51,400
+So lung destruction manifests itself as an irregular radiolucency given inhomogeneous
+
+57
+00:04:51,400 --> 00:04:55,820
+destruction of the pulmonary vessels and lung parenchyma.
+
+58
+00:04:56,220 --> 00:04:58,540
+There's a paucity of vessels with thin wall bully.
+
+59
+00:04:58,540 --> 00:05:05,480
+Hyperinflation manifests itself as flattening of the diaphragms, tall lungs on the frontal
+
+60
+00:05:05,480 --> 00:05:08,360
+view, so an increased cranial caudal dimension.
+
+61
+00:05:09,120 --> 00:05:15,000
+And then finally, an increased antroposterior dimension of the thorax that's appreciated on
+
+62
+00:05:15,000 --> 00:05:18,000
+the lateral view and is the correct answer in this question.
+
+63
+00:05:18,000 --> 00:05:26,000
+Following assessment for overall lung volume and generalized densities, we then want to compare
+
+64
+00:05:26,000 --> 00:05:29,040
+the lungs for any focal asymmetries.
+
+65
+00:05:29,560 --> 00:05:33,980
+One of the things that can cause an asymmetry is a pulmonary opacity.
+
+66
+00:05:34,840 --> 00:05:41,000
+This refers to any area that preferentially attenuates the x-ray beam and therefore appears
+
+67
+00:05:41,000 --> 00:05:43,680
+more opaque than the surrounding area.
+
+68
+00:05:43,680 --> 00:05:51,180
+Now, this is not specific in terms of size or diagnosis and can be caused by multiple etiologies
+
+69
+00:05:51,180 --> 00:05:59,060
+including airspace disease consolidation, interstitial disease, atelectasis, and nodules or masses.
+
+70
+00:05:59,060 --> 00:06:04,860
+So in assessing for pulmonary opacities, it's best to compare the lungs right side to left
+
+71
+00:06:04,860 --> 00:06:10,460
+side as you go from the apex to the base or from base to apex, whatever you prefer.
+
+72
+00:06:10,460 --> 00:06:17,740
+However, airspace opacification occurs when there is filling of the air spaces with products
+
+73
+00:06:17,740 --> 00:06:24,180
+of disease, whether it be from fluid, from pulmonary edema, hemorrhage, infection, etc.
+
+74
+00:06:24,480 --> 00:06:31,660
+This manifests itself radiographically as heterogeneous, poorly marginated, and ill-defined areas of
+
+75
+00:06:31,660 --> 00:06:42,660
+increased opacity or density as identified on this frontal view of the chest in a patient with diffuse pulmonary edema.
+
+76
+00:06:42,660 --> 00:06:50,060
+Notice that there's abnormal lung opacity that's fairly symmetric and patchy with ill-defined margins.
+
+77
+00:06:50,060 --> 00:06:57,400
+Consolidation typically refers to products of disease replacing alveolar air spaces and kind of rendering
+
+78
+00:06:57,400 --> 00:07:01,020
+the lung solid and more homogeneous in appearance.
+
+79
+00:07:02,020 --> 00:07:08,000
+Airspace opacification is also characterized by air bronchograms and lack of volume loss
+
+80
+00:07:08,000 --> 00:07:14,660
+to contrast this with atelectasis, which is characterized by volume loss.
+
+81
+00:07:14,660 --> 00:07:23,300
+The term air bronchogram refers to a pattern of gas-filled bronchi on a background of airless opaque lung.
+
+82
+00:07:23,300 --> 00:07:29,940
+So in this example, we can see branching gas-filled structures, which are the airways, that are made visible
+
+83
+00:07:29,940 --> 00:07:35,060
+by the presence of adjacent airless or opaque lung.
+
+84
+00:07:35,060 --> 00:07:43,700
+So the presence of air bronchograms implies the patency of the proximal airway as well as evacuation of the alveoli
+
+85
+00:07:43,700 --> 00:07:46,420
+so they no longer contain air.
+
+86
+00:07:46,420 --> 00:07:53,700
+So this can be secondary to atelectasis or replacement of the gas within the alveoli by products of disease
+
+87
+00:07:53,700 --> 00:07:57,300
+such as hemorrhage, edema, or infection.
+
+88
+00:07:57,300 --> 00:08:02,660
+Therefore, air bronchograms can be present with both atelectasis and airspace disease,
+
+89
+00:08:02,660 --> 00:08:09,100
+although they are classically described in association with airspace disease on radiography.
+
+90
+00:08:10,460 --> 00:08:21,600
+In this example, we can identify abnormal patchy opacities with this heterogeneous pattern in the right mid and lower lung.
+
+91
+00:08:21,600 --> 00:08:28,480
+That becomes especially evident if you are moving from apex to base comparing right and left side.
+
+92
+00:08:28,600 --> 00:08:32,720
+So compare that area of increased density compared with the left side.
+
+93
+00:08:33,340 --> 00:08:35,460
+I think the asymmetry becomes more apparent.
+
+94
+00:08:36,500 --> 00:08:44,100
+In contrast to the previous example, which demonstrated more patchy or heterogeneous airspace opacification,
+
+95
+00:08:44,660 --> 00:08:49,700
+sometimes the airspace disease can be more confluent or dense in a low bar pattern,
+
+96
+00:08:49,700 --> 00:08:54,940
+as shown here with left upper lobe consolidation in air bronchograms.
+
+97
+00:08:56,140 --> 00:09:01,940
+So just take a minute to compare these different patterns of airspace disease.
+
+98
+00:09:01,940 --> 00:09:07,940
+The example on the left is more of a low bar pattern where there's confluent density in air bronchograms.
+
+99
+00:09:08,680 --> 00:09:12,360
+Contrast that to the case on the right, which is a lobular pattern,
+
+100
+00:09:12,360 --> 00:09:22,540
+which gives you that heterogeneous or patchy appearance where you have multiple foci of ill-defined areas of airspace disease.
+
+101
+00:09:23,840 --> 00:09:29,480
+The silhouette sign refers to the absence of depiction of an anatomic soft tissue border.
+
+102
+00:09:30,020 --> 00:09:33,920
+That is, a border that's normally identified is no longer identified.
+
+103
+00:09:34,800 --> 00:09:40,100
+And that's because there's now juxtaposition of structures of similar radiographic attenuation.
+
+104
+00:09:40,100 --> 00:09:46,280
+So remember on radiography, you identify borders or interfaces between two structures
+
+105
+00:09:46,280 --> 00:09:48,820
+only when they are of different radiographic density.
+
+106
+00:09:49,020 --> 00:09:53,940
+So, for example, in this frontal view of the chest, we're able to identify the right heart border
+
+107
+00:09:53,940 --> 00:10:02,700
+because the fluid and soft tissue density of the heart abuts the primarily gas density of the lung.
+
+108
+00:10:02,700 --> 00:10:10,280
+But what happens then when the lung adjacent to the heart, which normally is predominantly gas-filled,
+
+109
+00:10:10,420 --> 00:10:14,200
+is now replaced with products of disease such as pneumonia?
+
+110
+00:10:14,680 --> 00:10:20,320
+Well, in this example, we've lost the left heart border because of lingular airspace disease.
+
+111
+00:10:20,700 --> 00:10:28,020
+So now you have the soft tissue density of the heart abutting not the gas density of normal lung,
+
+112
+00:10:28,020 --> 00:10:37,740
+but instead the soft tissue and fluid density of the lingula, which has been replaced by pneumonia.
+
+113
+00:10:40,320 --> 00:10:43,900
+Let's use CT to help us understand this concept.
+
+114
+00:10:44,320 --> 00:10:48,440
+Again, if we look at the right heart border on the radiograph and the CT,
+
+115
+00:10:48,820 --> 00:10:53,700
+we are able to identify why we can see the right heart border
+
+116
+00:10:53,700 --> 00:10:57,020
+because we have two different densities abutting one another.
+
+117
+00:10:57,320 --> 00:11:05,720
+When that normal gas density of the lung is lost, such as in airspace disease from pneumonia in this example,
+
+118
+00:11:06,180 --> 00:11:09,360
+we are unable now to identify that heart border.
+
+119
+00:11:09,920 --> 00:11:14,680
+You can see on the CT the disease in the lingula.
+
+120
+00:11:15,140 --> 00:11:20,420
+So now we have similar radiographic densities abutting one another,
+
+121
+00:11:20,420 --> 00:11:22,420
+so we lose that left heart border.
+
+122
+00:11:23,600 --> 00:11:25,660
+So this is an example of the silhouette sign.
+
+123
+00:11:27,340 --> 00:11:33,160
+Interstitial opacities have a different radiographic appearance than airspace opacities in general.
+
+124
+00:11:34,020 --> 00:11:36,220
+Often they are described as lines and dots.
+
+125
+00:11:36,740 --> 00:11:42,460
+So you can have linear or reticular opacifications in addition to dots or tiny nodules.
+
+126
+00:11:43,060 --> 00:11:47,520
+Now the term reticular refers to this kind of netting appearance.
+
+127
+00:11:47,520 --> 00:11:53,100
+So it looks like a basketball net or kind of interweaving lines.
+
+128
+00:11:53,920 --> 00:11:59,280
+Sometimes the pattern is mixed, so both kind of linear and reticular as well as nodular.
+
+129
+00:11:59,440 --> 00:12:02,420
+And this is termed a reticular nodular pattern.
+
+130
+00:12:03,260 --> 00:12:07,380
+As an example in this case of a patient with interstitial pulmonary edema,
+
+131
+00:12:07,840 --> 00:12:11,300
+notice these peripheral lines that are short.
+
+132
+00:12:11,700 --> 00:12:14,260
+They are horizontally oriented and they touch the pleura.
+
+133
+00:12:14,260 --> 00:12:18,780
+These are described as curly B lines.
+
+134
+00:12:19,480 --> 00:12:24,560
+Notice that unlike normal pulmonary vessels, which do not extend all the way to the pleura,
+
+135
+00:12:25,180 --> 00:12:30,700
+these interstitial lines, which are thickened interstitium from pulmonary edema in this case,
+
+136
+00:12:31,000 --> 00:12:32,600
+and are referred to as curly B lines,
+
+137
+00:12:33,100 --> 00:12:38,100
+do actually extend in the peripheral most portion of the lung and contact the pleura.
+
+138
+00:12:38,100 --> 00:12:47,520
+Here's another example of thickening of the peripheral interstitium secondary to interstitial edema.
+
+139
+00:12:48,440 --> 00:12:51,280
+As we have a close-up look at that right lung base,
+
+140
+00:12:52,120 --> 00:12:56,200
+we can identify these horizontal short lines that touch the pleura
+
+141
+00:12:56,200 --> 00:13:03,600
+that are referred to as the curly's B lines and reflect that thickened peripheral interstitium.
+
+142
+00:13:05,740 --> 00:13:10,740
+This slide provides a side-by-side comparison of typical airspace and interstitial disease.
+
+143
+00:13:10,740 --> 00:13:17,120
+The case on the left is airspace disease in that heterogeneous patchy multifocal pattern.
+
+144
+00:13:17,120 --> 00:13:21,820
+The case on the right is an interstitial pulmonary edema, which we've talked about,
+
+145
+00:13:22,200 --> 00:13:27,800
+showing that thickened peripheral interstitium, that kind of linear pattern.
+
+146
+00:13:28,320 --> 00:13:32,900
+Just be mindful that although there are general differences in the radiographic appearance
+
+147
+00:13:32,900 --> 00:13:35,600
+of interstitial and airspace opacities,
+
+148
+00:13:36,140 --> 00:13:43,240
+that sometimes in real life they're not always easy to distinguish on radiography and can coexist.
+
+149
+00:13:43,240 --> 00:13:51,560
+So, for example, in pulmonary edema, you might have both alveolar disease as well as interstitial thickening.
+
+150
+00:13:58,340 --> 00:14:03,920
+In this example, the abnormality is bilateral increased lung opacity.
+
+151
+00:14:04,580 --> 00:14:08,360
+And you notice that the opacities are in a sort of a patchy pattern.
+
+152
+00:14:09,280 --> 00:14:11,640
+Individual opacities are difficult to identify,
+
+153
+00:14:11,860 --> 00:14:15,660
+so they have ill-defined edges almost as fluffy or cloud-like appearance.
+
+154
+00:14:15,880 --> 00:14:18,080
+It's characteristic for airspace disease.
+
+155
+00:14:18,080 --> 00:14:22,060
+We don't see the typical line and dot pattern for interstitial disease.
+
+156
+00:14:22,280 --> 00:14:26,520
+There's no evidence for hyperinflation or increased lucency,
+
+157
+00:14:27,800 --> 00:14:31,200
+as we would expect to see with emphysema.
+
+158
+00:14:31,380 --> 00:14:35,980
+And fibrotic lung disease would be characterized by a sort of coarse interstitial opacities
+
+159
+00:14:35,980 --> 00:14:39,320
+and low lung volumes, which we don't see in this case.
+
+160
+00:14:41,300 --> 00:14:44,760
+Atelectasis is another etiology of increased pulmonary opacity.
+
+161
+00:14:44,760 --> 00:14:50,200
+The key component, or what really defines atelectasis, is volume loss.
+
+162
+00:14:51,040 --> 00:14:56,560
+The term collapse is typically reserved to describe severe volume loss.
+
+163
+00:14:57,240 --> 00:15:01,920
+The radiographic appearance of atelectasis will depend on the degree of volume loss,
+
+164
+00:15:02,320 --> 00:15:04,640
+so how much of the lung is involved,
+
+165
+00:15:05,180 --> 00:15:06,360
+and the location.
+
+166
+00:15:06,860 --> 00:15:11,180
+Are we talking right versus left lung, or upper versus lower lobe, for instance?
+
+167
+00:15:11,180 --> 00:15:16,660
+And then finally, remember that atelectasis, similar to airspace disease,
+
+168
+00:15:16,820 --> 00:15:19,080
+can be associated with air bronchograms.
+
+169
+00:15:20,460 --> 00:15:27,440
+In this example, notice the linear or plate-like opacities in both lungs as shown here.
+
+170
+00:15:27,440 --> 00:15:34,400
+This is characteristic for linear atelectasis, which involves the subsegmental airways.
+
+171
+00:15:34,600 --> 00:15:37,580
+So this is also called discoid or plate-like atelectasis,
+
+172
+00:15:37,580 --> 00:15:40,300
+based on this characteristic morphology.
+
+173
+00:15:40,880 --> 00:15:43,860
+Because this only involves the subsegmental lung,
+
+174
+00:15:44,380 --> 00:15:50,580
+the degree of volume loss is not typically enough to cause visual shift or diaphragmatic elevation.
+
+175
+00:15:50,580 --> 00:15:54,960
+Unlike subsegmental atelectasis,
+
+176
+00:15:55,400 --> 00:16:02,340
+low-bar atelectasis is typically associated with classic signs on radiography of volume loss,
+
+177
+00:16:02,420 --> 00:16:08,840
+including shift of fissures and elevation of the ipsilateral hemidiaphragm.
+
+178
+00:16:09,660 --> 00:16:15,140
+The chest radiograph on the left shows a right lower lobe collapse
+
+179
+00:16:15,140 --> 00:16:18,960
+with shift of the fissure.
+
+180
+00:16:18,960 --> 00:16:23,360
+Similarly, the case on the right shows a right upper lobe collapse
+
+181
+00:16:23,360 --> 00:16:27,660
+with cranial displacement of the minor fissure.
+
+182
+00:16:27,660 --> 00:16:33,480
+So in both of these cases, we see shift of the fissures, indicative of volume loss.
+
+183
+00:16:34,160 --> 00:16:38,980
+And in both cases, we see elevation of the ipsilateral diaphragm,
+
+184
+00:16:39,180 --> 00:16:41,620
+another finding of volume loss.
+
+185
+00:16:42,860 --> 00:16:45,460
+Right upper lobe collapse on a frontal radiograph
+
+186
+00:16:45,460 --> 00:16:50,480
+is characterized by the upward movement of the minor fissure as shown here.
+
+187
+00:16:50,480 --> 00:16:56,360
+Notice the interface between the collapsed right upper lobe,
+
+188
+00:16:56,620 --> 00:16:59,940
+which is now opaque, from the rest of the lung,
+
+189
+00:17:00,320 --> 00:17:01,860
+which is still well aerated.
+
+190
+00:17:02,300 --> 00:17:06,840
+And notice the interface between the two is formed by the minor fissure.
+
+191
+00:17:07,100 --> 00:17:09,120
+Now the shift of the fissure is important
+
+192
+00:17:09,120 --> 00:17:12,160
+because this helps distinguish a right upper lobe collapse
+
+193
+00:17:12,160 --> 00:17:14,040
+from a right upper lobe pneumonia.
+
+194
+00:17:15,640 --> 00:17:18,680
+Middle lobe collapse can be difficult to identify
+
+195
+00:17:18,680 --> 00:17:21,260
+because the middle lobe is not a large lobe,
+
+196
+00:17:21,300 --> 00:17:25,220
+and so you may not have the classic findings of volume loss
+
+197
+00:17:25,220 --> 00:17:28,520
+in terms of ipsilateral diaphragmatic elevation
+
+198
+00:17:29,080 --> 00:17:31,800
+or contralateral mediastinal shift.
+
+199
+00:17:31,860 --> 00:17:35,300
+In addition, because of the anatomy of the middle lobe,
+
+200
+00:17:35,300 --> 00:17:40,720
+it can often be difficult to identify on the frontal view alone.
+
+201
+00:17:41,580 --> 00:17:43,500
+This is an example of a middle lobe collapse.
+
+202
+00:17:43,640 --> 00:17:46,420
+Notice the image on the right is a lateral view.
+
+203
+00:17:47,220 --> 00:17:51,900
+We see a triangular-shaped opacity overlying the heart
+
+204
+00:17:51,900 --> 00:17:56,220
+that's formed by abnormal opacity from the collapse
+
+205
+00:17:56,220 --> 00:17:59,680
+with two interfaces that reflect the fissural shift.
+
+206
+00:17:59,820 --> 00:18:01,940
+So we have a shift of the major fissure
+
+207
+00:18:01,940 --> 00:18:07,640
+and a shift of the minor fissure resulting in this pie-shaped,
+
+208
+00:18:07,780 --> 00:18:10,480
+like a slice of a pie or triangular-shaped opacity.
+
+209
+00:18:11,020 --> 00:18:13,140
+Now, if you think about that morphology
+
+210
+00:18:13,140 --> 00:18:15,460
+and then you're looking at that from a frontal view,
+
+211
+00:18:15,900 --> 00:18:19,080
+that can result in really only an ill-defined opacity.
+
+212
+00:18:19,440 --> 00:18:21,480
+The key in middle lobe collapse
+
+213
+00:18:21,480 --> 00:18:23,160
+or middle lobe airspace disease
+
+214
+00:18:23,160 --> 00:18:27,240
+is the identification of the silhouette sign
+
+215
+00:18:27,240 --> 00:18:29,720
+or the loss of the normal right heart border
+
+216
+00:18:29,720 --> 00:18:33,860
+from the case of an abnormal middle lobe
+
+217
+00:18:33,860 --> 00:18:37,720
+from airspace disease or, in this case, collapse.
+
+218
+00:18:39,460 --> 00:18:41,200
+Right and left lower lobe collapse
+
+219
+00:18:41,200 --> 00:18:43,860
+have a similar radiographic appearance.
+
+220
+00:18:44,220 --> 00:18:47,140
+The major fissure rotates backwards and medially
+
+221
+00:18:47,140 --> 00:18:51,120
+such that the lower lobe lies posterior and medial
+
+222
+00:18:51,120 --> 00:18:52,880
+in the thoracic cavity.
+
+223
+00:18:53,180 --> 00:18:55,360
+So this is an example of right lower lobe collapse.
+
+224
+00:18:55,360 --> 00:18:59,880
+Notice the CT image on the right side
+
+225
+00:18:59,880 --> 00:19:03,900
+showing the collapsed right lower lobe
+
+226
+00:19:03,900 --> 00:19:07,060
+with that shift of the major fissure
+
+227
+00:19:07,060 --> 00:19:09,380
+such that the collapsed right lower lobe
+
+228
+00:19:09,380 --> 00:19:12,240
+lies posteromedially in the thoracic cavity.
+
+229
+00:19:12,740 --> 00:19:14,340
+Now, on the chest radiograph,
+
+230
+00:19:14,440 --> 00:19:18,280
+this manifests itself as this triangular density,
+
+231
+00:19:18,520 --> 00:19:20,940
+posterior and medial within the thorax,
+
+232
+00:19:21,420 --> 00:19:22,440
+as shown here.
+
+233
+00:19:22,440 --> 00:19:25,500
+So you can see that line or interface
+
+234
+00:19:25,500 --> 00:19:27,060
+created by the fissural shift
+
+235
+00:19:27,060 --> 00:19:29,400
+that gives this triangular opacity
+
+236
+00:19:29,400 --> 00:19:31,320
+behind the right heart.
+
+237
+00:19:33,240 --> 00:19:36,520
+A left lower lobe collapse has a similar morphology
+
+238
+00:19:36,520 --> 00:19:38,380
+but may be more difficult to identify
+
+239
+00:19:38,380 --> 00:19:42,100
+because of the presence of the heart on the left side.
+
+240
+00:19:42,180 --> 00:19:45,900
+But again, it's going to be a shift of the fissure
+
+241
+00:19:45,900 --> 00:19:49,480
+resulting in this interface behind the heart
+
+242
+00:19:49,480 --> 00:19:53,040
+and this triangular-shaped opacity characteristic
+
+243
+00:19:53,040 --> 00:19:55,460
+for lower lobe collapse as shown here.
+
+244
+00:19:57,100 --> 00:20:00,220
+Because there is no minor fissure on the left,
+
+245
+00:20:00,600 --> 00:20:02,380
+the appearance of left upper lobe collapse
+
+246
+00:20:02,380 --> 00:20:04,760
+will differ from that of right upper lobe collapse.
+
+247
+00:20:05,560 --> 00:20:06,860
+In left upper lobe collapse,
+
+248
+00:20:06,860 --> 00:20:09,600
+the major fissure shifts anteriorly
+
+249
+00:20:09,600 --> 00:20:12,280
+as shown on the right-sided image here
+
+250
+00:20:12,280 --> 00:20:13,560
+which is a lateral view
+
+251
+00:20:13,560 --> 00:20:16,140
+showing the interface between the opaque
+
+252
+00:20:16,140 --> 00:20:21,260
+and collapsed left upper lobe with that of the aerated left lower lobe.
+
+253
+00:20:21,260 --> 00:20:23,600
+So we can see that interface here
+
+254
+00:20:23,600 --> 00:20:28,060
+as the oblique or major fissure is shifted anteriorly.
+
+255
+00:20:28,060 --> 00:20:30,840
+Now if we think about how this will look on the frontal view,
+
+256
+00:20:30,840 --> 00:20:33,200
+you're not going to see the fissure itself
+
+257
+00:20:33,200 --> 00:20:35,760
+because we're looking at it on FOSS on the frontal view.
+
+258
+00:20:35,760 --> 00:20:39,100
+Instead, you're just going to see a hazy increased density
+
+259
+00:20:39,100 --> 00:20:43,540
+of the left lung as we see on the image on the left.
+
+260
+00:20:44,220 --> 00:20:47,540
+You do see other signs of volume loss in this case
+
+261
+00:20:47,540 --> 00:20:51,020
+including a mild elevation of the left diaphragm
+
+262
+00:20:51,020 --> 00:20:55,420
+and sometimes you'll see a ipsilateral mediastinal shift.
+
+263
+00:20:55,500 --> 00:20:58,760
+In this case, there is slight shift towards the left.
+
+264
+00:20:58,760 --> 00:21:01,520
+So there are other signs of volume loss
+
+265
+00:21:01,520 --> 00:21:04,060
+to suggest a lobar collapse.
+
+266
+00:21:04,060 --> 00:21:08,720
+Finally, with left upper lobe collapse,
+
+267
+00:21:08,720 --> 00:21:12,480
+the left lower lobe can hyperexpand
+
+268
+00:21:12,480 --> 00:21:16,980
+such that the superior segment extends over the aortic knob
+
+269
+00:21:16,980 --> 00:21:22,240
+resulting in this lucency from lower lobe expansion
+
+270
+00:21:22,240 --> 00:21:23,120
+as shown here.
+
+271
+00:21:23,360 --> 00:21:25,480
+And this is termed a loop sickle sign.
+
+272
+00:21:28,020 --> 00:21:31,300
+This is an example from CT of a left upper lobe collapse
+
+273
+00:21:31,300 --> 00:21:34,320
+to help explain some of those radiographic findings.
+
+274
+00:21:34,320 --> 00:21:40,280
+Notice the complete opacity of the left upper lobe from collapse.
+
+275
+00:21:40,860 --> 00:21:44,680
+There's a shift of the major fissure anteriorly
+
+276
+00:21:44,680 --> 00:21:46,500
+from left upper lobe volume loss.
+
+277
+00:21:46,820 --> 00:21:48,280
+Compare the fissure shown there
+
+278
+00:21:48,280 --> 00:21:51,560
+versus the right major fissure
+
+279
+00:21:51,560 --> 00:21:53,360
+which is more posteriorly located.
+
+280
+00:21:53,960 --> 00:21:55,880
+Also note the difference in aeration
+
+281
+00:21:55,880 --> 00:21:58,820
+of the superior segment of the lower lobes.
+
+282
+00:21:59,280 --> 00:22:03,780
+Here we have a hyper-expanded superior segment on the left
+
+283
+00:22:03,780 --> 00:22:06,220
+because of the left upper lobe collapse
+
+284
+00:22:06,220 --> 00:22:09,580
+versus the normal appearance of the superior segment
+
+285
+00:22:09,580 --> 00:22:11,140
+of the right lower lobe.
+
+286
+00:22:13,310 --> 00:22:15,910
+The final etiology of abnormal pulmonary opacity
+
+287
+00:22:15,910 --> 00:22:17,410
+that we are going to discuss
+
+288
+00:22:17,410 --> 00:22:19,890
+is that of a pulmonary nodule or mass.
+
+289
+00:22:20,410 --> 00:22:24,250
+In this example, we see multiple pulmonary nodules.
+
+290
+00:22:24,250 --> 00:22:26,890
+For example, in the right lower lung
+
+291
+00:22:26,890 --> 00:22:28,890
+as well as in the left mid-lung
+
+292
+00:22:28,890 --> 00:22:31,230
+and adjacent to the left heart border.
+
+293
+00:22:32,230 --> 00:22:35,430
+Notice that nodules are rounded opacities
+
+294
+00:22:35,430 --> 00:22:39,730
+and can be either well-defined or poorly defined.
+
+295
+00:22:40,850 --> 00:22:43,650
+Just keep in mind when evaluating radiographs
+
+296
+00:22:43,650 --> 00:22:47,650
+that pulmonary nodules can be very difficult to identify
+
+297
+00:22:47,650 --> 00:22:51,150
+even if they're quite large depending on their location.
+
+298
+00:22:51,150 --> 00:22:53,590
+And remember, we discussed the blind spots
+
+299
+00:22:53,590 --> 00:22:56,150
+on a frontal radiograph
+
+300
+00:22:56,150 --> 00:22:57,590
+including the lung apices
+
+301
+00:22:57,590 --> 00:22:59,430
+behind the hyla, behind the heart
+
+302
+00:22:59,430 --> 00:23:01,450
+and then behind the diaphragm.
+
+303
+00:23:02,390 --> 00:23:07,110
+In this example, there's a fairly large pulmonary nodule
+
+304
+00:23:07,110 --> 00:23:09,550
+or mass in the left lung apex
+
+305
+00:23:09,550 --> 00:23:10,490
+as shown here.
+
+306
+00:23:10,910 --> 00:23:13,450
+In a blown-up view of this region,
+
+307
+00:23:13,570 --> 00:23:15,990
+you can identify the nodule a little bit better.
+
+308
+00:23:15,990 --> 00:23:20,010
+But again, this is very difficult to identify
+
+309
+00:23:20,010 --> 00:23:23,410
+particularly in those areas that we discussed.
+
+310
+00:23:24,510 --> 00:23:27,170
+Thus far, I've used the term mass and nodule
+
+311
+00:23:27,170 --> 00:23:28,710
+almost interchangeably
+
+312
+00:23:28,710 --> 00:23:30,670
+although there is a definition
+
+313
+00:23:30,670 --> 00:23:34,550
+that distinguishes the two based on size alone.
+
+314
+00:23:34,970 --> 00:23:36,750
+So in the example on the left,
+
+315
+00:23:37,190 --> 00:23:40,670
+there is a opacity in the left superhylar region
+
+316
+00:23:40,670 --> 00:23:43,250
+shown here that's less than three centimeters
+
+317
+00:23:43,250 --> 00:23:46,010
+and therefore would be defined strictly
+
+318
+00:23:46,010 --> 00:23:47,450
+as a pulmonary nodule.
+
+319
+00:23:47,890 --> 00:23:49,710
+So pulmonary nodules are less than
+
+320
+00:23:49,710 --> 00:23:51,310
+or equal to three centimeters.
+
+321
+00:23:51,990 --> 00:23:54,290
+That's in distinction to a pulmonary mass
+
+322
+00:23:54,290 --> 00:23:57,150
+as shown here in the right lung apex.
+
+323
+00:23:57,770 --> 00:24:00,730
+Pulmonary masses are greater than three centimeters.
+
+324
+00:24:01,170 --> 00:24:03,690
+So to distinguish a mass in a nodule,
+
+325
+00:24:04,270 --> 00:24:06,170
+you need to specifically know
+
+326
+00:24:06,170 --> 00:24:08,050
+the size of the abnormality.
+
+327
+00:24:09,190 --> 00:24:10,910
+The pulmonary cavity is defined
+
+328
+00:24:10,910 --> 00:24:14,390
+as a gas-filled space within a pulmonary nodule or mass
+
+329
+00:24:14,390 --> 00:24:17,390
+as well as within an area of consolidation.
+
+330
+00:24:18,290 --> 00:24:20,650
+It's typically produced by expulsion or drainage
+
+331
+00:24:20,650 --> 00:24:22,790
+of a necrotic portion of the lung
+
+332
+00:24:22,790 --> 00:24:24,750
+through the bronchial tree
+
+333
+00:24:24,750 --> 00:24:27,610
+and the cavity wall typically has some thickness
+
+334
+00:24:27,610 --> 00:24:30,690
+to it to distinguish it from a parenchymal cyst.
+
+335
+00:24:31,450 --> 00:24:32,810
+So in this example,
+
+336
+00:24:32,810 --> 00:24:36,430
+there's a right lung cavity with a thick wall
+
+337
+00:24:36,430 --> 00:24:43,070
+and because there is both a gas and fluid component
+
+338
+00:24:43,070 --> 00:24:45,190
+in this upright patient on a frontal view,
+
+339
+00:24:45,310 --> 00:24:47,750
+you're actually able to see a gas fluid level
+
+340
+00:24:47,750 --> 00:24:49,630
+within the cavity.
+
+341
+00:24:50,990 --> 00:24:52,810
+We will end this module with the discussion
+
+342
+00:24:52,810 --> 00:24:54,430
+of the spine sign,
+
+343
+00:24:54,550 --> 00:24:56,050
+which is a radiographic finding
+
+344
+00:24:56,050 --> 00:24:58,250
+on the lateral view
+
+345
+00:24:58,250 --> 00:25:01,050
+that can be caused from abnormal opacity
+
+346
+00:25:01,050 --> 00:25:04,210
+from any of the etiologies that we've discussed.
+
+347
+00:25:04,210 --> 00:25:07,810
+So the spine sign refers to an increased opacity
+
+348
+00:25:07,810 --> 00:25:10,470
+of the lower thoracic spine
+
+349
+00:25:10,470 --> 00:25:12,350
+and as I just discussed,
+
+350
+00:25:12,450 --> 00:25:15,090
+can be caused by a number of etiologies.
+
+351
+00:25:15,270 --> 00:25:17,470
+So remember we talked in prior modules
+
+352
+00:25:17,470 --> 00:25:20,770
+about the normal gradation of lucency
+
+353
+00:25:20,770 --> 00:25:25,130
+over the thoracic spine on the lateral view
+
+354
+00:25:25,130 --> 00:25:27,270
+as we go from lung apex to lung base.
+
+355
+00:25:27,730 --> 00:25:28,930
+As we go in this direction,
+
+356
+00:25:29,030 --> 00:25:30,090
+there's more and more lung
+
+357
+00:25:30,090 --> 00:25:31,410
+and less and less soft tissue
+
+358
+00:25:31,410 --> 00:25:34,910
+so that as you go from lung apex to base
+
+359
+00:25:34,910 --> 00:25:36,330
+overlying the spine,
+
+360
+00:25:37,050 --> 00:25:39,850
+the lung should appear more and more lucent.
+
+361
+00:25:40,370 --> 00:25:42,310
+The spine sign refers to loss
+
+362
+00:25:42,310 --> 00:25:43,490
+of this normal gradation.
+
+363
+00:25:43,710 --> 00:25:44,990
+So in this example,
+
+364
+00:25:45,110 --> 00:25:47,330
+there's abnormal opacity
+
+365
+00:25:47,330 --> 00:25:50,670
+overlying the lower thoracic spine.
+
+366
+00:25:52,250 --> 00:25:54,910
+The spine sign is perhaps best appreciated
+
+367
+00:25:54,910 --> 00:25:56,750
+using a side-by-side comparison
+
+368
+00:25:56,750 --> 00:25:58,790
+to a normal lateral chest radiograph,
+
+369
+00:25:58,930 --> 00:26:00,830
+which in this case is shown on the left image.
+
+370
+00:26:01,550 --> 00:26:03,450
+Notice that the thoracic spine
+
+371
+00:26:03,450 --> 00:26:06,390
+becomes less and less opaque
+
+372
+00:26:06,390 --> 00:26:07,770
+or more and more lucent
+
+373
+00:26:07,770 --> 00:26:11,430
+as you move from the lung apex
+
+374
+00:26:11,430 --> 00:26:13,510
+to the lung base as shown here.
+
+375
+00:26:13,650 --> 00:26:15,890
+So the lower thoracic spine
+
+376
+00:26:15,890 --> 00:26:16,930
+appears more lucent
+
+377
+00:26:16,930 --> 00:26:18,910
+than the mid or upper spine.
+
+378
+00:26:19,450 --> 00:26:21,310
+However, this relationship is lost
+
+379
+00:26:21,310 --> 00:26:24,650
+in somebody with a positive spine sign.
+
+380
+00:26:25,150 --> 00:26:28,330
+That is, the lower thoracic spine
+
+381
+00:26:28,330 --> 00:26:29,490
+appears more opaque
+
+382
+00:26:29,490 --> 00:26:30,770
+as shown in this case
+
+383
+00:26:30,770 --> 00:26:32,150
+relative to the mid
+
+384
+00:26:32,150 --> 00:26:33,630
+and upper thoracic spine
+
+385
+00:26:33,630 --> 00:26:35,270
+because of the presence
+
+386
+00:26:35,270 --> 00:26:37,550
+of some abnormal opacity
+
+387
+00:26:37,550 --> 00:26:41,030
+in the lower lungs.
+
+388
+00:26:41,490 --> 00:26:44,710
+The key here is simply
+
+389
+00:26:44,710 --> 00:26:46,110
+to remember to evaluate
+
+390
+00:26:46,110 --> 00:26:47,910
+for this finding
+
+391
+00:26:47,910 --> 00:26:49,450
+when you're interpreting
+
+392
+00:26:49,450 --> 00:26:51,790
+a lateral radiograph of the chest.
+
+393
+00:26:51,790 --> 00:26:59,460
+This question tests your ability
+
+394
+00:26:59,460 --> 00:27:01,580
+to identify patterns
+
+395
+00:27:01,580 --> 00:27:02,680
+of low bar collapse.
+
+396
+00:27:02,780 --> 00:27:03,400
+In this case,
+
+397
+00:27:03,440 --> 00:27:04,340
+this is an example
+
+398
+00:27:04,340 --> 00:27:06,900
+of a left lower lobe collapse.
+
+399
+00:27:07,720 --> 00:27:08,420
+Remember, the key
+
+400
+00:27:08,420 --> 00:27:09,940
+for lower lobe collapses
+
+401
+00:27:09,940 --> 00:27:11,160
+is identification
+
+402
+00:27:11,160 --> 00:27:13,720
+of these triangular-shaped opacities
+
+403
+00:27:13,720 --> 00:27:15,580
+along the posterior
+
+404
+00:27:15,580 --> 00:27:16,640
+and medial aspect
+
+405
+00:27:16,640 --> 00:27:18,140
+of the thorac.
+
+406
+00:27:18,200 --> 00:27:18,920
+So in this case,
+
+407
+00:27:19,000 --> 00:27:20,180
+we see that interface
+
+408
+00:27:20,180 --> 00:27:22,560
+created by the shift
+
+409
+00:27:22,560 --> 00:27:24,680
+of the left major fissure
+
+410
+00:27:24,680 --> 00:27:26,460
+with increased opacity
+
+411
+00:27:26,460 --> 00:27:29,980
+of the collapsed left lower lobe.
+
+412
+00:27:30,340 --> 00:27:31,380
+Also in this case,
+
+413
+00:27:31,420 --> 00:27:32,320
+we have an example
+
+414
+00:27:32,320 --> 00:27:34,000
+of a bronchial cutoff.
+
+415
+00:27:34,500 --> 00:27:35,460
+So in our overall
+
+416
+00:27:35,460 --> 00:27:36,660
+radiographic assessment,
+
+417
+00:27:36,800 --> 00:27:37,700
+remember we need to look
+
+418
+00:27:37,700 --> 00:27:39,640
+at the central airways.
+
+419
+00:27:40,200 --> 00:27:41,160
+And in this example,
+
+420
+00:27:41,160 --> 00:27:42,220
+we have a cutoff
+
+421
+00:27:42,220 --> 00:27:47,500
+of the left lower lobe bronchus,
+
+422
+00:27:47,500 --> 00:27:48,740
+which is another key
+
+423
+00:27:48,740 --> 00:27:50,080
+to the presence of collapse.
+
+424
+00:27:50,080 --> 00:27:52,040
+In this module,
+
+425
+00:27:52,140 --> 00:27:53,080
+we discussed assessment
+
+426
+00:27:53,080 --> 00:27:53,780
+of the lungs
+
+427
+00:27:53,780 --> 00:27:55,740
+on the chest radiograph.
+
+428
+00:27:56,440 --> 00:27:57,500
+Remember, we want to begin
+
+429
+00:27:57,500 --> 00:27:58,940
+with an overall assessment
+
+430
+00:27:58,940 --> 00:28:00,720
+of lung volume
+
+431
+00:28:00,720 --> 00:28:02,020
+and generalized density.
+
+432
+00:28:02,600 --> 00:28:04,520
+We discussed the differences
+
+433
+00:28:04,520 --> 00:28:05,640
+between appearance
+
+434
+00:28:05,640 --> 00:28:07,060
+of pulmonary fibrosis
+
+435
+00:28:07,060 --> 00:28:07,800
+and emphysema.
+
+436
+00:28:08,520 --> 00:28:09,880
+We then talked about
+
+437
+00:28:09,880 --> 00:28:11,920
+the four causes
+
+438
+00:28:11,920 --> 00:28:13,520
+of pulmonary opacities,
+
+439
+00:28:13,640 --> 00:28:15,720
+including airspace disease,
+
+440
+00:28:15,940 --> 00:28:17,200
+interstitial opacities,
+
+441
+00:28:17,440 --> 00:28:18,160
+atelectasis,
+
+442
+00:28:18,160 --> 00:28:19,900
+and pulmonary nodules.
+
+443
+00:28:21,160 --> 00:28:21,480
+Remember,
+
+444
+00:28:21,680 --> 00:28:22,400
+the appearance
+
+445
+00:28:22,400 --> 00:28:24,100
+of airspace disease
+
+446
+00:28:24,100 --> 00:28:25,380
+can be homogeneous
+
+447
+00:28:25,380 --> 00:28:26,160
+versus patchy.
+
+448
+00:28:27,220 --> 00:28:28,020
+But in general,
+
+449
+00:28:28,660 --> 00:28:29,160
+airspace opacities
+
+450
+00:28:29,760 --> 00:28:31,180
+have ill-defined
+
+451
+00:28:31,180 --> 00:28:32,620
+kind of fluffy margins
+
+452
+00:28:32,620 --> 00:28:34,040
+in contrast
+
+453
+00:28:34,040 --> 00:28:35,540
+to the typical lines
+
+454
+00:28:35,540 --> 00:28:36,160
+and dots associated
+
+455
+00:28:36,800 --> 00:28:38,160
+with interstitial disease.
+
+456
+00:28:38,840 --> 00:28:39,700
+We talked about
+
+457
+00:28:39,700 --> 00:28:40,800
+the varied appearance
+
+458
+00:28:40,800 --> 00:28:41,160
+of atelectasis
+
+459
+00:28:41,820 --> 00:28:42,740
+depending on
+
+460
+00:28:42,740 --> 00:28:43,920
+the degree
+
+461
+00:28:43,920 --> 00:28:45,180
+of volume loss
+
+462
+00:28:45,180 --> 00:28:46,680
+and the location
+
+463
+00:28:46,680 --> 00:28:47,100
+of this
+
+464
+00:28:47,100 --> 00:28:47,700
+in terms of
+
+465
+00:28:47,700 --> 00:28:48,540
+low bar collapse.
+
+466
+00:28:48,640 --> 00:28:49,020
+But remember,
+
+467
+00:28:49,160 --> 00:28:49,980
+the key component
+
+468
+00:28:49,980 --> 00:28:50,860
+with atelectasis
+
+469
+00:28:50,860 --> 00:28:52,660
+is volume loss.
+
+470
+00:28:52,980 --> 00:28:54,640
+Sometimes manifests itself
+
+471
+00:28:54,640 --> 00:28:56,700
+as fissural shift
+
+472
+00:28:56,700 --> 00:28:59,780
+or diaphragmatic elevation
+
+473
+00:28:59,780 --> 00:29:01,640
+or mediastinal shift
+
+474
+00:29:01,640 --> 00:29:03,780
+depending on the degree
+
+475
+00:29:03,780 --> 00:29:05,080
+of collapse
+
+476
+00:29:05,080 --> 00:29:05,920
+or atelectasis.
+
+477
+00:29:06,480 --> 00:29:07,200
+Then finally,
+
+478
+00:29:07,340 --> 00:29:08,120
+we distinguished
+
+479
+00:29:08,120 --> 00:29:09,240
+pulmonary nodules
+
+480
+00:29:09,240 --> 00:29:10,260
+from masses
+
+481
+00:29:10,260 --> 00:29:12,600
+based on a size cutoff
+
+482
+00:29:12,600 --> 00:29:13,500
+of three centimeters.
+
+483
+00:29:13,500 --> 00:29:15,000
+We talked about
+
+484
+00:29:15,000 --> 00:29:16,140
+pulmonary cavities
+
+485
+00:29:16,140 --> 00:29:17,120
+which are essentially
+
+486
+00:29:17,120 --> 00:29:18,580
+gas-filled spaces.
+
+487
+00:29:19,440 --> 00:29:20,220
+And then we talked
+
+488
+00:29:20,220 --> 00:29:21,080
+about radiographic
+
+489
+00:29:21,080 --> 00:29:21,940
+manifestations
+
+490
+00:29:21,940 --> 00:29:24,220
+of abnormal
+
+491
+00:29:24,220 --> 00:29:25,620
+pulmonary opacities
+
+492
+00:29:25,620 --> 00:29:27,200
+including the silhouette
+
+493
+00:29:27,200 --> 00:29:28,740
+and spine signs.
+
+494
+00:29:29,700 --> 00:29:30,440
+That brings us
+
+495
+00:29:30,440 --> 00:29:31,100
+to the end
+
+496
+00:29:31,100 --> 00:29:31,760
+of this unit.
+
+497
+00:29:32,320 --> 00:29:33,020
+Please complete
+
+498
+00:29:33,020 --> 00:29:33,740
+the corresponding
+
+499
+00:29:33,740 --> 00:29:34,820
+quiz questions
+
+500
+00:29:34,820 --> 00:29:35,920
+to receive credit
+
+501
+00:29:35,920 --> 00:29:36,720
+for this course.
+

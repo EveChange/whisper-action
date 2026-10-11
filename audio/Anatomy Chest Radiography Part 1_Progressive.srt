@@ -1,0 +1,2076 @@
+1
+00:00:00,880 --> 00:00:06,300
+This is part one of a two-part module covering radiographic anatomy of the chest.
+
+2
+00:00:08,650 --> 00:00:12,070
+Following completion of both part one and part two of this module,
+
+3
+00:00:12,070 --> 00:00:20,690
+the learner should be able to identify normal anatomic structures on both the frontal and lateral view of a chest radiograph.
+
+4
+00:00:21,390 --> 00:00:25,650
+As a way of review, remember there are five radiographic densities.
+
+5
+00:00:26,670 --> 00:00:31,250
+Interfaces are formed when structures of different density contact one another,
+
+6
+00:00:31,250 --> 00:00:36,070
+so we can think of a radiograph, in this example, a frontal view of the chest,
+
+7
+00:00:36,330 --> 00:00:39,830
+as simply representing a pattern of these interfaces.
+
+8
+00:00:40,530 --> 00:00:48,810
+We're going to start this discussion by identifying the interfaces that make up the normal borders of the mediastinum on the frontal view.
+
+9
+00:00:50,850 --> 00:00:56,330
+This is a coned-down view of the mediastinum on a frontal image of the chest.
+
+10
+00:00:56,830 --> 00:00:59,050
+We're going to begin our discussion on the right.
+
+11
+00:00:59,050 --> 00:01:04,130
+The upper border on the right side of the mediastinum
+
+12
+00:01:04,130 --> 00:01:09,790
+is made up of the interface between the superior vena cava and the adjacent lung.
+
+13
+00:01:10,750 --> 00:01:15,870
+The right heart border on the frontal view is made up of the right atrium as it contacts the middle lobe.
+
+14
+00:01:15,870 --> 00:01:20,370
+On the left, we're going to have three major interfaces.
+
+15
+00:01:20,950 --> 00:01:28,630
+The most cranial would be of the aortic arch, followed by the main pulmonary artery, and finally the left ventricle.
+
+16
+00:01:28,630 --> 00:01:37,970
+We can also infer the presence of the left atrial appendage somewhere just below the main pulmonary artery.
+
+17
+00:01:39,150 --> 00:01:44,230
+Now, usually you can't really identify it as a discrete structure unless it's enlarged,
+
+18
+00:01:44,430 --> 00:01:50,470
+in which case it forms sort of a fourth bump on the left side of the mediastinum.
+
+19
+00:01:50,470 --> 00:01:57,290
+However, this still represents a normal border-forming structure on the frontal view.
+
+20
+00:01:58,750 --> 00:02:03,290
+Moving on to the hilum, on the left side, we're going to have the left pulmonary artery,
+
+21
+00:02:03,290 --> 00:02:08,330
+which forms the majority of the opacity of the left hilum,
+
+22
+00:02:08,890 --> 00:02:15,650
+followed by the right pulmonary artery and the right interlobar pulmonary artery.
+
+23
+00:02:15,650 --> 00:02:22,660
+Notice that the left hilum is higher than the right hilum, which is a normal finding
+
+24
+00:02:22,660 --> 00:02:25,400
+because of the anatomy of the left pulmonary artery,
+
+25
+00:02:25,640 --> 00:02:32,780
+which arches over the left upper lobe bronchus as it goes anterior to posterior
+
+26
+00:02:32,780 --> 00:02:35,700
+as it branches from the main pulmonary artery.
+
+27
+00:02:36,060 --> 00:02:40,980
+So the left hilum will typically be, or will normally be, higher than the right.
+
+28
+00:02:41,420 --> 00:02:45,940
+We can use cross-sectional anatomy, in this case CT,
+
+29
+00:02:45,940 --> 00:02:50,480
+to help us understand the borders that we just identified on radiography.
+
+30
+00:02:50,920 --> 00:02:54,880
+Now, remember, the borders are formed by interfaces between gas in the lung
+
+31
+00:02:54,880 --> 00:02:57,060
+and the mediastinal fat in soft tissues.
+
+32
+00:02:57,680 --> 00:03:02,100
+On the right side, cranially, we're going to have the superior vena cava
+
+33
+00:03:02,100 --> 00:03:06,440
+and more caudally, the right atrium.
+
+34
+00:03:07,560 --> 00:03:09,500
+On the left, we're going to have the aorta,
+
+35
+00:03:10,700 --> 00:03:15,240
+the most cranial bump, followed by the main pulmonary artery as we move caudally,
+
+36
+00:03:15,240 --> 00:03:17,860
+and then finally, the left ventricle.
+
+37
+00:03:18,920 --> 00:03:22,400
+Notice how these structures contact the adjacent lung,
+
+38
+00:03:23,400 --> 00:03:28,880
+which gives you those interfaces that we're able to identify on the radiographs.
+
+39
+00:03:29,260 --> 00:03:33,710
+Now let's look at coronal reformatted CT images
+
+40
+00:03:33,710 --> 00:03:37,010
+to also help us understand the radiographic borders.
+
+41
+00:03:37,590 --> 00:03:41,390
+So we're going to have an image that is anterior on the left
+
+42
+00:03:41,390 --> 00:03:43,550
+and then more posterior on the right.
+
+43
+00:03:44,010 --> 00:03:49,150
+We can see the right upper mediastinal border formed by the superior vena cava
+
+44
+00:03:49,150 --> 00:03:55,270
+and the lower heart border on the right is the right atrium.
+
+45
+00:03:56,550 --> 00:03:58,350
+On the left, we're going to have the aorta,
+
+46
+00:03:58,870 --> 00:04:00,410
+followed by the main pulmonary artery,
+
+47
+00:04:01,070 --> 00:04:03,550
+and then followed by the left ventricle.
+
+48
+00:04:03,550 --> 00:04:09,790
+Now we're going to continue to march posteriorly on the coronal views.
+
+49
+00:04:10,350 --> 00:04:14,190
+The image on the left represents the image from the prior slide
+
+50
+00:04:14,190 --> 00:04:17,730
+where you can see the aorta, the main pulmonary artery,
+
+51
+00:04:17,870 --> 00:04:21,690
+and the left ventricle forming the three major structures
+
+52
+00:04:21,690 --> 00:04:25,730
+that create interfaces on the left mediastinum.
+
+53
+00:04:26,610 --> 00:04:32,110
+The image on the right is an image that's coronal and posterior to the image on the left,
+
+54
+00:04:32,230 --> 00:04:35,610
+and this is going to show us that fourth border forming structure.
+
+55
+00:04:36,310 --> 00:04:40,910
+Here we can see projecting between the main pulmonary artery and the left ventricle
+
+56
+00:04:40,910 --> 00:04:45,870
+this outpouching of the left atrium called the left atrial appendage.
+
+57
+00:04:46,310 --> 00:04:52,470
+This will give us that final kind of fourth border forming structure on the left.
+
+58
+00:04:52,770 --> 00:04:55,310
+Now notice that in terms of the heart border,
+
+59
+00:04:55,730 --> 00:05:01,170
+the right heart border is comprised of the right atrium.
+
+60
+00:05:01,450 --> 00:05:05,770
+On the left heart border, we're going to have the majority of that made up by the left ventricle,
+
+61
+00:05:05,870 --> 00:05:09,810
+but also the component of the left atrium, which we talked about,
+
+62
+00:05:09,890 --> 00:05:11,750
+which is called the left atrial appendage.
+
+63
+00:05:12,130 --> 00:05:16,210
+Notice that the right ventricle does not form an interface with the lung
+
+64
+00:05:16,210 --> 00:05:18,330
+on a frontal view of the chest.
+
+65
+00:05:20,660 --> 00:05:24,840
+Now let's take a little bit of a deeper dive into some of the mediastinal structures.
+
+66
+00:05:24,840 --> 00:05:28,520
+Remember on the left, we're going to have the aortic arch,
+
+67
+00:05:29,000 --> 00:05:32,100
+and just coddled to this will be the main pulmonary artery.
+
+68
+00:05:33,120 --> 00:05:41,100
+Notice there is a concave medial recess between these two structures, as we see here.
+
+69
+00:05:41,100 --> 00:05:47,080
+This is termed the aortopulmonary window or a shortened version AP window.
+
+70
+00:05:47,640 --> 00:05:50,600
+So this should normally be a concavity.
+
+71
+00:05:51,360 --> 00:05:59,200
+Any convex contour of the AP window is abnormal and may reflect lymphadenopathy or other mediastinal masses.
+
+72
+00:05:59,200 --> 00:06:03,360
+Now we can turn our attention to the airways.
+
+73
+00:06:03,500 --> 00:06:07,040
+We can see the trachea just to the right of the midline
+
+74
+00:06:07,040 --> 00:06:13,160
+and then branching off into the right and left main stem bronchi, as we see here.
+
+75
+00:06:13,700 --> 00:06:17,640
+We can identify the carina, that branch point of the trachea,
+
+76
+00:06:17,780 --> 00:06:24,800
+which will be an important landmark when we're trying to determine the correct positioning for endotracheal tubes.
+
+77
+00:06:24,800 --> 00:06:30,420
+And then finally, just above or cranial to the right main stem bronchus,
+
+78
+00:06:30,720 --> 00:06:35,380
+as we see the superior vuna cava kind of extending from cranial to caudal,
+
+79
+00:06:35,760 --> 00:06:40,360
+we're going to see this circle, which represents the asicus vein.
+
+80
+00:06:40,700 --> 00:06:46,520
+Now to understand this, I have an image of a CT on the right-hand side.
+
+81
+00:06:46,520 --> 00:06:51,180
+Now remember, the asicus vein is a posterior mediastinal structure,
+
+82
+00:06:51,960 --> 00:06:56,220
+but right above the right main stem bronchus,
+
+83
+00:06:56,820 --> 00:07:03,580
+the asicus vein will travel from posterior to anterior to empty into the superior vena cava,
+
+84
+00:07:04,120 --> 00:07:05,280
+as we can see here.
+
+85
+00:07:05,480 --> 00:07:10,140
+So you can understand with this kind of posterior to anterior movement,
+
+86
+00:07:10,260 --> 00:07:11,840
+right above the right main stem bronchus,
+
+87
+00:07:11,840 --> 00:07:16,240
+on a frontal view radiograph, the asicus vein is going to look like a circle.
+
+88
+00:07:16,960 --> 00:07:19,220
+Just cranial to the right main stem bronchus.
+
+89
+00:07:20,680 --> 00:07:24,780
+The cardioprenic fat pads may be present unilaterally or bilaterally.
+
+90
+00:07:25,360 --> 00:07:28,220
+It's important to identify these as normal structures,
+
+91
+00:07:28,640 --> 00:07:30,780
+because they can be mistaken for pathology.
+
+92
+00:07:31,440 --> 00:07:33,840
+For example, they can be mistaken as part of the heart,
+
+93
+00:07:33,920 --> 00:07:36,020
+in which case you may overhaul cardiomegaly,
+
+94
+00:07:36,440 --> 00:07:40,020
+or sometimes they can be mistaken for mediastinal mass or adenopathy.
+
+95
+00:07:40,020 --> 00:07:45,380
+The key in identifying these structures are their location adjacent to the heart,
+
+96
+00:07:45,940 --> 00:07:47,360
+their triangular shape,
+
+97
+00:07:47,820 --> 00:07:51,780
+and the fact that they are slightly less dense than the heart,
+
+98
+00:07:52,360 --> 00:07:57,100
+because this represents fat as opposed to the myocardium of the heart.
+
+99
+00:07:57,460 --> 00:07:59,000
+Remember, fat is less dense.
+
+100
+00:07:59,000 --> 00:08:04,700
+So in this example, the left ventricular margin is indicated by the arrows.
+
+101
+00:08:05,720 --> 00:08:11,340
+However, there is a triangular shaped opacity that extends more lateral than the left ventricular margin.
+
+102
+00:08:11,340 --> 00:08:14,780
+This represents the left cardioprenic fat pad.
+
+103
+00:08:22,860 --> 00:08:24,440
+On the frontal view of the chest,
+
+104
+00:08:24,960 --> 00:08:28,560
+the right atrium forms the entire right heart border.
+
+105
+00:08:29,220 --> 00:08:30,420
+On the left side,
+
+106
+00:08:30,960 --> 00:08:35,440
+the left heart border consists of a small segment of the left atrium,
+
+107
+00:08:35,880 --> 00:08:37,420
+termed the left atrial appendage,
+
+108
+00:08:37,420 --> 00:08:42,480
+and the majority of the left heart border is comprised of the left ventricle.
+
+109
+00:08:43,080 --> 00:08:45,820
+The right ventricle is the most anterior heart chamber
+
+110
+00:08:45,820 --> 00:08:48,700
+and is not border forming on the frontal view.
+
+111
+00:08:50,360 --> 00:08:54,120
+We're now going to talk about some of the more commonly encountered interfaces
+
+112
+00:08:54,120 --> 00:08:56,880
+that we will see on a frontal view of the chest.
+
+113
+00:08:57,920 --> 00:09:00,360
+A stripe is formed by gas,
+
+114
+00:09:00,720 --> 00:09:02,600
+such as within the lung or airways,
+
+115
+00:09:02,600 --> 00:09:07,760
+that outlines thin intervening tissue between two gas-filled structures.
+
+116
+00:09:08,680 --> 00:09:11,600
+So in this case, we see the right paratracheal stripe.
+
+117
+00:09:12,300 --> 00:09:16,780
+Now this represents the visceral and parietal plura of the right upper lobe
+
+118
+00:09:16,780 --> 00:09:19,900
+contacting the right lateral border of the trachea,
+
+119
+00:09:20,180 --> 00:09:23,960
+as we can see on this CT image on our left.
+
+120
+00:09:24,700 --> 00:09:27,780
+So basically, we have gas within the lung on one side
+
+121
+00:09:27,780 --> 00:09:30,060
+and gas within the trachea on the other side,
+
+122
+00:09:30,060 --> 00:09:35,100
+and this is outlining this thin intervening tissue,
+
+123
+00:09:35,420 --> 00:09:39,240
+which represents the plura and mediastinal fat in soft tissues.
+
+124
+00:09:39,780 --> 00:09:42,500
+Now, how does this translate onto a radiograph?
+
+125
+00:09:43,040 --> 00:09:45,960
+We have a radiograph on the right side.
+
+126
+00:09:46,560 --> 00:09:49,260
+We can see along the right tracheal margin,
+
+127
+00:09:49,680 --> 00:09:53,120
+this radio-opaque vertically oriented line,
+
+128
+00:09:53,760 --> 00:09:59,220
+and that should be less than or equal to four millimeters for normal cases.
+
+129
+00:10:00,060 --> 00:10:02,540
+That represents the right paratracheal stripe.
+
+130
+00:10:03,980 --> 00:10:10,720
+The left paraspinal stripe is formed by the tangential contact of the left lung and plura
+
+131
+00:10:10,720 --> 00:10:15,500
+with the posterior mediastinal fat and adjacent mediastinal soft tissues.
+
+132
+00:10:16,080 --> 00:10:20,340
+This typically lies medial to the lateral wall of the descending thoracic aorta.
+
+133
+00:10:20,340 --> 00:10:23,660
+So if we look at the CT on our right,
+
+134
+00:10:24,260 --> 00:10:26,860
+we can see the lateral margin of the descending aorta.
+
+135
+00:10:27,480 --> 00:10:32,980
+The corresponding radiographic interface is identified with the green arrows here.
+
+136
+00:10:33,560 --> 00:10:35,020
+Now, if we go back to the CT,
+
+137
+00:10:35,740 --> 00:10:38,240
+we can identify semidiastinal fat,
+
+138
+00:10:38,400 --> 00:10:40,680
+which forms a tangent with the x-ray beam,
+
+139
+00:10:41,220 --> 00:10:42,100
+on a frontal view,
+
+140
+00:10:42,100 --> 00:10:47,060
+which will give us a second interface to the left of the spine,
+
+141
+00:10:47,220 --> 00:10:54,840
+which is more medially located than the lateral margin of the descending aorta.
+
+142
+00:10:55,160 --> 00:10:57,920
+On the radiograph, we can see a second stripe,
+
+143
+00:10:58,280 --> 00:10:59,700
+more medial.
+
+144
+00:10:59,700 --> 00:11:02,500
+That represents the left paraspinal stripe.
+
+145
+00:11:03,020 --> 00:11:04,360
+So if we're able to identify this,
+
+146
+00:11:04,420 --> 00:11:09,700
+we want to make sure it's not too thick or abnormally convex outward,
+
+147
+00:11:10,180 --> 00:11:12,740
+which may be a sign of an abnormal mass,
+
+148
+00:11:12,800 --> 00:11:17,220
+such as a hematoma related to an adjacent vertebral body fracture
+
+149
+00:11:17,220 --> 00:11:20,360
+or a posterior mediastinal mass.
+
+150
+00:11:20,360 --> 00:11:27,400
+The azagoesophageal recess refers to the interface between the right lower lobe
+
+151
+00:11:27,400 --> 00:11:32,340
+and the adjacent mediastinum consisting of the esophagus and azagous vein.
+
+152
+00:11:33,240 --> 00:11:36,020
+So let's take a look at the CT images on the left,
+
+153
+00:11:36,160 --> 00:11:38,360
+starting in the bottom on lung windows.
+
+154
+00:11:38,700 --> 00:11:42,040
+We can see this little recess of the right lower lobe
+
+155
+00:11:42,040 --> 00:11:46,400
+that extends towards the midline and contacts the mediastinum.
+
+156
+00:11:46,400 --> 00:11:52,180
+So we have that same image on the top in soft tissue windows
+
+157
+00:11:52,180 --> 00:11:54,700
+to highlight the mediastinal soft tissues.
+
+158
+00:11:55,080 --> 00:11:58,140
+You can see at this level,
+
+159
+00:11:58,260 --> 00:12:02,020
+we're going to have the azagous vein as well as the esophagus.
+
+160
+00:12:02,500 --> 00:12:05,120
+So that recess of the right lower lobe
+
+161
+00:12:05,120 --> 00:12:09,300
+is what contacts the azagous vein and the esophagus
+
+162
+00:12:09,300 --> 00:12:12,440
+and hence the term azagoesophageal recess.
+
+163
+00:12:13,180 --> 00:12:15,880
+So what does this translate to on radiography?
+
+164
+00:12:16,420 --> 00:12:19,560
+Well, notice behind the heart, kind of in the midline,
+
+165
+00:12:19,700 --> 00:12:21,660
+we're going to have this obliquely oriented line
+
+166
+00:12:21,660 --> 00:12:24,720
+and that's going to represent that interface
+
+167
+00:12:24,720 --> 00:12:27,560
+between the right lower lobe and the azagous vein
+
+168
+00:12:27,560 --> 00:12:29,400
+and esophagus of the mediastinum.
+
+169
+00:12:29,780 --> 00:12:31,620
+So we can see that line here
+
+170
+00:12:31,620 --> 00:12:34,500
+and I'll kind of take that line off
+
+171
+00:12:34,500 --> 00:12:37,940
+and then hopefully you can identify that interface there
+
+172
+00:12:37,940 --> 00:12:40,220
+between the right lower lobe and the mediastinum.
+
+173
+00:12:42,700 --> 00:12:47,580
+Let's now talk about the soft tissues, diaphragm, and bones
+
+174
+00:12:47,580 --> 00:12:51,300
+to round out our anatomy on the frontal view of the chest.
+
+175
+00:12:51,720 --> 00:12:54,020
+I'm going to start in the midline of the chest
+
+176
+00:12:54,020 --> 00:12:55,140
+looking at the bones.
+
+177
+00:12:55,500 --> 00:12:57,780
+It's important to be able to recognize the manubrium
+
+178
+00:12:57,780 --> 00:12:59,500
+of the sternum as a normal structure
+
+179
+00:12:59,500 --> 00:13:03,160
+so that this is not mistaken as lymphadenopathy or mass.
+
+180
+00:13:03,160 --> 00:13:07,540
+We're going to have the clavicle and the scapula
+
+181
+00:13:07,540 --> 00:13:09,760
+so these should be symmetric bilaterally
+
+182
+00:13:09,760 --> 00:13:11,220
+as well as the ribs.
+
+183
+00:13:14,140 --> 00:13:15,500
+Moving on to the soft tissues,
+
+184
+00:13:15,680 --> 00:13:16,800
+this is a female patient.
+
+185
+00:13:16,800 --> 00:13:20,100
+we can see that there are symmetric breast shadows.
+
+186
+00:13:21,720 --> 00:13:23,380
+We look at the diaphragm.
+
+187
+00:13:24,160 --> 00:13:25,760
+They are domed in appearance.
+
+188
+00:13:26,220 --> 00:13:27,820
+We're at the apex of the dome,
+
+189
+00:13:27,980 --> 00:13:31,220
+somewhere in the middle third of the chest.
+
+190
+00:13:31,740 --> 00:13:34,340
+As the diaphragms move out laterally,
+
+191
+00:13:34,960 --> 00:13:38,100
+they move caudally and will form these recesses
+
+192
+00:13:38,100 --> 00:13:41,380
+where the diaphragm contacts the lateral margin
+
+193
+00:13:41,380 --> 00:13:42,200
+of the chest wall.
+
+194
+00:13:42,840 --> 00:13:45,420
+This is termed the lateral costophenic sulcus.
+
+195
+00:13:45,420 --> 00:13:48,680
+And when we start talking about interpretation
+
+196
+00:13:48,680 --> 00:13:50,400
+of chest radiographs,
+
+197
+00:13:50,500 --> 00:13:53,200
+these sulci are going to be important to evaluate.
+
+198
+00:13:54,020 --> 00:13:57,920
+We need to make sure that they form nice sharp margins
+
+199
+00:13:57,920 --> 00:14:01,340
+and there's nothing like a mass or effusion
+
+200
+00:14:01,340 --> 00:14:04,220
+or atelectasis or airspace disease
+
+201
+00:14:04,220 --> 00:14:07,300
+that would cause blunting of these normally sharp
+
+202
+00:14:07,300 --> 00:14:09,300
+lateral costophenic sulci.
+
+203
+00:14:09,800 --> 00:14:13,830
+Let's take a little closer look at rib anatomy
+
+204
+00:14:13,830 --> 00:14:16,370
+as this can sometimes be confusing.
+
+205
+00:14:16,790 --> 00:14:20,470
+Now the ribs don't travel in the same horizontal plane
+
+206
+00:14:20,470 --> 00:14:24,930
+so that in terms of the cranial caudal direction,
+
+207
+00:14:25,130 --> 00:14:28,030
+the posterior rib will not be in the same plane
+
+208
+00:14:28,030 --> 00:14:29,650
+as the anterior rib.
+
+209
+00:14:29,850 --> 00:14:32,490
+The posterior ribs are more cranial
+
+210
+00:14:32,490 --> 00:14:34,630
+than the corresponding anterior ribs.
+
+211
+00:14:34,630 --> 00:14:37,550
+So if we take a look at an example
+
+212
+00:14:37,550 --> 00:14:40,190
+where we outline one specific rib
+
+213
+00:14:40,190 --> 00:14:42,170
+and follow it from posterior to anterior,
+
+214
+00:14:42,610 --> 00:14:44,890
+we can see the anterior portion of that rib
+
+215
+00:14:44,890 --> 00:14:47,310
+is more caudally located
+
+216
+00:14:47,310 --> 00:14:51,470
+than the posterior portion of the rib.
+
+217
+00:14:51,930 --> 00:14:54,350
+So the posterior ribs and the anterior ribs
+
+218
+00:14:54,350 --> 00:14:56,190
+are going to have different orientations.
+
+219
+00:14:56,190 --> 00:15:00,530
+I think the orientation of the ribs will be more clear
+
+220
+00:15:00,530 --> 00:15:02,990
+if we do a side-by-side comparison.
+
+221
+00:15:03,910 --> 00:15:05,270
+So we have the same image here.
+
+222
+00:15:05,430 --> 00:15:06,630
+On the left-hand side,
+
+223
+00:15:06,710 --> 00:15:09,350
+we're going to outline the posterior ribs
+
+224
+00:15:09,350 --> 00:15:12,010
+and on the right-hand side, the anterior ribs.
+
+225
+00:15:12,870 --> 00:15:16,650
+So the posterior ribs are more horizontally oriented
+
+226
+00:15:16,650 --> 00:15:18,210
+as we see here.
+
+227
+00:15:18,210 --> 00:15:22,770
+The anterior ribs are more obliquely oriented
+
+228
+00:15:22,770 --> 00:15:27,110
+so that the ribs travel caudally and medially.
+
+229
+00:15:28,310 --> 00:15:30,270
+So notice the difference in orientation
+
+230
+00:15:30,270 --> 00:15:33,350
+between anterior and posterior ribs.
+
+231
+00:15:40,110 --> 00:15:42,510
+The right and left portions of the diaphragm
+
+232
+00:15:42,510 --> 00:15:43,590
+are outlined in yellow.
+
+233
+00:15:44,350 --> 00:15:46,050
+Also indicated are the ribs.
+
+234
+00:15:46,930 --> 00:15:49,770
+The costophenic sulci or costophenic angles
+
+235
+00:15:49,770 --> 00:15:52,290
+are the recesses between the ribs
+
+236
+00:15:52,290 --> 00:15:55,470
+and the lateral-most aspects of the diaphragm.
+
+237
+00:15:58,140 --> 00:15:59,900
+We are now going to turn our attention
+
+238
+00:15:59,900 --> 00:16:02,100
+to the normal mediastinal borders
+
+239
+00:16:02,100 --> 00:16:03,880
+on the lateral radiograph.
+
+240
+00:16:05,480 --> 00:16:08,480
+Anteriorly, we're going to have the right ventricle
+
+241
+00:16:08,480 --> 00:16:10,700
+and right ventricular outflow tract.
+
+242
+00:16:11,240 --> 00:16:12,780
+Remember that the right ventricle
+
+243
+00:16:12,780 --> 00:16:14,860
+is the most anterior cardiac chamber.
+
+244
+00:16:15,500 --> 00:16:18,440
+We are then going to identify two arches.
+
+245
+00:16:18,840 --> 00:16:20,560
+The larger, more cranial arch
+
+246
+00:16:20,560 --> 00:16:22,200
+is going to represent the aorta.
+
+247
+00:16:22,200 --> 00:16:25,980
+The smaller, more caudally located arch
+
+248
+00:16:25,980 --> 00:16:28,000
+is the left pulmonary artery.
+
+249
+00:16:28,420 --> 00:16:30,340
+Remember the course of the left pulmonary artery.
+
+250
+00:16:30,840 --> 00:16:33,920
+It branches from the main pulmonary artery
+
+251
+00:16:33,920 --> 00:16:36,920
+and courses anterior to posterior
+
+252
+00:16:36,920 --> 00:16:41,680
+arching over the left upper lobe bronchus
+
+253
+00:16:41,680 --> 00:16:44,900
+as identified by this oval-shaped lucency.
+
+254
+00:16:44,900 --> 00:16:48,400
+Now, the right pulmonary artery
+
+255
+00:16:48,400 --> 00:16:51,680
+is poorly defined on the lateral view
+
+256
+00:16:51,680 --> 00:16:55,740
+and is not typically as easy to identify
+
+257
+00:16:55,740 --> 00:16:57,060
+as the left pulmonary artery.
+
+258
+00:16:57,500 --> 00:16:59,500
+This is because of the branching pattern
+
+259
+00:16:59,500 --> 00:17:00,920
+of the right pulmonary artery
+
+260
+00:17:00,920 --> 00:17:04,300
+as well as the lack of any adjacent lung
+
+261
+00:17:04,300 --> 00:17:06,280
+to give you a nice interface to identify.
+
+262
+00:17:06,280 --> 00:17:12,300
+The right pulmonary artery can be inferred
+
+263
+00:17:12,300 --> 00:17:14,920
+to be present right about this location
+
+264
+00:17:14,920 --> 00:17:15,680
+as shown there.
+
+265
+00:17:16,900 --> 00:17:20,340
+It's really better termed the hyalurvascular opacity
+
+266
+00:17:20,340 --> 00:17:23,300
+because it really represents a conglomerate
+
+267
+00:17:23,300 --> 00:17:25,200
+of pulmonary arteries and veins
+
+268
+00:17:25,200 --> 00:17:27,680
+with the right pulmonary artery forming more
+
+269
+00:17:27,680 --> 00:17:31,140
+of the cranial border and the interlobal artery
+
+270
+00:17:31,140 --> 00:17:32,940
+as we saw on the frontal view
+
+271
+00:17:32,940 --> 00:17:36,480
+forming more of the lower aspect of that opacity.
+
+272
+00:17:36,820 --> 00:17:38,740
+So you're not going to see the right pulmonary artery
+
+273
+00:17:38,740 --> 00:17:40,200
+typically as well as the left.
+
+274
+00:17:41,420 --> 00:17:45,960
+Along the postero-superior margin of the heart
+
+275
+00:17:45,960 --> 00:17:47,420
+we're going to have the left atrium.
+
+276
+00:17:47,680 --> 00:17:50,080
+That's the most posteriorly located heart chamber.
+
+277
+00:17:50,880 --> 00:17:52,600
+And then finally the left ventricle
+
+278
+00:17:52,600 --> 00:17:55,100
+being located posterior and inferior.
+
+279
+00:17:55,100 --> 00:17:59,720
+There are a couple more vascular structures
+
+280
+00:17:59,720 --> 00:18:02,000
+that we need to identify on the lateral view.
+
+281
+00:18:02,980 --> 00:18:05,080
+Remember the most posterior chamber
+
+282
+00:18:05,080 --> 00:18:06,280
+is the left atrium
+
+283
+00:18:06,280 --> 00:18:08,860
+forming the upper posterior margin of the heart.
+
+284
+00:18:09,740 --> 00:18:11,520
+Notice we have these opacities
+
+285
+00:18:11,520 --> 00:18:14,380
+which are coursing towards the left atrium.
+
+286
+00:18:15,120 --> 00:18:17,840
+This represents the confluence of the pulmonary veins.
+
+287
+00:18:19,040 --> 00:18:21,080
+And then finally sometimes we're able to identify
+
+288
+00:18:21,080 --> 00:18:22,720
+the inferior vena cava
+
+289
+00:18:22,720 --> 00:18:26,720
+as an interface between the diaphragm
+
+290
+00:18:26,720 --> 00:18:31,160
+and caudal margin of the heart posteriorly.
+
+291
+00:18:32,280 --> 00:18:34,140
+Here we see that interface
+
+292
+00:18:34,140 --> 00:18:36,140
+between the inferior vena cava and lung.
+
+293
+00:18:38,320 --> 00:18:39,940
+That's the inferior vena cava.
+
+294
+00:18:40,480 --> 00:18:44,740
+Now let's turn our attention to the airways
+
+295
+00:18:44,740 --> 00:18:48,220
+as identified on the lateral radiograph.
+
+296
+00:18:49,100 --> 00:18:50,380
+First we're going to notice
+
+297
+00:18:50,380 --> 00:18:52,740
+the vertically oriented air column
+
+298
+00:18:52,740 --> 00:18:54,500
+that represents the trachea
+
+299
+00:18:54,500 --> 00:18:55,800
+and the upper medius dynum.
+
+300
+00:18:59,250 --> 00:19:02,510
+Notice along the posterior margin of the trachea
+
+301
+00:19:02,510 --> 00:19:04,610
+we're going to have a radio opaque
+
+302
+00:19:04,610 --> 00:19:07,650
+vertically oriented line.
+
+303
+00:19:07,810 --> 00:19:10,450
+That's going to be the posterior tracheal stripe
+
+304
+00:19:10,450 --> 00:19:12,610
+which we'll talk about in more detail
+
+305
+00:19:12,610 --> 00:19:14,290
+a little bit later.
+
+306
+00:19:15,790 --> 00:19:18,250
+We're going to have the right upper lobe bronchus
+
+307
+00:19:18,250 --> 00:19:22,310
+and then the left main stem bronchus
+
+308
+00:19:22,310 --> 00:19:23,810
+upper lobe continuum
+
+309
+00:19:23,810 --> 00:19:25,750
+and I'll talk a little bit about this
+
+310
+00:19:25,750 --> 00:19:28,050
+in later slides.
+
+311
+00:19:31,360 --> 00:19:32,900
+As we did for the frontal view
+
+312
+00:19:32,900 --> 00:19:34,180
+for the lateral view
+
+313
+00:19:34,180 --> 00:19:37,060
+we're also going to look at cross-sectional imaging
+
+314
+00:19:37,060 --> 00:19:38,180
+specifically CT
+
+315
+00:19:38,180 --> 00:19:41,260
+to help us understand the radiographic findings.
+
+316
+00:19:41,260 --> 00:19:44,960
+The right-sided image represents a coronal view.
+
+317
+00:19:46,280 --> 00:19:48,700
+We can see the left pulmonary artery
+
+318
+00:19:48,700 --> 00:19:50,140
+as it arches over
+
+319
+00:19:50,140 --> 00:19:54,060
+the left main bronchus
+
+320
+00:19:54,060 --> 00:19:57,000
+as well as the left upper lobe bronchus
+
+321
+00:19:57,000 --> 00:19:59,300
+and this really represents a continuum.
+
+322
+00:19:59,560 --> 00:20:00,260
+So you can imagine
+
+323
+00:20:00,260 --> 00:20:01,760
+based on this coronal anatomy
+
+324
+00:20:01,760 --> 00:20:04,140
+if you're looking at the patient from the side
+
+325
+00:20:04,140 --> 00:20:06,120
+like you would for a lateral radiograph
+
+326
+00:20:06,120 --> 00:20:08,260
+this is going to be oval in shape
+
+327
+00:20:08,260 --> 00:20:09,960
+and going to represent this continuum
+
+328
+00:20:09,960 --> 00:20:11,480
+of the left main stem bronchus
+
+329
+00:20:11,480 --> 00:20:13,060
+and the upper lobe bronchus.
+
+330
+00:20:13,640 --> 00:20:15,880
+On a sagittal reconstructed view
+
+331
+00:20:15,880 --> 00:20:17,240
+as we see on the left
+
+332
+00:20:17,240 --> 00:20:20,280
+you can see the left upper lobe bronchus
+
+333
+00:20:20,280 --> 00:20:21,440
+there is an oval shape
+
+334
+00:20:21,440 --> 00:20:22,520
+which corresponds to
+
+335
+00:20:22,520 --> 00:20:23,960
+what we see on the radiograph
+
+336
+00:20:23,960 --> 00:20:25,080
+and then you're going to see
+
+337
+00:20:25,080 --> 00:20:26,320
+the left pulmonary artery.
+
+338
+00:20:26,840 --> 00:20:29,260
+On this cut not quite an arch
+
+339
+00:20:29,260 --> 00:20:30,860
+but on further cuts
+
+340
+00:20:30,860 --> 00:20:33,120
+if you kind of put those together
+
+341
+00:20:33,120 --> 00:20:34,060
+as a stack of images
+
+342
+00:20:34,060 --> 00:20:35,540
+you're going to see that mini arch
+
+343
+00:20:35,540 --> 00:20:36,460
+that we can identify
+
+344
+00:20:36,460 --> 00:20:38,020
+on the lateral view.
+
+345
+00:20:38,260 --> 00:20:41,210
+On the right side
+
+346
+00:20:41,210 --> 00:20:43,190
+we're going to look at a coronal image
+
+347
+00:20:43,190 --> 00:20:43,770
+on the right
+
+348
+00:20:43,770 --> 00:20:45,630
+and the sagittal reconstructed image
+
+349
+00:20:45,630 --> 00:20:46,430
+on the left here.
+
+350
+00:20:47,810 --> 00:20:49,770
+We can see the right pulmonary artery
+
+351
+00:20:49,770 --> 00:20:52,130
+and notice its course on this coronal view
+
+352
+00:20:52,130 --> 00:20:55,470
+so it branches from the main pulmonary artery
+
+353
+00:20:55,470 --> 00:20:59,110
+and instead of arching anterior to posterior
+
+354
+00:20:59,110 --> 00:21:00,510
+over the bronchus
+
+355
+00:21:00,510 --> 00:21:01,630
+like the left side does
+
+356
+00:21:01,630 --> 00:21:03,370
+the right pulmonary artery
+
+357
+00:21:03,370 --> 00:21:05,650
+has to travel horizontally
+
+358
+00:21:05,650 --> 00:21:08,770
+as it goes from left to right.
+
+359
+00:21:08,770 --> 00:21:10,030
+So you can see
+
+360
+00:21:10,030 --> 00:21:11,690
+based on the coronal orientation
+
+361
+00:21:11,690 --> 00:21:13,990
+that on a lateral radiograph
+
+362
+00:21:13,990 --> 00:21:15,230
+this hyaluropacity
+
+363
+00:21:15,230 --> 00:21:16,430
+or the right pulmonary artery
+
+364
+00:21:16,430 --> 00:21:18,470
+is actually going to be oval shaped
+
+365
+00:21:18,470 --> 00:21:19,910
+and that pans out
+
+366
+00:21:19,910 --> 00:21:21,550
+on the sagittal coronal
+
+367
+00:21:21,550 --> 00:21:23,310
+or the sagittal reconstructed image
+
+368
+00:21:23,310 --> 00:21:24,510
+on the left
+
+369
+00:21:24,510 --> 00:21:26,290
+we see the oval shaped
+
+370
+00:21:26,290 --> 00:21:27,470
+right pulmonary artery
+
+371
+00:21:27,470 --> 00:21:29,550
+and then we're going to see
+
+372
+00:21:29,550 --> 00:21:31,470
+the right upper lobe bronchus
+
+373
+00:21:31,470 --> 00:21:33,090
+corresponding to
+
+374
+00:21:33,090 --> 00:21:36,010
+what we see on a lateral radiograph
+
+375
+00:21:36,010 --> 00:21:40,820
+The posterior tracheal stripe
+
+376
+00:21:40,820 --> 00:21:43,020
+represents the tissues
+
+377
+00:21:43,020 --> 00:21:46,120
+along the posterior tracheal margin
+
+378
+00:21:46,120 --> 00:21:48,820
+which are intervening between gas
+
+379
+00:21:48,820 --> 00:21:50,460
+within the trachea itself
+
+380
+00:21:50,460 --> 00:21:53,340
+and in the adjacent right lung
+
+381
+00:21:53,340 --> 00:21:55,640
+so let's take a look on the radiograph
+
+382
+00:21:55,640 --> 00:21:57,520
+identify the trachea
+
+383
+00:21:57,520 --> 00:21:58,340
+and then we can see
+
+384
+00:21:58,340 --> 00:22:00,180
+the posterior tracheal margin
+
+385
+00:22:00,180 --> 00:22:02,240
+is identified by this
+
+386
+00:22:02,240 --> 00:22:04,100
+vertically oriented opacity
+
+387
+00:22:04,100 --> 00:22:06,420
+so that's the posterior tracheal stripe
+
+388
+00:22:06,420 --> 00:22:08,300
+On the left image
+
+389
+00:22:08,300 --> 00:22:09,900
+we have an axial CT
+
+390
+00:22:09,900 --> 00:22:11,860
+which shows
+
+391
+00:22:11,860 --> 00:22:13,800
+just this little bit of soft tissue
+
+392
+00:22:13,800 --> 00:22:14,380
+in this case
+
+393
+00:22:14,380 --> 00:22:15,980
+the posterior tracheal wall
+
+394
+00:22:15,980 --> 00:22:18,000
+outlined by gas
+
+395
+00:22:18,000 --> 00:22:19,440
+in the trachea anteriorly
+
+396
+00:22:19,440 --> 00:22:21,220
+and outlined by the gas
+
+397
+00:22:21,220 --> 00:22:21,940
+within the lung
+
+398
+00:22:21,940 --> 00:22:23,220
+posteriorly
+
+399
+00:22:23,220 --> 00:22:25,280
+I want you to notice
+
+400
+00:22:25,280 --> 00:22:26,580
+that the esophagus
+
+401
+00:22:26,580 --> 00:22:29,140
+is right adjacent to this
+
+402
+00:22:29,140 --> 00:22:30,460
+and so sometimes
+
+403
+00:22:30,460 --> 00:22:31,480
+that esophagus
+
+404
+00:22:31,480 --> 00:22:32,660
+can be decompressed
+
+405
+00:22:32,660 --> 00:22:34,080
+and pushed right up
+
+406
+00:22:34,080 --> 00:22:36,120
+against the posterior tracheal wall
+
+407
+00:22:36,120 --> 00:22:37,460
+so that not only
+
+408
+00:22:37,460 --> 00:22:38,060
+are you seeing
+
+409
+00:22:38,060 --> 00:22:40,340
+the posterior tracheal wall
+
+410
+00:22:40,340 --> 00:22:42,280
+but also the esophagus
+
+411
+00:22:42,280 --> 00:22:43,800
+so the normal thickness
+
+412
+00:22:43,800 --> 00:22:44,340
+of this
+
+413
+00:22:44,340 --> 00:22:45,820
+can be a little bit tricky
+
+414
+00:22:45,820 --> 00:22:48,200
+without any intervening esophagus
+
+415
+00:22:48,200 --> 00:22:49,620
+we usually use
+
+416
+00:22:49,620 --> 00:22:50,960
+about 2.5 millimeters
+
+417
+00:22:50,960 --> 00:22:51,820
+as kind of being
+
+418
+00:22:51,820 --> 00:22:52,940
+the upper limit of normal
+
+419
+00:22:52,940 --> 00:22:54,060
+but if you have
+
+420
+00:22:54,060 --> 00:22:55,420
+the trachea plastered
+
+421
+00:22:55,420 --> 00:22:56,160
+against the
+
+422
+00:22:56,160 --> 00:22:57,700
+posterior tracheal wall
+
+423
+00:22:57,700 --> 00:22:58,380
+and you're seeing
+
+424
+00:22:58,380 --> 00:22:59,940
+both of these tissues
+
+425
+00:22:59,940 --> 00:23:02,000
+then we typically allow
+
+426
+00:23:02,000 --> 00:23:03,500
+up to 5.5 millimeters
+
+427
+00:23:03,500 --> 00:23:04,920
+so if you ever see this
+
+428
+00:23:04,920 --> 00:23:05,740
+6 millimeters
+
+429
+00:23:05,740 --> 00:23:06,780
+or more in thickness
+
+430
+00:23:06,780 --> 00:23:08,180
+then you can be pretty
+
+431
+00:23:08,180 --> 00:23:09,200
+confident
+
+432
+00:23:09,200 --> 00:23:09,760
+that there's
+
+433
+00:23:09,760 --> 00:23:10,980
+true thickening there
+
+434
+00:23:10,980 --> 00:23:19,190
+this question
+
+435
+00:23:19,190 --> 00:23:20,090
+tests your ability
+
+436
+00:23:20,090 --> 00:23:20,830
+to recognize
+
+437
+00:23:20,830 --> 00:23:22,210
+normal mediastinal borders
+
+438
+00:23:22,210 --> 00:23:23,270
+on the lateral view
+
+439
+00:23:23,270 --> 00:23:24,850
+the posterior
+
+440
+00:23:24,850 --> 00:23:26,370
+and superior border
+
+441
+00:23:26,370 --> 00:23:26,890
+of the heart
+
+442
+00:23:26,890 --> 00:23:27,770
+on the lateral view
+
+443
+00:23:27,770 --> 00:23:29,610
+represents the left
+
+444
+00:23:29,610 --> 00:23:30,170
+atrium
+
+445
+00:23:30,170 --> 00:23:31,590
+while the postero
+
+446
+00:23:31,590 --> 00:23:32,470
+inferior border
+
+447
+00:23:32,470 --> 00:23:34,130
+as shown in this question
+
+448
+00:23:34,130 --> 00:23:35,390
+is formed
+
+449
+00:23:35,390 --> 00:23:37,210
+by the left ventricle
+
+450
+00:23:37,210 --> 00:23:39,370
+the right ventricle
+
+451
+00:23:39,370 --> 00:23:40,370
+and the right ventricular
+
+452
+00:23:40,370 --> 00:23:41,470
+outflow tract
+
+453
+00:23:41,470 --> 00:23:43,170
+form the anterior border
+
+454
+00:23:43,170 --> 00:23:44,910
+the right atrium
+
+455
+00:23:44,910 --> 00:23:46,370
+is not border forming
+
+456
+00:23:46,370 --> 00:23:47,370
+on the lateral view
+
+457
+00:23:47,370 --> 00:23:50,770
+in this module
+
+458
+00:23:50,770 --> 00:23:52,390
+we began our review
+
+459
+00:23:52,390 --> 00:23:53,130
+of the normal
+
+460
+00:23:53,130 --> 00:23:54,490
+mediastinal borders
+
+461
+00:23:54,490 --> 00:23:55,390
+on both the frontal
+
+462
+00:23:55,390 --> 00:23:56,290
+and lateral views
+
+463
+00:23:56,290 --> 00:23:56,870
+of the chest
+
+464
+00:23:56,870 --> 00:23:58,590
+in addition to
+
+465
+00:23:58,590 --> 00:23:59,470
+mediastinal borders
+
+466
+00:23:59,470 --> 00:24:00,230
+we talked about
+
+467
+00:24:00,230 --> 00:24:01,150
+key stripes
+
+468
+00:24:01,150 --> 00:24:02,030
+and spaces
+
+469
+00:24:02,030 --> 00:24:03,990
+identified on these views
+
+470
+00:24:03,990 --> 00:24:05,170
+including the
+
+471
+00:24:05,170 --> 00:24:06,650
+azigoesophageal recess
+
+472
+00:24:06,650 --> 00:24:08,750
+aortopulmonary window
+
+473
+00:24:08,750 --> 00:24:10,930
+left paraspinal stripe
+
+474
+00:24:10,930 --> 00:24:13,450
+right paratracheal stripe
+
+475
+00:24:13,450 --> 00:24:14,230
+and then finally
+
+476
+00:24:14,230 --> 00:24:15,010
+the posterior
+
+477
+00:24:15,010 --> 00:24:16,710
+tracheal stripe
+
+478
+00:24:16,710 --> 00:24:18,130
+it is important
+
+479
+00:24:18,130 --> 00:24:18,610
+to be aware
+
+480
+00:24:18,610 --> 00:24:19,290
+of the normal
+
+481
+00:24:19,290 --> 00:24:19,770
+appearance
+
+482
+00:24:19,770 --> 00:24:20,530
+of these spaces
+
+483
+00:24:20,530 --> 00:24:21,270
+and stripes
+
+484
+00:24:21,270 --> 00:24:22,690
+as pathology
+
+485
+00:24:22,690 --> 00:24:23,530
+can alter
+
+486
+00:24:23,530 --> 00:24:24,450
+this normal
+
+487
+00:24:24,450 --> 00:24:24,970
+appearance
+
+488
+00:24:24,970 --> 00:24:26,930
+finally we talked
+
+489
+00:24:26,930 --> 00:24:28,130
+about osseous anatomy
+
+490
+00:24:28,130 --> 00:24:29,790
+specifically about
+
+491
+00:24:29,790 --> 00:24:30,650
+the ribs
+
+492
+00:24:30,650 --> 00:24:32,150
+we also talked
+
+493
+00:24:32,150 --> 00:24:33,290
+about the diaphragm
+
+494
+00:24:33,290 --> 00:24:34,590
+and the costophrenic
+
+495
+00:24:34,590 --> 00:24:35,090
+sulci
+
+496
+00:24:35,090 --> 00:24:36,450
+on the frontal view
+
+497
+00:24:36,450 --> 00:24:39,780
+we will complete
+
+498
+00:24:39,780 --> 00:24:40,920
+our discussion
+
+499
+00:24:40,920 --> 00:24:41,960
+of the radiographic
+
+500
+00:24:41,960 --> 00:24:42,440
+anatomy
+
+501
+00:24:42,440 --> 00:24:43,580
+of the chest
+
+502
+00:24:43,580 --> 00:24:44,260
+in the second
+
+503
+00:24:44,260 --> 00:24:44,760
+module
+
+504
+00:24:44,760 --> 00:24:45,780
+of this unit
+
+505
+00:24:45,780 --> 00:24:47,600
+this brings us
+
+506
+00:24:47,600 --> 00:24:48,240
+to the end
+
+507
+00:24:48,240 --> 00:24:49,220
+of this portion
+
+508
+00:24:49,220 --> 00:24:50,900
+please complete
+
+509
+00:24:50,900 --> 00:24:51,660
+the corresponding
+
+510
+00:24:51,660 --> 00:24:52,620
+quiz questions
+
+511
+00:24:52,620 --> 00:24:53,700
+to receive credit
+
+512
+00:24:53,700 --> 00:24:54,540
+for this course
+
+513
+00:24:54,540 --> 00:25:32,680
+if you would like
+
+514
+00:25:32,680 --> 00:25:33,580
+to receive credit
+
+515
+00:25:33,580 --> 00:25:34,460
+for this course
+
+516
+00:25:34,460 --> 00:25:35,500
+please click
+
+517
+00:25:35,500 --> 00:25:36,520
+the log off button
+
+518
+00:25:36,520 --> 00:25:37,280
+at the bottom
+
+519
+00:25:37,280 --> 00:25:37,920
+of the screen
+
