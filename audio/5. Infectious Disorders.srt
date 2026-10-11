@@ -1,0 +1,372 @@
+1
+00:00:00,000 --> 00:00:02,080
+Moving on to the last section of this chapter,
+
+2
+00:00:02,080 --> 00:00:03,600
+infectious disorders.
+
+3
+00:00:03,600 --> 00:00:06,000
+The first disorder is impetigo.
+
+4
+00:00:06,000 --> 00:00:08,880
+This is a superficial bacterial skin infection,
+
+5
+00:00:08,880 --> 00:00:12,240
+usually due to Staph aureus or strep pyogenes,
+
+6
+00:00:12,240 --> 00:00:13,720
+and it commonly infects children.
+
+7
+00:00:13,720 --> 00:00:16,000
+In fact, it's extremely contagious.
+
+8
+00:00:16,000 --> 00:00:18,960
+It presents as erythematous macules.
+
+9
+00:00:18,960 --> 00:00:21,400
+Remember that a macule is a flat lesion
+
+10
+00:00:21,400 --> 00:00:22,840
+that progressed to pustules.
+
+11
+00:00:22,840 --> 00:00:25,440
+A pustule is a raised lesion that contains pus.
+
+12
+00:00:25,440 --> 00:00:27,000
+Of course, there's bacteria here,
+
+13
+00:00:27,000 --> 00:00:28,560
+so you're gonna get some pus.
+
+14
+00:00:28,560 --> 00:00:30,680
+It usually occurs on the face.
+
+15
+00:00:30,680 --> 00:00:32,520
+It'll result in an erosion
+
+16
+00:00:32,520 --> 00:00:36,880
+with this dry, crusted, honey-colored serum on the surface,
+
+17
+00:00:36,880 --> 00:00:39,640
+and so that's the classic finding in impetigo.
+
+18
+00:00:39,640 --> 00:00:43,640
+Cellulitis is also due to Staph aureus or strep pyogenes.
+
+19
+00:00:43,640 --> 00:00:45,800
+However, instead, you get a deeper infection
+
+20
+00:00:45,800 --> 00:00:47,120
+within the dermis,
+
+21
+00:00:47,120 --> 00:00:52,000
+and this presents as a tender, red, swollen rash with fever.
+
+22
+00:00:52,000 --> 00:00:54,000
+The risk factors include recent surgery
+
+23
+00:00:54,000 --> 00:00:56,200
+that would introduce bacteria to the dermis,
+
+24
+00:00:56,200 --> 00:00:59,120
+trauma, which could introduce bacteria to the dermis,
+
+25
+00:00:59,120 --> 00:01:01,240
+or, for example, an insect bite,
+
+26
+00:01:01,240 --> 00:01:04,480
+which could also introduce bacteria to the dermis.
+
+27
+00:01:04,480 --> 00:01:08,080
+Now, this can then progress to necrotizing fasciitis,
+
+28
+00:01:08,080 --> 00:01:10,800
+where you get necrosis of subcutaneous tissue
+
+29
+00:01:10,800 --> 00:01:12,960
+underneath the dermis due to infection
+
+30
+00:01:12,960 --> 00:01:15,880
+with anaerobic flesh-eating bacteria.
+
+31
+00:01:15,880 --> 00:01:17,920
+Of course, these anaerobic flesh-eating bacteria
+
+32
+00:01:17,920 --> 00:01:21,040
+would produce CO2, and that would lead to crepitus,
+
+33
+00:01:21,040 --> 00:01:23,320
+where you could feel gas within the skin.
+
+34
+00:01:23,320 --> 00:01:25,800
+You could feel the bubbles of gas within skin,
+
+35
+00:01:25,800 --> 00:01:28,480
+and this is a surgical emergency.
+
+36
+00:01:28,480 --> 00:01:30,800
+Staphylococcal scalded skin syndrome
+
+37
+00:01:30,800 --> 00:01:33,440
+is when you get a staph infection of the skin.
+
+38
+00:01:33,440 --> 00:01:36,400
+It's usually the very superficial layers of the skin.
+
+39
+00:01:36,400 --> 00:01:40,240
+That staph produces exfoliative A and B toxins,
+
+40
+00:01:40,240 --> 00:01:42,640
+which then results in the lysis of the skin
+
+41
+00:01:42,640 --> 00:01:44,840
+and a separation of the layers of the skin,
+
+42
+00:01:44,840 --> 00:01:46,920
+giving a scalded appearance.
+
+43
+00:01:46,920 --> 00:01:49,840
+And so what you're gonna get clinically is sloughing of the skin
+
+44
+00:01:49,840 --> 00:01:51,640
+with an erythematous rash.
+
+45
+00:01:51,640 --> 00:01:53,640
+It occurs diffusely across the skin,
+
+46
+00:01:53,640 --> 00:01:55,920
+giving you significant skin loss.
+
+47
+00:01:55,920 --> 00:01:58,440
+This is, again, due to a staph aureus infection.
+
+48
+00:01:58,440 --> 00:02:01,600
+It produces exfoliative A and B toxins
+
+49
+00:02:01,600 --> 00:02:04,800
+that then separate the stratum granulosum
+
+50
+00:02:04,800 --> 00:02:06,480
+from the rest of the skin.
+
+51
+00:02:06,480 --> 00:02:09,160
+Now, remember that the stratum granulosum
+
+52
+00:02:09,160 --> 00:02:10,760
+is way up at the top of the skin.
+
+53
+00:02:10,760 --> 00:02:12,360
+You've got your basal layer,
+
+54
+00:02:12,360 --> 00:02:14,360
+then you've got your stratum spinosum,
+
+55
+00:02:14,360 --> 00:02:16,760
+or the spinal layer with the desmosomes,
+
+56
+00:02:16,760 --> 00:02:19,000
+and then you've got your stratum granulosum,
+
+57
+00:02:19,000 --> 00:02:20,360
+or the granular layer.
+
+58
+00:02:20,360 --> 00:02:23,600
+And then finally, you've got your stratum corneum.
+
+59
+00:02:23,600 --> 00:02:24,760
+And so what's happening here
+
+60
+00:02:24,760 --> 00:02:27,840
+is that you're getting separation very superficially
+
+61
+00:02:27,840 --> 00:02:31,000
+at the layer of the stratum granulosum.
+
+62
+00:02:31,000 --> 00:02:33,040
+And it's important to note where this is occurring,
+
+63
+00:02:33,040 --> 00:02:34,560
+because you need to distinguish it
+
+64
+00:02:34,560 --> 00:02:36,840
+from toxic epidermal necrolysis,
+
+65
+00:02:36,840 --> 00:02:40,360
+where you also get massive sloughing off of the skin.
+
+66
+00:02:40,360 --> 00:02:42,640
+However, in toxic epidermal necrolysis,
+
+67
+00:02:42,640 --> 00:02:45,480
+you're separating at the dermal-epidermal junction,
+
+68
+00:02:45,480 --> 00:02:48,200
+and so it's a much deeper separation.
+
+69
+00:02:48,200 --> 00:02:51,120
+Veruca is a term that refers to warts.
+
+70
+00:02:51,120 --> 00:02:55,120
+This is a flesh-colored papule, or a raised lesion,
+
+71
+00:02:55,120 --> 00:02:56,640
+with a rough surface.
+
+72
+00:02:56,640 --> 00:02:59,760
+It's due to HPV, and the hands and feet
+
+73
+00:02:59,760 --> 00:03:01,920
+are a particularly common location.
+
+74
+00:03:01,920 --> 00:03:04,440
+Here's a classic picture of a wart or a veruca,
+
+75
+00:03:04,440 --> 00:03:06,200
+and again, this is due to HPV.
+
+76
+00:03:06,200 --> 00:03:08,040
+You can see that it's got a rough surface,
+
+77
+00:03:08,040 --> 00:03:10,960
+and it's a raised papule.
+
+78
+00:03:10,960 --> 00:03:13,560
+The final lesion is molluscum contagiosum.
+
+79
+00:03:13,560 --> 00:03:17,880
+This refers to a firm pink umbilicated papule,
+
+80
+00:03:17,880 --> 00:03:20,600
+and it's due to pox virus.
+
+81
+00:03:20,600 --> 00:03:22,720
+This most often arises in children,
+
+82
+00:03:22,720 --> 00:03:25,040
+but it can occur in sexually active adults.
+
+83
+00:03:25,040 --> 00:03:27,480
+It can be sexually transmitted, actually.
+
+84
+00:03:27,480 --> 00:03:31,120
+And it can also arise in immunocompromised individuals.
+
+85
+00:03:31,120 --> 00:03:32,680
+Now the hallmark of this lesion
+
+86
+00:03:32,680 --> 00:03:35,600
+is that you're going to see molluscum bodies
+
+87
+00:03:35,600 --> 00:03:37,800
+within the affected keratinocyte.
+
+88
+00:03:37,800 --> 00:03:39,960
+Again, this is a sign that these keratinocytes
+
+89
+00:03:39,960 --> 00:03:41,880
+are infected with pox virus.
+
+90
+00:03:41,880 --> 00:03:44,360
+And so here are the molluscum bodies
+
+91
+00:03:44,360 --> 00:03:46,640
+indicative of viral inclusions.
+
+92
+00:03:46,640 --> 00:03:49,840
+And again, the key virus, pox virus.
+
+93
+00:03:49,840 --> 00:03:52,760
+And that concludes both this section and the chapter.
+

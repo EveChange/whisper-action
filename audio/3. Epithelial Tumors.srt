@@ -1,0 +1,500 @@
+1
+00:00:00,160 --> 00:00:02,120
+Okay, moving on to epithelial tumors.
+
+2
+00:00:02,120 --> 00:00:05,060
+The first disorder is seborrheic keratosis.
+
+3
+00:00:05,060 --> 00:00:08,500
+This is a benign proliferation of squamous cells.
+
+4
+00:00:08,500 --> 00:00:11,020
+It commonly arises in the elderly.
+
+5
+00:00:11,020 --> 00:00:14,560
+On gross exam, you see a raised discolored plaque,
+
+6
+00:00:14,560 --> 00:00:16,440
+usually on the extremities or the face,
+
+7
+00:00:16,440 --> 00:00:17,880
+and this is what it looks like.
+
+8
+00:00:17,880 --> 00:00:21,520
+And it has a classic, quote unquote, stuck on appearance.
+
+9
+00:00:21,520 --> 00:00:22,940
+So that when you look at this lesion,
+
+10
+00:00:22,940 --> 00:00:25,140
+it looks like a coin that you can just peel away
+
+11
+00:00:25,140 --> 00:00:26,960
+from the surface of the skin.
+
+12
+00:00:26,960 --> 00:00:28,780
+Were you to examine this on histology,
+
+13
+00:00:28,780 --> 00:00:30,400
+you would see a raised lesion.
+
+14
+00:00:30,400 --> 00:00:33,100
+This line represents sort of the surface of the skin,
+
+15
+00:00:33,100 --> 00:00:35,520
+and this represents the bump on the skin.
+
+16
+00:00:35,520 --> 00:00:38,400
+And one of the hallmarks is that it contains
+
+17
+00:00:38,400 --> 00:00:41,900
+these circular spaces with abundant pink keratin.
+
+18
+00:00:41,900 --> 00:00:44,540
+And these circular spaces with abundant pink keratin
+
+19
+00:00:44,540 --> 00:00:46,240
+are called pseudocysts.
+
+20
+00:00:46,240 --> 00:00:49,540
+So again, you have a proliferation of the squamous cells
+
+21
+00:00:49,540 --> 00:00:54,620
+with the pseudocysts producing this coin-like stuck-on lesion
+
+22
+00:00:54,620 --> 00:00:56,260
+on the surface of the skin.
+
+23
+00:00:56,260 --> 00:01:00,580
+Now, seborrheic keratoses are normal in individuals as they age.
+
+24
+00:01:00,580 --> 00:01:03,000
+However, it is possible to have the sudden onset
+
+25
+00:01:03,000 --> 00:01:05,480
+of multiple seborrheic keratoses,
+
+26
+00:01:05,480 --> 00:01:08,300
+like dozens and dozens of seborrheic keratoses.
+
+27
+00:01:08,300 --> 00:01:11,820
+This is called the lesser Trelot sign, particularly high yield,
+
+28
+00:01:11,820 --> 00:01:16,160
+and it suggests an underlying carcinoma, usually of the GI tract.
+
+29
+00:01:16,160 --> 00:01:19,080
+And so it's probably a paraneoplastic syndrome.
+
+30
+00:01:19,080 --> 00:01:21,300
+But you do need to know, for the purposes of boards,
+
+31
+00:01:21,300 --> 00:01:24,340
+that if you get multiple seborrheic keratoses all of a sudden,
+
+32
+00:01:24,340 --> 00:01:27,580
+think about a carcinoma, especially in the GI tract.
+
+33
+00:01:27,580 --> 00:01:31,040
+Here's a picture just showing you multiple seborrheic keratoses
+
+34
+00:01:31,040 --> 00:01:32,540
+that have arisen all of a sudden,
+
+35
+00:01:32,540 --> 00:01:35,360
+again hinting that there may be an underlying carcinoma
+
+36
+00:01:35,360 --> 00:01:37,180
+of the GI tract.
+
+37
+00:01:37,180 --> 00:01:38,620
+Acanthosis nigricans.
+
+38
+00:01:38,620 --> 00:01:42,340
+Remember the word acanthosis means a thick epidermis.
+
+39
+00:01:42,340 --> 00:01:45,020
+And nigricans implies that it becomes dark.
+
+40
+00:01:45,020 --> 00:01:48,720
+So you get epidermal hyperplasia with darkening of the skin.
+
+41
+00:01:48,720 --> 00:01:52,320
+The epidermal hyperplasia makes the skin feel velvet-like.
+
+42
+00:01:52,320 --> 00:01:54,880
+And so again, it becomes a little thicker than normal.
+
+43
+00:01:54,880 --> 00:01:57,200
+This usually occurs in the groin or axilla
+
+44
+00:01:57,200 --> 00:01:59,900
+and is associated with insulin resistance.
+
+45
+00:01:59,900 --> 00:02:02,840
+So for example, type two diabetics can get it,
+
+46
+00:02:02,840 --> 00:02:04,340
+or malignancy.
+
+47
+00:02:04,340 --> 00:02:06,880
+For example, patients with gastric carcinoma
+
+48
+00:02:06,880 --> 00:02:09,360
+can develop acanthosis nigricans,
+
+49
+00:02:09,360 --> 00:02:11,300
+and that's particularly high yield.
+
+50
+00:02:11,300 --> 00:02:14,000
+Here's a clinical picture of acanthosis nigricans.
+
+51
+00:02:14,000 --> 00:02:16,440
+You can't really appreciate the thickening of the skin,
+
+52
+00:02:16,440 --> 00:02:20,280
+but I think you can appreciate that it is darker than normal.
+
+53
+00:02:20,280 --> 00:02:23,000
+Basal cell carcinoma is a malignant proliferation
+
+54
+00:02:23,000 --> 00:02:25,400
+of basal cells of the epidermis,
+
+55
+00:02:25,400 --> 00:02:27,600
+and the risk factors are all based on exposure
+
+56
+00:02:27,600 --> 00:02:29,500
+to UVB sunlight.
+
+57
+00:02:29,500 --> 00:02:31,200
+Now remember that within sunlight,
+
+58
+00:02:31,200 --> 00:02:34,480
+UVB is the most carcinogenic component,
+
+59
+00:02:34,480 --> 00:02:36,880
+and UVB can induce DNA damage.
+
+60
+00:02:36,880 --> 00:02:39,100
+And so when there's UVB-induced DNA damage,
+
+61
+00:02:39,100 --> 00:02:41,920
+that would increase the risk for basal cell carcinoma.
+
+62
+00:02:41,920 --> 00:02:44,360
+So the risk factors are all going to be based on UVB.
+
+63
+00:02:44,360 --> 00:02:48,480
+For example, prolonged exposure to sunlight, excess UVB.
+
+64
+00:02:48,480 --> 00:02:50,920
+Albinism, where you don't have pigment to the skin,
+
+65
+00:02:50,920 --> 00:02:53,320
+so you're not protected against UVB.
+
+66
+00:02:53,320 --> 00:02:56,680
+And finally, a disorder called xeroderma pigmentosum,
+
+67
+00:02:56,680 --> 00:02:58,360
+which is particularly high yield.
+
+68
+00:02:58,360 --> 00:03:02,520
+Now in xeroderma pigmentosum, you have an autosomal recessive defect
+
+69
+00:03:02,520 --> 00:03:06,800
+in enzymes that are necessary for nucleotide excision repair.
+
+70
+00:03:06,800 --> 00:03:11,320
+Now let's go back and remind ourselves that when sunlight hits DNA in a cell,
+
+71
+00:03:11,320 --> 00:03:14,200
+it causes formation of pyrimidine dimers.
+
+72
+00:03:14,200 --> 00:03:20,360
+These pyrimidine dimers are normally excised by something called the nucleotide excision repair pathway.
+
+73
+00:03:20,360 --> 00:03:26,800
+The enzymes of the nucleotide excision repair pathway remove the pyrimidine dimers and repair that defect.
+
+74
+00:03:26,800 --> 00:03:31,920
+Now imagine if a patient has a defect in the ability to repair these pyrimidine dimers,
+
+75
+00:03:31,920 --> 00:03:34,800
+then there's going to be an increased risk in basal cell carcinoma.
+
+76
+00:03:34,800 --> 00:03:38,800
+And so that's exactly what happens in xeroderma pigmentosum.
+
+77
+00:03:38,800 --> 00:03:41,800
+The patients do not have their nucleotide excision repair pathway,
+
+78
+00:03:41,800 --> 00:03:47,760
+and therefore they get pyrimidine dimers increasing their risk for basal cell carcinoma.
+
+79
+00:03:47,760 --> 00:03:51,560
+Basal cell carcinoma has a very classic appearance clinically.
+
+80
+00:03:51,560 --> 00:03:59,040
+You get this elevated nodule here with a central area of ulceration here,
+
+81
+00:03:59,040 --> 00:04:04,560
+and it's surrounded by all of these dilated blood vessels which are called telangiectasias.
+
+82
+00:04:04,560 --> 00:04:08,760
+And so this is the classic appearance of basal cell carcinoma.
+
+83
+00:04:08,760 --> 00:04:11,240
+It's also important to note for the purposes of board exams
+
+84
+00:04:11,240 --> 00:04:16,080
+that one of the classic locations that basal cell carcinoma can arise in is the upper lip.
+
+85
+00:04:16,080 --> 00:04:20,480
+They like you to know that basal cell carcinoma arises on the upper lip.
+
+86
+00:04:20,480 --> 00:04:23,280
+Here's a picture of basal cell carcinoma on histology.
+
+87
+00:04:23,280 --> 00:04:25,480
+Now you get these nodules here.
+
+88
+00:04:25,480 --> 00:04:27,200
+This whole thing represents tumor.
+
+89
+00:04:27,200 --> 00:04:29,080
+There's also tumor here and here.
+
+90
+00:04:29,080 --> 00:04:34,600
+You get these nodules of basal cells which are characterized by peripheral palisading.
+
+91
+00:04:34,600 --> 00:04:40,080
+Now when you say the word palisading, what you mean is that the cells are lining up against some space.
+
+92
+00:04:40,080 --> 00:04:45,920
+So can you notice here that this particular layer of cells looks a little bit darker than the rest of the cells?
+
+93
+00:04:45,920 --> 00:04:51,720
+And that's because this layer is lining up against the edge, and that's called peripheral palisading.
+
+94
+00:04:51,720 --> 00:04:55,920
+And that's a classic finding on histology of basal cell carcinoma.
+
+95
+00:04:55,920 --> 00:05:00,920
+The treatment for basal cell carcinoma is surgical excision, and it very rarely metastasizes.
+
+96
+00:05:00,920 --> 00:05:03,760
+It has an excellent prognosis.
+
+97
+00:05:03,760 --> 00:05:07,760
+Squamous cell carcinoma is a malignant proliferation of squamous cells.
+
+98
+00:05:07,760 --> 00:05:15,760
+The risk factors are all based on exposure to UVB sunlight, which can then induce DNA damage by forming pyrimidine dimers.
+
+99
+00:05:15,760 --> 00:05:26,760
+So of course, exposure to sunlight would be a risk factor, albinism would be a risk factor, and zero dermapigmentosin when you don't have the enzymes necessary to repair those pyrimidine dimers.
+
+100
+00:05:26,760 --> 00:05:32,920
+Additional risk factors for squamous cell carcinoma are very high yield for the board exam, so I threw them in here.
+
+101
+00:05:32,920 --> 00:05:35,400
+The first is immunosuppressive therapy.
+
+102
+00:05:35,400 --> 00:05:39,520
+If you have a patient that receives a transplant and you put them on immunosuppressive therapy,
+
+103
+00:05:39,520 --> 00:05:44,320
+the most common cancer that would then develop in that patient would be squamous cell carcinoma.
+
+104
+00:05:44,320 --> 00:05:45,200
+That's high yield.
+
+105
+00:05:45,200 --> 00:05:49,560
+Arsenic poisoning also increases the risk for squamous cell carcinoma of the skin.
+
+106
+00:05:49,560 --> 00:05:56,000
+We've already talked about that, and chronic inflammation can also increase the risk for squamous cell carcinoma of the skin.
+
+107
+00:05:56,000 --> 00:06:04,520
+For example, if there's a scar from a burn or there's a draining sinus tract, these can also increase the risk of squamous cell carcinoma of the skin.
+
+108
+00:06:04,520 --> 00:06:12,400
+Squamous cell carcinoma presents as an ulcerated nodular mass, usually on the face and classically involving the lower lip.
+
+109
+00:06:12,400 --> 00:06:21,160
+Now remember that the upper lip is involved by basal cell carcinoma classically, and the lower lip is involved by squamous cell carcinoma classically.
+
+110
+00:06:21,160 --> 00:06:28,400
+And I don't know, one of the students told me that he hates memorizing things and that this is a bunch of BS, so BS on top and bottom.
+
+111
+00:06:28,400 --> 00:06:33,160
+But anyway, basal cell on the upper lip and squamous cell carcinoma on the lower lip.
+
+112
+00:06:33,160 --> 00:06:37,000
+The treatment is excision, and metastasis would be uncommon.
+
+113
+00:06:37,000 --> 00:06:38,760
+It has an excellent prognosis.
+
+114
+00:06:38,760 --> 00:06:43,760
+Actinic keratosis is a precursor to squamous cell carcinoma.
+
+115
+00:06:43,760 --> 00:06:53,760
+It presents as a hyperkeratotic scaly plaque, so you have extra keratin, that's why it's called actinic keratosis, usually on the face, back, or neck.
+
+116
+00:06:53,760 --> 00:07:01,760
+And it's a precursor to squamous cell carcinoma, and it usually doesn't, but it can progress to the development of squamous cell carcinoma.
+
+117
+00:07:01,760 --> 00:07:05,760
+So really I would say that this is a dysplasia of the squamous cells.
+
+118
+00:07:05,760 --> 00:07:11,760
+Keratoacanthoma is a very well differentiated squamous cell carcinoma.
+
+119
+00:07:11,760 --> 00:07:16,760
+Now what you need to know for the purposes of board exams is that this tumor develops very rapidly,
+
+120
+00:07:16,760 --> 00:07:22,760
+basically within a period of weeks, and then regresses just as quickly, so also within weeks.
+
+121
+00:07:22,760 --> 00:07:27,760
+And it presents as a cup-shaped tumor with keratin debris in the center.
+
+122
+00:07:27,760 --> 00:07:35,760
+So if this is the surface of the skin, you would see this tumor that looks like this with all this keratin debris in the center.
+
+123
+00:07:35,760 --> 00:07:38,760
+And again, that's a keratoacanthoma.
+
+124
+00:07:38,760 --> 00:07:41,760
+And that concludes our discussion of epithelial tumors.
+
+125
+00:07:41,760 --> 00:07:42,760
+.
+

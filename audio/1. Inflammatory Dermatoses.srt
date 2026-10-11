@@ -1,0 +1,664 @@
+1
+00:00:00,000 --> 00:00:18,900
+Okay, welcome to the chapter on skin pathology. This is the last chapter in the text. It is a relatively lower yield topic. I do recognize that, especially for the purposes of board examinations. However, I would like you to realize that within this quote-unquote low yield topic, there are some high yields that you do need to be aware of.
+
+2
+00:00:18,900 --> 00:00:39,260
+And so really, the purpose of our discussion will be to focus on those high yields. Before we begin, however, we should remind ourselves that the skin is a barrier. And of course, it's a barrier against the outside world and the environmental insults that are present in the outside world. And it's also a barrier against the loss of fluid. And so these are some of the primary functions in the skin.
+
+3
+00:00:39,260 --> 00:00:48,800
+Now, before you can understand the disorders that we're going to discuss, you do need to know some of the normal histology of the skin. So let's remind ourselves that this is the basement membrane.
+
+4
+00:00:48,800 --> 00:01:03,580
+The basement membrane separates the epidermis from the underlying dermis. Now, the key cell that makes up the epidermis is the keratinocyte. And the keratinocytes within the epidermis are actually organized in multiple layers.
+
+5
+00:01:03,580 --> 00:01:14,680
+And these layers all have names and they have certain characteristics. So the first layer and the layer that's up against the basement membrane is called the stratum fasalis, also known as the basal layer.
+
+6
+00:01:14,680 --> 00:01:25,180
+And the most important thing for the purposes of exams is that the basal layer is the stem cell layer. It is the layer that regenerates new epidermis. And that's particularly high yield.
+
+7
+00:01:25,180 --> 00:01:38,280
+The layer above that is called the stratum spinosum, also called the spinal layer. And the reason it's called the stratum spinosum is that these cells present in this layer are actually connected by these things called desmosomes.
+
+8
+00:01:38,280 --> 00:01:48,280
+So you have desmosomes which tightly connect the cells together. So again, desmosome in the cytoplasm, another desmosome in the cytoplasm, and that sort of then tightly connects these cells together.
+
+9
+00:01:48,280 --> 00:01:58,380
+Now, when the cells get slightly separated apart, you can actually see little strands of cytoplasm between the cells, which represent these bridges between the cells.
+
+10
+00:01:58,380 --> 00:02:14,380
+And basically what they're highlighting is the fact that underlying those connections are desmosomes. And so because you can see these little connections or lines between the cells, they look like spines or little spinous processes of the cytoplasm.
+
+11
+00:02:14,380 --> 00:02:21,380
+So we call that the stratum spinosum. And again, the highlight of the stratum spinosum is that you've got desmosomes between the keratinocytes.
+
+12
+00:02:21,380 --> 00:02:33,380
+Now, as you go up a little further, you begin to see little granules within the cytoplasm. And so they call that the stratum granulosum. And that's because you've got granules in the keratinocytes.
+
+13
+00:02:33,380 --> 00:02:43,380
+And of course, the very top of the skin would have keratin in anucleate cells, and that's called a stratum corneum. And so again, these are the few layers to be aware of.
+
+14
+00:02:43,380 --> 00:02:54,380
+Now, also, you've got to remember that underlying the epidermis is the dermis. And the dermis contains connective tissue, blood vessels, and that's particularly high yield.
+
+15
+00:02:54,380 --> 00:03:04,380
+The blood vessels come up into the dermis. Remember that there are no blood vessels in the epidermis. They're all in the dermis. And also within the dermis, you've got these adnexal structures.
+
+16
+00:03:04,380 --> 00:03:11,380
+For example, the hair shafts are in the dermis, the sweat glands are in the dermis, the sebaceous glands are in the dermis, etc.
+
+17
+00:03:11,380 --> 00:03:17,380
+And so these are some of the basic principles to be aware of. Now, I will review this as we go along and talk about individual diseases,
+
+18
+00:03:17,380 --> 00:03:22,380
+but I wanted to plant this basic understanding in your mind before we move forward.
+
+19
+00:03:22,380 --> 00:03:29,380
+Now, let's review this using histology. So this would be the dermis. This would be the epidermis made up of keratinocytes.
+
+20
+00:03:29,380 --> 00:03:37,380
+And of course, they're separated by a basement membrane. Now, remember that the layer of cells that's right up against the basement membrane is the basal layer,
+
+21
+00:03:37,380 --> 00:03:44,380
+or the stratum basalis. And then above that, you've got the spinal layer. Now, can you look here and notice that there's a connection,
+
+22
+00:03:44,380 --> 00:03:54,380
+these little lines in between the cells, and that represents the spinous processes. Of course, that's because you've got desmosomes connecting the cytoplasm here and here.
+
+23
+00:03:54,380 --> 00:04:00,380
+And so you're seeing these little connections as the cells get pulled apart a little bit. So again, this would be the spinal layer.
+
+24
+00:04:00,380 --> 00:04:09,380
+Above that, you can see that there are these little purple granules within the cells. And so this is this granular layer or the stratum granulosum.
+
+25
+00:04:09,380 --> 00:04:16,380
+And then finally, you've got this pink keratin present in anucleate cells. And again, that's called the stratum corneum.
+
+26
+00:04:16,380 --> 00:04:23,380
+The first category of disorders that we're going to discuss are the inflammatory dermatoses. And the first of these is atopic dermatitis.
+
+27
+00:04:23,380 --> 00:04:30,380
+The dermatitis implies that we've got inflammation of the skin. And basically, this results in a pyritic, i.e. itchy,
+
+28
+00:04:30,380 --> 00:04:38,380
+erythematous, oozing rash, with vesicles and edema. This is also known as eczema. And when you see a patient with eczema,
+
+29
+00:04:38,380 --> 00:04:44,380
+you know that it looks red, it itches, it's a little bit wet because it's edematous. And if you look very carefully,
+
+30
+00:04:44,380 --> 00:04:51,380
+you can see these tiny vesicles. So that's atopic dermatitis. It classically involves the face and the flexor surfaces.
+
+31
+00:04:51,380 --> 00:04:58,380
+And you often see it in patients with asthma and allergic rhinitis. And these are also atopic types of reactions as well.
+
+32
+00:04:58,380 --> 00:05:06,380
+And so our understanding is that it is also a type I hypersensitivity, just as asthma and allergic rhinitis are also a type I hypersensitivity
+
+33
+00:05:06,380 --> 00:05:12,380
+to environmental antigens. Contact dermatitis is very similar to atopic dermatitis.
+
+34
+00:05:12,380 --> 00:05:17,380
+Again, you have this pyritic erythematous oozing rash with vesicles and edema, so it looks like eczema.
+
+35
+00:05:17,380 --> 00:05:26,380
+However, it's due to exposure to an allergen. So it's not really associated with asthma and allergic rhinitis, and it's not a type I hypersensitivity.
+
+36
+00:05:26,380 --> 00:05:34,380
+Instead, there's a substance that contacts the skin, hence the term contact, which then results in the inflammatory process.
+
+37
+00:05:34,380 --> 00:05:41,380
+Now this is classically associated with irritants. And so in contact dermatitis, you ask the question, what's the direct irritant?
+
+38
+00:05:41,380 --> 00:05:49,380
+So for example, it could be poison ivy or nickel that's present in jewelry. Now the example here would be that the patient would purchase a watch,
+
+39
+00:05:49,380 --> 00:05:54,380
+they place the watch on their wrist, and then they develop a little rash underneath the base of the watch.
+
+40
+00:05:54,380 --> 00:06:00,380
+And that's because there can be nickel, for example, in the metal that's used to cover the backside of the watch.
+
+41
+00:06:00,380 --> 00:06:06,380
+And so that would result in a type IV hypersensitivity. And also poison ivy is another example of contact dermatitis,
+
+42
+00:06:06,380 --> 00:06:12,380
+and it too is a type IV hypersensitivity. Now irritant chemicals can also do this.
+
+43
+00:06:12,380 --> 00:06:16,380
+For example, patients may use a detergent, and that may result in a contact dermatitis.
+
+44
+00:06:16,380 --> 00:06:24,380
+And then there are some drugs that can also result in a contact dermatitis. And one classic example would be penicillin.
+
+45
+00:06:24,380 --> 00:06:28,380
+Now the treatment of contact dermatitis would be to remove the offending agent.
+
+46
+00:06:28,380 --> 00:06:33,380
+And then you could use topical steroids because that would help to reduce the inflammatory response.
+
+47
+00:06:33,380 --> 00:06:39,380
+And topical steroids could be used both in contact dermatitis and also in atopic dermatitis.
+
+48
+00:06:39,380 --> 00:06:44,380
+The next disorder is acne vulgaris. We're all very well aware of acne.
+
+49
+00:06:44,380 --> 00:06:48,380
+It's extremely common, especially in adolescents. And it has a range of lesions.
+
+50
+00:06:48,380 --> 00:06:52,380
+For example, you can develop comedones, which are whiteheads and blackheads.
+
+51
+00:06:52,380 --> 00:06:55,380
+You can develop pustules, which we classically call as pimples.
+
+52
+00:06:55,380 --> 00:07:01,380
+And you can get severe scarring of those pimples, which would then result in nodules, especially in severe acne.
+
+53
+00:07:01,380 --> 00:07:07,380
+Now acne is actually due to chronic inflammation of the hair follicles and the sebaceous glands.
+
+54
+00:07:07,380 --> 00:07:11,380
+The way by which this occurs is that if this is the dermal-epidermal junction,
+
+55
+00:07:11,380 --> 00:07:15,380
+remember that within the dermis you've got hair shafts and hair follicles.
+
+56
+00:07:15,380 --> 00:07:19,380
+Associated with those hair shafts and hair follicles are sebaceous glands.
+
+57
+00:07:19,380 --> 00:07:21,380
+So let's label that with S.
+
+58
+00:07:21,380 --> 00:07:25,380
+Now what happens in adolescents, especially with the excess hormone related to adolescents,
+
+59
+00:07:25,380 --> 00:07:30,380
+is that you can get excess keratinization of the hair shaft.
+
+60
+00:07:30,380 --> 00:07:33,380
+Now, of course, the hair shaft is lined by keratinocytes.
+
+61
+00:07:33,380 --> 00:07:36,380
+And so you can get excess production of keratin by the hair shafts.
+
+62
+00:07:36,380 --> 00:07:40,380
+And at the same time, these sebaceous glands are responsive to hormones.
+
+63
+00:07:40,380 --> 00:07:45,380
+And so you can get excess production of sebum from these sebaceous glands.
+
+64
+00:07:45,380 --> 00:07:52,380
+Now with this block and excess production, what's going to happen is you're going to develop a collection of sebum,
+
+65
+00:07:52,380 --> 00:07:55,380
+which would then be called a whitehead or a blackhead.
+
+66
+00:07:55,380 --> 00:07:58,380
+Now, of course, this is a tube and you've blocked the tube.
+
+67
+00:07:58,380 --> 00:08:02,380
+And general principle in pathology that whenever you block a tube, you're going to increase your risk for infection.
+
+68
+00:08:02,380 --> 00:08:06,380
+So the infection that will come along is P. acnes.
+
+69
+00:08:06,380 --> 00:08:09,380
+And that's very high yield for the purposes of board exam.
+
+70
+00:08:09,380 --> 00:08:10,380
+Again, P. acnes.
+
+71
+00:08:10,380 --> 00:08:14,380
+And P. acnes infection will then result in production of lipases.
+
+72
+00:08:14,380 --> 00:08:17,380
+And the lipases will break down the sebum.
+
+73
+00:08:17,380 --> 00:08:19,380
+So the sebum will begin to break down.
+
+74
+00:08:19,380 --> 00:08:24,380
+And now when you break down the sebum, that's going to release pro-inflammatory fatty acids.
+
+75
+00:08:24,380 --> 00:08:28,380
+So you're going to get inflammation within this whitehead or blackhead.
+
+76
+00:08:28,380 --> 00:08:30,380
+And it's the inflammation that then leads to a pimple.
+
+77
+00:08:30,380 --> 00:08:33,380
+And if that pimple scars, to a nodule.
+
+78
+00:08:33,380 --> 00:08:36,380
+Now let's go back and just read what we say in the text.
+
+79
+00:08:36,380 --> 00:08:40,380
+So it's due to chronic inflammation of hair follicles and sebaceous glands.
+
+80
+00:08:40,380 --> 00:08:41,380
+I've explained that already.
+
+81
+00:08:41,380 --> 00:08:44,380
+You get a hormone-related increase in sebum, as I explained.
+
+82
+00:08:44,380 --> 00:08:51,380
+And you get excess keratin, which then blocks the hair follicles, which then results in comedones or whiteheads or blackheads.
+
+83
+00:08:51,380 --> 00:08:59,380
+And then you get a P. acnes, very high yield, P. acnes infection that leads to inflammation resulting in pustules or nodules.
+
+84
+00:08:59,380 --> 00:09:01,380
+Now the treatment is all based on this understanding.
+
+85
+00:09:01,380 --> 00:09:06,380
+And so, for example, you could use benzoyl peroxide as an antimicrobial agent.
+
+86
+00:09:06,380 --> 00:09:08,380
+And the goal is to knock out the P. acnes.
+
+87
+00:09:08,380 --> 00:09:11,380
+And when you knock out the P. acnes, you wouldn't get the inflammation.
+
+88
+00:09:11,380 --> 00:09:14,380
+In addition, you could use vitamin A derivatives.
+
+89
+00:09:14,380 --> 00:09:17,380
+So you know that for more severe acne, we use vitamin A derivatives.
+
+90
+00:09:17,380 --> 00:09:21,380
+And the idea is that the vitamin A derivatives will reduce keratin production.
+
+91
+00:09:21,380 --> 00:09:27,380
+Remember that one of the key functions of vitamin A is to maintain specialized epithelium in the body.
+
+92
+00:09:27,380 --> 00:09:30,380
+And so the hair follicle is one of those specialized epithelium.
+
+93
+00:09:30,380 --> 00:09:35,380
+So you want to make sure that there's good vitamin A so that you don't get that excess keratin production.
+
+94
+00:09:35,380 --> 00:09:40,380
+And so, again, vitamin A derivatives can also be used in the treatment of acne.
+
+95
+00:09:40,380 --> 00:09:42,380
+The next disorder is psoriasis.
+
+96
+00:09:42,380 --> 00:09:47,380
+It's characterized by well-circumscribed salmon-colored plaques with silvery scale,
+
+97
+00:09:47,380 --> 00:09:51,380
+usually arising on the extensor surfaces and the scalp.
+
+98
+00:09:51,380 --> 00:09:55,380
+It can also involve the nails, and that can result in pitting of the nails.
+
+99
+00:09:55,380 --> 00:09:57,380
+Here's a classic picture of psoriasis.
+
+100
+00:09:57,380 --> 00:10:03,380
+You can see these well-circumscribed salmon-colored plaques with all of this silvery scale.
+
+101
+00:10:03,380 --> 00:10:08,380
+And, of course, this is occurring on the surface of the knee, which would be an extensor surface.
+
+102
+00:10:08,380 --> 00:10:12,380
+Psoriasis is due to excessive keratinocyte proliferation.
+
+103
+00:10:12,380 --> 00:10:15,380
+We don't know what causes it, but it's possibly autoimmune.
+
+104
+00:10:15,380 --> 00:10:23,380
+And recall that whenever you have an autoimmune disorder, you're looking for an environmental trigger in a genetically susceptible individual.
+
+105
+00:10:23,380 --> 00:10:29,380
+And so the environmental trigger is thought to be trauma because it classically arises in areas of trauma.
+
+106
+00:10:29,380 --> 00:10:34,380
+And the genetic susceptibility is that there is an association with HLAC.
+
+107
+00:10:34,380 --> 00:10:38,380
+Here's the classic histology from a patient with psoriasis.
+
+108
+00:10:38,380 --> 00:10:42,380
+And, of course, remember that psoriasis is due to excessive keratinocyte proliferation.
+
+109
+00:10:42,380 --> 00:10:48,380
+So, one key finding will be that you'll have hyperplasia with an increased thickness of the epidermis.
+
+110
+00:10:48,380 --> 00:10:50,380
+And we call that acanthosis.
+
+111
+00:10:50,380 --> 00:10:56,380
+The second finding will be that you'll have all this excessive keratin on the top of the epidermis.
+
+112
+00:10:56,380 --> 00:11:00,380
+Now, of course, that's what results in the silvery scale that you see clinically.
+
+113
+00:11:00,380 --> 00:11:05,380
+And, in addition, notice that there are nuclei, all these blue dots within that keratin.
+
+114
+00:11:05,380 --> 00:11:12,380
+And so we call that parakeratosis, which is hyperkeratosis, excess keratin, with retention of nuclei.
+
+115
+00:11:12,380 --> 00:11:15,380
+So, again, you'll see parakeratosis, which explains the silvery scale.
+
+116
+00:11:15,380 --> 00:11:21,380
+Now, if I showed you a little higher power, you would see collections of neutrophils within this stratum corneum.
+
+117
+00:11:21,380 --> 00:11:25,380
+And those collections of neutrophils are called Monroe microabscesses.
+
+118
+00:11:25,380 --> 00:11:30,380
+And, finally, you'll get elongation of the dermal papillae.
+
+119
+00:11:30,380 --> 00:11:35,380
+Now, notice that these are the dermal papillae here and here, and they are elongated.
+
+120
+00:11:35,380 --> 00:11:41,380
+In addition, the epidermis above the elongated papillae is thin, and that's particularly important.
+
+121
+00:11:41,380 --> 00:11:42,380
+Now, why is that so important?
+
+122
+00:11:42,380 --> 00:11:48,380
+Because if you were to pull away the silvery scale above these dermal papillae,
+
+123
+00:11:48,380 --> 00:11:53,380
+because this epidermis is so thin, you would actually get exposure of the blood vessels.
+
+124
+00:11:53,380 --> 00:11:56,380
+Remember, the blood vessels normally run in the dermal papillae.
+
+125
+00:11:56,380 --> 00:12:02,380
+So you would get exposure of the blood vessels with a pinpoint bleed above the area that you remove the silvery scale.
+
+126
+00:12:02,380 --> 00:12:05,380
+And that's very high yield. That's called auspitz sign.
+
+127
+00:12:05,380 --> 00:12:12,380
+I.e., when you take the silvery scale and peel it away, you'll see pinpoint bleeds underneath the silvery scale.
+
+128
+00:12:12,380 --> 00:12:18,380
+And that's because you've exposed the tiny blood vessels running within the dermal papillae.
+
+129
+00:12:18,380 --> 00:12:21,380
+The treatment of psoriasis is based on two principles.
+
+130
+00:12:21,380 --> 00:12:27,380
+The first principle is our understanding that it's likely autoimmune, and so if it's likely autoimmune,
+
+131
+00:12:27,380 --> 00:12:32,380
+corticosteroids and immune modulating therapy would help to reduce the severity of the disease.
+
+132
+00:12:32,380 --> 00:12:37,380
+In addition, because we know that it's due to excessive keratinocyte proliferation,
+
+133
+00:12:37,380 --> 00:12:43,380
+we could try to damage the keratinocytes as they're proliferating so that they can't create the disease.
+
+134
+00:12:43,380 --> 00:12:48,380
+And one way to do that would be to hit them with UV light, in particular UVA light.
+
+135
+00:12:48,380 --> 00:12:53,380
+Now when you hit them with UVA light, that will then disrupt the cells from proliferating,
+
+136
+00:12:53,380 --> 00:12:57,380
+because it will damage the cells, and so therefore you'd reduce the severity of the disease.
+
+137
+00:12:57,380 --> 00:13:02,380
+Now one thing you can do to increase the absorption of the UVA light is to give a drug called sorolin,
+
+138
+00:13:02,380 --> 00:13:06,380
+and this entire combination is called PUVA, P-U-V-A.
+
+139
+00:13:06,380 --> 00:13:09,380
+Again, UVA plus sorolin.
+
+140
+00:13:09,380 --> 00:13:12,380
+And so these are the hallmarks of treating psoriasis.
+
+141
+00:13:12,380 --> 00:13:15,380
+The last disorder in this section is lichen planus.
+
+142
+00:13:15,380 --> 00:13:18,380
+This is the one that's associated with all the P's.
+
+143
+00:13:18,380 --> 00:13:25,380
+It's pruritic or itchy, planar in that it's flat on the surface, polygonal in shape, purple or violet in color,
+
+144
+00:13:25,380 --> 00:13:27,380
+and it's a raised papule.
+
+145
+00:13:27,380 --> 00:13:32,380
+And so again, these are the P's that are associated with lichen planus.
+
+146
+00:13:32,380 --> 00:13:37,380
+It commonly involves the wrists, the elbows, and the oral mucosa.
+
+147
+00:13:37,380 --> 00:13:43,380
+And particularly when it involves the oral mucosa, you can often see these reticular white lines on the surface,
+
+148
+00:13:43,380 --> 00:13:45,380
+which are called Wickham striae.
+
+149
+00:13:45,380 --> 00:13:46,380
+Here's a picture of lichen planus.
+
+150
+00:13:46,380 --> 00:13:48,380
+Notice that it's got some of these P's.
+
+151
+00:13:48,380 --> 00:13:50,380
+It's polygonal in shape.
+
+152
+00:13:50,380 --> 00:13:51,380
+It's purple.
+
+153
+00:13:51,380 --> 00:13:52,380
+It's a papule.
+
+154
+00:13:52,380 --> 00:13:55,380
+It would be planar or flat on its surface.
+
+155
+00:13:55,380 --> 00:13:59,380
+And so again, these are the classic P's associated with lichen planus.
+
+156
+00:13:59,380 --> 00:14:02,380
+Here's the classic histology of lichen planus.
+
+157
+00:14:02,380 --> 00:14:06,380
+And the key finding is that you get inflammation at the dermal-epidermal junction.
+
+158
+00:14:06,380 --> 00:14:07,380
+Here's the epidermis.
+
+159
+00:14:07,380 --> 00:14:08,380
+Here's the dermis.
+
+160
+00:14:08,380 --> 00:14:14,380
+And notice that you've got all these little blue inflammatory cells present at the dermal-epidermal junction.
+
+161
+00:14:14,380 --> 00:14:17,380
+Now when you get damage to the dermal-epidermal junction,
+
+162
+00:14:17,380 --> 00:14:22,380
+then one of the things that happens is you get a sawtooth appearance to the dermal-epidermal junction.
+
+163
+00:14:22,380 --> 00:14:28,380
+And that's particularly high yield, a sawtooth appearance at the dermal-epidermal junction.
+
+164
+00:14:28,380 --> 00:14:30,380
+The etiology of lichen planus is unknown.
+
+165
+00:14:30,380 --> 00:14:35,380
+However, particularly high yield, it is associated with chronic hepatitis C virus.
+
+166
+00:14:35,380 --> 00:14:37,380
+And that concludes this section.
+
