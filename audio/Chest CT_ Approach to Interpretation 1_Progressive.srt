@@ -1,0 +1,668 @@
+1
+00:00:05,940 --> 00:00:11,740
+This is the first part of a two-part module covering an approach to the interpretation of chest CT.
+
+2
+00:00:13,280 --> 00:00:21,500
+Following completion of both modules, you should be able to employ a systematic search pattern for interpreting chest CTs.
+
+3
+00:00:22,300 --> 00:00:27,380
+It is important to have a thorough and systematic approach to interpreting a chest CT.
+
+4
+00:00:27,380 --> 00:00:43,520
+This includes evaluation of the lymph nodes, the mediastinal structures, including the heart and pericardium, the pleura, the lungs and airways, including the trachea and major central airways, and finally, the bones and body wall.
+
+5
+00:00:46,230 --> 00:00:51,710
+This module will cover assessment of the lymph nodes and mediastinum, including the heart and pericardium.
+
+6
+00:00:52,350 --> 00:00:57,930
+An example, normal dictation with pertinent negatives may read like this.
+
+7
+00:00:57,930 --> 00:01:10,510
+There are no enlarged or suspicious intrathoracic, axillary, or image supraclavicular lymph nodes, no abnormal mediastinal mass, normal heart size without pericardial effusion or thickening.
+
+8
+00:01:13,260 --> 00:01:24,840
+Lymph node evaluation includes not only evaluation of the intrathoracic lymph nodes, but also the lymph nodes outside the thorax, within the axilla and the imaged lower neck.
+
+9
+00:01:24,840 --> 00:01:35,740
+Remember, as you look for lymph nodes, you need to assess not only the lymph node size, but also for abnormalities in morphology, attenuation, and enhancement.
+
+10
+00:01:35,740 --> 00:01:46,700
+Evaluation of intrathoracic lymph nodes includes assessment of the hylar lymph nodes bilaterally, as well as the mediastinal lymph nodes.
+
+11
+00:01:47,320 --> 00:01:51,840
+For example, the image on the left shows an enlarged right hylar lymph node.
+
+12
+00:01:52,580 --> 00:01:57,420
+The image on the right shows an enlarged subchorinal lymph node.
+
+13
+00:01:57,420 --> 00:02:08,080
+Please review the nomenclature on mediastinal lymph nodes from our prior CT chest anatomy modules, and review your Anki note cards.
+
+14
+00:02:10,650 --> 00:02:15,430
+One location in which lymphadenopathy is often missed is the internal mammary station.
+
+15
+00:02:16,270 --> 00:02:20,190
+Remember that the internal mammary vessels run along both sides of the sternum.
+
+16
+00:02:20,190 --> 00:02:25,290
+Typically, there should be no identifiable lymph nodes along these vessels.
+
+17
+00:02:26,050 --> 00:02:32,570
+However, in the example shown here, you can identify an enlarged right internal mammary lymph node.
+
+18
+00:02:34,940 --> 00:02:45,700
+Extrathoracic lymph nodes include axillary and subpectoral lymph nodes, as well as nodes in the imaged lower neck, above the capical, and along the scalene muscles.
+
+19
+00:02:45,700 --> 00:02:54,100
+The image on the right shows an enlarged supraclavicular lymph node with extension at and below the level of the left clavicle.
+
+20
+00:02:54,680 --> 00:02:59,880
+The image on the left shows an enlarged right axillary lymph node.
+
+21
+00:03:01,960 --> 00:03:09,840
+Remember that lymph nodes can be abnormal in both size and morphology, as well as enhancement and attenuation.
+
+22
+00:03:09,840 --> 00:03:22,640
+The general rule of thumb for size of lymph nodes, although there are exceptions to this rule, is about one centimeter in short axis dimension, so anything more than this you may consider suspicious.
+
+23
+00:03:23,320 --> 00:03:28,580
+These are two examples of abnormal lymph nodes, both in terms of their size and attenuation.
+
+24
+00:03:28,580 --> 00:03:44,840
+The image on the left shows a heterogeneous mediastinal lymph node with necrosis, while the image on the right shows a right paratracheal lymph node with thick peripheral calcification.
+
+25
+00:03:47,100 --> 00:03:53,340
+I typically do my search of intrathoracic lymph nodes as part of a comprehensive evaluation of the mediastinum.
+
+26
+00:03:53,340 --> 00:04:03,260
+This search pattern includes assessment of overall mediastinal attenuation, including a search for the presence of gas.
+
+27
+00:04:04,620 --> 00:04:12,600
+Evaluation of masses that should not be present, as well as those that should be present, including assessment of the vessels and heart.
+
+28
+00:04:13,920 --> 00:04:22,420
+Evaluation of the vascular structures should include an assessment of the size of the vessel or heart chamber.
+
+29
+00:04:22,420 --> 00:04:29,920
+The contour, the contour, patency, and evaluation for possible filling defects within these structures.
+
+30
+00:04:31,500 --> 00:04:35,640
+This is an example of abnormal attenuation of the mediastinum.
+
+31
+00:04:36,300 --> 00:04:41,220
+Specifically, there is gas scattered throughout the mediastinum, shown here.
+
+32
+00:04:41,720 --> 00:04:43,620
+This is termed pneumomediastinum.
+
+33
+00:04:44,380 --> 00:04:52,080
+Note also that this gas extends outside the thorax into the chest wall bilaterally, including in the left chest wall, as shown here.
+
+34
+00:04:52,420 --> 00:05:01,880
+I typically make three passes through the mediastinum, evaluating each individual compartment with each pass.
+
+35
+00:05:02,560 --> 00:05:07,340
+Take a minute to review the compartmental model of the mediastinum that was described in a previous module.
+
+36
+00:05:09,240 --> 00:05:16,060
+Identifying the compartment in which a mass arises within the mediastinum can aid in differential diagnosis.
+
+37
+00:05:16,060 --> 00:05:23,100
+Anterior mediastinal masses should displace middle mediastinal structures posteriorly.
+
+38
+00:05:23,440 --> 00:05:25,080
+Here are two examples.
+
+39
+00:05:25,720 --> 00:05:33,500
+The image on the left shows a thymoma displacing the great vessels posteriorly.
+
+40
+00:05:34,340 --> 00:05:45,480
+The image in the middle and on the right shows a thyroid mass extending into the mediastinum from the lower neck.
+
+41
+00:05:45,480 --> 00:05:53,180
+Note that there is displacement of the middle mediastinal structures on the axial image.
+
+42
+00:05:53,880 --> 00:05:57,800
+The coronal image nicely shows the tracheal deviation as well.
+
+43
+00:06:00,410 --> 00:06:10,650
+Middle mediastinal masses should displace posterior mediastinal structures posteriorly and anterior mediastinal structures anteriorly.
+
+44
+00:06:10,650 --> 00:06:15,110
+In addition, they may surround middle mediastinal structures.
+
+45
+00:06:15,670 --> 00:06:17,010
+Examples are shown here.
+
+46
+00:06:17,650 --> 00:06:31,010
+On the image on the left, there is a mass which displaces the superior vena cava anteriorly as well as the esophagus, which is a posterior mediastinal structure, posteriorly.
+
+47
+00:06:31,010 --> 00:06:41,630
+The image on the right shows an infiltrative mass surrounding a middle mediastinal structure, specifically the left pulmonary artery.
+
+48
+00:06:42,230 --> 00:06:50,950
+The mass is located anterior to the descending thoracic aorta, which is a posterior mediastinal structure.
+
+49
+00:06:50,950 --> 00:07:04,110
+Posterior mediastinal masses may be located posterior to a posterior mediastinal structure and or displace a middle mediastinal structure anteriorly.
+
+50
+00:07:04,110 --> 00:07:20,990
+The image on the left shows a mass in the left posterior mediastinum, which can be localized by realizing that this mass lies posterior to the descending thoracic aorta, which itself is a posterior mediastinal structure.
+
+51
+00:07:20,990 --> 00:07:25,050
+The image on the right shows a dilated esophagus.
+
+52
+00:07:25,270 --> 00:07:28,170
+Remember that the esophagus is in the posterior mediastinum.
+
+53
+00:07:28,730 --> 00:07:38,290
+Note that the posterior mediastinal mass, in this case the dilated esophagus, displaces the right-sided airways anteriorly.
+
+54
+00:07:38,390 --> 00:07:42,490
+And remember that the airways are a middle mediastinal structure.
+
+55
+00:07:42,490 --> 00:07:54,120
+In addition to searching for mediastinal masses that shouldn't be present, you need to search for abnormalities of normal mediastinal structures, including the vessels.
+
+56
+00:07:54,960 --> 00:08:03,000
+This search should include assessment of the size, patency, and contour of the vessel, as well as for intraluminal filling defects.
+
+57
+00:08:03,600 --> 00:08:10,120
+The image on the left shows enlargement of the descending thoracic aorta, consistent with an aortic aneurysm.
+
+58
+00:08:10,760 --> 00:08:12,860
+So this is an abnormality in vessel size.
+
+59
+00:08:12,860 --> 00:08:28,580
+The image on the right shows a small filling defect and contour abnormality of the proximal descending thoracic aorta, consistent with a pseudoaneurysm, secondary to blunt abdominal trauma.
+
+60
+00:08:28,580 --> 00:08:47,280
+Types of filling defects that you may encounter include aethylosclerotic plaque, both calcified and non-calcified, thrombus, embolus, or an intomomedial flap in an aortic dissection, as shown here.
+
+61
+00:08:47,280 --> 00:08:59,440
+The image on the left shows an aortic dissection involving both the ascending and descending thoracic aorta, as shown here.
+
+62
+00:08:59,960 --> 00:09:07,940
+Any involvement of the ascending aorta is considered a type A aortic dissection and is a surgical case.
+
+63
+00:09:07,940 --> 00:09:15,080
+Notice here how that intomomedial flap shows up as a curvy linear filling defect within the aortic lumen.
+
+64
+00:09:15,580 --> 00:09:20,360
+The image on the right shows a type B aortic dissection.
+
+65
+00:09:21,040 --> 00:09:27,180
+In other words, this dissection involves the descending thoracic aorta only.
+
+66
+00:09:27,380 --> 00:09:31,360
+There is no involvement of the ascending thoracic aorta.
+
+67
+00:09:31,360 --> 00:09:39,140
+This is an example of an intomomedial flap, which creates a filling defect within the arterial lumen.
+
+68
+00:09:40,380 --> 00:09:45,320
+Another example of a vascular filling defect is shown here, that is, an embolus.
+
+69
+00:09:46,020 --> 00:09:52,620
+These are examples of pulmonary emboli at different levels within the pulmonary arterial bed.
+
+70
+00:09:52,620 --> 00:10:01,820
+The image on the left shows a filling defect from an embolus in the distal left pulmonary artery.
+
+71
+00:10:02,240 --> 00:10:08,560
+The image in the middle shows a thin filling defect at the bifurcation of the main pulmonary artery,
+
+72
+00:10:08,640 --> 00:10:12,320
+with a larger filling defect more distally in the right pulmonary artery.
+
+73
+00:10:12,320 --> 00:10:28,020
+The image on the right shows a central thrombus within the segmental and subsegmental branches of the right lower lobe pulmonary arterial bed.
+
+74
+00:10:35,620 --> 00:10:39,560
+This is a case of achalasia with marked esophageal dilatation.
+
+75
+00:10:40,200 --> 00:10:45,740
+Note that there is anterior displacement of the trachea, which is a middle mediastinal structure.
+
+76
+00:10:45,740 --> 00:10:53,320
+So this is a dilated esophagus, and remember that the esophagus is located in the posterior mediastinum.
+
+77
+00:10:55,920 --> 00:11:00,520
+When evaluating the heart, it is important to assess globally for heart size,
+
+78
+00:11:00,580 --> 00:11:03,900
+that is, for overall enlargement or overall cardiomegaly,
+
+79
+00:11:04,480 --> 00:11:08,760
+in addition to evaluating for specific chamber enlargement.
+
+80
+00:11:09,400 --> 00:11:14,760
+You need to assess the chamber contours, as well as for intraluminal filling defects.
+
+81
+00:11:14,760 --> 00:11:20,240
+And then finally, you want to evaluate for calcifications in and around the heart,
+
+82
+00:11:20,480 --> 00:11:27,080
+including calcifications in the coronary artery, the valve leaflets and annulus, as well as the myocardium.
+
+83
+00:11:28,260 --> 00:11:34,260
+Here are some common examples of chamber enlargement that you will see in clinical practice.
+
+84
+00:11:34,260 --> 00:11:40,420
+The image on the left shows overall heart enlargement, consistent with global cardiomegaly.
+
+85
+00:11:41,340 --> 00:11:45,500
+The middle image shows enlargement of the left atrium.
+
+86
+00:11:46,360 --> 00:11:49,700
+One rule of thumb is anything more than 4 centimeters.
+
+87
+00:11:51,140 --> 00:11:58,920
+In terms of the anteroposterior length or thickness of the left atrium,
+
+88
+00:11:58,920 --> 00:12:03,040
+on an axial image should be considered potentially enlarged.
+
+89
+00:12:03,240 --> 00:12:08,300
+Also, note here that there is enlargement of the left atrial appendage.
+
+90
+00:12:09,100 --> 00:12:14,920
+The image on the right shows right heart strain from an acute pulmonary embolus,
+
+91
+00:12:15,760 --> 00:12:18,340
+resulting in enlargement of the right ventricle,
+
+92
+00:12:18,820 --> 00:12:21,980
+such that the right ventricle, as shown here,
+
+93
+00:12:21,980 --> 00:12:27,520
+is actually larger than the left ventricle, secondary to the increased pressure.
+
+94
+00:12:27,700 --> 00:12:30,880
+So the RV to LV ratio is greater than 1.
+
+95
+00:12:33,350 --> 00:12:38,710
+Shown here are examples of a filling defect within the cardiac chambers.
+
+96
+00:12:39,630 --> 00:12:47,110
+Secondary to thrombus, the image on the left shows a small thrombus at the left ventricular apex,
+
+97
+00:12:47,110 --> 00:12:53,030
+while the image on the right shows a filling defect from thrombus in the right heart.
+
+98
+00:12:55,250 --> 00:13:00,910
+Calcifications involving the heart and its associated structures include coronary artery calcification,
+
+99
+00:13:01,590 --> 00:13:02,490
+as shown here.
+
+100
+00:13:03,750 --> 00:13:11,130
+Calcification of the aortic valves can include both calcification of the valve leaflets,
+
+101
+00:13:11,510 --> 00:13:12,930
+as shown on the aortic valve,
+
+102
+00:13:12,930 --> 00:13:18,990
+as well as the valve annulus, as shown here, involving the mitral valve.
+
+103
+00:13:21,260 --> 00:13:25,340
+Your search should also include evaluation of the pericardium.
+
+104
+00:13:25,940 --> 00:13:30,200
+Specifically, you should assess for pericardial thickening or mass,
+
+105
+00:13:30,720 --> 00:13:35,800
+as well as for the accumulation of material within the pericardial space itself.
+
+106
+00:13:36,360 --> 00:13:39,500
+This includes fluid, termed a pericardial effusion.
+
+107
+00:13:39,500 --> 00:13:45,200
+Remember that effusions can be both simple or complex, depending on their etiology.
+
+108
+00:13:47,000 --> 00:13:50,240
+Gas can also accumulate within the pericardial space,
+
+109
+00:13:50,720 --> 00:13:52,940
+and that's termed pneumopericardium.
+
+110
+00:13:54,900 --> 00:13:56,680
+In the example shown here,
+
+111
+00:13:57,260 --> 00:14:02,120
+note the gas attenuation surrounding the heart in the pericardial space.
+
+112
+00:14:02,500 --> 00:14:05,100
+This is the heart itself on lung windows.
+
+113
+00:14:05,100 --> 00:14:10,620
+Notice the gas in the pericardial cavity that surrounds the heart.
+
+114
+00:14:10,940 --> 00:14:12,360
+This is pneumopericardium.
+
+115
+00:14:13,460 --> 00:14:20,240
+This is a coronal CT illustrating fluid accumulating within the pericardial space.
+
+116
+00:14:20,400 --> 00:14:22,220
+That is a pericardial effusion.
+
+117
+00:14:23,000 --> 00:14:28,140
+Note that the pericardium does extend up to the level of the great vessels,
+
+118
+00:14:28,260 --> 00:14:29,880
+and this can sometimes be confusing,
+
+119
+00:14:29,880 --> 00:14:37,120
+particularly on axial images at the level of the great vessels where you see fluid in the pericardial recesses,
+
+120
+00:14:37,520 --> 00:14:40,680
+and you think, oh, maybe that's too high for the actual pericardium.
+
+121
+00:14:40,800 --> 00:14:46,880
+So just be aware that that pericardium extends up to the level of the great vessels.
+
+122
+00:14:47,540 --> 00:14:49,860
+Here we can see the heart on the coronal image,
+
+123
+00:14:49,860 --> 00:14:53,060
+the fat surrounding the heart,
+
+124
+00:14:53,860 --> 00:14:58,720
+and then finally the fluid in the pericardial space,
+
+125
+00:14:59,020 --> 00:15:01,020
+superficial to that fat,
+
+126
+00:15:02,340 --> 00:15:07,000
+extending all the way up along the reflections onto the great vessels.
+
+127
+00:15:09,820 --> 00:15:12,400
+Here are examples of pericardial effusions.
+
+128
+00:15:12,960 --> 00:15:17,960
+The image on the left shows a simple pericardial effusion as shown here.
+
+129
+00:15:17,960 --> 00:15:22,460
+That is, the fluid measures simple fluid attenuation,
+
+130
+00:15:22,680 --> 00:15:28,120
+typically somewhere between negative 10 Hounsfield units and positive 20 Hounsfield units.
+
+131
+00:15:28,520 --> 00:15:30,120
+Think of this as water.
+
+132
+00:15:30,940 --> 00:15:35,160
+And this type of effusion is what would be associated with a transudative process.
+
+133
+00:15:36,000 --> 00:15:41,960
+The image on the right, however, shows fluid that measures higher than simple fluid attenuation,
+
+134
+00:15:41,960 --> 00:15:48,100
+suggesting an exudative process, such as infection, hemorrhage, or malignancy.
+
+135
+00:15:48,780 --> 00:15:52,660
+Now, in addition to evaluating the fluid itself,
+
+136
+00:15:53,720 --> 00:15:59,160
+you have to assess the pericardium for any abnormal thickening or enhancement.
+
+137
+00:15:59,780 --> 00:16:01,400
+On the image on the left,
+
+138
+00:16:01,540 --> 00:16:05,300
+notice that the pericardium is not only thick and enhancing,
+
+139
+00:16:05,300 --> 00:16:11,460
+but also has nodular components consistent with underlying malignancy.
+
+140
+00:16:11,620 --> 00:16:15,780
+So this is an example of a malignant pericardial effusion.
+
+141
+00:16:16,260 --> 00:16:29,650
+This image shows multiple calcifications located within the arteries surrounding the heart,
+
+142
+00:16:29,810 --> 00:16:31,250
+including the ascending aorta,
+
+143
+00:16:32,170 --> 00:16:33,850
+the left coronary artery,
+
+144
+00:16:33,850 --> 00:16:41,930
+and then the calcification in question was actually a calcification of the circumflex coronary artery.
+
+145
+00:16:44,000 --> 00:16:49,360
+As in prior modules regarding an approach to interpretation of a radiographic study,
+
+146
+00:16:49,780 --> 00:16:54,600
+here we have discussed the importance of using a thorough and systematic search pattern
+
+147
+00:16:54,600 --> 00:16:56,820
+for evaluation of chest CTs.
+
+148
+00:16:57,320 --> 00:17:01,980
+In this module, I have discussed assessment of the lymph nodes and mediastinum
+
+149
+00:17:01,980 --> 00:17:05,060
+to include evaluation of the heart and pericardium.
+
+150
+00:17:06,100 --> 00:17:09,380
+Remember that lymph nodes can be abnormal not only in size,
+
+151
+00:17:09,500 --> 00:17:13,460
+but also in morphology and attenuation and enhancement.
+
+152
+00:17:14,360 --> 00:17:18,160
+Not only do we need to evaluate for intrathoracic lymph nodes,
+
+153
+00:17:18,220 --> 00:17:20,660
+that is in the hyla and mediastinum,
+
+154
+00:17:20,880 --> 00:17:24,360
+but we also have to assess the axillary region
+
+155
+00:17:24,360 --> 00:17:28,000
+and the imaged lower portions of the neck.
+
+156
+00:17:28,000 --> 00:17:34,340
+In the mediastinum, we need to evaluate for structures or masses that shouldn't be there.
+
+157
+00:17:34,840 --> 00:17:37,720
+If we identify an abnormal mass in the mediastinum,
+
+158
+00:17:37,880 --> 00:17:40,660
+it's important to localize it to a compartment
+
+159
+00:17:40,660 --> 00:17:45,540
+as this will help us generate a differential diagnosis for the etiology of the mass.
+
+160
+00:17:46,600 --> 00:17:51,360
+We also need to evaluate structures that are normally in the mediastinum,
+
+161
+00:17:51,360 --> 00:17:59,480
+and particularly the vessels and heart for things like size, patency, contour deformities, and filling defects.
+
+162
+00:18:00,760 --> 00:18:06,460
+Finally, we need assessment of not only the heart, but also the pericardium,
+
+163
+00:18:06,920 --> 00:18:11,280
+including searching for abnormal pericardial thickening or mass,
+
+164
+00:18:11,280 --> 00:18:15,720
+as well as collection of material within the pericardial space,
+
+165
+00:18:16,220 --> 00:18:19,920
+including pericardial effusions and pneumopericardium.
+
+166
+00:18:20,820 --> 00:18:22,460
+That's the end of this unit.
+
+167
+00:18:22,880 --> 00:18:27,800
+Please complete the corresponding quiz questions to receive credit for this course.
+

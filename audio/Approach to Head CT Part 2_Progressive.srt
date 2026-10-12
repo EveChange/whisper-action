@@ -1,0 +1,2416 @@
+1
+00:00:00,750 --> 00:00:06,430
+This is the second part of our discussion regarding the approach to interpretation of a head CT.
+
+2
+00:00:09,100 --> 00:00:17,680
+The overall learning objective for these modules will be that the learner should be able to evaluate a head CT using a systematic approach
+
+3
+00:00:17,680 --> 00:00:23,920
+and state the five key features that you need to assess when you're interpreting a head CT.
+
+4
+00:00:24,420 --> 00:00:30,180
+This module in general will deal with the concepts of vasogenic versus cytotoxic edema,
+
+5
+00:00:30,180 --> 00:00:33,840
+what they are and why it's important to differentiate these types of edema,
+
+6
+00:00:34,160 --> 00:00:38,520
+and then finally on identification of brain swelling and herniation.
+
+7
+00:00:39,040 --> 00:00:44,840
+Let's revisit the overall search pattern before we get into the details.
+
+8
+00:00:45,480 --> 00:00:51,480
+In part one, we talked specifically about assessment of the ventricular system and extra axial spaces,
+
+9
+00:00:51,780 --> 00:00:54,960
+as well as the identification of acute hemorrhage.
+
+10
+00:00:55,460 --> 00:01:00,620
+In this unit, we're going to talk in more depth about the assessment of the brain parenchyma,
+
+11
+00:01:00,620 --> 00:01:04,580
+specifically how do you assess for mass or mass effect.
+
+12
+00:01:05,160 --> 00:01:07,320
+We're going to talk about gray-white matter differentiation.
+
+13
+00:01:08,760 --> 00:01:13,940
+And then finally, this is a head CT, so we have to be complete in our assessment of all structures
+
+14
+00:01:13,940 --> 00:01:18,080
+and not just be concerned about the brain parenchyma itself,
+
+15
+00:01:18,340 --> 00:01:22,340
+so that we're going to review the findings that we may identify in the bones,
+
+16
+00:01:23,000 --> 00:01:28,600
+the paranasal sinuses and mastoid air cells, as well as the orbits and other soft tissues.
+
+17
+00:01:28,600 --> 00:01:37,030
+When a mass is identified on a head CT, there are two key questions that you have to answer.
+
+18
+00:01:37,570 --> 00:01:40,710
+Number one, what's the cause of the mass? What's the etiology?
+
+19
+00:01:41,570 --> 00:01:44,190
+And number two are, what are the sequelae of the mass?
+
+20
+00:01:44,390 --> 00:01:46,970
+What is it doing to the adjacent parenchyma?
+
+21
+00:01:47,170 --> 00:01:53,410
+Is it just local mass effect, or is it causing more distant mass effect with herniation?
+
+22
+00:01:53,410 --> 00:01:59,990
+Again, these are two examples of abnormal masses that are associated with mass effect.
+
+23
+00:02:00,210 --> 00:02:07,630
+On the case on the left, we have an intraaxial high attenuation mass consistent with an intraprachymal hematoma.
+
+24
+00:02:08,590 --> 00:02:12,650
+Notice that there is local mass effect with edema in the white matter.
+
+25
+00:02:12,650 --> 00:02:19,270
+You can identify this edema by the lower attenuation of the white matter on the left
+
+26
+00:02:19,270 --> 00:02:22,510
+compared to the patient's normal white matter on the right.
+
+27
+00:02:23,250 --> 00:02:25,170
+And also note the sulcal effacement.
+
+28
+00:02:25,650 --> 00:02:28,770
+Notice that adjacent to the mass, you don't really see any of the sulci,
+
+29
+00:02:29,070 --> 00:02:34,790
+and this is because the brain is swelling and effacing the sulci.
+
+30
+00:02:34,790 --> 00:02:41,890
+On the case on the right, you don't really identify a distinct mass in and of itself,
+
+31
+00:02:42,010 --> 00:02:48,770
+but we do see mass effect in the form of low attenuation and loss of the gray-white differentiation.
+
+32
+00:02:49,770 --> 00:02:58,290
+In this example of a right MCA infarct, where you can see asymmetric sulcal effacement.
+
+33
+00:03:00,450 --> 00:03:04,770
+Another term that you may hear of when talking about mass effect is midline shift
+
+34
+00:03:04,770 --> 00:03:06,490
+or midline displacement of structures.
+
+35
+00:03:07,570 --> 00:03:11,510
+So masses can cause a displacement of structures in the paramidline
+
+36
+00:03:11,510 --> 00:03:16,230
+actually to move across the midline to the contralateral side.
+
+37
+00:03:16,810 --> 00:03:21,050
+So in this example, we have a large right-sided subdural hematoma
+
+38
+00:03:21,050 --> 00:03:25,270
+that results in displacement of the right-sided paramedian structures
+
+39
+00:03:25,270 --> 00:03:28,390
+or paramidline structures, moving them to the left.
+
+40
+00:03:29,290 --> 00:03:33,570
+So in this example, if we were to draw an imaginary line in the midline
+
+41
+00:03:33,570 --> 00:03:35,530
+at approximately the length of the falx,
+
+42
+00:03:36,250 --> 00:03:40,350
+we can see that there is actually a shift from that midline point
+
+43
+00:03:40,350 --> 00:03:43,410
+to, let's say, where the cavum septum pellucidum is,
+
+44
+00:03:44,490 --> 00:03:46,690
+which represents the true midline structure,
+
+45
+00:03:46,810 --> 00:03:52,210
+we can see that there has been herniation of the right-sided brain structures
+
+46
+00:03:52,210 --> 00:03:55,070
+under the falx to the left side.
+
+47
+00:03:55,170 --> 00:03:58,990
+This is termed sub-falcine herniation, and we'll talk about this shortly.
+
+48
+00:03:58,990 --> 00:04:05,180
+But this is an example of midline shift or midline displacement of structures.
+
+49
+00:04:06,600 --> 00:04:11,320
+Let's move on now to assessment of the parenchyma in terms of its gray-white matter
+
+50
+00:04:11,320 --> 00:04:11,940
+differentiation.
+
+51
+00:04:12,900 --> 00:04:15,020
+It's normal to have this distinction.
+
+52
+00:04:16,420 --> 00:04:23,600
+The white matter, as we see here, is lower in attenuation or hypoattenuating relative
+
+53
+00:04:23,600 --> 00:04:25,200
+to the gray matter.
+
+54
+00:04:25,200 --> 00:04:30,120
+In this case, we're comparing the subcortical right-frontal white matter to the overlying
+
+55
+00:04:30,120 --> 00:04:32,200
+right-frontal cerebral cortex.
+
+56
+00:04:32,620 --> 00:04:34,960
+So this is a normal finding to have this distinction.
+
+57
+00:04:37,270 --> 00:04:41,070
+However, sometimes this distinction can be difficult to appreciate on CT,
+
+58
+00:04:41,810 --> 00:04:46,130
+given the limited contrast resolution of CT as compared with MRI.
+
+59
+00:04:48,690 --> 00:04:52,610
+So then the question becomes, is there anything that we can do to accentuate this gray-white
+
+60
+00:04:52,610 --> 00:04:55,570
+matter differentiation on CT?
+
+61
+00:04:55,570 --> 00:05:01,690
+And sometimes you can adjust your window, you can narrow your window width to help accentuate
+
+62
+00:05:01,690 --> 00:05:06,130
+the subtle differences in attenuation between the gray matter and the white matter,
+
+63
+00:05:06,590 --> 00:05:08,170
+the so-called stroke window.
+
+64
+00:05:09,010 --> 00:05:14,390
+Now, its name implies that you would simply be using this to look for strokes alone, but
+
+65
+00:05:14,390 --> 00:05:20,310
+in routine clinical practice, this may help you to identify other abnormalities of the
+
+66
+00:05:20,310 --> 00:05:22,530
+parenchyma, such as subtle masses.
+
+67
+00:05:22,530 --> 00:05:30,710
+The key here is just to be aware of this window, and when you're assessing the gray-white matter
+
+68
+00:05:30,710 --> 00:05:35,870
+distinction, to use this window to help you identify subtle abnormalities that may be present.
+
+69
+00:05:37,470 --> 00:05:43,190
+The question then becomes, what causes loss of the normal gray-white differentiation?
+
+70
+00:05:44,050 --> 00:05:47,490
+When you see this, you should be thinking of ischemia and infarction.
+
+71
+00:05:47,490 --> 00:05:57,670
+On the case on the left, take a second to compare side to side, particularly in the insular cortex,
+
+72
+00:05:58,670 --> 00:06:04,990
+and look to see that there is subtle decrease or loss of the gray-white matter differentiation
+
+73
+00:06:04,990 --> 00:06:10,470
+in the right insular cortex there, deep in the right sylvean fissure.
+
+74
+00:06:11,090 --> 00:06:15,810
+Notice how you can't make out the overlying cortex from the underlying white matter.
+
+75
+00:06:15,810 --> 00:06:21,590
+So the gray-white matter differentiation is lost, and this is an example of ischemia in
+
+76
+00:06:21,590 --> 00:06:24,790
+a vascular territory, in this case, the right MCA.
+
+77
+00:06:24,910 --> 00:06:27,590
+So we're talking a focal area in the brain that's ischemic.
+
+78
+00:06:28,630 --> 00:06:32,170
+Ischemia can also be global, as we see in the case on the left.
+
+79
+00:06:32,650 --> 00:06:38,570
+There's diffuse bilateral loss of gray-white matter differentiation in a patient with global
+
+80
+00:06:38,570 --> 00:06:40,390
+hypoxic ischemic injury.
+
+81
+00:06:40,390 --> 00:06:49,330
+So when you see loss of gray-white matter differentiation, think ischemia and infarction, and then be thinking
+
+82
+00:06:49,330 --> 00:06:53,170
+what's the vascular territory, or is this a global abnormality?
+
+83
+00:06:55,310 --> 00:07:01,730
+Diffuse cerebral edema will manifest itself as a decreased attenuation, resulting in loss
+
+84
+00:07:01,730 --> 00:07:03,210
+of gray-white matter differentiation.
+
+85
+00:07:03,210 --> 00:07:09,290
+And you will also be able to identify mass effect, as evidenced by effacement of the cerebral
+
+86
+00:07:09,290 --> 00:07:14,290
+sulci, which we've seen examples of, as well as effacement of the basal cisterns, which
+
+87
+00:07:14,290 --> 00:07:15,310
+we'll talk about shortly.
+
+88
+00:07:16,190 --> 00:07:19,850
+Mass effect may also cause small or compressed ventricles.
+
+89
+00:07:21,470 --> 00:07:25,730
+So the key things are diminished attenuation with loss of gray-white matter differentiation
+
+90
+00:07:25,730 --> 00:07:27,750
+and signs of mass effect.
+
+91
+00:07:27,750 --> 00:07:36,450
+The diffuse low attenuation or decreased attenuation of the brain parenchyma does not equally affect
+
+92
+00:07:36,450 --> 00:07:40,310
+different types of tissue or the different portions of the brain.
+
+93
+00:07:40,770 --> 00:07:46,410
+This can lead to what's called the reversal sign, where the thalamus, brainstem, and cerebellum
+
+94
+00:07:46,410 --> 00:07:53,070
+retain their normal density in comparison to the more affected cerebral cortex, which becomes
+
+95
+00:07:53,070 --> 00:07:53,470
+darker.
+
+96
+00:07:53,470 --> 00:07:59,550
+So in this case, you can see how the cerebellum is higher in attenuation than the background
+
+97
+00:07:59,550 --> 00:08:04,710
+cerebrum, the so-called white cerebellar sign of diffuse cerebral edema.
+
+98
+00:08:05,190 --> 00:08:12,450
+These examples nicely lead into the discussion of cytotoxic versus vasogenic edema.
+
+99
+00:08:12,950 --> 00:08:16,570
+These are the two types of edema patterns that we can identify on CT.
+
+100
+00:08:17,550 --> 00:08:23,690
+Distinguishing cytotoxic versus vasogenic edema is important because it can help suggest the
+
+101
+00:08:23,690 --> 00:08:24,290
+etiology.
+
+102
+00:08:24,470 --> 00:08:28,430
+That is, it can help us narrow the differential diagnosis for the cause of edema.
+
+103
+00:08:29,670 --> 00:08:32,870
+Cytotoxic edema refers to cellular swelling.
+
+104
+00:08:33,690 --> 00:08:40,110
+It's seen in the presence of ischemia, where the sodium-potassium pump on the cell membranes
+
+105
+00:08:40,110 --> 00:08:41,570
+is unable to function.
+
+106
+00:08:42,210 --> 00:08:48,310
+Water moves into the cell, and you get cellular swelling, which manifests itself as loss or
+
+107
+00:08:48,310 --> 00:08:51,290
+decrease in the gray-white matter distinction.
+
+108
+00:08:51,290 --> 00:08:59,370
+As we can see in this example of ischemia in the right middle cerebral artery territory, and
+
+109
+00:08:59,370 --> 00:09:05,990
+we can see the loss of the gray-white matter differentiation in the distribution of the MCA.
+
+110
+00:09:08,370 --> 00:09:11,750
+Let's contrast cytotoxic edema with vasogenic edema.
+
+111
+00:09:12,450 --> 00:09:15,650
+Now, vasogenic edema is caused by leaky capillaries.
+
+112
+00:09:15,650 --> 00:09:18,450
+So there's an abnormal blood-brain barrier.
+
+113
+00:09:19,170 --> 00:09:23,350
+This is often associated with neoplasm or abscess and not ischemia.
+
+114
+00:09:24,450 --> 00:09:25,790
+The gray matter is spared.
+
+115
+00:09:26,490 --> 00:09:31,690
+And actually, the gray-white matter differentiation is typically accentuated because there's sparing
+
+116
+00:09:31,690 --> 00:09:37,570
+of the gray matter, but the white matter becomes even lower in attenuation because of the edema,
+
+117
+00:09:37,570 --> 00:09:42,530
+so that the difference in attenuation between the gray and white matter actually increases.
+
+118
+00:09:44,050 --> 00:09:51,090
+In this example, we see abnormality in the left frontal white matter with sparing of the
+
+119
+00:09:51,090 --> 00:09:52,890
+overlying cortex, as we see here.
+
+120
+00:09:52,890 --> 00:09:59,150
+This should make us think of neoplasm and abscess, even though we don't directly see the mass
+
+121
+00:09:59,150 --> 00:10:02,710
+itself, but this would not be caused by ischemia.
+
+122
+00:10:03,870 --> 00:10:08,750
+So to summarize, we want to think of cytotoxic edema, loss of gray-white matter differentiation,
+
+123
+00:10:09,110 --> 00:10:17,370
+ischemia infarct, vasogenic edema, leaky capillaries, neoplasm, and abscess as examples of etiologies
+
+124
+00:10:17,370 --> 00:10:19,070
+that might cause vasogenic edema.
+
+125
+00:10:19,070 --> 00:10:25,230
+So let's look at the MRI from that patient that we just saw on the prior slide.
+
+126
+00:10:26,130 --> 00:10:32,150
+The left-sided image shows a T2-weighted sequence with fat saturation, showing extensive edema
+
+127
+00:10:32,150 --> 00:10:35,350
+in the left frontal white matter.
+
+128
+00:10:35,870 --> 00:10:40,910
+Remember, T2-weighted sequences show fluid as being high signal intensity, so we have high
+
+129
+00:10:40,910 --> 00:10:45,570
+signal intensity in the white matter with sparing of the overlying cortex.
+
+130
+00:10:45,570 --> 00:10:52,070
+On the T1-weighted image, because fluid is low in signal relative to the gray matter,
+
+131
+00:10:52,610 --> 00:10:58,230
+we can see low signal intensity there corresponding to the high signal intensity on the T2-weighted
+
+132
+00:10:58,230 --> 00:10:58,590
+sequence.
+
+133
+00:10:59,290 --> 00:11:05,550
+And then finally, on the right, we have a post-contrast T1-weighted sequence where we can actually see
+
+134
+00:11:05,550 --> 00:11:07,150
+the enhancing mass.
+
+135
+00:11:07,150 --> 00:11:13,690
+So even though on the CT, we didn't see the mass itself, because of the pattern of edema,
+
+136
+00:11:13,830 --> 00:11:19,390
+we were going to be favoring abscess or neoplasm as opposed to ischemia.
+
+137
+00:11:19,890 --> 00:11:25,040
+This is an example of an intracranial metastasis.
+
+138
+00:11:32,670 --> 00:11:37,610
+This question is testing your ability to distinguish cytotoxic from vasogenic edema.
+
+139
+00:11:37,610 --> 00:11:44,410
+Remember, cytotoxic edema, cellular swelling, ischemia, the gray matter, and white matter
+
+140
+00:11:44,410 --> 00:11:45,770
+differentiation is lost.
+
+141
+00:11:46,250 --> 00:11:52,950
+With vasogenic edema, it's leaky capillaries, typically from abscess or neoplasm, and the
+
+142
+00:11:52,950 --> 00:11:57,790
+gray-white matter differentiation is maintained because there's sparing of the gray matter.
+
+143
+00:11:58,610 --> 00:12:04,270
+In this example, there's actually bilateral low attenuation in the white matter.
+
+144
+00:12:04,270 --> 00:12:11,210
+As an example, in the left frontal lobe, we have decreased attenuation in the left frontal
+
+145
+00:12:11,210 --> 00:12:16,630
+white matter with the yellow arrow, but notice that the cortex, as identified on the blue
+
+146
+00:12:16,630 --> 00:12:17,570
+arrow, is spared.
+
+147
+00:12:18,270 --> 00:12:20,890
+So this would be an example of vasogenic edema.
+
+148
+00:12:21,450 --> 00:12:24,130
+In this case, the etiology was a metastasis.
+
+149
+00:12:26,510 --> 00:12:30,030
+We need to now turn our attention to evaluation of the basal cisterns.
+
+150
+00:12:30,730 --> 00:12:35,450
+Remember that the basal cisterns are in large subarachnoid spaces, so they contain
+
+151
+00:12:35,450 --> 00:12:36,610
+cerebrospinal fluid.
+
+152
+00:12:37,590 --> 00:12:44,690
+The image on the left shows the supercellar cistern containing the circle of Willis vessels
+
+153
+00:12:44,690 --> 00:12:45,850
+as well as CSF.
+
+154
+00:12:46,990 --> 00:12:51,610
+In the example on the right, we have that quadrigeminal plate cistern that looks like a smile.
+
+155
+00:12:52,690 --> 00:12:56,230
+So these cisterns, we need to evaluate for their attenuation.
+
+156
+00:12:56,230 --> 00:13:02,670
+Remember, they should be simple fluid attenuation of CSF, and we need to evaluate their patency.
+
+157
+00:13:03,510 --> 00:13:06,470
+Abnormal attenuation may be a sign of underlying hemorrhage.
+
+158
+00:13:06,970 --> 00:13:13,710
+Abnormal appearance in terms of symmetry or loss of patency is a sign of herniation or
+
+159
+00:13:13,710 --> 00:13:14,430
+brain swelling.
+
+160
+00:13:16,650 --> 00:13:21,730
+When evaluating for attenuation of the basal cisterns, we are essentially looking for blood.
+
+161
+00:13:21,730 --> 00:13:27,690
+That is, acute blood will be high in attenuation and will replace the normal fluid attenuation
+
+162
+00:13:27,690 --> 00:13:29,430
+within the basal cisterns.
+
+163
+00:13:29,870 --> 00:13:36,030
+In this example, we have high attenuation hemorrhage replacing the normal CSF in the supercellar
+
+164
+00:13:36,030 --> 00:13:36,570
+cistern.
+
+165
+00:13:37,270 --> 00:13:40,230
+So therefore, this is subarachnoid in location.
+
+166
+00:13:42,720 --> 00:13:47,500
+The second thing we need to evaluate for is the patency of the basal cisterns.
+
+167
+00:13:47,500 --> 00:13:52,760
+That is, are the basal cisterns open and are they normal morphology and symmetric?
+
+168
+00:13:53,460 --> 00:13:59,660
+What we are really assessing for here is any brain swelling or herniation that may be causing
+
+169
+00:13:59,660 --> 00:14:01,960
+effacement or asymmetry of the cisterns.
+
+170
+00:14:02,820 --> 00:14:08,580
+On the case on the left, we have a normal example showing a widely patent supercellar
+
+171
+00:14:08,580 --> 00:14:11,740
+cistern and quadrigeminal plate cistern.
+
+172
+00:14:11,740 --> 00:14:18,320
+Compare this to the case on the right where there is diffuse brain swelling, diffuse loss
+
+173
+00:14:18,320 --> 00:14:24,380
+of gray-white matter differentiation, but notice that there is a very slit-like supercellar
+
+174
+00:14:24,380 --> 00:14:29,640
+cistern and essentially complete effacement of the quadrigeminal plate cisterns.
+
+175
+00:14:30,120 --> 00:14:36,120
+This is from diffuse swelling of the brain causing narrowing or effacement of the cisterns.
+
+176
+00:14:36,120 --> 00:14:44,190
+We will begin our discussion of brain herniations using this coronal illustration as an overview
+
+177
+00:14:44,190 --> 00:14:46,770
+of the different types of herniations you may encounter.
+
+178
+00:14:47,670 --> 00:14:53,170
+The first thing to be aware of is that a brain herniation represents an emergent finding
+
+179
+00:14:53,170 --> 00:14:56,110
+given its potential lethal consequences.
+
+180
+00:14:57,350 --> 00:15:01,210
+These findings must be rapidly communicated with the clinical service.
+
+181
+00:15:02,330 --> 00:15:06,570
+A herniation refers to a protrusion of brain parenchyma through a defect or opening.
+
+182
+00:15:06,570 --> 00:15:16,390
+The most common herniation refers to herniation of the cingulate gyrus beneath the level of
+
+183
+00:15:16,390 --> 00:15:21,710
+the phalx, the so-called subphalcine herniation or midline shift of structures.
+
+184
+00:15:23,050 --> 00:15:31,590
+A central or transtentorial herniation refers to the downward shift of medially located brain
+
+185
+00:15:31,590 --> 00:15:34,210
+structures through the tentorial notch.
+
+186
+00:15:34,210 --> 00:15:40,250
+Remember, the tentorial notch or incisora is an opening in the tentorium through which the
+
+187
+00:15:40,250 --> 00:15:41,510
+brain stem extends.
+
+188
+00:15:43,910 --> 00:15:50,410
+Uncle herniation refers to herniation of the medial portion of the temporal lobe, the
+
+189
+00:15:50,410 --> 00:15:55,870
+uncas, over the tentorium and into the supercellar cistern.
+
+190
+00:15:58,070 --> 00:16:03,490
+Posterior fossa masses may result in upward cerebellar herniation.
+
+191
+00:16:03,490 --> 00:16:13,370
+That is, herniation of the cerebellar tissues up through the tentorium going into the supertentorial
+
+192
+00:16:13,370 --> 00:16:13,950
+compartment.
+
+193
+00:16:14,710 --> 00:16:18,250
+This is upward cerebellar transtentorial herniation.
+
+194
+00:16:19,330 --> 00:16:27,030
+Alternatively, a posterior fossa mass may also cause cerebellar tissues to herniate downward
+
+195
+00:16:27,030 --> 00:16:33,710
+through the foramen magnum, the so-called downward cerebellar herniation or tonsillar herniation
+
+196
+00:16:33,710 --> 00:16:38,070
+as the cerebellar tonsils descend through the foramen magnum.
+
+197
+00:16:39,190 --> 00:16:46,250
+Finally, we have a transcalvarial herniation in which brain tissue herniates through a defect
+
+198
+00:16:46,250 --> 00:16:47,990
+in the overlying calvarium.
+
+199
+00:16:47,990 --> 00:16:53,690
+The subfalcine herniation is the most common herniation pattern.
+
+200
+00:16:54,590 --> 00:17:00,630
+It refers to displacement of the brain, typically the cingulate gyrus, beneath the free edge of
+
+201
+00:17:00,630 --> 00:17:01,210
+the falks.
+
+202
+00:17:02,490 --> 00:17:08,370
+In this case, we have a coronal T2-weighted MRI in an 82-year-old gentleman that fell and
+
+203
+00:17:08,370 --> 00:17:10,650
+had a subdural hematoma on the left.
+
+204
+00:17:11,830 --> 00:17:16,410
+Remember, when we identify a mass, we want to identify the etiology of the mass and then
+
+205
+00:17:16,410 --> 00:17:17,910
+the associated mass effect.
+
+206
+00:17:17,910 --> 00:17:21,690
+If we look at the midline here, we have the falks.
+
+207
+00:17:22,130 --> 00:17:28,330
+We'll notice that that subdural hematoma is pushing the left-sided cingulate gyrus underneath
+
+208
+00:17:28,330 --> 00:17:32,510
+that falks or subfalcine herniation.
+
+209
+00:17:33,290 --> 00:17:41,950
+Associated complications with subfalcine herniation include ACA or anterior cerebral artery infarcts
+
+210
+00:17:41,950 --> 00:17:47,890
+as well as contralateral hydrocephalus that you can get from obstruction of the foramen of
+
+211
+00:17:47,890 --> 00:17:48,890
+Monroe.
+
+212
+00:17:48,890 --> 00:17:56,730
+Both of these complications are caused by the mass effect associated with dragging that cingulate
+
+213
+00:17:56,730 --> 00:17:59,830
+gyrus and associated brain structures across the midline.
+
+214
+00:18:01,950 --> 00:18:06,550
+Because we're primarily concerned with CT imaging in this module, we need to understand
+
+215
+00:18:06,550 --> 00:18:09,470
+what subfalcine herniation looks like on axial images.
+
+216
+00:18:10,330 --> 00:18:15,810
+The image on the left is the image from the previous slide showing the coronal view where
+
+217
+00:18:15,810 --> 00:18:20,950
+you have that cingulate gyrus on the left herniating beneath the free edge of the falks.
+
+218
+00:18:20,950 --> 00:18:30,070
+On the axial view on the right here, another T2 weighted sequence, we can see if we draw
+
+219
+00:18:30,070 --> 00:18:36,230
+a line at the midline where the falks is, we can see that the left-sided cingulate gyrus
+
+220
+00:18:36,230 --> 00:18:40,250
+is herniated beneath the falks and across the midline.
+
+221
+00:18:40,250 --> 00:18:47,570
+You can also see the flow voids in the midline that are the anterior cerebellar arteries, and
+
+222
+00:18:47,570 --> 00:18:53,270
+given this location, that's why you can have infarction of the ACA territory, typically on
+
+223
+00:18:53,270 --> 00:18:56,250
+the ipsilateral side with this type of herniation.
+
+224
+00:18:56,250 --> 00:19:03,470
+Finally, we can quantify the degree of displacement by finding a midline structure, typically the
+
+225
+00:19:03,470 --> 00:19:08,510
+cavum septum pellucidum, or in this case, we can use kind of the midline between the two
+
+226
+00:19:08,510 --> 00:19:15,470
+anterior cerebral arteries, and we can measure from that point to the imaginary midline that
+
+227
+00:19:15,470 --> 00:19:22,290
+we made along the expected position of the falks to actually quantify the degree of midline
+
+228
+00:19:22,290 --> 00:19:22,790
+shift.
+
+229
+00:19:22,790 --> 00:19:32,000
+Uncoherniation refers to herniation of the mesial temporal lobe, or the uncus, across
+
+230
+00:19:32,000 --> 00:19:37,660
+the tentorial notch, or that is, across the free edge of the tentorium into the supercellular
+
+231
+00:19:37,660 --> 00:19:38,240
+cistern.
+
+232
+00:19:38,660 --> 00:19:44,000
+This type of herniation can be associated with mass effect on the supercellular cistern as
+
+233
+00:19:44,000 --> 00:19:45,480
+well as the ambient cistern.
+
+234
+00:19:46,040 --> 00:19:53,300
+It can result in compression of the brainstem as well as PCA infarction because the posterior
+
+235
+00:19:53,300 --> 00:20:01,200
+cerebral artery runs in the ambient cistern, which can be compressed by the uncoherniation.
+
+236
+00:20:01,200 --> 00:20:06,200
+In this example, I'm showing a coronal reconstructed view from a CT.
+
+237
+00:20:06,200 --> 00:20:13,200
+There's a large left-sided intraparenchymal hematoma that's resulting in significant mass effect.
+
+238
+00:20:13,200 --> 00:20:18,860
+As we can see, the ipsilateral, or the left-sided in this case, mesial part of the temporal lobe,
+
+239
+00:20:18,940 --> 00:20:25,300
+or the uncus, is pushed across the tentorium into the midline and into the supercellular
+
+240
+00:20:25,300 --> 00:20:25,840
+cistern.
+
+241
+00:20:28,460 --> 00:20:33,200
+Again, because we're talking about CT and the vast majority of your interpretation on CT is
+
+242
+00:20:33,200 --> 00:20:37,560
+going to be in the axial plane, we need to understand what this looks like on an axial
+
+243
+00:20:37,560 --> 00:20:37,900
+image.
+
+244
+00:20:37,900 --> 00:20:42,780
+So we're talking about the mesial, or the midline portion of the temporal lobe, which
+
+245
+00:20:42,780 --> 00:20:49,400
+is the uncus sliding across the tentorium and facing the supercellular cistern.
+
+246
+00:20:49,660 --> 00:20:53,320
+So take a second to try to find that on this axial image.
+
+247
+00:20:54,660 --> 00:20:56,980
+Identify where the supercellular cistern is.
+
+248
+00:20:59,490 --> 00:21:06,110
+Hopefully you saw the right-sided uncus that's herniated out across the tentorium, causing asymmetry
+
+249
+00:21:06,110 --> 00:21:08,930
+in the appearance of the supercellular cistern.
+
+250
+00:21:11,540 --> 00:21:18,020
+Posterior fossile masses can result in either upward cerebellar herniation, that is the cerebellum
+
+251
+00:21:18,020 --> 00:21:25,700
+herniates up through the tentorium and into the supertentorial compartment, or downward tonsillar
+
+252
+00:21:25,700 --> 00:21:30,900
+herniation, in which the cerebellar tonsils herniate below the level of the foramen magnum.
+
+253
+00:21:31,980 --> 00:21:35,480
+This is a sagittal T1 view of a patient with medulloblastoma.
+
+254
+00:21:35,480 --> 00:21:41,580
+We can see signal abnormality within the cerebellum here.
+
+255
+00:21:42,980 --> 00:21:47,780
+Notice that this person actually has both upward and downward cerebellar tonsillar herniation.
+
+256
+00:21:48,000 --> 00:21:51,960
+But on this slide, we're going to concentrate on the tonsillar herniation.
+
+257
+00:21:52,620 --> 00:21:59,320
+Notice how the cerebellar tonsils, as shown by the arrow, are pushed downward by the mass
+
+258
+00:21:59,320 --> 00:22:01,660
+effect from the medulloblastoma.
+
+259
+00:22:02,180 --> 00:22:09,240
+So the tonsils are descended, they descend inferiorly below the level of the foramen magnum.
+
+260
+00:22:09,480 --> 00:22:15,080
+Now this can cause compression, if bad enough, of the brainstem against the clibus.
+
+261
+00:22:15,800 --> 00:22:21,320
+There is also non-life-threatening tonsillar descent in the spectrum of Chiari malformations,
+
+262
+00:22:21,320 --> 00:22:24,060
+which aren't true herniations, per se.
+
+263
+00:22:26,680 --> 00:22:29,100
+This is the same patient with medulloblastoma.
+
+264
+00:22:29,540 --> 00:22:34,220
+This time we're going to concentrate on the upward herniation of the cerebellum.
+
+265
+00:22:34,580 --> 00:22:41,280
+That is, the cerebellum is pushed up through the tentorium and into the supertentorial compartment.
+
+266
+00:22:42,180 --> 00:22:48,120
+As we can see by the arrow, there is obliteration of the superior cerebellar cistern
+
+267
+00:22:48,120 --> 00:22:54,260
+by the cerebellar tissue that's being pushed upwards from the posterior fossa mass.
+
+268
+00:22:56,650 --> 00:23:02,070
+I'm beginning discussion of these cerebellar herniations using sagittal views
+
+269
+00:23:02,070 --> 00:23:04,210
+because I believe it's easier to understand this.
+
+270
+00:23:04,630 --> 00:23:07,910
+Ultimately, we're going to have to understand, especially when we're interpreting head CT,
+
+271
+00:23:08,350 --> 00:23:10,410
+what these herniations look like on axials.
+
+272
+00:23:10,630 --> 00:23:17,090
+But I just want to take a second here to reinforce what these cerebellar herniations look like
+
+273
+00:23:17,090 --> 00:23:24,050
+by comparing a normal sagittal T1 on the left to the medulloblastoma case that we've been looking at on the right.
+
+274
+00:23:25,270 --> 00:23:31,890
+Notice the normal CSF space along the cranial margin of the cerebellum, the superior cerebellar cistern.
+
+275
+00:23:32,390 --> 00:23:38,970
+In this case of upward cerebellar herniation where the cerebellum is pushed up through the tentorium
+
+276
+00:23:38,970 --> 00:23:44,070
+into the supertentorial compartment, that superior cerebellar cistern is obliterated
+
+277
+00:23:44,070 --> 00:23:48,330
+as the CSF is pushed away by that herniated cerebellar tissue.
+
+278
+00:23:50,030 --> 00:23:54,250
+In the normal case, we can see the cerebellar tonsils above the level of the foramen magnum,
+
+279
+00:23:55,830 --> 00:24:00,150
+whereas with the posterior fossa mass, the cerebellar tonsils are pushed downwards
+
+280
+00:24:00,150 --> 00:24:05,050
+through the foramen magnum lying along the posterior aspect of the junction
+
+281
+00:24:05,050 --> 00:24:10,450
+between the medulla of the brainstem and the cervical spinal cord.
+
+282
+00:24:10,450 --> 00:24:16,670
+Since we're concentrating on head CT interpretation in this module,
+
+283
+00:24:16,930 --> 00:24:22,930
+we really need to translate this knowledge of cerebellar herniation to the axial images.
+
+284
+00:24:23,050 --> 00:24:25,590
+So what do these herniations look like on axial views?
+
+285
+00:24:26,390 --> 00:24:32,110
+In the case on the far left, we have a normal case where you have a cervical medullary junction
+
+286
+00:24:32,110 --> 00:24:38,670
+here at the foramen magnum and a nice CSF space around that junction.
+
+287
+00:24:38,670 --> 00:24:40,070
+So that's a normal case.
+
+288
+00:24:40,550 --> 00:24:47,490
+In the middle image, we have the same patient seven hours later in a case with diffuse cerebral edema,
+
+289
+00:24:47,910 --> 00:24:54,250
+causing mass effect and pushing the cerebellar tonsils inferiorly below the foramen magnum.
+
+290
+00:24:54,690 --> 00:24:57,410
+So we're going to have the cervical medullary junction here.
+
+291
+00:24:57,890 --> 00:25:01,370
+But notice now how that CSF space is obliterated,
+
+292
+00:25:01,370 --> 00:25:08,390
+where that fluid attenuation of the cerebrospinal fluid is now replaced by the cerebellar tonsils,
+
+293
+00:25:08,550 --> 00:25:09,990
+which are pushed inferiorly.
+
+294
+00:25:10,670 --> 00:25:14,090
+So when scrolling through a set of axial images, you really have to be cognizant of,
+
+295
+00:25:14,250 --> 00:25:16,070
+okay, where is the foramen magnum?
+
+296
+00:25:16,930 --> 00:25:19,010
+And then as I go caudal to this,
+
+297
+00:25:19,510 --> 00:25:23,950
+am I seeing cerebellar tissue or am I seeing the normal CSF that I should be seeing?
+
+298
+00:25:23,950 --> 00:25:29,110
+The image on the right is from a different case, but again shows tonsillar herniation.
+
+299
+00:25:29,990 --> 00:25:33,090
+We have the cervical medullary junction with the asterisks.
+
+300
+00:25:33,890 --> 00:25:40,810
+And then notice how that CSF space behind that junction is gone and actually replaced
+
+301
+00:25:40,810 --> 00:25:44,870
+by soft tissue attenuation of the cerebellar tonsils.
+
+302
+00:25:44,870 --> 00:25:51,060
+With upward or ascending transtentorial herniation,
+
+303
+00:25:52,020 --> 00:25:59,500
+a posterior fossa mass or mass effect causes the cerebellar tissue to herniate upwards
+
+304
+00:25:59,500 --> 00:26:02,740
+through the tentorial incisor or notch.
+
+305
+00:26:03,180 --> 00:26:07,260
+Remember, the tentorium has an opening through which the brainstem extends,
+
+306
+00:26:07,360 --> 00:26:09,280
+so this is the tentorial notch.
+
+307
+00:26:09,280 --> 00:26:16,000
+On the coronal post-contrast T1-weighted sequence on the left,
+
+308
+00:26:16,200 --> 00:26:22,100
+we can see the tentorium and we can see the opening in the tentorium as we go towards the midline.
+
+309
+00:26:22,740 --> 00:26:29,400
+Here with upward herniation, we see cerebellar tissue herniating upward through that notch
+
+310
+00:26:29,400 --> 00:26:32,000
+or opening into the supratentorial compartment.
+
+311
+00:26:32,680 --> 00:26:36,460
+This can be a little more difficult to identify on axial imaging,
+
+312
+00:26:36,460 --> 00:26:42,800
+but we can find the tentorium here and we see in the midline we have some of that cerebellar tissue
+
+313
+00:26:42,800 --> 00:26:49,980
+that is actually going to be extending cranial to that notch up into the supratentorial compartment.
+
+314
+00:26:50,160 --> 00:26:55,460
+So you get a better sense of this on a set of axial images where you are scrolling back and forth
+
+315
+00:26:55,460 --> 00:26:58,240
+to find where the opening is in the tentorium
+
+316
+00:26:58,240 --> 00:27:04,200
+and identifying that the cerebellar tissue extends above that opening.
+
+317
+00:27:04,200 --> 00:27:17,150
+In this case, test your ability to identify a subfalcine herniation or midline shift.
+
+318
+00:27:17,850 --> 00:27:22,270
+Here we have an extra-axial hematoma as indicated by the red asterix.
+
+319
+00:27:23,170 --> 00:27:26,270
+The chrysanthic shape is indicative of a subdural location.
+
+320
+00:27:27,330 --> 00:27:30,470
+Remember that when you identify an intracranial mass,
+
+321
+00:27:30,570 --> 00:27:34,470
+it's important to not only think about the etiology of the mass, that is, what is the mass,
+
+322
+00:27:34,470 --> 00:27:39,550
+but also the effect of the mass and what it's having on the adjacent brain parenchyma.
+
+323
+00:27:40,430 --> 00:27:44,230
+In this case, there's local mass effect with salsal effacement.
+
+324
+00:27:44,470 --> 00:27:49,670
+Notice that you don't see any salsi deep to the subdural hematoma.
+
+325
+00:27:50,170 --> 00:27:53,710
+Compare that to the right side where you see the nice, normal salsi.
+
+326
+00:27:54,810 --> 00:27:59,350
+Also notice, however, that there is midline displacement of that cingulate gyrus
+
+327
+00:27:59,350 --> 00:28:03,130
+underneath the falcs as indicated by the yellow arrow.
+
+328
+00:28:03,630 --> 00:28:06,270
+The blue arrows show you the normal midline falcs.
+
+329
+00:28:06,630 --> 00:28:11,070
+You can see that there is brain tissue herniating from left to right across this.
+
+330
+00:28:11,890 --> 00:28:14,670
+This is consistent with subfalcine herniation.
+
+331
+00:28:16,450 --> 00:28:21,350
+Now, the tendency in reading a head CT is to concentrate only on the brain parenchyma
+
+332
+00:28:21,890 --> 00:28:23,710
+and intracranial contents itself.
+
+333
+00:28:23,710 --> 00:28:27,950
+However, to be thorough, we need to look at everything on the image.
+
+334
+00:28:28,470 --> 00:28:32,150
+This will include the bones, orbits, soft tissues, etc.
+
+335
+00:28:33,010 --> 00:28:38,290
+So we're going to now go into sort of the stuff outside the brain substance itself.
+
+336
+00:28:38,730 --> 00:28:41,090
+We're going to start with the bones, and we're going to, again,
+
+337
+00:28:41,210 --> 00:28:43,430
+optimize our window and algorithm setting.
+
+338
+00:28:43,530 --> 00:28:46,170
+So we're going to look on the bone algorithm, bone windows.
+
+339
+00:28:46,670 --> 00:28:49,990
+This is going to allow us to assess the details of the bones
+
+340
+00:28:49,990 --> 00:28:57,110
+that might not otherwise be obvious with other windows or reconstruction algorithms.
+
+341
+00:28:57,970 --> 00:29:00,610
+Remember, abnormalities can be focal or diffuse.
+
+342
+00:29:01,490 --> 00:29:05,030
+We're looking for aggressive things, especially when I use the term aggressive.
+
+343
+00:29:05,210 --> 00:29:06,850
+I mean neoplasm or infection.
+
+344
+00:29:07,630 --> 00:29:10,130
+In the setting of trauma, we're going to be looking for fractures.
+
+345
+00:29:10,850 --> 00:29:12,710
+And remember, in all of these settings,
+
+346
+00:29:12,870 --> 00:29:14,990
+especially if you're dealing with pediatric patients
+
+347
+00:29:14,990 --> 00:29:22,750
+or if we're at the skull base and there's a lot of forainment and structures,
+
+348
+00:29:23,210 --> 00:29:24,710
+symmetry is your friend, okay?
+
+349
+00:29:24,950 --> 00:29:26,830
+We should be symmetric from right to left.
+
+350
+00:29:28,630 --> 00:29:31,110
+So use this to your advantage.
+
+351
+00:29:33,590 --> 00:29:35,990
+We're going to use bone windows and the bone algorithm
+
+352
+00:29:35,990 --> 00:29:39,730
+to evaluate the bones of the calvarium and skull base.
+
+353
+00:29:39,730 --> 00:29:48,170
+On the case in the left image, we see a lucent lesion in the left frontal bone
+
+354
+00:29:48,170 --> 00:29:52,710
+involving the diploic space and extending into both cortices.
+
+355
+00:29:52,890 --> 00:29:57,270
+You can see loss of the normal cortex, both on the inner and outer table of the skull.
+
+356
+00:29:58,490 --> 00:30:02,990
+In the case on the right, notice the asymmetry and appearance of the sphenoid bone.
+
+357
+00:30:02,990 --> 00:30:08,370
+Normal foramen on the right, but notice on the left side,
+
+358
+00:30:08,470 --> 00:30:11,490
+we have absence of bone and neural foramina.
+
+359
+00:30:12,430 --> 00:30:16,490
+That's an aggressive lesion, which turned out to be a metastasis.
+
+360
+00:30:17,510 --> 00:30:21,390
+The point here is not that you'd be able to characterize all these bone abnormalities,
+
+361
+00:30:21,810 --> 00:30:24,350
+but that you put this in your search pattern.
+
+362
+00:30:26,950 --> 00:30:32,050
+One of the common indications for head CT is to assess for intracranial abnormalities
+
+363
+00:30:32,050 --> 00:30:35,570
+in the setting of trauma, so we need to look carefully for fractures.
+
+364
+00:30:36,250 --> 00:30:43,930
+One of the more difficult things early on is to distinguish sutures from calvarial fractures.
+
+365
+00:30:44,910 --> 00:30:47,990
+Sutures have sclerotic margins and serpentine edges,
+
+366
+00:30:48,490 --> 00:30:54,330
+whereas fractures tend to be more linear and straight and lack the sclerotic margins.
+
+367
+00:30:55,230 --> 00:30:59,050
+Also, symmetry can be your friend depending on what types of sutures you're looking at.
+
+368
+00:30:59,050 --> 00:31:02,330
+So, for instance, the coronal suture should be symmetric from side to side,
+
+369
+00:31:02,990 --> 00:31:05,370
+whereas a fracture, you wouldn't expect symmetry.
+
+370
+00:31:06,230 --> 00:31:12,050
+On the case on the left here, we have a not-so-subtle displaced fracture of the calvarium.
+
+371
+00:31:14,280 --> 00:31:16,560
+This case would not be a diagnostic dilemma.
+
+372
+00:31:17,340 --> 00:31:20,980
+However, the case on the right shows a more subtle fracture at the skull base.
+
+373
+00:31:21,520 --> 00:31:26,220
+Again, the skull base can be a very difficult area to identify
+
+374
+00:31:26,220 --> 00:31:27,600
+because there's a lot of foramen.
+
+375
+00:31:28,200 --> 00:31:30,440
+The patient may not be perfectly centered in the gantry,
+
+376
+00:31:30,620 --> 00:31:35,200
+so you may not have perfect right-to-left symmetry on a single axial cut.
+
+377
+00:31:36,720 --> 00:31:40,760
+But there is a fracture in this case here in the left sphenoid bone.
+
+378
+00:31:43,260 --> 00:31:46,080
+So, when assessing the bones, you want to look for focal abnormalities,
+
+379
+00:31:46,200 --> 00:31:50,600
+whether aggressive things like infection or neoplasm or fractures.
+
+380
+00:31:50,600 --> 00:31:55,400
+And then, finally, you want to be able to use these ancillary findings
+
+381
+00:31:55,400 --> 00:31:57,760
+to maybe help you go back and assess the parenchyma.
+
+382
+00:31:57,880 --> 00:32:01,500
+So, if you see a calvarial fracture,
+
+383
+00:32:01,660 --> 00:32:05,460
+you may want to go take a second look at the intracranial contents
+
+384
+00:32:05,460 --> 00:32:09,420
+to make sure you're not missing an extra-axial hematoma, for instance.
+
+385
+00:32:09,520 --> 00:32:12,540
+So, you can use these to help you identify
+
+386
+00:32:12,540 --> 00:32:16,980
+what things you might want to look for more closely
+
+387
+00:32:16,980 --> 00:32:18,780
+in the intracranial compartment.
+
+388
+00:32:18,780 --> 00:32:23,620
+Once we've assessed the calvarium and skull base,
+
+389
+00:32:24,080 --> 00:32:27,320
+we're going to keep the study on the bone algorithm and bone windows
+
+390
+00:32:27,320 --> 00:32:30,700
+and assess the paranasal sinuses and mastoid air cells.
+
+391
+00:32:31,460 --> 00:32:33,040
+These should be well aerated
+
+392
+00:32:33,040 --> 00:32:36,760
+and have normal gas attenuation throughout.
+
+393
+00:32:37,240 --> 00:32:40,440
+There should be no opacification with soft tissue or fluid,
+
+394
+00:32:40,780 --> 00:32:42,260
+no fluid levels.
+
+395
+00:32:43,580 --> 00:32:46,820
+There should be an intact osseous architecture
+
+396
+00:32:46,820 --> 00:32:51,020
+to both the mastoid air cells as well as intact walls of the paranasal sinuses.
+
+397
+00:32:51,020 --> 00:32:55,440
+And again, use symmetry as your friend comparing right to left.
+
+398
+00:32:55,440 --> 00:33:00,980
+Let's look at some examples of abnormalities of the paranasal sinuses.
+
+399
+00:33:01,480 --> 00:33:03,980
+On the image on the left,
+
+400
+00:33:04,240 --> 00:33:09,160
+we have a fracture of the anterior wall of the right maxillary sinus.
+
+401
+00:33:09,960 --> 00:33:14,860
+Notice that the normally aerated sinus has been partially replaced by fluid
+
+402
+00:33:14,860 --> 00:33:17,720
+with the resultant gas fluid level.
+
+403
+00:33:17,720 --> 00:33:21,800
+This is from a fracture of the maxillary sinus.
+
+404
+00:33:22,180 --> 00:33:27,680
+In addition, this patient also has intracranial gas related to a separate fracture.
+
+405
+00:33:28,620 --> 00:33:30,020
+In the image on the right,
+
+406
+00:33:30,300 --> 00:33:33,760
+we'll notice that the ethmoid air cells on the left
+
+407
+00:33:33,760 --> 00:33:38,820
+have been replaced by an osseous attenuation abnormality.
+
+408
+00:33:38,820 --> 00:33:41,700
+This was a tumor of the ethmoid air cells.
+
+409
+00:33:42,500 --> 00:33:45,640
+So again, we're assessing the paranasal sinuses.
+
+410
+00:33:45,800 --> 00:33:50,060
+We want to make sure that they are normally aerated with intact walls.
+
+411
+00:33:52,610 --> 00:33:55,970
+The mastoid air cells and middle ear cavity should be well aerated.
+
+412
+00:33:56,210 --> 00:33:58,170
+That is, they should be of gas attenuation.
+
+413
+00:33:59,230 --> 00:34:02,310
+This is a patient with left-sided ear pain.
+
+414
+00:34:03,270 --> 00:34:04,830
+On the image on the left,
+
+415
+00:34:05,010 --> 00:34:09,270
+which is the patient's right middle ear cavity and mastoid air cells,
+
+416
+00:34:09,270 --> 00:34:13,250
+notice the normal aeration of the middle ear cavity
+
+417
+00:34:13,250 --> 00:34:18,270
+and the mastoid air cells with intact osseous architecture.
+
+418
+00:34:18,910 --> 00:34:21,130
+Compare that with the symptomatic side
+
+419
+00:34:21,130 --> 00:34:24,410
+where you have replacement of the gas attenuation
+
+420
+00:34:24,410 --> 00:34:28,550
+within the middle ear cavity by fluid attenuation material.
+
+421
+00:34:28,990 --> 00:34:31,570
+Same thing in the mastoid air cells.
+
+422
+00:34:31,810 --> 00:34:35,350
+These have been replaced by fluid attenuation material
+
+423
+00:34:35,350 --> 00:34:38,650
+in a patient with left-sided mastoiditis
+
+424
+00:34:38,650 --> 00:34:41,650
+or inflammation and infection of the mastoid air cells.
+
+425
+00:34:42,130 --> 00:34:46,840
+We're going to end our evaluation of head CT
+
+426
+00:34:46,840 --> 00:34:49,280
+with assessment of the orbits and soft tissues.
+
+427
+00:34:49,840 --> 00:34:52,320
+For this, we're going to use soft tissue windows.
+
+428
+00:34:52,900 --> 00:34:55,640
+We're going to assess the orbits for the globes themselves
+
+429
+00:34:55,640 --> 00:34:57,460
+as well as the interorbital contents,
+
+430
+00:34:57,580 --> 00:34:59,860
+including the optic nerve, muscles,
+
+431
+00:34:59,860 --> 00:35:01,660
+and interorbital fat.
+
+432
+00:35:02,300 --> 00:35:04,600
+We're going to assess the soft tissues of the scalp,
+
+433
+00:35:04,960 --> 00:35:08,080
+face, and image portions of the suprahyoid neck.
+
+434
+00:35:09,140 --> 00:35:12,720
+And again, we want to look for symmetry from right to left.
+
+435
+00:35:15,080 --> 00:35:17,880
+Just want to take a second to reiterate the fact that
+
+436
+00:35:17,880 --> 00:35:20,380
+at this point, you should not be expected
+
+437
+00:35:20,380 --> 00:35:22,880
+to identify all the causes
+
+438
+00:35:22,880 --> 00:35:25,140
+or understand everything you're looking at
+
+439
+00:35:25,140 --> 00:35:26,420
+in the orbits or soft tissues,
+
+440
+00:35:26,620 --> 00:35:29,560
+like we talked about in the bones or paranasal sinuses.
+
+441
+00:35:29,560 --> 00:35:32,540
+At this point, it's just a matter of putting this
+
+442
+00:35:32,540 --> 00:35:33,660
+into your search pattern
+
+443
+00:35:33,660 --> 00:35:36,120
+and identifying an abnormality.
+
+444
+00:35:36,700 --> 00:35:38,960
+Characterizing that abnormality will come with time.
+
+445
+00:35:39,740 --> 00:35:41,100
+The image on the left,
+
+446
+00:35:41,480 --> 00:35:44,020
+if we assess for the orbits and interorbital contents,
+
+447
+00:35:44,560 --> 00:35:48,340
+we can see a mass in the medial rectus muscle,
+
+448
+00:35:49,620 --> 00:35:51,340
+whereas in the case on the right,
+
+449
+00:35:51,480 --> 00:35:52,940
+in the suprahyoid neck,
+
+450
+00:35:53,640 --> 00:35:55,420
+again, using symmetry as our friend,
+
+451
+00:35:55,800 --> 00:35:57,460
+we can see an asymmetric mass
+
+452
+00:35:57,460 --> 00:35:59,140
+in the right parotid gland.
+
+453
+00:35:59,560 --> 00:36:03,720
+This case is a nice example
+
+454
+00:36:03,720 --> 00:36:05,740
+of how all of this sort of fits together,
+
+455
+00:36:05,880 --> 00:36:07,060
+where you have an abnormality
+
+456
+00:36:07,060 --> 00:36:08,580
+in the intracranial compartment
+
+457
+00:36:08,580 --> 00:36:12,280
+with associated findings in the soft tissues and bone.
+
+458
+00:36:12,840 --> 00:36:14,440
+This is a case of trauma.
+
+459
+00:36:15,300 --> 00:36:17,860
+Notice in assessment of the soft tissues
+
+460
+00:36:17,860 --> 00:36:21,260
+that there is asymmetry in the appearance
+
+461
+00:36:21,260 --> 00:36:23,060
+of the soft tissues of the scalp
+
+462
+00:36:23,060 --> 00:36:25,800
+with swelling on the left side.
+
+463
+00:36:25,800 --> 00:36:30,660
+Deep to this, we're going to have an extra-axial hematoma.
+
+464
+00:36:30,960 --> 00:36:34,460
+Given its shape, we expect this to be epidural in location.
+
+465
+00:36:36,020 --> 00:36:37,580
+And then on the bone windows,
+
+466
+00:36:38,080 --> 00:36:42,260
+we are able to see a non-displaced fracture
+
+467
+00:36:42,260 --> 00:36:43,680
+associated with this.
+
+468
+00:36:44,380 --> 00:36:46,960
+So in this case, the epidural hematoma is obvious,
+
+469
+00:36:46,960 --> 00:36:52,460
+but sometimes it may be a subtle soft tissue swelling
+
+470
+00:36:52,460 --> 00:36:53,480
+that you pick up
+
+471
+00:36:53,480 --> 00:36:57,420
+or a subtle calvarial fracture that you detect
+
+472
+00:36:57,420 --> 00:37:00,120
+that will cause you then to go scrutinize
+
+473
+00:37:00,120 --> 00:37:02,620
+the intracranial compartment more carefully
+
+474
+00:37:02,620 --> 00:37:04,180
+and may allow you to pick up
+
+475
+00:37:04,180 --> 00:37:08,020
+a small extra-axial collection,
+
+476
+00:37:08,160 --> 00:37:09,540
+in this example, a hematoma
+
+477
+00:37:09,540 --> 00:37:11,760
+that you might not otherwise pick up.
+
+478
+00:37:11,760 --> 00:37:17,700
+This completes our search pattern for a head CT.
+
+479
+00:37:18,080 --> 00:37:19,660
+In the first module, we talked about
+
+480
+00:37:19,660 --> 00:37:21,560
+assessment of the ventricular system
+
+481
+00:37:21,560 --> 00:37:23,360
+and extra-axial spaces
+
+482
+00:37:23,360 --> 00:37:25,720
+to get a sense of brain volume,
+
+483
+00:37:26,460 --> 00:37:28,160
+mass effect on the ventricles,
+
+484
+00:37:28,240 --> 00:37:29,440
+as well as hydrocephalus.
+
+485
+00:37:29,980 --> 00:37:32,560
+We talked about different locations
+
+486
+00:37:32,560 --> 00:37:34,480
+for acute intracranial hemorrhage,
+
+487
+00:37:34,860 --> 00:37:36,800
+how acutely this is high in attenuation
+
+488
+00:37:36,800 --> 00:37:38,020
+but evolves with time.
+
+489
+00:37:38,740 --> 00:37:41,400
+We looked at the brain parenchyma itself
+
+490
+00:37:41,400 --> 00:37:43,500
+for masses or mass effect
+
+491
+00:37:43,500 --> 00:37:45,800
+as evidenced by sulcal effacement,
+
+492
+00:37:47,140 --> 00:37:49,400
+abnormalities of the ventricular system
+
+493
+00:37:49,400 --> 00:37:50,340
+as we talked about,
+
+494
+00:37:51,380 --> 00:37:53,020
+effacement of the basal cisterns,
+
+495
+00:37:53,500 --> 00:37:55,220
+and different types of brain herniation.
+
+496
+00:37:56,240 --> 00:37:58,520
+We looked at assessment of the gray-white matter
+
+497
+00:37:58,520 --> 00:38:01,760
+and the fact that there should be
+
+498
+00:38:01,760 --> 00:38:03,360
+a differentiation between the two
+
+499
+00:38:03,360 --> 00:38:05,100
+with the white matter being slightly lower
+
+500
+00:38:05,100 --> 00:38:06,560
+in attenuation than the gray matter.
+
+501
+00:38:07,800 --> 00:38:10,600
+We looked at the different types of edema,
+
+502
+00:38:10,600 --> 00:38:12,780
+both cytotoxic and vasogenic edema,
+
+503
+00:38:12,980 --> 00:38:14,540
+and how this affects the gray-white matter
+
+504
+00:38:14,540 --> 00:38:15,140
+differentiation.
+
+505
+00:38:16,740 --> 00:38:19,780
+Then going outside of the brain parenchyma itself
+
+506
+00:38:19,780 --> 00:38:21,760
+and intracranial contents,
+
+507
+00:38:22,200 --> 00:38:25,060
+we talked about the bones,
+
+508
+00:38:25,560 --> 00:38:27,620
+paranasal sinuses, and mastoid air cells,
+
+509
+00:38:27,700 --> 00:38:30,240
+and assessing the orbits in soft tissue.
+
+510
+00:38:30,940 --> 00:38:33,920
+We saw examples of how assessment
+
+511
+00:38:33,920 --> 00:38:35,660
+of these structures outside
+
+512
+00:38:35,660 --> 00:38:37,220
+the intracranial compartment
+
+513
+00:38:37,220 --> 00:38:38,780
+may help us diagnose
+
+514
+00:38:38,780 --> 00:38:40,680
+important intracranial findings
+
+515
+00:38:40,680 --> 00:38:43,160
+such as extra-axial hematomas
+
+516
+00:38:43,160 --> 00:38:44,640
+in the setting of trauma.
+
+517
+00:38:47,790 --> 00:38:49,390
+Remember that as we evaluate
+
+518
+00:38:49,390 --> 00:38:51,410
+each of these entities,
+
+519
+00:38:51,410 --> 00:38:53,470
+we want to use the appropriate windows.
+
+520
+00:38:53,970 --> 00:38:55,630
+So we're going to use the stroke windows
+
+521
+00:38:55,630 --> 00:38:57,210
+when we're assessing the parenchyma,
+
+522
+00:38:57,370 --> 00:38:58,530
+particularly for the gray-white matter
+
+523
+00:38:58,530 --> 00:38:59,050
+differentiation.
+
+524
+00:38:59,810 --> 00:39:01,750
+We might use the blood windows
+
+525
+00:39:01,750 --> 00:39:02,650
+when trying to assess
+
+526
+00:39:02,650 --> 00:39:04,230
+for acute intracranial hemorrhage.
+
+527
+00:39:04,650 --> 00:39:05,910
+We're going to use bone windows
+
+528
+00:39:05,910 --> 00:39:06,990
+to assess the bones
+
+529
+00:39:06,990 --> 00:39:08,170
+and paranasal sinuses
+
+530
+00:39:08,170 --> 00:39:09,890
+and a soft tissue window
+
+531
+00:39:09,890 --> 00:39:12,750
+to assess the soft tissues
+
+532
+00:39:12,750 --> 00:39:13,590
+and orbits.
+
+533
+00:39:15,090 --> 00:39:16,230
+As we've gone through
+
+534
+00:39:16,230 --> 00:39:17,230
+the search pattern,
+
+535
+00:39:17,490 --> 00:39:19,110
+I've tried to hit the highlights
+
+536
+00:39:19,110 --> 00:39:20,950
+of some basic neuroimaging concepts
+
+537
+00:39:20,950 --> 00:39:22,270
+that you'll need
+
+538
+00:39:22,270 --> 00:39:23,450
+to interpret a head CT.
+
+539
+00:39:24,150 --> 00:39:25,350
+So we talked with assessment
+
+540
+00:39:25,350 --> 00:39:26,450
+of the ventricles.
+
+541
+00:39:26,970 --> 00:39:28,770
+The ventricles can either be too small.
+
+542
+00:39:29,070 --> 00:39:30,750
+We saw cases of over-shunting
+
+543
+00:39:30,750 --> 00:39:32,610
+and diffuse cerebral edema
+
+544
+00:39:32,610 --> 00:39:35,250
+where the ventricles can be too large
+
+545
+00:39:35,250 --> 00:39:37,410
+where the primary differential diagnosis
+
+546
+00:39:37,410 --> 00:39:39,310
+is atrophy or hydrocephalus.
+
+547
+00:39:39,890 --> 00:39:41,450
+We talked about the different types
+
+548
+00:39:41,450 --> 00:39:42,790
+of hydrocephalus,
+
+549
+00:39:42,850 --> 00:39:44,590
+which are essentially all obstructive.
+
+550
+00:39:45,170 --> 00:39:46,630
+However, they are categorized
+
+551
+00:39:46,630 --> 00:39:47,990
+on the level of obstruction,
+
+552
+00:39:48,150 --> 00:39:48,510
+that is,
+
+553
+00:39:48,830 --> 00:39:49,930
+is the obstruction
+
+554
+00:39:49,930 --> 00:39:52,070
+intraventricular or extraventricular.
+
+555
+00:39:53,750 --> 00:39:54,970
+Finally, we talked about
+
+556
+00:39:54,970 --> 00:39:56,610
+the location of masses
+
+557
+00:39:56,610 --> 00:39:57,630
+in fluid collections,
+
+558
+00:39:58,050 --> 00:39:59,430
+whether they are intraaxial,
+
+559
+00:39:59,530 --> 00:40:00,970
+which is within the brain substance,
+
+560
+00:40:01,210 --> 00:40:02,430
+or extraaxial,
+
+561
+00:40:02,530 --> 00:40:04,090
+that is outside the brain substance.
+
+562
+00:40:04,090 --> 00:40:05,870
+This will be very important
+
+563
+00:40:05,870 --> 00:40:07,590
+when trying to come up
+
+564
+00:40:07,590 --> 00:40:08,930
+with a differential diagnosis
+
+565
+00:40:08,930 --> 00:40:10,590
+for intracranial neoplasms.
+
+566
+00:40:11,810 --> 00:40:13,250
+Then we went into discussion
+
+567
+00:40:13,250 --> 00:40:15,510
+of the brain parenchyma
+
+568
+00:40:15,510 --> 00:40:17,550
+and assessing patterns of edema.
+
+569
+00:40:18,050 --> 00:40:19,590
+Remember, vasogenic edema
+
+570
+00:40:19,590 --> 00:40:21,590
+from cellular ischemia and swelling
+
+571
+00:40:21,590 --> 00:40:24,070
+results in loss
+
+572
+00:40:24,070 --> 00:40:25,630
+of gray-white matter differentiation,
+
+573
+00:40:26,470 --> 00:40:27,770
+whereas cytotoxic edema
+
+574
+00:40:27,770 --> 00:40:29,490
+is secondary to leaky capillaries,
+
+575
+00:40:29,610 --> 00:40:30,590
+typically associated
+
+576
+00:40:30,590 --> 00:40:32,130
+with neoplasm or abscess,
+
+577
+00:40:32,130 --> 00:40:33,730
+where that gray-white matter
+
+578
+00:40:33,730 --> 00:40:35,310
+differentiation is maintained.
+
+579
+00:40:36,310 --> 00:40:37,190
+And then finally,
+
+580
+00:40:37,350 --> 00:40:38,510
+probably the most important thing
+
+581
+00:40:38,510 --> 00:40:39,390
+we could have talked about
+
+582
+00:40:39,390 --> 00:40:41,450
+is identifying the different types
+
+583
+00:40:41,450 --> 00:40:42,690
+of herniation
+
+584
+00:40:42,690 --> 00:40:44,410
+and realizing that
+
+585
+00:40:44,410 --> 00:40:45,710
+these are emergent findings,
+
+586
+00:40:45,830 --> 00:40:46,530
+so this is something
+
+587
+00:40:46,530 --> 00:40:48,310
+that needs to be rapidly communicated
+
+588
+00:40:48,310 --> 00:40:50,130
+with the referring service.
+
+589
+00:40:51,410 --> 00:40:52,450
+That brings us
+
+590
+00:40:52,450 --> 00:40:53,630
+to the end of this unit.
+
+591
+00:40:54,350 --> 00:40:54,990
+Please complete
+
+592
+00:40:54,990 --> 00:40:56,130
+the corresponding quiz questions
+
+593
+00:40:56,650 --> 00:40:57,790
+to receive credit
+
+594
+00:40:57,790 --> 00:40:58,610
+for this course.
+
+595
+00:40:58,610 --> 00:41:35,720
+If you would like
+
+596
+00:41:35,720 --> 00:41:36,500
+to receive credit
+
+597
+00:41:36,500 --> 00:41:37,360
+for this course,
+
+598
+00:41:37,940 --> 00:41:39,320
+please click the Log Off button
+
+599
+00:41:39,320 --> 00:41:40,480
+at the bottom of the screen.
+
+600
+00:41:40,480 --> 00:41:40,540
+Thank you.
+
+601
+00:41:40,540 --> 00:41:40,760
+Thank you.
+
+602
+00:41:40,760 --> 00:41:40,860
+Thank you.
+
+603
+00:41:40,860 --> 00:41:40,880
+Thank you.
+
+604
+00:41:40,880 --> 00:41:40,940
+Thank you.
+

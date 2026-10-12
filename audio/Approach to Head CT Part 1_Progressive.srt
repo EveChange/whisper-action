@@ -1,0 +1,1660 @@
+1
+00:00:01,010 --> 00:00:08,290
+This learning module will be part one of a two-part series covering approach to interpretation of a head CT.
+
+2
+00:00:10,190 --> 00:00:17,410
+Following completion of both modules, the learner should be able to evaluate a head CT using a systematic approach
+
+3
+00:00:17,410 --> 00:00:22,790
+and be able to state the five key features to assess when interpreting a head CT.
+
+4
+00:00:23,450 --> 00:00:27,410
+In part one, we're going to concentrate on assessment of ventricular enlargement,
+
+5
+00:00:27,410 --> 00:00:32,290
+categories of hydrocephalus, acute intracranial hemorrhage,
+
+6
+00:00:33,730 --> 00:00:40,290
+including localization of the hemorrhage as either intraaxial or extraaxial in location.
+
+7
+00:00:42,590 --> 00:00:49,850
+As we've talked about in other modules, it is important to have a systematic approach when interpreting an imaging examination.
+
+8
+00:00:50,730 --> 00:00:55,370
+We're going to go through one such search pattern for non-contrast head CT.
+
+9
+00:00:55,370 --> 00:01:01,310
+First, we're going to begin with an overview, looking at the ventricles and extraaxial spaces,
+
+10
+00:01:01,630 --> 00:01:03,910
+getting an idea of brain volume.
+
+11
+00:01:04,930 --> 00:01:09,710
+Then we're going to search specifically for foci of acute intracranial hemorrhage.
+
+12
+00:01:10,730 --> 00:01:13,350
+During this search, we're going to concentrate on the parenchyma,
+
+13
+00:01:13,610 --> 00:01:18,670
+and in addition to looking for hemorrhage, we're going to be looking for gray-white matter differentiation,
+
+14
+00:01:19,110 --> 00:01:22,430
+which will be important when we're assessing for stroke and ischemia.
+
+15
+00:01:22,430 --> 00:01:27,470
+Then we're going to be looking for underlying parenchymal masses or mass effect.
+
+16
+00:01:28,790 --> 00:01:32,050
+For completeness, we need to look at everything on the study,
+
+17
+00:01:32,170 --> 00:01:39,530
+so we're going to then look at bones, the sinus and mastoid air cells to make sure these structures are well aerated,
+
+18
+00:01:39,990 --> 00:01:47,670
+and then finally the orbits and surrounding soft tissues of the scalp and the image portions of the suprahyoid neck.
+
+19
+00:01:47,670 --> 00:01:52,030
+Before getting into the details of the search pattern,
+
+20
+00:01:52,530 --> 00:01:56,170
+let's take a minute to review the concept of windowing as it relates to CT.
+
+21
+00:01:56,990 --> 00:02:01,830
+Remember that CT images are composed of 3D pixels, termed voxels.
+
+22
+00:02:02,810 --> 00:02:05,530
+These voxels are displayed as shades of gray,
+
+23
+00:02:06,430 --> 00:02:09,550
+depending on the attenuation of the tissues that they contain.
+
+24
+00:02:10,330 --> 00:02:13,090
+High attenuation materials are shaded white,
+
+25
+00:02:13,090 --> 00:02:16,150
+whereas low attenuation materials are shaded black.
+
+26
+00:02:17,750 --> 00:02:21,270
+Windowing then sets how these shades of gray are distributed,
+
+27
+00:02:21,890 --> 00:02:24,750
+which will determine how the image appears to us visually.
+
+28
+00:02:25,410 --> 00:02:29,630
+The goal then for windowing is to highlight the tissue of interest.
+
+29
+00:02:30,310 --> 00:02:31,470
+Let's look at some examples.
+
+30
+00:02:31,470 --> 00:02:40,390
+The default window for head CT is typically termed the brain window,
+
+31
+00:02:40,810 --> 00:02:43,310
+which gives a nice overview of the brain parenchyma.
+
+32
+00:02:44,590 --> 00:02:51,190
+We can window the head CT such that the gray-white matter distinction is highlighted.
+
+33
+00:02:51,490 --> 00:02:53,590
+This is the so-called stroke window,
+
+34
+00:02:53,950 --> 00:02:57,410
+and you can see with this window as compared to the brain window,
+
+35
+00:02:57,410 --> 00:03:03,630
+you're able to appreciate the subtle differences in attenuation between the gray matter and the white matter.
+
+36
+00:03:06,080 --> 00:03:07,880
+A blood window, on the other hand,
+
+37
+00:03:07,920 --> 00:03:12,700
+is designed to really bring out the high attenuation hemorrhage,
+
+38
+00:03:13,240 --> 00:03:16,920
+especially along the surface of the brain adjacent to the calvarium.
+
+39
+00:03:18,500 --> 00:03:20,960
+And then finally, as you can see with the bone window,
+
+40
+00:03:21,420 --> 00:03:22,580
+compared to the other windows,
+
+41
+00:03:22,760 --> 00:03:25,780
+you can actually see the detail of the bone.
+
+42
+00:03:25,780 --> 00:03:29,880
+So in this case, you can actually see the difference between the cortical bone,
+
+43
+00:03:30,080 --> 00:03:33,060
+the inner and outer cortex of the calvarium,
+
+44
+00:03:33,280 --> 00:03:35,760
+versus the medullary or diploic space.
+
+45
+00:03:38,170 --> 00:03:40,590
+So as we go through our search pattern,
+
+46
+00:03:40,770 --> 00:03:44,270
+it will be important to remember that we're going to be using all of these different windows.
+
+47
+00:03:44,470 --> 00:03:47,670
+And we're going to choose the window that's going to highlight the tissue
+
+48
+00:03:47,670 --> 00:03:49,230
+that we're interested in evaluating.
+
+49
+00:03:49,890 --> 00:03:52,830
+So we're going to do a general overview in the brain window
+
+50
+00:03:52,830 --> 00:03:56,330
+when we're specifically looking for gray-white matter differentiation
+
+51
+00:03:56,330 --> 00:03:58,510
+or subtle parenchymal lesions.
+
+52
+00:03:58,750 --> 00:04:00,590
+We may look at the stroke window,
+
+53
+00:04:01,070 --> 00:04:03,070
+looking for high attenuation hemorrhage,
+
+54
+00:04:03,170 --> 00:04:05,370
+particularly along the surface of the brain,
+
+55
+00:04:05,450 --> 00:04:06,830
+between the brain and the calvarium.
+
+56
+00:04:07,210 --> 00:04:08,490
+Blood windows may be helpful.
+
+57
+00:04:09,150 --> 00:04:12,170
+An assessment of the bones and paranasal sinuses
+
+58
+00:04:12,170 --> 00:04:15,570
+will be best done with bone windows.
+
+59
+00:04:15,570 --> 00:04:23,420
+This is an example of a structured report for a normal non-contrast head CT.
+
+60
+00:04:24,420 --> 00:04:26,780
+Take a second to read through this,
+
+61
+00:04:27,600 --> 00:04:30,460
+noting the different categories that we're assessing,
+
+62
+00:04:30,760 --> 00:04:34,380
+as well as the pertinent negatives for each of these categories,
+
+63
+00:04:34,960 --> 00:04:38,120
+including a mention of the quality of the examination.
+
+64
+00:04:40,200 --> 00:04:42,660
+Before we get into the details of the search pattern,
+
+65
+00:04:43,020 --> 00:04:44,580
+I just want to take a step back
+
+66
+00:04:44,580 --> 00:04:47,960
+and really focus on the five key features
+
+67
+00:04:47,960 --> 00:04:51,040
+that we need to assess on each and every head CT.
+
+68
+00:04:51,800 --> 00:04:55,520
+We need to evaluate the ventricles and extra-axial spaces.
+
+69
+00:04:55,980 --> 00:04:58,760
+This will give us an overall idea of brain volume.
+
+70
+00:04:59,680 --> 00:05:03,080
+We really need to scrutinize for acute intracranial hemorrhage.
+
+71
+00:05:03,120 --> 00:05:05,040
+This is obviously something we don't want to miss.
+
+72
+00:05:05,960 --> 00:05:07,840
+You're going to look for masses directly,
+
+73
+00:05:08,120 --> 00:05:09,700
+as well as mass effect,
+
+74
+00:05:10,480 --> 00:05:12,640
+including midline displacement of structures.
+
+75
+00:05:12,640 --> 00:05:16,480
+We're going to specifically look at the gray-white matter differentiation,
+
+76
+00:05:17,040 --> 00:05:18,260
+which should be maintained.
+
+77
+00:05:18,720 --> 00:05:20,960
+Loss of this is going to suggest ischemia.
+
+78
+00:05:21,960 --> 00:05:26,060
+And then finally, we want to always assess the basal cisterns.
+
+79
+00:05:26,420 --> 00:05:28,500
+What are their contents, and are they patent?
+
+80
+00:05:31,050 --> 00:05:34,110
+Now let's begin to look into the details of this search pattern.
+
+81
+00:05:34,590 --> 00:05:36,330
+We're going to begin with the ventricles,
+
+82
+00:05:36,970 --> 00:05:38,610
+assessing three key features.
+
+83
+00:05:39,570 --> 00:05:41,770
+First, let's look at the morphology.
+
+84
+00:05:42,330 --> 00:05:43,810
+What are the shape of the ventricles?
+
+85
+00:05:43,810 --> 00:05:46,690
+And in the case of the lateral ventricles, are they symmetric?
+
+86
+00:05:48,270 --> 00:05:50,930
+The overall size of the ventricles will be important.
+
+87
+00:05:51,210 --> 00:05:52,890
+Are they too big or too small?
+
+88
+00:05:53,530 --> 00:05:57,110
+And then finally, the attenuation of the contents of the ventricle,
+
+89
+00:05:57,510 --> 00:05:59,950
+which, remember, should be simple fluid attenuation
+
+90
+00:05:59,950 --> 00:06:03,170
+because ventricles contain cerebrospinal fluid.
+
+91
+00:06:03,490 --> 00:06:07,630
+So we want to make sure that there's no high attenuation hemorrhage within the ventricles.
+
+92
+00:06:07,630 --> 00:06:12,790
+Let's look at some examples of abnormal ventricular morphology.
+
+93
+00:06:13,550 --> 00:06:17,530
+The key at this point is to be cognizant of the fact that you should be assessing
+
+94
+00:06:17,530 --> 00:06:22,270
+for ventricular morphology in symmetry when interpreting a head CT.
+
+95
+00:06:23,090 --> 00:06:28,970
+At this point, you are not going to be able to characterize any or all of these ventricular abnormalities.
+
+96
+00:06:28,970 --> 00:06:33,690
+Just be aware of the fact that you need to be looking for morphology in symmetry.
+
+97
+00:06:35,110 --> 00:06:38,990
+The normal lateral ventricles have a banana or bowtie shape,
+
+98
+00:06:39,250 --> 00:06:45,570
+as illustrated on the right-sided image, which is an axial T2-weighted sequence.
+
+99
+00:06:46,830 --> 00:06:49,090
+Notice the curvilinear or banana shape.
+
+100
+00:06:49,090 --> 00:06:53,870
+Contrast that with the abnormal morphology of the lateral ventricles.
+
+101
+00:06:54,510 --> 00:06:58,050
+In the case on the left, which is an axial CT image,
+
+102
+00:06:59,430 --> 00:07:03,410
+notice the parallel configuration of the lateral ventricles
+
+103
+00:07:03,410 --> 00:07:11,030
+in addition to dilatation of the ventricular trigone or ventricular atrium.
+
+104
+00:07:13,500 --> 00:07:16,400
+This is a case of agenesis of the corpus callosum,
+
+105
+00:07:17,920 --> 00:07:20,580
+resulting in abnormal ventricular morphology.
+
+106
+00:07:20,760 --> 00:07:24,680
+Another case of abnormal morphology.
+
+107
+00:07:25,340 --> 00:07:27,640
+Notice on the normal case on the right,
+
+108
+00:07:28,160 --> 00:07:31,560
+between the lateral ventricles, we're going to have the septum pellucidum,
+
+109
+00:07:31,680 --> 00:07:32,620
+a normal structure.
+
+110
+00:07:33,360 --> 00:07:37,620
+Notice on the case on the left, in this patient with septooptic dysplasia,
+
+111
+00:07:38,080 --> 00:07:40,560
+they have an absent septum pellucidum.
+
+112
+00:07:41,000 --> 00:07:44,300
+So again, at this stage, the important part is not to know the details,
+
+113
+00:07:44,420 --> 00:07:47,280
+but just to be aware of the fact that you should be looking
+
+114
+00:07:47,280 --> 00:07:49,900
+at the underlying morphology of the ventricles.
+
+115
+00:07:49,900 --> 00:07:53,920
+Apart from congenital abnormalities,
+
+116
+00:07:54,240 --> 00:08:01,400
+sometimes subtle asymmetry of the ventricles may be a sign of underlying mass from mass effect.
+
+117
+00:08:01,900 --> 00:08:05,080
+This is an example of a not-so-subtle case
+
+118
+00:08:05,080 --> 00:08:09,520
+where we have the left lateral ventricle being pushed in or effaced,
+
+119
+00:08:09,900 --> 00:08:16,100
+secondary to mass effect from this area of vasogenic edema from underlying metastasis.
+
+120
+00:08:16,100 --> 00:08:20,280
+And we're going to talk about the concept of vasogenic edema a little later on.
+
+121
+00:08:20,280 --> 00:08:27,800
+The key here is asymmetric appearance of the ventricles as an indicator of an underlying mass.
+
+122
+00:08:30,320 --> 00:08:32,480
+The ventricles contain 3-brospinal fluid,
+
+123
+00:08:32,940 --> 00:08:36,320
+so their content should measure simple fluid attenuation.
+
+124
+00:08:36,540 --> 00:08:40,760
+So we want to make sure when we're assessing the ventricles that they contain fluid.
+
+125
+00:08:41,760 --> 00:08:43,860
+They're also going to contain the corroid plexus,
+
+126
+00:08:43,860 --> 00:08:46,340
+as we'll talk about a little later on, which can be a fuller,
+
+127
+00:08:46,340 --> 00:08:50,360
+or it can be a high attenuation focus within the ventricles.
+
+128
+00:08:50,700 --> 00:08:55,240
+But in general, we want to make sure that there's no blood or mass within the ventricles.
+
+129
+00:08:55,900 --> 00:08:59,700
+Here's an example of high attenuation blood replacing the CSF.
+
+130
+00:09:00,140 --> 00:09:02,280
+This is a case of intraventricular hemorrhage.
+
+131
+00:09:02,860 --> 00:09:06,920
+This is caused from an underlying intraparenchymal hematoma
+
+132
+00:09:06,920 --> 00:09:09,620
+that extended then into the ventricle.
+
+133
+00:09:09,620 --> 00:09:13,360
+Assessment of ventricular size will be important.
+
+134
+00:09:13,800 --> 00:09:15,700
+Are the ventricles too large or too small?
+
+135
+00:09:16,440 --> 00:09:20,200
+Small ventricles may be a sequelae of a congenital abnormality,
+
+136
+00:09:20,800 --> 00:09:23,740
+or as in the case shown here, over shunting.
+
+137
+00:09:24,540 --> 00:09:27,340
+So in the case illustrated on this slide,
+
+138
+00:09:27,860 --> 00:09:31,420
+we have successive images from the same patient at a similar level
+
+139
+00:09:31,420 --> 00:09:37,120
+through the lateral ventricles in 2014, 2015, and 2016.
+
+140
+00:09:37,120 --> 00:09:41,620
+If we look at the size of the lateral ventricles specifically here,
+
+141
+00:09:42,380 --> 00:09:46,680
+we can see that with each year, the ventricles get progressively smaller.
+
+142
+00:09:47,240 --> 00:09:52,580
+And this is a case of over shunting as a cause of the decreased ventricular size,
+
+143
+00:09:52,700 --> 00:09:54,580
+an important finding to make in this patient.
+
+144
+00:09:55,980 --> 00:10:00,560
+On the other end of the spectrum, we have dilated ventricles or ventriculomegaly.
+
+145
+00:10:00,560 --> 00:10:06,780
+In practice, you are typically going to be trying to distinguish between hydrocephalus
+
+146
+00:10:06,780 --> 00:10:12,600
+and age-related cerebral atrophy resulting in enlarged ventricles.
+
+147
+00:10:13,040 --> 00:10:17,860
+This can often be very difficult and is a matter of experience and practice.
+
+148
+00:10:20,310 --> 00:10:25,150
+One principle which is important to remember is that brain volume will depend on the age.
+
+149
+00:10:25,670 --> 00:10:29,530
+You will have increasing atrophy of the brain parenchyma with increasing age.
+
+150
+00:10:29,530 --> 00:10:33,550
+So as the brain atrophies, the ventricles become more dilated.
+
+151
+00:10:33,930 --> 00:10:40,050
+As we can see in this example, comparing the brain of a 17-year-old with that of a 77-year-old.
+
+152
+00:10:40,450 --> 00:10:46,350
+Notice in the case of the 77-year-old, there is enlargement of the ventricles and sulci relative
+
+153
+00:10:46,350 --> 00:10:51,810
+to the 17-year-old secondary to atrophy of the brain parenchyma.
+
+154
+00:10:51,810 --> 00:10:57,350
+Now, the question will become clinically, are the ventricles dilated out of proportion to
+
+155
+00:10:57,350 --> 00:10:59,430
+the patient's age or perceived brain volume?
+
+156
+00:10:59,830 --> 00:11:05,090
+This will be a hard distinction for you to make early on, but you just need to be aware
+
+157
+00:11:05,090 --> 00:11:11,590
+of the fact that you need to be assessing for overall brain volume as you evaluate a
+
+158
+00:11:11,590 --> 00:11:12,070
+head CT.
+
+159
+00:11:12,070 --> 00:11:17,980
+This is another example of age-related cerebral atrophy.
+
+160
+00:11:19,040 --> 00:11:23,980
+So with age, the parenchymal volume decreases, which results in relative enlargement of the
+
+161
+00:11:23,980 --> 00:11:30,560
+sulci and ventricles, as shown in this case, where we have relative prominence of the frontal
+
+162
+00:11:30,560 --> 00:11:36,860
+horn of the lateral ventricle, the temporal horn of the lateral ventricle, the fourth ventricle,
+
+163
+00:11:36,860 --> 00:11:39,060
+as well as the sylvian fissures.
+
+164
+00:11:39,060 --> 00:11:44,660
+Don't forget to assess the cerebellar volume as well.
+
+165
+00:11:45,300 --> 00:11:48,640
+You can also see age-related atrophy of the cerebellum.
+
+166
+00:11:49,140 --> 00:11:55,220
+However, if the degree of atrophy appears advanced for age, you need to look into other causes of
+
+167
+00:11:55,220 --> 00:12:01,800
+atrophy, such as chronic alcohol use or chronic use of the seizure medication phenytoin.
+
+168
+00:12:01,980 --> 00:12:09,100
+In this example, we see advanced cerebellar atrophy for age, resulting in enlargement of the
+
+169
+00:12:09,100 --> 00:12:16,060
+fissures of the cerebellum as identified on the axial view, coronal view, and sagittal view.
+
+170
+00:12:19,150 --> 00:12:25,590
+So when assessing potential ventricular enlargement on head CT, you need to ask yourself this question.
+
+171
+00:12:26,290 --> 00:12:30,810
+Are the ventricles dilated out of proportion to the degree of volume loss?
+
+172
+00:12:31,190 --> 00:12:36,430
+If the answer to this is yes, then you need to start thinking about hydrocephalus.
+
+173
+00:12:36,430 --> 00:12:44,250
+So hydrocephalus literally means water on the brain and represents the abnormal collection
+
+174
+00:12:44,250 --> 00:12:48,990
+of cerebrospinal fluid within the brain, resulting in increased intracranial pressure.
+
+175
+00:12:49,670 --> 00:12:52,070
+This comes in two basic forms.
+
+176
+00:12:52,730 --> 00:12:59,070
+The first is termed non-communicating or intraventricular obstructive hydrocephalus, IVOH.
+
+177
+00:12:59,070 --> 00:13:05,970
+And the second form is termed communicating or extraventricular obstructive hydrocephalus.
+
+178
+00:13:08,600 --> 00:13:14,980
+So I think it's best to think about all forms of hydrocephalus as being obstructive, as was
+
+179
+00:13:14,980 --> 00:13:16,360
+implied on the prior slide.
+
+180
+00:13:17,140 --> 00:13:20,940
+The classification is actually going to depend on the level of obstruction.
+
+181
+00:13:20,940 --> 00:13:28,240
+So with non-communicating or intraventricular obstructive hydrocephalus, the obstruction
+
+182
+00:13:28,240 --> 00:13:32,880
+is going to be within the ventricles or at the ventricular outflow levels.
+
+183
+00:13:33,460 --> 00:13:38,960
+So this is termed non-communicating relative to the ventricles in the sense that if there's
+
+184
+00:13:38,960 --> 00:13:45,560
+a blockage within the ventricles, that the ventricles don't communicate with one another.
+
+185
+00:13:45,560 --> 00:13:53,960
+Now, communicating hydrocephalus or extraventricular obstructive hydrocephalus means that there is
+
+186
+00:13:53,960 --> 00:14:01,080
+communication within the parts of the ventricular system, but the obstruction is present, but
+
+187
+00:14:01,080 --> 00:14:07,260
+it happens to be distal to the fourth ventricular outlet foramen, which are the foramen of Magendi
+
+188
+00:14:07,260 --> 00:14:07,840
+and Lushka.
+
+189
+00:14:10,530 --> 00:14:16,770
+So in summary, think of all hydrocephalus as obstruction with the category of obstruction depending
+
+190
+00:14:16,770 --> 00:14:18,790
+on the level of the abnormality.
+
+191
+00:14:19,390 --> 00:14:23,510
+Is it within the ventricles or is it distal to the fourth ventricular outlet foramen?
+
+192
+00:14:26,320 --> 00:14:30,920
+To understand the image and appearance of the different types of hydrocephalus, we need
+
+193
+00:14:30,920 --> 00:14:37,960
+to understand the CSF circulation and the principle that ventricular dilatation will be proximal
+
+194
+00:14:37,960 --> 00:14:42,680
+to the level of obstruction based on this CSF flow pattern.
+
+195
+00:14:42,680 --> 00:14:48,560
+So we're going to have the cerebrospinal fluid, which is produced in the ventricles by the
+
+196
+00:14:48,560 --> 00:14:49,400
+coroid plexus.
+
+197
+00:14:49,540 --> 00:14:57,780
+So we're going to follow the CSF as it starts out in the lateral ventricle, flows through
+
+198
+00:14:57,780 --> 00:15:06,000
+the foramen of Monroe into the third ventricle, through the cerebral aqueduct into the fourth
+
+199
+00:15:06,000 --> 00:15:13,240
+ventricle, and then it will flow out through the fourth ventricular outlet foramen, medially
+
+200
+00:15:13,240 --> 00:15:17,020
+which will be Magendi, and laterally which will be the foramen of Lushka.
+
+201
+00:15:18,840 --> 00:15:25,060
+The CSF will then circulate around the cord, around the cerebral convexities, and eventually
+
+202
+00:15:25,060 --> 00:15:27,420
+be resorbed by the arachnoid granulations.
+
+203
+00:15:27,420 --> 00:15:36,560
+The boundary between the level of obstruction that's considered interventricular or non-communicating
+
+204
+00:15:36,560 --> 00:15:41,560
+hydrocephalus, and that which is considered communicating or extraventricular obstructive
+
+205
+00:15:41,560 --> 00:15:46,920
+hydrocephalus, is the fourth ventricular outlet foramen, as shown here.
+
+206
+00:15:48,240 --> 00:15:54,560
+Once the CSF moves beyond these outlet foramen, it will circulate around the spinal cord and
+
+207
+00:15:54,560 --> 00:16:01,160
+brain along the cerebral convexities, and eventually be resorbed by the arachnoid granulations.
+
+208
+00:16:02,020 --> 00:16:07,320
+So obstruction at the level of the arachnoid villi, such as might occur with subarachnoid
+
+209
+00:16:07,320 --> 00:16:13,740
+hemorrhage, where you have blood plugging up the arachnoid granulations, this would be considered
+
+210
+00:16:13,740 --> 00:16:18,320
+communicating or extraventricular obstructive hydrocephalus.
+
+211
+00:16:18,680 --> 00:16:25,860
+Now let's see how these principles apply to clinical practice and evaluation of the
+
+212
+00:16:25,860 --> 00:16:27,080
+ventricular enlargement.
+
+213
+00:16:27,520 --> 00:16:32,280
+Here we have ventricles which are dilated out of proportion to the degree of volume loss.
+
+214
+00:16:32,700 --> 00:16:35,420
+The question is, what ventricles are dilated?
+
+215
+00:16:35,940 --> 00:16:39,860
+So we're going to have enlargement of the lateral ventricles, as we see here.
+
+216
+00:16:40,540 --> 00:16:45,740
+The third ventricle is quite large, but if you'll notice the fourth ventricle, that's normal.
+
+217
+00:16:46,160 --> 00:16:50,520
+So let's think about the pattern and the flow of CSF with the principle that we're going
+
+218
+00:16:50,520 --> 00:16:55,020
+to get ventricular enlargement proximal to the level of obstruction.
+
+219
+00:16:55,380 --> 00:16:57,800
+Where do you think the level of obstruction is here?
+
+220
+00:16:58,680 --> 00:17:03,540
+Again, we have dilated third and lateral ventricles with a normal fourth ventricle.
+
+221
+00:17:03,740 --> 00:17:10,620
+So this would be an example of non-communicating or intraventricular obstructive hydrocephalus.
+
+222
+00:17:10,620 --> 00:17:15,960
+That is, the obstruction is within the ventricles itself, so that the ventricles are not communicating
+
+223
+00:17:15,960 --> 00:17:16,680
+with each other.
+
+224
+00:17:17,160 --> 00:17:22,680
+And based on this pattern, the level of obstruction should be at the level of the cerebral aqueduct,
+
+225
+00:17:23,240 --> 00:17:30,040
+therefore giving you dilatation proximal to this with respect to CSF flow within the
+
+226
+00:17:30,040 --> 00:17:35,000
+lateral and third ventricles, but a normal fourth ventricle which is distal to the obstruction.
+
+227
+00:17:35,000 --> 00:17:42,220
+This is another example of ventricular enlargement out of proportion to the degree of parenchymal
+
+228
+00:17:42,220 --> 00:17:42,960
+volume loss.
+
+229
+00:17:43,740 --> 00:17:46,360
+What is the pattern of ventricular enlargement?
+
+230
+00:17:46,780 --> 00:17:49,080
+We're going to have dilated lateral ventricles.
+
+231
+00:17:49,480 --> 00:17:54,820
+Here we see the body of the lateral ventricle dilated, and even more importantly, as it is
+
+232
+00:17:54,820 --> 00:18:01,660
+often the best indicator of dilatation of the lateral ventricles, you can see here the temporal
+
+233
+00:18:01,660 --> 00:18:04,760
+horn of the lateral ventricle is dilated.
+
+234
+00:18:05,820 --> 00:18:10,240
+In this case, the third ventricle and the fourth ventricle are also dilated.
+
+235
+00:18:11,300 --> 00:18:17,180
+So our pattern is diffuse enlargement of the intraventricular system, which would be an example
+
+236
+00:18:17,180 --> 00:18:22,320
+of communicating or extraventricular obstructive hydrocephalus.
+
+237
+00:18:23,060 --> 00:18:27,880
+Here the level of obstruction was assumed to be at the arachnoid villi.
+
+238
+00:18:27,880 --> 00:18:40,140
+The key to correctly answering this question is the ability to identify the pattern of ventricular
+
+239
+00:18:40,140 --> 00:18:40,740
+enlargement.
+
+240
+00:18:41,200 --> 00:18:47,500
+In this case, as is typical, the assessment of the lateral ventricles is best done on the
+
+241
+00:18:47,500 --> 00:18:48,320
+temporal horns.
+
+242
+00:18:48,580 --> 00:18:51,700
+Here we can see the temporal horns of the lateral ventricles are dilated.
+
+243
+00:18:52,440 --> 00:18:54,020
+The frontal horns are also dilated.
+
+244
+00:18:54,740 --> 00:18:59,960
+However, the third ventricle is shown here, and the fourth ventricle is shown here, are
+
+245
+00:18:59,960 --> 00:19:00,960
+normal in caliber.
+
+246
+00:19:00,960 --> 00:19:09,100
+However, so given this pattern and our knowledge of CSF flow dynamics, we know the level of obstruction
+
+247
+00:19:09,100 --> 00:19:11,220
+has to be within the ventricular system.
+
+248
+00:19:11,780 --> 00:19:14,840
+Specifically, this is at the level of the foramen of Monroe.
+
+249
+00:19:15,520 --> 00:19:20,360
+And if we look closely at this area, we can actually see a mass, which is a colloid cyst,
+
+250
+00:19:20,360 --> 00:19:27,360
+at the foramen of Monroe, obstructing the flow of CSF, resulting in proximal ventricular dilatation
+
+251
+00:19:27,360 --> 00:19:32,020
+and the distal ventricles being decompressed or normal in caliber.
+
+252
+00:19:32,460 --> 00:19:39,660
+Now that we've assessed the ventricles and sulci and have gotten an idea of the brain volume
+
+253
+00:19:39,660 --> 00:19:44,600
+and whether or not hydrocephalus is present, we want to turn our attention to the detection
+
+254
+00:19:44,600 --> 00:19:47,060
+of acute intracranial hemorrhage.
+
+255
+00:19:47,060 --> 00:19:52,480
+To evaluate for acute hemorrhage will be a common indication for ordering a non-contrast
+
+256
+00:19:52,480 --> 00:19:53,500
+head CT.
+
+257
+00:19:54,700 --> 00:20:01,360
+The key is the high attenuation of the acute hemorrhage, typically ranging on the order
+
+258
+00:20:01,360 --> 00:20:08,460
+of 40 to 70 Hounsfield units, where typical simple fluid or water attenuation ranges from
+
+259
+00:20:08,460 --> 00:20:10,920
+approximately 0 to 20 Hounsfield units.
+
+260
+00:20:10,920 --> 00:20:17,340
+And as we see in this case, we have an intracerebral hematoma in the right frontal region.
+
+261
+00:20:17,680 --> 00:20:25,010
+Before we get too far into the discussion of localizing hemorrhage, I think it will be
+
+262
+00:20:25,010 --> 00:20:36,310
+worthwhile to discuss an imaging concept that is central to determining the etiology of intracranial
+
+263
+00:20:36,310 --> 00:20:36,750
+masses.
+
+264
+00:20:36,750 --> 00:20:43,150
+That is, when we see an abnormal collection or mass within the cranium, we need to categorize
+
+265
+00:20:43,150 --> 00:20:50,070
+it as either being intraaxial, implying it's within the brain parenchyma itself, versus
+
+266
+00:20:50,070 --> 00:20:54,950
+extraaxial, which is actually external to the brain substance.
+
+267
+00:20:55,330 --> 00:20:59,870
+This will be very helpful in providing a differential diagnosis for intracranial masses.
+
+268
+00:21:02,400 --> 00:21:05,520
+Intraaxial masses are within the brain parenchyma.
+
+269
+00:21:05,520 --> 00:21:10,460
+Here we have three different examples of intraaxial abnormalities.
+
+270
+00:21:11,060 --> 00:21:18,640
+On the CT image on our left, we have a large intraaxial or intraparenchymal hematoma.
+
+271
+00:21:18,940 --> 00:21:24,460
+Again, that high attenuation of acute hemorrhage on non-contrast head CT is evident.
+
+272
+00:21:25,900 --> 00:21:33,020
+The case in the middle is an axial T2 flare image showing signal abnormality on the right side,
+
+273
+00:21:33,020 --> 00:21:34,620
+secondary to a metastasis.
+
+274
+00:21:36,060 --> 00:21:42,960
+And then finally, we have a T1-weighted image on the left showing an intraaxial signal abnormality,
+
+275
+00:21:43,520 --> 00:21:48,520
+secondary to ischemia in the MCA territory.
+
+276
+00:21:49,860 --> 00:21:56,560
+All of these abnormalities are within the brain substance and would be categorized as intraaxial.
+
+277
+00:21:56,560 --> 00:22:04,160
+Extraaxial masses, on the other hand, are actually external to the brain substance itself.
+
+278
+00:22:05,360 --> 00:22:13,320
+This is a case of a meningioma, a tumor arising from the meninges, which are along the surface
+
+279
+00:22:13,320 --> 00:22:13,940
+of the brain.
+
+280
+00:22:14,440 --> 00:22:20,360
+In this case, the mass is outside the brain substance, but pushing into the substance of
+
+281
+00:22:20,360 --> 00:22:22,120
+the brain resulting in mass effect.
+
+282
+00:22:23,580 --> 00:22:28,420
+This is another example of an extraaxial mass, again a meningioma.
+
+283
+00:22:29,460 --> 00:22:35,140
+The key here is to recognize that the mass is actually external to the brain substance,
+
+284
+00:22:35,140 --> 00:22:40,920
+although it is pushing in on the temporal lobe, exerting mass effect on the brain.
+
+285
+00:22:40,920 --> 00:22:47,720
+Notice that the gray matter ribbon, as shown in the axial T2-weighted sequence on the left,
+
+286
+00:22:48,080 --> 00:22:54,420
+is actually displaced inward by the mass with an intervening cleft, a cerebrospinal fluid.
+
+287
+00:22:55,140 --> 00:23:01,360
+We see that same finding on the coronal T2-weighted image on the right.
+
+288
+00:23:02,360 --> 00:23:07,420
+Again, that displacement of the gray matter ribbon with intervening CSF.
+
+289
+00:23:07,420 --> 00:23:17,110
+Let's take a close-up view of the axial T2-weighted image in this case to really highlight the critical
+
+290
+00:23:17,110 --> 00:23:23,390
+findings to definitively categorize this mass as being extraaxial in origin.
+
+291
+00:23:23,830 --> 00:23:29,570
+We have the mass, as indicated by the asterisk, located in the anterior aspect of the left
+
+292
+00:23:29,570 --> 00:23:32,650
+middle cranial fossa, pushing in on the temporal lobe.
+
+293
+00:23:33,490 --> 00:23:36,870
+We're going to have inward displacement of that gray matter ribbon.
+
+294
+00:23:36,870 --> 00:23:44,770
+And finally, we see that cleft of cerebrospinal fluid insinuating between the mass itself
+
+295
+00:23:44,770 --> 00:23:47,110
+and the underlying gray matter.
+
+296
+00:23:48,070 --> 00:23:52,630
+These are definitive signs for the mass being extraaxial in origin.
+
+297
+00:23:59,520 --> 00:24:01,420
+So this is a little bit of a trick question.
+
+298
+00:24:02,080 --> 00:24:06,420
+On the provided image, the mass certainly looks like it's within the brain substance.
+
+299
+00:24:06,420 --> 00:24:13,900
+However, if you look on the coronal view, as shown on the left, we can see that the mass
+
+300
+00:24:13,900 --> 00:24:20,120
+has a broad base of attachment to the floor of the middle cranial fossa and is actually
+
+301
+00:24:20,120 --> 00:24:21,280
+extraaxial.
+
+302
+00:24:21,700 --> 00:24:27,640
+However, this mimics an intraaxial mass on the axial image shown in the question and also
+
+303
+00:24:27,640 --> 00:24:29,820
+shown on this slide on the right.
+
+304
+00:24:29,820 --> 00:24:34,760
+The key here is simply to be aware of this pitfall and that you really need to view a
+
+305
+00:24:34,760 --> 00:24:40,320
+mass in different planes when you're trying to categorize it as being intraaxial or extraaxial.
+
+306
+00:24:41,920 --> 00:24:47,820
+Now that we have a firm grasp of the concept of intraaxial and extraaxial, let's turn our
+
+307
+00:24:47,820 --> 00:24:52,360
+attention back specifically to localizing acute intracranial hemorrhage.
+
+308
+00:24:52,360 --> 00:24:59,040
+As in this example, and as we have previously discussed, acute intracranial hemorrhage will
+
+309
+00:24:59,040 --> 00:25:00,240
+be high in attenuation.
+
+310
+00:25:00,700 --> 00:25:05,840
+In this example, we have a round high attenuation mass consistent with blood.
+
+311
+00:25:06,760 --> 00:25:10,460
+Notice its location is intraaxial within the brain parenchyma.
+
+312
+00:25:11,260 --> 00:25:17,160
+And also note there is mild edema within the adjacent white matter, as you can see by the
+
+313
+00:25:17,160 --> 00:25:22,640
+slight decreased attenuation of the white matter adjacent to the mass.
+
+314
+00:25:24,920 --> 00:25:28,000
+Extraaxial hemorrhage can come in a variety of forms.
+
+315
+00:25:28,880 --> 00:25:35,760
+In the example on the left, we're going to have a collection of blood superficial to the dura.
+
+316
+00:25:36,260 --> 00:25:37,860
+This is an epidural hematoma.
+
+317
+00:25:39,320 --> 00:25:42,580
+Here we have a collection that is subdural in location.
+
+318
+00:25:42,580 --> 00:25:51,210
+Notice this collection of blood manifests itself as high attenuation within one of the sulci
+
+319
+00:25:51,210 --> 00:25:55,430
+of the cerebral hemisphere, in keeping with subarachnoid hemorrhage.
+
+320
+00:25:56,330 --> 00:26:02,550
+And then finally, we have an example of high attenuation within the ventricular system, representing
+
+321
+00:26:02,550 --> 00:26:05,410
+intraventricular hematoma.
+
+322
+00:26:07,520 --> 00:26:13,180
+While typically it is straightforward to localize subarachnoid and intraventricular hemorrhage,
+
+323
+00:26:13,180 --> 00:26:19,020
+distinguishing between epidural and subdural hematomas may sometimes be difficult.
+
+324
+00:26:19,740 --> 00:26:25,700
+In this example, we're going to look at a coronal schematic view of the brain to try
+
+325
+00:26:25,700 --> 00:26:30,740
+to highlight the differences in appearance and location of subdural and epidural hematomas.
+
+326
+00:26:31,320 --> 00:26:36,120
+We're going to begin by looking at the dura itself, which is made up of two layers.
+
+327
+00:26:36,120 --> 00:26:47,880
+You're going to have the superficial dural layer outlined in dark gray with the inner dura indicated
+
+328
+00:26:47,880 --> 00:26:48,780
+by light gray.
+
+329
+00:26:49,580 --> 00:26:56,680
+Notice that the layers of the inner dura split at the midline to create the dural venous sinuses,
+
+330
+00:26:56,680 --> 00:27:01,280
+as indicated by the asterisks, in this case, the superior sagittal sinus.
+
+331
+00:27:01,280 --> 00:27:14,440
+Epidural hematomas will be collections superficial to the outer layer of the dura, as indicated
+
+332
+00:27:14,440 --> 00:27:24,000
+by the arrow, while subdural hematomas will collect deep to the inner layer of the dura, as indicated
+
+333
+00:27:24,000 --> 00:27:37,120
+here. Understanding this normal dural anatomy will be key to appreciation of the imaging features
+
+334
+00:27:37,120 --> 00:27:41,720
+of subdural and epidural hematomas that we'll discuss in the next few slides.
+
+335
+00:27:43,500 --> 00:27:49,180
+Subdural hematomas, as shown here, follow the inner layer of the dura.
+
+336
+00:27:49,800 --> 00:27:55,160
+Given the dural anatomy, we can see that this collection will actually round the bend, so to speak,
+
+337
+00:27:55,160 --> 00:28:02,920
+to follow the falx or the tentorium, and will not cross the midline, as in the coronal schematic
+
+338
+00:28:02,920 --> 00:28:08,720
+we saw in the prior slide, and also will not cross from super-tentorial to infra-tentorial,
+
+339
+00:28:09,920 --> 00:28:16,820
+given this same concept in dural anatomy. It often has a chryscentic shape on axial view,
+
+340
+00:28:17,320 --> 00:28:23,400
+as indicated in this example. It is not affected by the sutures of the skull, as we'll discuss,
+
+341
+00:28:23,400 --> 00:28:30,100
+this is a characteristic of an epidural hematoma, and the source of the bleed is typically a cortical
+
+342
+00:28:30,100 --> 00:28:38,380
+vein, so these are typically venous in origin. Epidural hematomas form superficial to this outer
+
+343
+00:28:38,380 --> 00:28:46,160
+layer of the dura, and as such can cross the midline along the falx, or can cross between the
+
+344
+00:28:46,160 --> 00:28:52,380
+super-tentorial and infra-tentorial compartments along the tentorium. They are not limited by this
+
+345
+00:28:52,380 --> 00:28:59,360
+split in the inner layer of the dura, as are subdural hematomas. However, they may be limited
+
+346
+00:28:59,360 --> 00:29:07,280
+by sutures, as the dura is tightly adherent to the sutures. On axial images, epidurals are often
+
+347
+00:29:07,280 --> 00:29:16,600
+different lentiform in shape, as we can see in this example. Unlike subdural hematomas, which are
+
+348
+00:29:16,600 --> 00:29:24,200
+typically venous in origin, epidural hematomas are classically associated with arterial bleeding,
+
+349
+00:29:25,080 --> 00:29:31,640
+often because of an underlying skull fracture. So, on the soft tissue or brain parenchymal windows
+
+350
+00:29:31,640 --> 00:29:38,280
+on the left, we can see a left frontal epidural hematoma with its characteristic lentiform shape.
+
+351
+00:29:38,280 --> 00:29:45,540
+If we use bone windows to help us get an idea of the underlying calvarium, we can see that this is
+
+352
+00:29:45,540 --> 00:29:53,340
+associated with a minimally displaced calvarial fracture. Subarachnoid hemorrhage is typically
+
+353
+00:29:53,340 --> 00:29:58,280
+pretty straightforward, at least in concept. It can sometimes be subtle and be hard to detect,
+
+354
+00:29:59,080 --> 00:30:07,060
+but in this space, the hemorrhage will follow the CSF spaces. So, on our example on the left,
+
+355
+00:30:07,060 --> 00:30:13,660
+we have a subtle area of high attenuation within a sulcus. This is subtle subarachnoid
+
+356
+00:30:13,660 --> 00:30:20,240
+hemorrhage. The case on the right is not so subtle. Remember that the basal cisterns are these
+
+357
+00:30:20,240 --> 00:30:26,720
+reservoirs for CSF at the skull base, and we can see extensive subarachnoid hemorrhage replacing a
+
+358
+00:30:26,720 --> 00:30:36,060
+normal fluid attenuation of the basal cisterns. A potential pitfall in assessing for acute
+
+359
+00:30:36,060 --> 00:30:42,440
+intracranial hemorrhage on head CT is the presence of calcifications, which can also be high attenuation.
+
+360
+00:30:43,200 --> 00:30:48,360
+Here are three examples of commonly encountered calcifications that you will see on a head CT.
+
+361
+00:30:49,160 --> 00:30:55,760
+On the case on the left, we have calcification within the basal ganglia. As evident in this case,
+
+362
+00:30:56,160 --> 00:31:02,780
+symmetric involvement is often a clue that this represents calcification and not hemorrhage.
+
+363
+00:31:02,780 --> 00:31:11,140
+In the middle case, we identify calcification of the coroid plexus. And then finally, on the case
+
+364
+00:31:11,140 --> 00:31:18,960
+on the right, we see calcification within the pineal gland. So, when you identify subtle high
+
+365
+00:31:18,960 --> 00:31:25,620
+attenuation within, or when you're evaluating a head CT, always keep in the back of your mind,
+
+366
+00:31:25,720 --> 00:31:38,200
+could this potentially be calcification? The first thing we want to notice about this collection
+
+367
+00:31:38,200 --> 00:31:44,400
+is that it is displacing the gray matter inward. So, this would be expected to be superficial to the
+
+368
+00:31:44,400 --> 00:31:50,580
+brain substance itself, indicative of an extra-axial fluid collection. On axial images,
+
+369
+00:31:50,880 --> 00:31:57,740
+the chrysanthic shape is characteristic of a subdural hematoma. It is also fairly common for
+
+370
+00:31:57,740 --> 00:32:04,380
+subdural hematomas to spread out over a fairly large area within the hemisphere. On the other hand,
+
+371
+00:32:04,380 --> 00:32:10,620
+epidural hematomas will typically assume a lenticular shape on axial images, while the subarachnoid hemorrhage
+
+372
+00:32:10,620 --> 00:32:16,920
+will follow the sulci and be located within the basal cisterns, again, the CSF spaces.
+
+373
+00:32:17,380 --> 00:32:25,820
+So far, we've discussed the identification of acute intracranial hemorrhage by its characteristic
+
+374
+00:32:25,820 --> 00:32:32,660
+high attenuation. However, we need to be cognizant of the fact that this attenuation will vary
+
+375
+00:32:32,660 --> 00:32:40,200
+depending on the time between the bleed and when the patient is imaged. So, in this example,
+
+376
+00:32:40,620 --> 00:32:46,540
+we have a hyperdense or acute subdural hematoma as shown by the arrow on the left-sided image.
+
+377
+00:32:46,980 --> 00:32:51,600
+This is the characteristic appearance of acute intracranial hemorrhage as we've discussed.
+
+378
+00:32:52,380 --> 00:32:58,280
+However, as you'll notice with time, these are different patients in different locations of the
+
+379
+00:32:58,280 --> 00:33:05,860
+bleed. We can see that the attenuation of the hematoma will decrease. So, for example, with a
+
+380
+00:33:05,860 --> 00:33:13,200
+chronic hematoma as imaged on the right side, the right-handed image, we have a hypodense
+
+381
+00:33:13,200 --> 00:33:21,220
+collection along the right frontal lobe. Notice that as the hematoma goes from hyperdense relative
+
+382
+00:33:21,220 --> 00:33:27,460
+to the brain parenchyma to hypodense, there will be a phase in between, usually in the subacute
+
+383
+00:33:27,460 --> 00:33:34,820
+phase, where that hematoma will be isodense to the underlying gray matter and will be difficult to
+
+384
+00:33:34,820 --> 00:33:41,720
+detect, as we can see in the middle image where there's a subtle left frontal hematoma. Isodense
+
+385
+00:33:41,720 --> 00:33:49,240
+or isoattenuating to the underlying gray matter. Let's take a closer look of the case where we have
+
+386
+00:33:49,240 --> 00:33:55,980
+an isodense subdural. That is, when the subdural hematoma is isoattenuating or the same attenuation
+
+387
+00:33:55,980 --> 00:34:01,780
+as the underlying gray matter, such that it blends in with the gray matter and is difficult to identify.
+
+388
+00:34:02,420 --> 00:34:10,980
+What are some of the clues that we can use to identify the presence of this hematoma? Well, this is
+
+389
+00:34:10,980 --> 00:34:18,340
+the same example where we see a subtle isodense left subdural hematoma. One of the things that we can
+
+390
+00:34:18,340 --> 00:34:24,640
+look for is actually buckling of the underlying white matter. So if you compare the white matter
+
+391
+00:34:24,640 --> 00:34:29,940
+in terms of symmetry between right and left, you can see in this example how the left-sided
+
+392
+00:34:29,940 --> 00:34:35,060
+white matter is buckled in from the mass effect from the adjacent subdural hematoma.
+
+393
+00:34:35,940 --> 00:34:43,560
+In older patients, this may manifest itself as a lack of expected sulci, or asymmetric appearance of
+
+394
+00:34:43,560 --> 00:34:49,060
+the sulci. These can be very hard to detect, though, if they are bilateral and symmetric.
+
+395
+00:34:51,750 --> 00:34:57,570
+In this module, we began our discussion of a systematic search pattern for interpreting a head CT.
+
+396
+00:34:58,470 --> 00:35:03,590
+We covered assessment of the ventricles and extra-axial spaces, as well as the evaluation
+
+397
+00:35:03,590 --> 00:35:09,150
+for acute intracranial hemorrhage. One thing we need to keep in the back of our mind as we
+
+398
+00:35:09,150 --> 00:35:14,210
+go through our search pattern is that we may need to use different windows to highlight the tissue
+
+399
+00:35:14,210 --> 00:35:22,050
+that we're specifically evaluating for in that portion of the search pattern. In part two, we'll
+
+400
+00:35:22,050 --> 00:35:28,450
+complete our discussion of the search pattern after we discuss parenchymal evaluation, as well as
+
+401
+00:35:28,450 --> 00:35:36,260
+evaluation of the bones and surrounding soft tissues. To summarize the basic imaging concepts that we've
+
+402
+00:35:36,260 --> 00:35:42,660
+learned about in this module, we began with discussion of the ventricles, and particularly the ventricular
+
+403
+00:35:42,660 --> 00:35:49,140
+size. Are the ventricles too large or too small? In the case of large ventricles, we addressed the key
+
+404
+00:35:49,140 --> 00:35:55,140
+question that you need to think about in interpretation. That is, are the ventricles dilated out of proportion
+
+405
+00:35:55,140 --> 00:36:05,080
+to the degree of parenchymal volume loss? That is, are we dealing with age-related atrophy or hydrocephalus?
+
+406
+00:36:05,080 --> 00:36:12,040
+We then talked about the different types or categories of hydrocephalus and how to evaluate
+
+407
+00:36:12,040 --> 00:36:17,240
+a head CT to distinguish which category of disease we're dealing with based on the pattern
+
+408
+00:36:17,240 --> 00:36:23,960
+of ventricular enlargement. Then finally, we moved on to the detection of acute intracranial hemorrhage,
+
+409
+00:36:24,680 --> 00:36:32,200
+talking about localization of fluid collections and masses as either intraaxial or within the substance
+
+410
+00:36:32,200 --> 00:36:41,320
+of the brain versus extra-axial. We finally went into distinguishing the different types of extra-axial
+
+411
+00:36:42,440 --> 00:36:48,680
+fluid collections with an emphasis on distinguishing subdural from epidural hematomas based on our
+
+412
+00:36:48,680 --> 00:36:56,360
+knowledge of normal dural anatomy. And then we ended by our discussion of the expected evolution that
+
+413
+00:36:56,360 --> 00:37:06,450
+we would have in terms of its attenuation of intracranial extra-axial hematomas. This brings us to the end of
+
+414
+00:37:06,450 --> 00:37:50,400
+the unit. Please complete the corresponding quiz questions to receive credit for this course. If you would like
+
+415
+00:37:50,400 --> 00:37:55,920
+to receive credit for this course, please click the log off button at the bottom of the screen.
+

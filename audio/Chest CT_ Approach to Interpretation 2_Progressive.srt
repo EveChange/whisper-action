@@ -1,0 +1,1944 @@
+1
+00:00:05,490 --> 00:00:10,650
+This is the second part of a two-part module covering an approach to interpretation of chest CT.
+
+2
+00:00:12,290 --> 00:00:20,310
+Following completion of this module, you should be able to employ a systematic search pattern during interpretation of a chest CT.
+
+3
+00:00:22,010 --> 00:00:28,790
+Evaluation of the lymph nodes, mediastinum, heart, and pericardium was covered in detail in Module 1.
+
+4
+00:00:28,790 --> 00:00:38,270
+In this module, we will cover evaluation of the pleura, the lungs, and central airways, as well as the bones and body wall.
+
+5
+00:00:40,580 --> 00:00:44,760
+An example normal dictation with pertinent negatives for these sites is shown here.
+
+6
+00:00:45,500 --> 00:00:49,420
+For example, a normal dictation might read as follows.
+
+7
+00:00:50,120 --> 00:00:53,080
+There is no pleural effusion, mass, or thickening.
+
+8
+00:00:53,580 --> 00:00:55,120
+The central airways are patent.
+
+9
+00:00:56,020 --> 00:00:56,980
+The lungs are clear.
+
+10
+00:00:56,980 --> 00:00:59,700
+There are no suspicious pulmonary nodules.
+
+11
+00:01:00,820 --> 00:01:04,040
+There are no aggressive body wall or osseous findings.
+
+12
+00:01:05,540 --> 00:01:09,580
+Remember that the normal pleura is essentially imperceptible on CT,
+
+13
+00:01:10,220 --> 00:01:15,200
+and that the pleural space, that is the space between the visceral and parietal layers of the pleura,
+
+14
+00:01:15,980 --> 00:01:19,000
+can get filled with fluid, gas, or both.
+
+15
+00:01:19,240 --> 00:01:26,440
+So evaluation of the pleura should include assessment for pleural thickening, mass, or abnormal enhancement,
+
+16
+00:01:26,440 --> 00:01:30,900
+as well as for the presence of pleural effusion, or pneumothorax.
+
+17
+00:01:32,220 --> 00:01:35,760
+A pneumothorax is diagnosed when gas is present in the pleural space.
+
+18
+00:01:35,760 --> 00:01:43,760
+Unless loculated, the gas will collect in the non-dependent pleural space, which is anterior in a supine patient,
+
+19
+00:01:43,760 --> 00:01:49,300
+and there will be displacement of the visceral pleural line, as shown here.
+
+20
+00:01:49,300 --> 00:01:57,620
+Pleural effusions can be secondary to accumulation of simple fluid, that is, a transudate,
+
+21
+00:01:57,900 --> 00:02:04,440
+or complex fluid, termed an exudate of effusion, such as from hemorrhage, malignancy, or infection.
+
+22
+00:02:04,440 --> 00:02:11,920
+When reporting findings of a pleural effusion, you want to measure the attenuation value of the pleural fluid
+
+23
+00:02:11,920 --> 00:02:14,260
+to determine if it's simple fluid or not.
+
+24
+00:02:14,900 --> 00:02:20,560
+You also want to identify if it is layering as expected for a free-flowing effusion,
+
+25
+00:02:20,980 --> 00:02:24,900
+that is, along the non-dependent portion of the pleural cavity.
+
+26
+00:02:25,240 --> 00:02:29,760
+In a supine patient, that will be along the posterior pleural cavity.
+
+27
+00:02:29,760 --> 00:02:34,620
+Finally, you want to identify if there is any associated pleural mass or thickening.
+
+28
+00:02:35,620 --> 00:02:38,920
+The image on the left is an example of a simple pleural effusion,
+
+29
+00:02:39,100 --> 00:02:43,680
+which is layering as expected along the non-dependent portion of the pleural cavity,
+
+30
+00:02:44,260 --> 00:02:48,400
+with the meniscus effect along the lateral aspect of the pleural cavity.
+
+31
+00:02:49,560 --> 00:02:54,340
+Contrast that with the complex fluid collection on the right.
+
+32
+00:02:54,340 --> 00:02:59,380
+In this case, the fluid measures higher than simple fluid attenuation,
+
+33
+00:02:59,760 --> 00:03:04,440
+and there is associated irregular pleural thickening and enhancement.
+
+34
+00:03:05,340 --> 00:03:10,400
+This is an example of an exudative effusion from a malignancy.
+
+35
+00:03:11,820 --> 00:03:15,620
+Here are two examples of pleural effusions which are not free-flowing,
+
+36
+00:03:15,840 --> 00:03:20,720
+that is, they are not layering along the non-dependent pleural cavity.
+
+37
+00:03:21,220 --> 00:03:25,900
+Instead, they are isolated to a fixed pocket within the pleural space.
+
+38
+00:03:25,900 --> 00:03:27,940
+This is termed loculation.
+
+39
+00:03:28,600 --> 00:03:33,960
+The image on the left shows a lentiform collection in the left pleural space,
+
+40
+00:03:34,060 --> 00:03:36,680
+so a loculated left pleural fluid collection.
+
+41
+00:03:37,160 --> 00:03:43,480
+The image on the right shows a left-sided pleural effusion tracking anteriorly and laterally
+
+42
+00:03:43,480 --> 00:03:50,480
+along the non-dependent portion of the thorax in a supine patient consistent with loculation.
+
+43
+00:03:50,480 --> 00:03:57,300
+A hydropneumothorax refers to the presence of both fluid and gas within the pleural space,
+
+44
+00:03:57,400 --> 00:03:58,540
+as shown in this example.
+
+45
+00:03:59,980 --> 00:04:05,840
+The lung windows nicely identify the gas within the non-dependent portion of the pleural space,
+
+46
+00:04:06,160 --> 00:04:10,620
+while the image on the right, shown in soft tissue windows,
+
+47
+00:04:11,200 --> 00:04:17,640
+nicely displays the fluid component in the dependent aspect of the right pleural cavity.
+
+48
+00:04:17,640 --> 00:04:23,880
+Note the gas-fluid level at the interface between the gas and fluid components.
+
+49
+00:04:24,920 --> 00:04:28,440
+And finally, the presence of a right-sided chest strain.
+
+50
+00:04:30,560 --> 00:04:34,360
+Now let's move on to evaluation of the lungs and central airways.
+
+51
+00:04:34,940 --> 00:04:39,200
+A commonly overlooked site on chest CT is the central airways,
+
+52
+00:04:39,520 --> 00:04:41,720
+including the trachea and main stem bronchi.
+
+53
+00:04:41,720 --> 00:04:46,280
+These structures should be assessed for abnormalities in location,
+
+54
+00:04:46,920 --> 00:04:49,480
+that is secondary to displacement from adjacent masses,
+
+55
+00:04:50,200 --> 00:04:54,000
+abnormalities in caliber, including both narrowing and enlargement,
+
+56
+00:04:54,480 --> 00:04:57,160
+and finally for intraluminal masses,
+
+57
+00:04:57,820 --> 00:05:02,000
+which in most cases actually represent adherent mucus,
+
+58
+00:05:02,520 --> 00:05:05,100
+but in some cases may represent neoplasms.
+
+59
+00:05:07,000 --> 00:05:11,840
+Shown here are some examples of displacement and intraluminal masses.
+
+60
+00:05:11,840 --> 00:05:18,500
+The image on the left shows a left paratracheal mass,
+
+61
+00:05:18,800 --> 00:05:22,260
+resulting in rightward displacement of the trachea.
+
+62
+00:05:22,840 --> 00:05:26,920
+The remaining two images show examples of intraluminal masses,
+
+63
+00:05:27,600 --> 00:05:33,920
+essentially filling defects within the air column of the trachea on the middle image,
+
+64
+00:05:34,600 --> 00:05:39,480
+and in the right main stem bronchus on the right-sided image.
+
+65
+00:05:39,480 --> 00:05:46,360
+The assessment of the lower airways should include a search for the presence of bronchiectasis,
+
+66
+00:05:47,000 --> 00:05:49,680
+bronchial wall thickening, and air trapping.
+
+67
+00:05:51,680 --> 00:05:55,960
+Bronchiectasis refers to the irreversible dilatation of the bronchi.
+
+68
+00:05:56,180 --> 00:05:58,980
+It can be both localized or diffuse.
+
+69
+00:06:00,060 --> 00:06:02,480
+Bronchiectasis has many potential etiologies.
+
+70
+00:06:02,480 --> 00:06:09,860
+CT findings include enlargement of the bronchi such that the diameter of the bronchus
+
+71
+00:06:09,860 --> 00:06:13,140
+is greater than that of the adjacent pulmonary artery branch.
+
+72
+00:06:14,100 --> 00:06:18,280
+There is a lack of bronchial tapering as you move from central to peripheral,
+
+73
+00:06:18,280 --> 00:06:25,480
+and bronchi within the peripheral one centimeter of the lung often become visible.
+
+74
+00:06:25,980 --> 00:06:32,580
+The image on the left is an axial CT showing diffuse bronchiectasis.
+
+75
+00:06:33,020 --> 00:06:39,800
+The image on the right also shows diffuse bronchiectasis on this coronal CT
+
+76
+00:06:39,800 --> 00:06:44,000
+with associated bronchial wall thickening and mucus plugging,
+
+77
+00:06:44,440 --> 00:06:47,500
+for example, in the left upper lobe, as shown here.
+
+78
+00:06:50,930 --> 00:06:56,850
+As its name implies, bronchial wall thickening simply refers to the abnormal thickening
+
+79
+00:06:56,850 --> 00:07:03,130
+of the wall of the bronchus itself, as shown here in these examples.
+
+80
+00:07:05,640 --> 00:07:08,260
+Bronchial wall thickening has multiple causes,
+
+81
+00:07:08,500 --> 00:07:12,420
+but is typically secondary to infection or inflammation.
+
+82
+00:07:12,420 --> 00:07:16,760
+It may or may not be associated with bronchiectasis.
+
+83
+00:07:19,240 --> 00:07:23,440
+Diseases of the small airways can cause air trapping.
+
+84
+00:07:24,240 --> 00:07:29,100
+Air trapping manifests on imaging as focal areas of hyperlucency,
+
+85
+00:07:29,640 --> 00:07:30,860
+as shown in this example.
+
+86
+00:07:31,860 --> 00:07:35,460
+These are typically identified on expiratory images.
+
+87
+00:07:36,340 --> 00:07:39,880
+The patchy nature of the air trapping and hyperlucency
+
+88
+00:07:39,880 --> 00:07:42,940
+actually results in a heterogeneous appearance
+
+89
+00:07:42,940 --> 00:07:47,700
+of the lung parenchyma termed mosaic attenuation.
+
+90
+00:07:48,640 --> 00:07:51,260
+Mosaic attenuation will be discussed in more detail
+
+91
+00:07:51,260 --> 00:07:53,300
+a little later on in this module.
+
+92
+00:08:00,640 --> 00:08:03,580
+This case shows a left-sided pneumothorax
+
+93
+00:08:03,580 --> 00:08:06,340
+with gas collecting in the non-dependent portion
+
+94
+00:08:06,340 --> 00:08:09,340
+of the left pleural space in this supine patient.
+
+95
+00:08:10,180 --> 00:08:13,980
+Also note visualization of the displaced visceral pleural line.
+
+96
+00:08:13,980 --> 00:08:18,200
+Evaluation of the lungs should include an assessment
+
+97
+00:08:18,200 --> 00:08:21,320
+of the overall lung volume and attenuation,
+
+98
+00:08:21,640 --> 00:08:25,240
+including symmetry between the right and left lungs.
+
+99
+00:08:26,080 --> 00:08:29,580
+In addition to overall abnormalities,
+
+100
+00:08:30,080 --> 00:08:32,160
+you need to identify focal abnormalities
+
+101
+00:08:32,160 --> 00:08:34,700
+within the lung parenchyma that are either increased
+
+102
+00:08:34,700 --> 00:08:37,680
+or decreased in attenuation relative
+
+103
+00:08:37,680 --> 00:08:39,400
+to the normal renal parenchyma.
+
+104
+00:08:41,560 --> 00:08:43,600
+Evaluation of the lung parenchyma should begin
+
+105
+00:08:43,600 --> 00:08:47,120
+with an overall assessment of lung volume,
+
+106
+00:08:47,600 --> 00:08:49,020
+attenuation, and symmetry.
+
+107
+00:08:49,660 --> 00:08:52,720
+The image on the left shows the hyperinflated,
+
+108
+00:08:53,160 --> 00:08:55,080
+lucent lungs typical of emphysema.
+
+109
+00:08:55,700 --> 00:08:58,660
+The middle image shows an overall increase
+
+110
+00:08:58,660 --> 00:09:00,900
+in attenuation of the lung parenchyma
+
+111
+00:09:00,900 --> 00:09:03,360
+secondary to pulmonary fibrosis.
+
+112
+00:09:03,940 --> 00:09:08,340
+Finally, the right-sided image shows variable lung attenuation
+
+113
+00:09:08,340 --> 00:09:12,240
+that results in a heterogeneous appearance of the lung parenchyma,
+
+114
+00:09:12,760 --> 00:09:15,260
+often termed mosaic attenuation.
+
+115
+00:09:16,360 --> 00:09:18,120
+Mosaic attenuation is a finding
+
+116
+00:09:18,120 --> 00:09:20,520
+with multiple possible etiologies.
+
+117
+00:09:22,340 --> 00:09:24,500
+Emphysema refers to the abnormal
+
+118
+00:09:24,500 --> 00:09:26,940
+and permanent enlargement of the airspaces
+
+119
+00:09:26,940 --> 00:09:28,500
+distal to the terminal bronchial,
+
+120
+00:09:29,060 --> 00:09:31,620
+accompanied by the destruction of their walls.
+
+121
+00:09:31,620 --> 00:09:36,180
+On imaging, this results in low attenuation
+
+122
+00:09:36,180 --> 00:09:38,980
+of the lung parenchyma with lucent areas
+
+123
+00:09:38,980 --> 00:09:40,620
+that lack visible walls,
+
+124
+00:09:40,780 --> 00:09:44,540
+and that will be in contrast to lung parenchymal cysts.
+
+125
+00:09:45,400 --> 00:09:48,500
+And finally, there is a paucity of pulmonary vessels.
+
+126
+00:09:51,810 --> 00:09:56,070
+Note the hyperinflated lucent lung shown in this image.
+
+127
+00:09:56,670 --> 00:09:58,630
+In particular, in the circled area,
+
+128
+00:09:59,450 --> 00:10:02,510
+note that these lucent areas lack visible walls,
+
+129
+00:10:02,510 --> 00:10:06,070
+and there is a paucity of pulmonary vasculature.
+
+130
+00:10:08,800 --> 00:10:10,800
+Please pause and take a minute to review
+
+131
+00:10:10,800 --> 00:10:13,460
+the three types of emphysema
+
+132
+00:10:13,460 --> 00:10:17,340
+as classified on the basis of involvement
+
+133
+00:10:17,340 --> 00:10:20,060
+of the secondary pulmonary lobule.
+
+134
+00:10:22,100 --> 00:10:23,980
+Those three types of emphysema
+
+135
+00:10:23,980 --> 00:10:26,240
+are illustrated on this slide.
+
+136
+00:10:26,660 --> 00:10:29,680
+The image on the left shows central lobular emphysema.
+
+137
+00:10:29,900 --> 00:10:32,700
+If you look closely within the circled area,
+
+138
+00:10:32,700 --> 00:10:36,960
+you can see subtle lucencies that lack visible walls.
+
+139
+00:10:37,880 --> 00:10:40,580
+This is in an upper lung predominant distribution,
+
+140
+00:10:40,800 --> 00:10:42,940
+characteristic of central lobular emphysema.
+
+141
+00:10:43,400 --> 00:10:48,200
+The image in the middle shows paraceptal emphysema
+
+142
+00:10:48,200 --> 00:10:51,860
+with its characteristic subplural distribution.
+
+143
+00:10:52,900 --> 00:10:56,480
+And then finally, we have extensive panlobular emphysema,
+
+144
+00:10:56,480 --> 00:11:00,520
+typically associated with alpha-1 antitrypsin deficiency,
+
+145
+00:11:01,160 --> 00:11:03,580
+often with a lower lung predominance.
+
+146
+00:11:05,970 --> 00:11:08,210
+On the other side of the spectrum
+
+147
+00:11:08,210 --> 00:11:10,490
+in terms of lung volume and attenuation,
+
+148
+00:11:10,970 --> 00:11:12,970
+we have fibrosis.
+
+149
+00:11:13,510 --> 00:11:15,530
+Here are examples of a patient
+
+150
+00:11:15,530 --> 00:11:17,930
+with end-stage interstitial lung disease
+
+151
+00:11:17,930 --> 00:11:19,970
+resulting in pulmonary fibrosis.
+
+152
+00:11:20,630 --> 00:11:23,410
+Here you can see fibrosis is associated
+
+153
+00:11:23,410 --> 00:11:25,190
+with diminished lung volumes
+
+154
+00:11:25,190 --> 00:11:29,570
+as well as overall increased parenchymal attenuation.
+
+155
+00:11:31,660 --> 00:11:33,040
+As previously mentioned,
+
+156
+00:11:33,400 --> 00:11:37,460
+mosaic attenuation is a finding, not a diagnosis.
+
+157
+00:11:38,080 --> 00:11:41,280
+There are multiple potential causes of mosaic attenuation.
+
+158
+00:11:42,020 --> 00:11:44,180
+And mosaic attenuation actually refers
+
+159
+00:11:44,180 --> 00:11:46,560
+to the variable lung attenuation
+
+160
+00:11:46,560 --> 00:11:50,780
+resulting in a heterogeneous appearance
+
+161
+00:11:50,780 --> 00:11:52,640
+of the lung parenchyma.
+
+162
+00:11:53,300 --> 00:11:57,120
+The key is to realize that sometimes the abnormality
+
+163
+00:11:57,120 --> 00:12:00,740
+is in the areas of increased attenuation,
+
+164
+00:12:01,140 --> 00:12:03,120
+while in other cases the abnormality
+
+165
+00:12:03,120 --> 00:12:06,760
+is represented by the lucent areas.
+
+166
+00:12:07,320 --> 00:12:09,240
+For example, mosaic attenuation
+
+167
+00:12:09,240 --> 00:12:12,600
+secondary to air trapping and vascular problems,
+
+168
+00:12:13,060 --> 00:12:14,720
+including chronic pulmonary embly,
+
+169
+00:12:16,980 --> 00:12:20,240
+these etiologies result in mosaic attenuation
+
+170
+00:12:20,240 --> 00:12:23,540
+in which the lucent regions are abnormal.
+
+171
+00:12:25,830 --> 00:12:28,030
+Ground glass opacities, on the other hand,
+
+172
+00:12:28,710 --> 00:12:30,630
+can result in mosaic attenuation.
+
+173
+00:12:31,250 --> 00:12:33,990
+In these cases, the opaque regions
+
+174
+00:12:33,990 --> 00:12:36,550
+represent the regions of pathology.
+
+175
+00:12:38,070 --> 00:12:41,330
+Moving on to more focal abnormalities
+
+176
+00:12:41,330 --> 00:12:42,810
+within the lung,
+
+177
+00:12:43,730 --> 00:12:46,050
+those that will cause increased attenuation
+
+178
+00:12:46,050 --> 00:12:48,910
+include ground glass and airspace opacities,
+
+179
+00:12:49,370 --> 00:12:51,270
+as well as interstitial opacities,
+
+180
+00:12:51,270 --> 00:12:54,230
+atelectasis, as well as nodules and masses.
+
+181
+00:12:55,290 --> 00:12:57,050
+Here we want to first distinguish
+
+182
+00:12:57,050 --> 00:12:59,990
+what is meant by a ground glass opacity
+
+183
+00:12:59,990 --> 00:13:02,830
+versus an airspace opacity.
+
+184
+00:13:03,570 --> 00:13:06,290
+Ground glass opacity refers to an increase
+
+185
+00:13:06,290 --> 00:13:08,330
+in lung attenuation
+
+186
+00:13:08,330 --> 00:13:12,110
+with preserved bronchial and vascular markings.
+
+187
+00:13:12,190 --> 00:13:14,590
+That is, you can see the pulmonary vasculature
+
+188
+00:13:14,590 --> 00:13:17,070
+and bronchi through the opacity.
+
+189
+00:13:17,070 --> 00:13:21,010
+This is illustrated on the image on the left.
+
+190
+00:13:21,610 --> 00:13:24,350
+Note that you are still able to visualize
+
+191
+00:13:24,350 --> 00:13:26,450
+the pulmonary vessels and bronchi
+
+192
+00:13:26,450 --> 00:13:29,450
+through that opacity.
+
+193
+00:13:30,250 --> 00:13:32,850
+In contrast, airspace disease results
+
+194
+00:13:33,730 --> 00:13:37,130
+in obscured bronchial and vascular markings
+
+195
+00:13:37,130 --> 00:13:39,570
+as shown on the image on the right.
+
+196
+00:13:40,250 --> 00:13:41,850
+Here we have increased attenuation
+
+197
+00:13:42,450 --> 00:13:44,010
+from airspace disease,
+
+198
+00:13:44,010 --> 00:13:46,810
+but note that we cannot really make out
+
+199
+00:13:46,810 --> 00:13:49,290
+the bronchial or vascular markings
+
+200
+00:13:49,290 --> 00:13:51,030
+within this opacity.
+
+201
+00:13:51,790 --> 00:13:55,810
+We can identify a more proximal bronchus
+
+202
+00:13:55,810 --> 00:13:57,070
+that is larger in caliber
+
+203
+00:13:57,070 --> 00:13:58,750
+that becomes visible secondary
+
+204
+00:13:58,750 --> 00:14:03,030
+to the adjacent airspace filling process.
+
+205
+00:14:03,030 --> 00:14:05,270
+This is termed an air bronchogram.
+
+206
+00:14:07,470 --> 00:14:09,470
+Ground glass and airspace opacities
+
+207
+00:14:09,470 --> 00:14:12,150
+should be differentiated from atelectasis.
+
+208
+00:14:13,230 --> 00:14:15,810
+The key imaging finding in atelectasis
+
+209
+00:14:15,810 --> 00:14:17,890
+is that of volume loss.
+
+210
+00:14:18,750 --> 00:14:22,430
+There are multiple signs on imaging of volume loss,
+
+211
+00:14:22,750 --> 00:14:25,010
+including shift of fissures.
+
+212
+00:14:25,790 --> 00:14:29,550
+In this example, we can see that the left major
+
+213
+00:14:29,550 --> 00:14:33,010
+or oblique fissure is shifted posteriorly
+
+214
+00:14:33,010 --> 00:14:35,450
+secondary to left lower lobe collapse.
+
+215
+00:14:36,230 --> 00:14:39,050
+Also note that you can see air bronchograms
+
+216
+00:14:39,050 --> 00:14:40,630
+associated with atelectasis,
+
+217
+00:14:40,750 --> 00:14:43,090
+although air bronchograms are classically
+
+218
+00:14:43,090 --> 00:14:45,710
+described with airspace disease.
+
+219
+00:14:46,710 --> 00:14:49,270
+If intravenous contrast is administered,
+
+220
+00:14:49,270 --> 00:14:52,590
+the collapsed lung parenchyma
+
+221
+00:14:52,590 --> 00:14:54,050
+should enhance normally.
+
+222
+00:14:56,520 --> 00:14:58,260
+Interstitial disease can manifest
+
+223
+00:14:58,260 --> 00:15:00,660
+as thickening of the axial interstitium,
+
+224
+00:15:01,280 --> 00:15:03,120
+the peripheral interstitium, or both.
+
+225
+00:15:04,040 --> 00:15:06,640
+This interstitial thickening can be smooth,
+
+226
+00:15:06,760 --> 00:15:09,080
+which is typical of etiologies
+
+227
+00:15:09,080 --> 00:15:10,520
+such as pulmonary edema,
+
+228
+00:15:10,840 --> 00:15:13,340
+or nodular, which can be identified
+
+229
+00:15:13,340 --> 00:15:16,280
+with lymphatic spread of neoplasm,
+
+230
+00:15:17,360 --> 00:15:20,000
+also called lymphatic carcinomatosis.
+
+231
+00:15:20,760 --> 00:15:25,480
+This example shows smooth thickening
+
+232
+00:15:25,480 --> 00:15:28,460
+of the peripheral interstitium characteristic
+
+233
+00:15:28,460 --> 00:15:30,060
+of pulmonary edema.
+
+234
+00:15:32,460 --> 00:15:34,060
+Interstitial disease may result
+
+235
+00:15:34,060 --> 00:15:35,780
+in pulmonary fibrosis,
+
+236
+00:15:35,880 --> 00:15:38,020
+which, as we have already discussed,
+
+237
+00:15:38,120 --> 00:15:40,860
+results in overall diminished lung volumes
+
+238
+00:15:40,860 --> 00:15:44,320
+and increased lung parenchymal attenuation.
+
+239
+00:15:45,800 --> 00:15:49,080
+Additional findings include interstitial thickening,
+
+240
+00:15:49,120 --> 00:15:51,660
+in this case subplural in location,
+
+241
+00:15:51,800 --> 00:15:56,180
+that is, just deep to the visceral pleural surface.
+
+242
+00:15:56,180 --> 00:15:59,280
+Note that this is a prone image
+
+243
+00:15:59,280 --> 00:16:03,680
+to help distinguish this subplural interstitial thickening
+
+244
+00:16:03,680 --> 00:16:07,040
+from atelectasis if the patient were supine.
+
+245
+00:16:10,530 --> 00:16:14,250
+The image on the right shows dilated bronchi
+
+246
+00:16:14,250 --> 00:16:17,030
+in the region of pulmonary fibrosis.
+
+247
+00:16:17,910 --> 00:16:20,310
+That's termed traction bronchiectasis.
+
+248
+00:16:20,750 --> 00:16:22,290
+The bronchi become dilated
+
+249
+00:16:22,290 --> 00:16:25,630
+because of fibrosis in the adjacent lung.
+
+250
+00:16:25,630 --> 00:16:28,710
+And then finally, we see honeycombing,
+
+251
+00:16:29,250 --> 00:16:30,730
+which describes the appearance
+
+252
+00:16:30,730 --> 00:16:32,850
+of these cystic airspaces
+
+253
+00:16:32,850 --> 00:16:35,450
+with thick defined walls
+
+254
+00:16:35,450 --> 00:16:37,430
+that are subplural in location
+
+255
+00:16:37,430 --> 00:16:40,030
+and tend to occur in multiple layers.
+
+256
+00:16:40,130 --> 00:16:41,230
+As you can see here,
+
+257
+00:16:41,810 --> 00:16:44,710
+these little cysts are sort of stacked on each other.
+
+258
+00:16:45,230 --> 00:16:48,230
+That is in contrast to the appearance
+
+259
+00:16:48,230 --> 00:16:50,050
+of paraceptal emphysema,
+
+260
+00:16:50,330 --> 00:16:52,730
+which is also subplural in location,
+
+261
+00:16:52,730 --> 00:16:55,270
+but occurs as a single layer.
+
+262
+00:16:57,010 --> 00:16:58,810
+Pulmonary nodules and masses
+
+263
+00:16:58,810 --> 00:17:02,610
+can also result in focal increased attenuation
+
+264
+00:17:02,610 --> 00:17:05,050
+within the background normal parenchyma.
+
+265
+00:17:05,510 --> 00:17:07,630
+The distinction between a lung nodule
+
+266
+00:17:07,630 --> 00:17:09,070
+and a lung mass
+
+267
+00:17:09,070 --> 00:17:11,630
+is made simply on the basis of size,
+
+268
+00:17:12,050 --> 00:17:17,330
+with nodules measuring less than 3 centimeters
+
+269
+00:17:17,330 --> 00:17:20,890
+and masses measuring over 3 centimeters.
+
+270
+00:17:22,490 --> 00:17:25,550
+Some sources of focal decreased
+
+271
+00:17:25,550 --> 00:17:27,710
+lung parenchymal attenuation
+
+272
+00:17:27,710 --> 00:17:31,330
+include cavities, cysts, and bullae.
+
+273
+00:17:32,070 --> 00:17:36,110
+The image on the left reflects a pulmonary cavity.
+
+274
+00:17:36,110 --> 00:17:39,050
+I would think of this as a pulmonary mass or nodule
+
+275
+00:17:39,050 --> 00:17:42,190
+that underwent central necrosis.
+
+276
+00:17:42,190 --> 00:17:44,570
+And that liquefied lung parenchyma
+
+277
+00:17:44,570 --> 00:17:48,870
+gets absorbed by the proximal airways
+
+278
+00:17:48,870 --> 00:17:51,230
+resulting in a central cavity
+
+279
+00:17:51,230 --> 00:17:53,830
+that may be gas or fluid filled.
+
+280
+00:17:54,370 --> 00:17:56,510
+But this cavity will have a thick wall.
+
+281
+00:17:57,530 --> 00:17:59,650
+That's in contrast to the middle image
+
+282
+00:17:59,650 --> 00:18:03,570
+which shows a cluster of pulmonary cysts.
+
+283
+00:18:03,690 --> 00:18:06,330
+Now cyst is a nonspecific term
+
+284
+00:18:06,330 --> 00:18:08,770
+that describes a thin-walled structure,
+
+285
+00:18:08,770 --> 00:18:11,690
+so something less than 3 millimeters
+
+286
+00:18:11,690 --> 00:18:12,910
+in terms of wall thickness.
+
+287
+00:18:13,430 --> 00:18:15,050
+These tend to be well-defined
+
+288
+00:18:15,050 --> 00:18:18,530
+and may contain gas or fluid or both
+
+289
+00:18:18,530 --> 00:18:22,490
+and are larger than 1 centimeter in diameter.
+
+290
+00:18:23,310 --> 00:18:26,810
+And then finally, a bullae is shown
+
+291
+00:18:26,810 --> 00:18:29,610
+on the image on the right.
+
+292
+00:18:29,850 --> 00:18:32,690
+This represents a sharply demarcated area
+
+293
+00:18:32,690 --> 00:18:34,990
+of emphysema that's larger
+
+294
+00:18:34,990 --> 00:18:37,750
+or equal to 1 centimeter in diameter
+
+295
+00:18:37,750 --> 00:18:41,090
+with a thin wall typically defined
+
+296
+00:18:41,090 --> 00:18:44,810
+as less than 1 millimeter in thickness.
+
+297
+00:18:47,950 --> 00:18:49,650
+Assessment of pulmonary nodules
+
+298
+00:18:49,650 --> 00:18:53,390
+should include evaluation of the nodule size,
+
+299
+00:18:54,390 --> 00:18:56,130
+the margins of the nodule,
+
+300
+00:18:56,210 --> 00:18:58,270
+whether they're smooth or speculated,
+
+301
+00:18:58,830 --> 00:19:01,330
+the overall morphology of the nodule,
+
+302
+00:19:02,170 --> 00:19:03,770
+as well as its composition.
+
+303
+00:19:04,430 --> 00:19:07,430
+Is there any evidence for calcification or fat,
+
+304
+00:19:07,430 --> 00:19:09,870
+or could this be a vascular abnormality
+
+305
+00:19:09,870 --> 00:19:11,950
+like a pulmonary AVM?
+
+306
+00:19:13,230 --> 00:19:14,990
+If there are multiple nodules,
+
+307
+00:19:15,150 --> 00:19:18,270
+it is important to assess the number,
+
+308
+00:19:18,390 --> 00:19:19,950
+that is, single versus multiple,
+
+309
+00:19:20,410 --> 00:19:23,070
+as well as the distribution in the case
+
+310
+00:19:23,070 --> 00:19:24,790
+of multiple pulmonary nodules.
+
+311
+00:19:26,650 --> 00:19:29,310
+Classic imaging features of pulmonary nodules
+
+312
+00:19:29,310 --> 00:19:32,770
+secondary to hematogenous spread of malignancy
+
+313
+00:19:32,770 --> 00:19:34,110
+are shown here.
+
+314
+00:19:34,890 --> 00:19:36,110
+In particular, these nodules
+
+315
+00:19:36,110 --> 00:19:40,230
+are typically well-defined with smooth margins.
+
+316
+00:19:40,830 --> 00:19:42,590
+They tend to be multiple in number
+
+317
+00:19:42,590 --> 00:19:45,230
+and predominate in the lower lung
+
+318
+00:19:45,230 --> 00:19:48,850
+given that the blood flow is greatest in the lung bases.
+
+319
+00:19:50,940 --> 00:19:53,560
+Contrast the well-defined smooth margins
+
+320
+00:19:53,560 --> 00:19:55,760
+of the hematogenous metastasis
+
+321
+00:19:55,760 --> 00:19:58,840
+with the margins of this nodule.
+
+322
+00:19:59,760 --> 00:20:01,620
+Note the speculated appearance
+
+323
+00:20:01,620 --> 00:20:03,680
+at the outer margin of the nodule
+
+324
+00:20:03,680 --> 00:20:05,360
+at the interface between the nodule
+
+325
+00:20:05,360 --> 00:20:06,340
+and lung parenchyma,
+
+326
+00:20:06,860 --> 00:20:07,580
+as shown here.
+
+327
+00:20:08,460 --> 00:20:11,020
+Speculated margins are suspicious
+
+328
+00:20:11,020 --> 00:20:13,940
+for primary lung neoplasms.
+
+329
+00:20:15,080 --> 00:20:17,140
+The composition or makeup
+
+330
+00:20:17,140 --> 00:20:19,260
+of a pulmonary nodule is important,
+
+331
+00:20:20,000 --> 00:20:22,120
+especially the presence of fat or calcium,
+
+332
+00:20:22,120 --> 00:20:25,580
+as this often signifies a benign nodule.
+
+333
+00:20:26,360 --> 00:20:28,120
+Although the presence of calcium
+
+334
+00:20:28,120 --> 00:20:31,180
+is often indicative of a benign finding,
+
+335
+00:20:31,380 --> 00:20:33,300
+not all patterns of calcification,
+
+336
+00:20:33,620 --> 00:20:35,540
+in fact, are benign.
+
+337
+00:20:36,240 --> 00:20:38,100
+Benign patterns of calcification
+
+338
+00:20:38,100 --> 00:20:41,860
+include centrally located calcification,
+
+339
+00:20:42,060 --> 00:20:43,880
+that is, the calcification is noted
+
+340
+00:20:43,880 --> 00:20:47,620
+in the center of the nodule,
+
+341
+00:20:48,560 --> 00:20:49,760
+diffuse calcification,
+
+342
+00:20:50,500 --> 00:20:52,020
+laminar calcification,
+
+343
+00:20:52,180 --> 00:20:54,320
+where the calcification occurs in layers,
+
+344
+00:20:54,320 --> 00:20:57,020
+and, finally, a popcorn appearance
+
+345
+00:20:57,020 --> 00:20:58,340
+of calcification.
+
+346
+00:20:59,320 --> 00:21:03,020
+Stippled or eccentric calcification patterns
+
+347
+00:21:03,020 --> 00:21:04,260
+are indeterminate
+
+348
+00:21:04,260 --> 00:21:05,480
+and can be identified
+
+349
+00:21:05,480 --> 00:21:09,800
+in both benign and malignant etiologies.
+
+350
+00:21:09,800 --> 00:21:13,540
+Please pause the video
+
+351
+00:21:13,540 --> 00:21:15,180
+and take a minute to assess
+
+352
+00:21:15,180 --> 00:21:16,880
+both of these pulmonary nodules.
+
+353
+00:21:17,880 --> 00:21:20,380
+Is the pattern of calcification benign
+
+354
+00:21:20,380 --> 00:21:22,780
+or indeterminate?
+
+355
+00:21:24,470 --> 00:21:27,170
+In the example on the image on the left,
+
+356
+00:21:27,850 --> 00:21:31,250
+note that the nodule shows diffuse calcification,
+
+357
+00:21:32,250 --> 00:21:34,690
+a finding consistent with a benign etiology,
+
+358
+00:21:35,270 --> 00:21:37,030
+typically a pulmonary granuloma.
+
+359
+00:21:37,030 --> 00:21:42,530
+In contrast, the nodule on the right-sided image
+
+360
+00:21:42,530 --> 00:21:45,690
+shows calcification that is eccentric
+
+361
+00:21:45,690 --> 00:21:47,130
+within the nodule.
+
+362
+00:21:47,930 --> 00:21:51,970
+This is an indeterminate pattern of calcification.
+
+363
+00:21:54,920 --> 00:21:57,580
+Hamartomas are benign neoplasms of the lung.
+
+364
+00:21:58,180 --> 00:22:00,800
+The key imaging findings to make this diagnosis
+
+365
+00:22:00,800 --> 00:22:03,540
+are the presence of fat within a nodule,
+
+366
+00:22:03,540 --> 00:22:07,580
+as shown on the image on the left,
+
+367
+00:22:08,520 --> 00:22:11,320
+and or the presence of calcification
+
+368
+00:22:11,320 --> 00:22:12,420
+within the nodule.
+
+369
+00:22:12,960 --> 00:22:15,740
+The characteristic calcification pattern
+
+370
+00:22:15,740 --> 00:22:18,220
+associated with hamartomas
+
+371
+00:22:18,220 --> 00:22:22,580
+is termed a popcorn pattern of calcification
+
+372
+00:22:22,580 --> 00:22:27,120
+given its resemblance to a popped kernel of corn.
+
+373
+00:22:34,900 --> 00:22:36,240
+Remember that the distinction
+
+374
+00:22:36,240 --> 00:22:38,260
+between a pulmonary nodule and mass
+
+375
+00:22:38,260 --> 00:22:39,800
+is based on size alone,
+
+376
+00:22:39,920 --> 00:22:42,380
+with nodules being less than or equal to 3 centimeters
+
+377
+00:22:42,380 --> 00:22:44,880
+and pulmonary masses being greater
+
+378
+00:22:44,880 --> 00:22:46,860
+than 3 centimeters in size.
+
+379
+00:22:48,140 --> 00:22:50,860
+In the case of multiple pulmonary nodules,
+
+380
+00:22:51,320 --> 00:22:52,660
+the distribution is important.
+
+381
+00:22:53,940 --> 00:22:57,200
+In particular, the distribution of multiple small nodules
+
+382
+00:22:57,200 --> 00:23:00,500
+can be a key factor in determining their etiology.
+
+383
+00:23:01,420 --> 00:23:03,780
+Small nodule distribution can be characterized
+
+384
+00:23:03,780 --> 00:23:08,060
+as centrilobular, perilymphatic, and random.
+
+385
+00:23:10,480 --> 00:23:13,500
+Centrilobular nodules are located centrally
+
+386
+00:23:13,500 --> 00:23:16,960
+within the secondary pulmonary lobule.
+
+387
+00:23:17,840 --> 00:23:20,580
+They tend to spare the pleural surface.
+
+388
+00:23:21,640 --> 00:23:23,340
+So as you notice on the image on the left,
+
+389
+00:23:23,420 --> 00:23:26,300
+there are multiple faint ground glass nodules,
+
+390
+00:23:26,540 --> 00:23:29,660
+but note how those peripheral nodules marked with the arrow
+
+391
+00:23:29,660 --> 00:23:33,240
+tend to spare the pleural surface.
+
+392
+00:23:33,240 --> 00:23:35,420
+That is, there's a little bit of visibility
+
+393
+00:23:35,420 --> 00:23:39,980
+between the nodule and the visceral pleura.
+
+394
+00:23:42,150 --> 00:23:44,170
+Perilymphatic nodules, on the other hand,
+
+395
+00:23:44,230 --> 00:23:47,450
+are predominantly located along the pleural surfaces,
+
+396
+00:23:47,810 --> 00:23:50,090
+including the pulmonary fissures.
+
+397
+00:23:50,590 --> 00:23:52,890
+They tend to be patchy in distribution.
+
+398
+00:23:54,030 --> 00:23:57,170
+In this example, we see a patchy distribution
+
+399
+00:23:57,170 --> 00:23:58,790
+of multiple pulmonary nodules,
+
+400
+00:23:59,230 --> 00:24:01,550
+which predominate along the pleural surfaces,
+
+401
+00:24:02,090 --> 00:24:07,450
+most notably the major fissures, as shown here.
+
+402
+00:24:10,540 --> 00:24:12,920
+Random nodules, as their name implies,
+
+403
+00:24:13,520 --> 00:24:14,920
+are distributed randomly.
+
+404
+00:24:15,100 --> 00:24:17,300
+So these tend to be diffuse and uniform,
+
+405
+00:24:17,740 --> 00:24:19,440
+and because of this random distribution,
+
+406
+00:24:19,700 --> 00:24:21,220
+can involve pleural surfaces.
+
+407
+00:24:22,180 --> 00:24:24,180
+So nodules involving the pleural surfaces
+
+408
+00:24:24,180 --> 00:24:27,600
+may be random or perilymphatic in distribution,
+
+409
+00:24:27,600 --> 00:24:31,040
+whereas centrilodular nodules tend to spare
+
+410
+00:24:31,040 --> 00:24:32,420
+the pleural surfaces.
+
+411
+00:24:33,600 --> 00:24:37,380
+A thorough search pattern for a chest CT
+
+412
+00:24:37,380 --> 00:24:40,080
+includes evaluation of the body wall
+
+413
+00:24:40,080 --> 00:24:43,100
+and bones of the thorax.
+
+414
+00:24:44,280 --> 00:24:46,340
+Osseous abnormalities may be focal,
+
+415
+00:24:46,880 --> 00:24:48,180
+but can also be diffuse,
+
+416
+00:24:48,300 --> 00:24:50,320
+such as diffuse metastatic disease
+
+417
+00:24:50,320 --> 00:24:55,100
+or osseous abnormalities secondary to metabolic disease.
+
+418
+00:24:55,100 --> 00:25:01,220
+It is also important to evaluate the body wall
+
+419
+00:25:01,220 --> 00:25:03,780
+for findings such as masses or fluid collections,
+
+420
+00:25:04,180 --> 00:25:05,480
+as well as gas.
+
+421
+00:25:06,800 --> 00:25:09,840
+Here are some examples of osseous abnormalities.
+
+422
+00:25:10,700 --> 00:25:12,560
+The right-sided rib metastasis
+
+423
+00:25:12,560 --> 00:25:14,860
+with a large soft tissue component
+
+424
+00:25:14,860 --> 00:25:18,360
+and associated right pleural effusion.
+
+425
+00:25:18,360 --> 00:25:23,560
+The image on the right shows a more diffuse appearance
+
+426
+00:25:23,560 --> 00:25:28,640
+of metastasis with multiple focal lucencies
+
+427
+00:25:28,640 --> 00:25:31,020
+throughout the imaged skeleton.
+
+428
+00:25:33,870 --> 00:25:36,590
+Here are some examples of chest wall findings,
+
+429
+00:25:37,130 --> 00:25:40,830
+including a fat attenuation mass
+
+430
+00:25:40,830 --> 00:25:42,970
+in the right pectoralis major muscle
+
+431
+00:25:42,970 --> 00:25:44,950
+consistent with a lipoma.
+
+432
+00:25:44,950 --> 00:25:49,610
+The middle image depicts bilateral breast tissue
+
+433
+00:25:49,610 --> 00:25:52,670
+in a male patient consistent with gynecomastia.
+
+434
+00:25:53,450 --> 00:25:56,030
+The image on the right shows trace gas
+
+435
+00:25:56,030 --> 00:25:59,090
+within the right chest wall soft tissues
+
+436
+00:25:59,090 --> 00:26:01,870
+that can be seen in association
+
+437
+00:26:01,870 --> 00:26:04,770
+with a right-sided pneumothorax.
+
+438
+00:26:04,830 --> 00:26:06,750
+So sometimes chest wall findings
+
+439
+00:26:06,750 --> 00:26:08,510
+can be important in and of themselves,
+
+440
+00:26:08,710 --> 00:26:10,730
+but they may also be important
+
+441
+00:26:10,730 --> 00:26:12,530
+in the fact that they may alert you
+
+442
+00:26:12,530 --> 00:26:14,650
+to intrathoracic findings
+
+443
+00:26:14,650 --> 00:26:18,090
+which may otherwise be easily missed.
+
+444
+00:26:25,340 --> 00:26:27,080
+Please take a minute to review
+
+445
+00:26:27,080 --> 00:26:30,380
+the patterns of calcification as shown here.
+
+446
+00:26:32,550 --> 00:26:34,250
+In this module, we have discussed
+
+447
+00:26:34,250 --> 00:26:36,070
+evaluation of the pleura,
+
+448
+00:26:36,790 --> 00:26:38,290
+lungs and central airways,
+
+449
+00:26:38,370 --> 00:26:41,270
+as well as the bones and body wall.
+
+450
+00:26:42,230 --> 00:26:44,250
+Remember that evaluation of the pleura
+
+451
+00:26:44,250 --> 00:26:47,110
+should include assessment of the pleura itself,
+
+452
+00:26:48,070 --> 00:26:50,210
+as well as material which may collect
+
+453
+00:26:50,210 --> 00:26:51,230
+within the pleura itself.
+
+454
+00:26:51,230 --> 00:26:53,230
+So the pleura itself may be thickened
+
+455
+00:26:53,230 --> 00:26:54,470
+or abnormally enhancing,
+
+456
+00:26:54,890 --> 00:26:56,570
+or there may be a frank mass.
+
+457
+00:26:57,730 --> 00:26:58,970
+Within the pleura space,
+
+458
+00:26:59,090 --> 00:27:01,370
+you can have fluid or gas collections.
+
+459
+00:27:02,090 --> 00:27:04,370
+Fluid collections can either represent
+
+460
+00:27:04,370 --> 00:27:06,330
+simple transudative effusions
+
+461
+00:27:06,330 --> 00:27:09,270
+versus complex fluid from exudate
+
+462
+00:27:09,270 --> 00:27:11,490
+such as infection, hemorrhage, and malignancy.
+
+463
+00:27:12,790 --> 00:27:15,010
+In terms of the lungs and airways,
+
+464
+00:27:15,150 --> 00:27:17,350
+we want to begin with an overall assessment
+
+465
+00:27:17,350 --> 00:27:20,590
+of lung volume and attenuation.
+
+466
+00:27:21,370 --> 00:27:24,050
+You can also look for focal opacities
+
+467
+00:27:24,050 --> 00:27:25,610
+within the lungs,
+
+468
+00:27:25,770 --> 00:27:27,770
+as well as focal lucencies.
+
+469
+00:27:29,030 --> 00:27:30,710
+You don't want to forget to look
+
+470
+00:27:30,710 --> 00:27:31,850
+at the central airway,
+
+471
+00:27:33,210 --> 00:27:34,490
+including the trachea
+
+472
+00:27:34,490 --> 00:27:38,170
+and right and left mainstem bronchi,
+
+473
+00:27:38,570 --> 00:27:40,230
+assessing for position,
+
+474
+00:27:41,590 --> 00:27:43,310
+patency, and intraluminal masses.
+
+475
+00:27:43,310 --> 00:27:44,830
+And then finally,
+
+476
+00:27:44,990 --> 00:27:48,050
+you need to assess the bones and body wall.
+
+477
+00:27:48,730 --> 00:27:49,970
+As previously mentioned,
+
+478
+00:27:50,790 --> 00:27:53,710
+findings within the bones and body wall
+
+479
+00:27:53,710 --> 00:27:55,170
+may be intrinsically important
+
+480
+00:27:55,170 --> 00:27:56,090
+in and of themselves,
+
+481
+00:27:56,270 --> 00:27:57,450
+or they may alert you
+
+482
+00:27:57,450 --> 00:27:59,570
+to an important intrathoracic finding
+
+483
+00:27:59,570 --> 00:28:01,150
+which you may otherwise overlook.
+
+484
+00:28:02,330 --> 00:28:04,650
+That brings us to the end of this unit.
+
+485
+00:28:05,330 --> 00:28:08,030
+Please complete the corresponding quiz questions
+
+486
+00:28:08,030 --> 00:28:09,790
+to receive credit for this course.
+

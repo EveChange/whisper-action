@@ -1,0 +1,976 @@
+1
+00:00:05,620 --> 00:00:10,960
+This is part two of a three-part module discussing approach to interpretation of abdominal and pelvic
+
+2
+00:00:10,960 --> 00:00:18,240
+CTs. Following completion of all three modules, you should be able to employ a systematic search
+
+3
+00:00:18,240 --> 00:00:26,080
+pattern for interpreting abdominal and pelvic CTs. This module specifically will address the
+
+4
+00:00:26,080 --> 00:00:32,360
+search pattern for the bowel, mesentery, and peritoneum. You should be able to identify
+
+5
+00:00:32,360 --> 00:00:38,520
+alterations in the normal anatomy of the bowel and mesentery, as well as be able to identify
+
+6
+00:00:38,520 --> 00:00:47,000
+pneumoperitoneum and ascites. Just as a reminder, what we discuss in this module, specifically the
+
+7
+00:00:47,000 --> 00:00:55,280
+bowel, mesentery, and peritoneum, is just one component of a larger, more comprehensive search
+
+8
+00:00:55,280 --> 00:01:02,340
+pattern that you will need to employ when evaluating abdominal and pelvic CTs. Take a minute to
+
+9
+00:01:02,340 --> 00:01:09,780
+review this sample dictation, which describes normal findings as they relate to the bowel,
+
+10
+00:01:10,260 --> 00:01:16,930
+mesentery, and peritoneum. When assessing the bowel, you need to be comprehensive.
+
+11
+00:01:18,110 --> 00:01:22,890
+You want to begin with the evaluation of the distal esophagus, gastroesophageal junction,
+
+12
+00:01:23,610 --> 00:01:29,330
+stomach and duodenum. You have to evaluate the mesenteric small bowel, that is the jejunum and
+
+13
+00:01:29,330 --> 00:01:37,350
+ileum. And then finally, the large bowel, which you can trace retrograde from the rectum to include
+
+14
+00:01:37,350 --> 00:01:46,330
+the appendix. The primary features to assess when evaluating the bowel on CT imaging include the
+
+15
+00:01:46,330 --> 00:01:52,370
+caliber of the bowel and the bowel wall. You want to evaluate the caliber to assure that it's not
+
+16
+00:01:52,370 --> 00:01:57,810
+dilated or narrowed. And you want to assess the bowel wall for overall thickness of the wall,
+
+17
+00:01:57,810 --> 00:02:06,790
+as well as abnormalities in the attenuation or enhancement of the wall itself. In terms of bowel
+
+18
+00:02:06,790 --> 00:02:12,030
+wall thickening, if it's present, you need to then take the next step and try to characterize
+
+19
+00:02:12,030 --> 00:02:19,530
+the thickening. First of all, in terms of its distribution, is it eccentric within the bowel,
+
+20
+00:02:19,530 --> 00:02:27,070
+or does it involve the entire circumference of the bowel? Is it focal, like a mass, or is it over a
+
+21
+00:02:27,070 --> 00:02:34,190
+short segment, or is it diffused? Does it involve the whole colon or their entire small bowel? You
+
+22
+00:02:34,190 --> 00:02:39,970
+want to assess what part of the bowel is affected. Is it the small bowel, the colon, or both? And then
+
+23
+00:02:39,970 --> 00:02:46,630
+finally, within each type of bowel, is it involved primarily the proximal portion of the bowel
+
+24
+00:02:46,630 --> 00:02:54,090
+or distal portion of the bowel? In addition to characterizing the distribution of the bowel
+
+25
+00:02:54,090 --> 00:02:59,910
+wall thickening, you want to evaluate the wall attenuation. That is, does the bowel wall contain
+
+26
+00:02:59,910 --> 00:03:06,450
+gas? So that would be pneumatosis. Is there high attenuation within the bowel wall itself, which is
+
+27
+00:03:06,450 --> 00:03:11,750
+often indicative of hemorrhage? If intravenous contrast was administered, you want to assess
+
+28
+00:03:11,750 --> 00:03:17,510
+the pattern of enhancement. Maybe there's a lack of an enhancement, which would be indicative of ischemia.
+
+29
+00:03:17,510 --> 00:03:23,610
+Or maybe there's a certain pattern of bowel wall enhancement that may give you a clue to an
+
+30
+00:03:23,610 --> 00:03:29,810
+etiology. You also want to assess the adjacent mesentery. It's useful to think of the bowel and
+
+31
+00:03:29,810 --> 00:03:36,890
+mesentery as a single unit. And then finally, consider the clinical setting, which may be a
+
+32
+00:03:36,890 --> 00:03:40,390
+clue to the etiology of the bowel wall abnormality.
+
+33
+00:03:40,390 --> 00:03:48,670
+Here are some examples in terms of distribution of bowel wall thickening. The image on the left shows
+
+34
+00:03:48,670 --> 00:03:57,210
+focal wall thickening involving the colon that turned out to be a colon cancer. The image in the middle
+
+35
+00:03:57,210 --> 00:04:05,730
+shows segmental wall thickening involving the sigmoid colon from colonic diverticulitis. And notice how this
+
+36
+00:04:05,730 --> 00:04:14,110
+affects a short segment of the bowel. The image on the right shows diffuse small bowel wall thickening.
+
+37
+00:04:14,110 --> 00:04:21,340
+Here are some more examples of the features that you need to assess in terms of distribution of bowel
+
+38
+00:04:21,340 --> 00:04:27,940
+wall thickening. The image on the left is the same image that we discussed on the previous slide in terms
+
+39
+00:04:27,940 --> 00:04:33,440
+of the focal abnormality. But here I'm also pointing out that the bowel wall thickening is shown here is
+
+40
+00:04:33,440 --> 00:04:40,860
+eccentric. That is, it involves only one portion of the bowel wall or one side. As you can see, the other
+
+41
+00:04:40,860 --> 00:04:48,180
+side is not affected. Again, this is a colonic adenocarcinoma causing focal and eccentric bowel
+
+42
+00:04:48,180 --> 00:04:55,960
+wall thickening. The image on the right shows a thickened bowel segment, but notice that both sides of
+
+43
+00:04:55,960 --> 00:05:01,980
+the wall are affected. And when you look at this in all of the planes, you realize that it's actually
+
+44
+00:05:01,980 --> 00:05:10,440
+circumferential. So this involves the entire circumference of the bowel. One thing that you do need to be aware
+
+45
+00:05:10,440 --> 00:05:17,860
+of is that under distended bowel can appear thickened when in fact it's normal. So this is a pitfall when
+
+46
+00:05:17,860 --> 00:05:24,820
+assessing for bowel wall thickening. So if you look at this image in the non-dependent or anterior
+
+47
+00:05:24,820 --> 00:05:32,900
+portions of the abdomen, we have some distended bowel loops. However, more posteriorly or along the
+
+48
+00:05:32,900 --> 00:05:39,100
+dorsal aspect of the peritoneal cavity, we have some under distended bowel segments. And if you're not
+
+49
+00:05:39,100 --> 00:05:44,260
+careful, you may think that this represents true bowel wall thickening, when in fact it's an artifact
+
+50
+00:05:44,260 --> 00:05:50,620
+from luminal under distension. In addition to evaluating the thickness of the wall, you need to
+
+51
+00:05:50,620 --> 00:05:58,340
+evaluate the attenuation or enhancement of the wall. Notice that the image on the left shows
+
+52
+00:05:58,340 --> 00:06:04,740
+circumferential thickening of the small bowel. Contrast was administered, so we need to assess
+
+53
+00:06:04,740 --> 00:06:13,340
+the enhancement of the bowel wall. Here the enhancement is uniform. That's in contrast to the image on the
+
+54
+00:06:13,340 --> 00:06:20,100
+right, which shows a circumferentially thickened small bowel loop in the right lower quadrant. But
+
+55
+00:06:20,100 --> 00:06:27,500
+notice the appearance of the bowel here. There's sort of different layers of the bowel wall that you can
+
+56
+00:06:27,500 --> 00:06:32,860
+identify because some are enhancing more than the other. So sort of the mucosal surface and the outer
+
+57
+00:06:32,860 --> 00:06:40,780
+surface are enhancing more than that inner ring. And that gives a targetoid appearance of the bowel. And
+
+58
+00:06:40,780 --> 00:06:46,780
+this is often termed mural stratification. So these are different patterns of bowel wall enhancement.
+
+59
+00:06:48,060 --> 00:06:54,460
+This is another example of abnormal bowel wall attenuation. In this case, there is gas within the
+
+60
+00:06:54,460 --> 00:07:00,860
+bowel wall and that's termed pneumatosis. This can often be more easily identified on a lung or bone
+
+61
+00:07:00,860 --> 00:07:08,380
+window as compared to your standard soft tissue window as shown in this example. Here we can see
+
+62
+00:07:10,060 --> 00:07:18,700
+gas within the wall of the small bowel which is more easily identified on the lung or bone window.
+
+63
+00:07:18,700 --> 00:07:29,060
+When evaluating caliber of the small and large bowel, you want to be able to identify bowel dilatation.
+
+64
+00:07:29,620 --> 00:07:35,220
+This may mean obstruction. So if you have an obstruction of the bowel, you will tend to get
+
+65
+00:07:35,860 --> 00:07:43,780
+dilatation of the bowel upstream relative to the site of obstruction. However, it is important to
+
+66
+00:07:43,780 --> 00:07:50,580
+remember that not all bowel dilatation is secondary to obstruction. And there are non-obstructive
+
+67
+00:07:50,580 --> 00:07:58,500
+etiologies that include an adynamic ileus, ischemia, or pseudo-obstruction, particularly in the colon.
+
+68
+00:08:00,570 --> 00:08:06,410
+One of the things that you will commonly be asked to evaluate for on an abdominal and pelvic CT is the
+
+69
+00:08:06,410 --> 00:08:15,050
+presence or absence of small bowel obstruction. When you are evaluating a patient for bowel obstruction,
+
+70
+00:08:15,050 --> 00:08:21,130
+you have several goals. So first of all, you want to identify, okay, is bowel obstruction present or not?
+
+71
+00:08:21,930 --> 00:08:28,650
+If small bowel obstruction is present, you want to identify the location of the obstruction
+
+72
+00:08:28,650 --> 00:08:35,610
+obstruction and specifically the transition point. That is where the bowel exactly is obstructed.
+
+73
+00:08:36,490 --> 00:08:42,010
+You also need to identify the etiology of this obstruction. And you can remember back to learning
+
+74
+00:08:42,010 --> 00:08:49,370
+the ABCs of small bowel obstruction in terms of common etiologies, adhesions, bulges, which really means
+
+75
+00:08:49,370 --> 00:08:56,330
+hernias and cancer. And then finally, you need to assess for possible complications of that obstruction,
+
+76
+00:08:56,330 --> 00:09:04,970
+including bowel ischemia and perforation. Let's look at some examples of imaging findings that are
+
+77
+00:09:04,970 --> 00:09:13,450
+present with small bowel obstruction. The image on the left shows a double-headed arrow indicating
+
+78
+00:09:13,450 --> 00:09:22,890
+dilated small bowel. The image on the right looks at air fluid levels within a given small bowel
+
+79
+00:09:22,890 --> 00:09:32,090
+loop. And notice that the air fluid levels are actually at different levels in the same
+
+80
+00:09:32,090 --> 00:09:38,170
+loop of bowel. And that differs in the gravity-dependent direction. So the patient for CT is supine.
+
+81
+00:09:38,170 --> 00:09:45,610
+And so in the anterior-posterior plane, notice that those air fluid levels are actually at different
+
+82
+00:09:45,610 --> 00:09:51,850
+positions. And that's indicative of the bowel still being able to peristals against a fixed obstruction.
+
+83
+00:09:51,850 --> 00:09:57,450
+And you happen to be imaging when those air fluid levels are sort of moving around. And again,
+
+84
+00:09:57,450 --> 00:10:04,410
+that has to be in the same loop of bowel. You have to be comparing gas fluid levels in the same bowel loop.
+
+85
+00:10:05,130 --> 00:10:08,970
+And in the gravity-dependent direction, when they're at different levels like that,
+
+86
+00:10:09,690 --> 00:10:15,930
+that is termed a dynamic air fluid level. If they are at the same level, that would be considered
+
+87
+00:10:15,930 --> 00:10:21,290
+a static air fluid level. Now, static air fluid levels can be present in both an ileus or an
+
+88
+00:10:21,290 --> 00:10:27,210
+obstruction. But if you see a dynamic air fluid level, then that should make you think more of an
+
+89
+00:10:27,210 --> 00:10:32,730
+obstruction rather than an ileus. Because with an ileus, the fundamental problem is the bowel is not
+
+90
+00:10:32,730 --> 00:10:39,290
+peristalsing. And so that fluid within the bowel just tends to settle in the gravity-dependent direction
+
+91
+00:10:39,850 --> 00:10:48,140
+at the same level. This is an example of the transition point of a small bowel obstruction.
+
+92
+00:10:48,860 --> 00:10:54,140
+We have three successive images from cranial to cotta as we go from top left to bottom.
+
+93
+00:10:55,260 --> 00:11:03,980
+The yellow areas show dilated small bowel. If we look on the bottom image anteriorly and to the right,
+
+94
+00:11:03,980 --> 00:11:11,100
+the blue arrow indicates small bowel. And notice that this small bowel is completely decompressed.
+
+95
+00:11:11,660 --> 00:11:17,500
+So we have dilated proximal small bowel and decompressed distal small bowel. Somewhere in
+
+96
+00:11:17,500 --> 00:11:24,220
+between there is likely to be the actual site of transition. And we can identify that as shown
+
+97
+00:11:24,220 --> 00:11:31,180
+by the white arrow. And if you were to follow the bowel in a stack of images, you would see that
+
+98
+00:11:31,180 --> 00:11:37,740
+the white arrow represents the transition point where you go from dilated bowel to decompressed
+
+99
+00:11:38,540 --> 00:11:43,740
+bowel. So one of your goals when you identify a potential bowel obstruction is to actually
+
+100
+00:11:43,740 --> 00:11:52,940
+to try to find the exact transition point. Small bowel obstruction complications include
+
+101
+00:11:52,940 --> 00:12:00,460
+ischemia and perforation. Bowel ischemia can manifest itself as an abnormality in the bowel wall itself,
+
+102
+00:12:00,460 --> 00:12:07,660
+either in terms of thickening or thinning or abnormal attenuation in terms of its enhancement
+
+103
+00:12:07,660 --> 00:12:16,380
+or gas within the bowel wall. So pneumatosis. The example shown here shows pneumatosis within the
+
+104
+00:12:17,820 --> 00:12:27,420
+small bowel. In addition, this patient also has gas which then progressed draining from that abnormal bowel
+
+105
+00:12:27,420 --> 00:12:34,620
+bowel into the mesenteric vessels and ultimately into the portal vein. So there was portal venous gas
+
+106
+00:12:34,620 --> 00:12:41,100
+present. The image on the right shows pneumoperitoneum or free intraperitoneal gas as a consequence
+
+107
+00:12:41,100 --> 00:12:51,080
+of bowel perforation. Diverticular or outpouchings of the bowel. They are most commonly identified in the
+
+108
+00:12:51,080 --> 00:12:57,800
+colon and the duodenum. The image on the left shows a duodenal diverticulum at its characteristic
+
+109
+00:12:58,760 --> 00:13:08,040
+location along the mesial margin of the second portion of the duodenum, often in the region of the pancreatic
+
+110
+00:13:08,040 --> 00:13:16,600
+head. And then finally the image on the right shows multiple diverticula within the colon with the sigmoid
+
+111
+00:13:16,600 --> 00:13:25,560
+colon typically being the most affected colonic segment. So as you assess the bowel, again you want to start at
+
+112
+00:13:25,560 --> 00:13:31,960
+the distal esophagus, evaluate the GE junction, stomach and duodenum. And you can look at the mesenteric
+
+113
+00:13:31,960 --> 00:13:39,960
+small bowel, that is the jejunum and ileum. Then you want to evaluate the colon. Whereas the small bowel
+
+114
+00:13:39,960 --> 00:13:47,240
+is too long and convoluted to trace out in its entirety, you can do so with the colon. I typically
+
+115
+00:13:47,240 --> 00:13:53,560
+start at the level of the rectum and then trace the colon retrograde looking for bowel wall thickening,
+
+116
+00:13:53,560 --> 00:13:58,840
+caliber changes, etc. like we have talked about. And you can follow that in a retrograde fashion
+
+117
+00:13:58,840 --> 00:14:04,040
+all the way back to the cecum. And eventually you should try to be able to find the appendix if it's
+
+118
+00:14:04,040 --> 00:14:10,280
+present in every patient. So one of the things you want to evaluate for first and foremost is the
+
+119
+00:14:10,280 --> 00:14:17,080
+appendix present or not. If it is present, what's the caliber, wall thickness and are there any
+
+120
+00:14:17,080 --> 00:14:24,920
+inflammatory changes in the adjacent mesentery. Here's an example of appendicitis which will be
+
+121
+00:14:24,920 --> 00:14:35,560
+the most common abnormality of the appendix that you will identify. When tracing the colon in a retrograde
+
+122
+00:14:35,560 --> 00:14:41,480
+fashion from the rectum to the cecum, once you identify the ileocecal valve and are moving in that
+
+123
+00:14:41,480 --> 00:14:49,720
+retrograde way from the ileocecal valve, you know you're within the cecum. Often you can identify the
+
+124
+00:14:50,520 --> 00:15:01,080
+appendix arising from the cecum a few centimeters from the ileocecal valve. So in this example on the
+
+125
+00:15:01,080 --> 00:15:10,520
+coronal image on the left we have a contrast filled cecum and notice the finger-like tubular
+
+126
+00:15:10,520 --> 00:15:17,480
+structure adjacent to that that is blind ending and is not filled with contrast. And that's an
+
+127
+00:15:17,480 --> 00:15:24,440
+inflamed appendix and because of the inflammation at the appendiceal orifice, that orifice is closed
+
+128
+00:15:24,440 --> 00:15:32,360
+off or obstructed so the oral contrast material can't make its way into the appendiceal lumen.
+
+129
+00:15:32,360 --> 00:15:41,720
+On the axial image we can see a dilated appendix and some subtle inflammatory changes in the adjacent
+
+130
+00:15:42,520 --> 00:15:48,280
+mesentery. Again, in keeping with that principle that you want to kind of think of bowel findings in
+
+131
+00:15:48,280 --> 00:15:56,440
+association with mesenteric findings and thinking of the bowel and mesentery as a single unit.
+
+132
+00:16:04,280 --> 00:16:06,760
+This question tests your ability to characterize
+
+133
+00:16:08,360 --> 00:16:14,280
+bowel wall thickening in terms of its distribution. In this example, the bowel wall thickening is best
+
+134
+00:16:14,280 --> 00:16:22,360
+characterized as being focal and eccentric. That is, it eccentrically involves the bowel wall in terms of
+
+135
+00:16:23,080 --> 00:16:30,360
+circumference. So you have involvement of the ventral wall and not really the dorsal wall.
+
+136
+00:16:31,400 --> 00:16:34,760
+Focal and eccentric bowel wall thickening are suggestive of
+
+137
+00:16:35,480 --> 00:16:39,720
+neoplasm. And again, this is a case of a colonic adenocarcinoma.
+
+138
+00:16:42,040 --> 00:16:50,120
+After you assess the bowel, you should then specifically look at the adjacent mesentery and greater
+
+139
+00:16:50,120 --> 00:16:57,560
+momentum. Looking for things like edema or fluid, signs of inflammation or enlarged lymph nodes or masses.
+
+140
+00:16:59,720 --> 00:17:06,200
+Remember that the mesentery contains fat vessels and lymph nodes. One of the main things that you want
+
+141
+00:17:06,200 --> 00:17:14,440
+to evaluate for is that the mesentery has its normal fat attenuation. And so oftentimes this will be
+
+142
+00:17:14,440 --> 00:17:21,960
+replaced by soft tissue or fluid in the presence of an abnormality. So for example, the image on the left
+
+143
+00:17:21,960 --> 00:17:29,880
+shows an increased attenuation of the fat of the root of the mesentery, which is secondary to edema
+
+144
+00:17:31,160 --> 00:17:37,800
+from adjacent inflammation of the circumferentially thickened small bowel.
+
+145
+00:17:37,800 --> 00:17:45,640
+The image on the right shows engorgement of the vasorecta, so those small vessels
+
+146
+00:17:46,360 --> 00:17:54,840
+that supply the bowel wall. This is a sign of inflammation and hyperemia in a patient with inflammatory
+
+147
+00:17:55,560 --> 00:18:02,520
+bowel disease. So these are both examples of how manifestations of bowel pathology show up
+
+148
+00:18:02,520 --> 00:18:11,240
+in the mesentery, either in the mesenteric vasculature or by replacement of the normal fat attenuation
+
+149
+00:18:11,880 --> 00:18:22,520
+within the mesentery. You can also identify masses within the mesentery, not only enlarged lymph nodes,
+
+150
+00:18:22,520 --> 00:18:30,200
+but other solid masses as well as fluid collections and abscesses. Here are two examples. The image on the
+
+151
+00:18:30,200 --> 00:18:37,960
+left is a carcinoid tumor that represents a metastasis from a small bowel primary in the adjacent small
+
+152
+00:18:37,960 --> 00:18:45,640
+bowel. The image on the right is an example of mesenteric lymphoma. Now the specific diagnoses aren't
+
+153
+00:18:45,640 --> 00:18:53,640
+important at this point. You just need to realize that you need to evaluate the mesentery in conjunction
+
+154
+00:18:53,640 --> 00:19:00,360
+with the bowel, not only for things like inflammation and hyperemia, but also for masses and fluid collections.
+
+155
+00:19:01,960 --> 00:19:09,160
+Don't forget to assess the greater omentum when you're evaluating the mesentery and peritoneum. Here
+
+156
+00:19:09,160 --> 00:19:19,690
+we see an example of multiple metastasis within the greater omentum seen on both images here in a patient
+
+157
+00:19:19,690 --> 00:19:29,220
+with ascites and peritoneal carcinomatosis secondary to ovarian cancer. One principle that I do want you
+
+158
+00:19:29,220 --> 00:19:35,140
+to keep in mind is that you really should think of the bowel and mesentery as a single unit such that
+
+159
+00:19:35,140 --> 00:19:41,780
+when you identify an abnormality in one you really have to look carefully at the other. So as an example,
+
+160
+00:19:41,780 --> 00:19:49,620
+here we have a patient with marked thickening of the stomach wall and adjacent infiltration into the
+
+161
+00:19:49,620 --> 00:19:58,020
+perigastric fat in a patient that had not only gastric carcinoma but one that was actually locally invasive
+
+162
+00:19:58,020 --> 00:20:09,540
+into the adjacent mesentery. You also need to identify the presence of fluid within the abdomen and pelvis.
+
+163
+00:20:09,540 --> 00:20:18,100
+Typically this will be free fluid in the peritoneal cavity and that's termed ascites. In a typical supine
+
+164
+00:20:18,100 --> 00:20:25,380
+patient, you want to evaluate the hepatorenal fossa which is the most dependent portion of the peritoneal cavity
+
+165
+00:20:25,380 --> 00:20:34,900
+in the abdomen and then in the pelvis you want to identify the pouch of douglas in females or the
+
+166
+00:20:35,540 --> 00:20:42,820
+recto vesicular pouch in males those being the most dependent portions of the peritoneal cavity
+
+167
+00:20:42,820 --> 00:20:50,100
+for males and females. Once you identify acidic fluid or free fluid in the peritoneal cavity
+
+168
+00:20:50,100 --> 00:20:57,460
+you want to measure its attenuation. Is it simple fluid or complex fluids such as hemorrhage or infected
+
+169
+00:20:58,420 --> 00:21:05,140
+ascites and then you also want to evaluate the status of the peritoneum that is is it thickened or not and if it's
+
+170
+00:21:05,140 --> 00:21:11,780
+thickened is it diffusely thickened or is it focally thickened or sort of mass-like thickening. You can do
+
+171
+00:21:11,780 --> 00:21:19,380
+something similar in the retroperitoneum looking for fluid collections characterizing their location in
+
+172
+00:21:19,380 --> 00:21:24,580
+terms of the retroperitoneal spaces that we've previously described and then characterizing the
+
+173
+00:21:24,580 --> 00:21:34,020
+fluid as either simple or complex. Once you identify acidic fluid or fluid within the peritoneal cavity you want
+
+174
+00:21:34,020 --> 00:21:40,580
+to characterize its attenuation to determine if it's simple or complex fluid. The image on the left
+
+175
+00:21:40,580 --> 00:21:47,140
+is a patient with cirrhosis and large volume ascites as shown here. If you measure the attenuation this is
+
+176
+00:21:47,140 --> 00:21:53,940
+simple fluid. Remember that simple fluid attenuation will typically be between negative 10 to positive 20
+
+177
+00:21:53,940 --> 00:22:02,740
+Hounsfield units. Contrast that appearance to the fluid in the pelvic peritoneal spaces on the right-sided image.
+
+178
+00:22:02,740 --> 00:22:12,150
+Here notice how that fluid appears higher in attenuation. Hemorrhage will classically be between
+
+179
+00:22:12,150 --> 00:22:19,190
+40 and 70 Hounsfield units although this will vary but anything over 20 Hounsfield units you should at
+
+180
+00:22:19,190 --> 00:22:27,910
+least begin thinking of the possibility of something like hemorrhage or infected fluid. In addition to
+
+181
+00:22:27,910 --> 00:22:34,630
+assessing the attenuation of the acidic fluid you also need to evaluate the status of the peritoneal
+
+182
+00:22:35,270 --> 00:22:39,910
+lining. That is is it normal or is it abnormal in terms of enhancement
+
+183
+00:22:40,630 --> 00:22:44,950
+or thickening? The image on the left shows acidic fluid
+
+184
+00:22:45,510 --> 00:22:51,110
+but also note that the peritoneum is markedly abnormal in terms of its
+
+185
+00:22:51,670 --> 00:22:57,350
+thickness and enhancement. The image on the right shows more acidic fluid with more subtle
+
+186
+00:22:58,150 --> 00:23:05,350
+enhancement and thickening of the peritoneal lining. In general if you identify peritoneal
+
+187
+00:23:05,350 --> 00:23:12,230
+thickening that's smooth that's not really specific and may be neoplastic or non-neoplastic once you
+
+188
+00:23:12,230 --> 00:23:19,110
+start to get nodular areas of thickening or irregular thickening then you need to really think that this is
+
+189
+00:23:19,110 --> 00:23:28,230
+most likely to be a neoplastic process. In addition to evaluating for free fluid in the peritoneal cavity
+
+190
+00:23:28,230 --> 00:23:35,270
+or ascites you need to assess for the presence of extraluminal gas. So free gas within the peritoneal
+
+191
+00:23:35,270 --> 00:23:41,750
+cavity is termed pneumoperitoneum. Here are some examples of pneumoperitoneum. The image on the
+
+192
+00:23:41,750 --> 00:23:50,150
+right shows acidic fluid but in addition to the extraluminal fluid there is gas that is layering in
+
+193
+00:23:50,150 --> 00:23:58,150
+the non-dependent portion of the peritoneal cavity in this supine patient that's anteriorly. So you have
+
+194
+00:23:58,150 --> 00:24:04,870
+sort of a gas fluid level within the peritoneal cavity secondary to the presence of both fluid and gas.
+
+195
+00:24:05,990 --> 00:24:13,270
+The image on the right shows free intraperitoneal gas. Again this will typically be identified in the
+
+196
+00:24:13,270 --> 00:24:21,110
+most non-dependent portion of the peritoneal cavity and for CT because the patients are supine this will
+
+197
+00:24:21,110 --> 00:24:30,470
+be in the anterior or ventral of the peritoneal cavity. When trying to detect extraluminal gas
+
+198
+00:24:31,830 --> 00:24:38,870
+as we previously discussed with nematosis it's often easier to identify this if you use a wider window
+
+199
+00:24:38,870 --> 00:24:45,910
+either a typical bone or lung window or something in between. In this case illustrates that principle.
+
+200
+00:24:47,110 --> 00:24:54,150
+There is pneumoperitoneum present on the image on the left which is shown in soft tissue windows although
+
+201
+00:24:54,150 --> 00:24:59,110
+I think it is very difficult to really appreciate that. However if you look at that in a wider window
+
+202
+00:24:59,110 --> 00:25:09,030
+I think the gas is easier to identify these triangular collections outside the bowel wall lumen in the
+
+203
+00:25:09,030 --> 00:25:18,710
+non-dependent or anterior portion of the abdominal cavity. In terms of fluid within the retroperitoneum
+
+204
+00:25:20,550 --> 00:25:26,070
+the principles are similar. If you identify a fluid collection you want to localize it to one of the
+
+205
+00:25:26,070 --> 00:25:32,150
+retroperitoneal spaces because that will help you in terms of identifying the potential source. So if you
+
+206
+00:25:32,150 --> 00:25:38,550
+see something in the anterior perarenal space your first choices for source of that collection would be
+
+207
+00:25:38,550 --> 00:25:47,270
+structures in the anterior perarenal space such as the pancreas or duodenum. In addition you want to
+
+208
+00:25:47,270 --> 00:25:53,190
+assess the complexity of the fluid just like we talked about with ascites. So if you see fluid you want to
+
+209
+00:25:53,190 --> 00:26:01,670
+measure its attenuation to identify if it's simple or complex fluid. This is an example of retroperitoneal
+
+210
+00:26:01,670 --> 00:26:09,750
+hemorrhage. Notice that it is displacing the kidney anteriorly so the kidney is a retroperitoneal structure
+
+211
+00:26:09,750 --> 00:26:14,870
+so if it is displaced anteriorly then you know the collection must be in the retroperitoneum.
+
+212
+00:26:15,510 --> 00:26:19,190
+Also note that the attenuation of the
+
+213
+00:26:21,430 --> 00:26:26,630
+fluid is higher than that that you would expect for simple fluid and if you measured this on the
+
+214
+00:26:26,630 --> 00:26:34,390
+PACS workstation that would that would be true. This is an example of retroperitoneal hemorrhage.
+
+215
+00:26:41,300 --> 00:26:45,460
+This question tests your ability to appropriately diagnose pneumatosis.
+
+216
+00:26:45,460 --> 00:26:54,820
+Now there's no extraluminal fluid here to suggest ascites or abscess. There is extraluminal gas
+
+217
+00:26:55,620 --> 00:27:00,980
+but the distribution of the gas as you'll notice in these images which is i think a little bit easier
+
+218
+00:27:00,980 --> 00:27:08,180
+to identify on the lung window is that it follows the course of the bowel wall. So this is not
+
+219
+00:27:08,180 --> 00:27:15,060
+in the peritoneal cavity but this is extraluminal gas that's actually in the bowel wall itself
+
+220
+00:27:15,940 --> 00:27:24,700
+and that is pneumatosis not pneumoperitoneum. So in summary in this module we discussed evaluation of
+
+221
+00:27:24,700 --> 00:27:33,340
+the bowel mesentery and peritoneum. When assessing the bowel I think it's useful to do it in an anatomical
+
+222
+00:27:33,340 --> 00:27:39,420
+way that is tracing out the bowel as best you can beginning at the distal esophagus into the
+
+223
+00:27:39,420 --> 00:27:45,420
+gastroesophageal junction the stomach and then duodenum. Once you get into the mesenteric small
+
+224
+00:27:45,420 --> 00:27:51,420
+bowel you sort of have to do this in different segments or quadrants looking at the jejunum and
+
+225
+00:27:51,420 --> 00:27:57,900
+ilium finally down to the ileocecal valve. I then switch gears to the colon and I start
+
+226
+00:27:57,900 --> 00:28:05,500
+at the rectum and trace the rectum into the sigmoid colon and then in a retrograde fashion
+
+227
+00:28:05,500 --> 00:28:13,500
+all the way to the level of the ileocecal valve again to identify then the cecum and ultimately the
+
+228
+00:28:13,500 --> 00:28:19,820
+appendix. While we are evaluating the bowel we are looking for things like bowel caliber that is
+
+229
+00:28:19,820 --> 00:28:27,100
+is it dilated or narrowed bowel wall thickening and bowel attenuation or enhancement.
+
+230
+00:28:28,460 --> 00:28:34,700
+In the mesentery we're looking for masses fluid collections or replacement of the normal fat
+
+231
+00:28:34,700 --> 00:28:42,220
+attenuation by soft tissue or fluid attenuating material. Again the principle to think of is that
+
+232
+00:28:42,220 --> 00:28:48,380
+the bowel and mesentery should really be kind of thought of as a single unit and evaluated together
+
+233
+00:28:48,380 --> 00:28:56,060
+so if you find a subtle abnormality in one then you need to look at the other component of that unit.
+
+234
+00:28:56,060 --> 00:29:03,580
+Assessment of the peritoneal cavity includes evaluation for fluid and gas that is ascites
+
+235
+00:29:03,580 --> 00:29:12,150
+or pneumoperitoneum. In the peritoneal cavity for fluid evaluation you want to look in the dependent
+
+236
+00:29:12,150 --> 00:29:20,540
+portions of the peritoneal cavity. When evaluating for pneumoperitoneum you want to evaluate the
+
+237
+00:29:20,540 --> 00:29:27,500
+non-dependent portions or anteriorly within the abdominal cavity since these patients will be supine.
+
+238
+00:29:27,500 --> 00:29:35,900
+When evaluating ascites and if ascites is present you need to assess its attenuation to differentiate
+
+239
+00:29:35,900 --> 00:29:42,300
+simple ascites from complex ascites and you need to assess the status of the peritoneum that is is it
+
+240
+00:29:42,300 --> 00:29:49,500
+thickened or abnormally enhancing. You can do something similar in the retroperitoneum where if you identify
+
+241
+00:29:50,620 --> 00:29:57,740
+extraluminal fluid you want to assess its attenuation and then in the retroperitoneum it's important to
+
+242
+00:29:57,740 --> 00:30:03,180
+localize it to one of the retroperitoneal spaces because that can help you identify
+
+243
+00:30:03,180 --> 00:30:13,020
+potential sources for that fluid. That brings us to the end of this unit. Please complete the corresponding
+
+244
+00:30:13,020 --> 00:30:26,380
+quiz questions to receive credit for this course.
+

@@ -1,0 +1,876 @@
+1
+00:00:05,680 --> 00:00:13,600
+This is part three of the three-part series discussing approach to interpretation of abdominal and pelvic CTs.
+
+2
+00:00:14,800 --> 00:00:19,440
+Given that this is the final module in the series, following completion,
+
+3
+00:00:19,660 --> 00:00:27,900
+you should be able to employ a comprehensive and systematic search pattern for interpreting abdominal and pelvic CTs.
+
+4
+00:00:28,360 --> 00:00:34,780
+Specifically for this module, you should be able to identify abnormalities in blood vessels, lymph nodes,
+
+5
+00:00:34,780 --> 00:00:39,780
+the pelvic organs of both the male and female, the body wall, and the bones.
+
+6
+00:00:41,380 --> 00:00:47,400
+Just to review our overall search pattern, we began with discussion of the abdominal organs,
+
+7
+00:00:48,020 --> 00:00:52,100
+followed by the bowel and mesentery, which we considered a single unit,
+
+8
+00:00:52,920 --> 00:00:55,480
+and then the peritoneum and retroperitoneum.
+
+9
+00:00:56,320 --> 00:01:01,820
+In this module, we will discuss evaluation of the vessels and lymph nodes, the pelvic organs,
+
+10
+00:01:01,820 --> 00:01:04,400
+and then finally the body wall and bones.
+
+11
+00:01:05,780 --> 00:01:12,520
+Please take a minute to read this sample dictation describing normal findings
+
+12
+00:01:12,520 --> 00:01:17,040
+as they relate to the vessels, lymph nodes, pelvis, body wall, and bones.
+
+13
+00:01:19,400 --> 00:01:23,580
+Assessment of the vessels will include evaluation of both the arteries and veins,
+
+14
+00:01:24,140 --> 00:01:30,400
+and for a standard CT abdomen and pelvis, this will be an assessment of the major abdominal vasculature.
+
+15
+00:01:30,400 --> 00:01:35,020
+On the arterial side, this includes assessment of the abdominal aorta,
+
+16
+00:01:35,960 --> 00:01:40,220
+the mesenteric vessels, that is the celiac artery, superior mesenteric artery,
+
+17
+00:01:40,220 --> 00:01:45,700
+and inferior mesenteric artery, as well as the renal arteries and iliac arteries.
+
+18
+00:01:45,700 --> 00:01:53,920
+You will follow the aorta and its branches from cranial to caudal or from caudal to cranial,
+
+19
+00:01:54,000 --> 00:02:03,380
+but along the length of the vessels and assess for patency, size, and the presence or absence for dissection.
+
+20
+00:02:03,380 --> 00:02:09,900
+When evaluating the arteries, you want to assess the overall caliber, that is,
+
+21
+00:02:09,960 --> 00:02:14,920
+are they too small or stenotic, or are they too large or aneurysmal?
+
+22
+00:02:15,460 --> 00:02:22,440
+The inferrenal abdominal aorta is the most common site for intra-abdominal aortic aneurysms.
+
+23
+00:02:22,440 --> 00:02:29,160
+Aneurysmal dilatation of the inferrenal aorta is defined as a diameter of 3 centimeters,
+
+24
+00:02:29,900 --> 00:02:39,260
+or stated another way, 1.5 times the normal diameter, which in this case, the normal diameter is about 2 centimeters.
+
+25
+00:02:40,800 --> 00:02:47,920
+Aneurysms involving the common and internal iliac arteries are more common than those of the external iliac arteries.
+
+26
+00:02:47,920 --> 00:02:56,680
+Common iliac artery aneurysms are defined with a diameter greater than 2.5 centimeters.
+
+27
+00:02:57,800 --> 00:03:05,640
+Here we can see on this coronal image dilatation of the inferrenal abdominal aorta,
+
+28
+00:03:06,360 --> 00:03:14,280
+as well as both common iliac arteries, and that's confirmed on the axial image.
+
+29
+00:03:14,280 --> 00:03:23,200
+You can see that not all of the lumen is patent, only that central portion that is enhancing is actually patent.
+
+30
+00:03:23,760 --> 00:03:34,500
+On the image on the right, we see bilateral common iliac artery aneurysms, again, with only partially patent lumens.
+
+31
+00:03:36,700 --> 00:03:38,960
+Here are some examples of aortic dissection.
+
+32
+00:03:38,960 --> 00:03:46,780
+Remember that a dissection occurs when blood dissects into the vessel wall, creating a flap.
+
+33
+00:03:47,420 --> 00:03:50,900
+So the flap contains the intima and some media.
+
+34
+00:03:51,640 --> 00:03:57,000
+The other side contains the rest of the media and adventitia.
+
+35
+00:03:57,580 --> 00:04:03,800
+And in doing so, that dissection creates a true lumen, where blood should be, and then the false lumen.
+
+36
+00:04:03,800 --> 00:04:10,900
+The image on the left shows the intima and medial flap with enhancing true and false lumens.
+
+37
+00:04:11,320 --> 00:04:15,620
+The image on the right shows an aortic dissection.
+
+38
+00:04:16,280 --> 00:04:23,140
+We have the enhancing true lumen, and in this case, the false lumen is thrombosed.
+
+39
+00:04:23,140 --> 00:04:35,180
+The major abdominal veins include the portal system veins, including the portal veins, superior mesenteric vein, and splenic veins.
+
+40
+00:04:35,720 --> 00:04:40,320
+The inferior vena cava, hepatic veins, and iliac veins.
+
+41
+00:04:40,640 --> 00:04:42,860
+And then finally, the renal veins.
+
+42
+00:04:43,360 --> 00:04:49,400
+Assessment on the venous side is primarily for patency in the presence or absence of thrombus,
+
+43
+00:04:49,400 --> 00:04:54,760
+although you can occasionally see venous side aneurysms.
+
+44
+00:04:56,280 --> 00:04:58,820
+Here is an example of a thrombus.
+
+45
+00:04:58,880 --> 00:05:02,780
+In this case, the thrombus is only partially occlusive.
+
+46
+00:05:03,120 --> 00:05:09,940
+The image on the left is a coronal view showing a partially occlusive thrombus in the portal vein.
+
+47
+00:05:10,740 --> 00:05:18,880
+You can see how this manifests itself as a filling defect that is visible because of the presence of intravenous contrast material.
+
+48
+00:05:19,400 --> 00:05:27,580
+On the axial image, we can again see this filling defect in the portal vein consistent with a non-occlusive thrombus.
+
+49
+00:05:29,080 --> 00:05:39,820
+As you evaluate the vasculature, you also want to be evaluating the lymph nodes because the lymph nodes live along the vessels.
+
+50
+00:05:39,820 --> 00:05:47,800
+When assessing lymph nodes, you need to evaluate their size, the number of lymph nodes,
+
+51
+00:05:48,100 --> 00:05:56,840
+and their specific imaging appearance in terms of their morphology and shape, as well as their attenuation and enhancement.
+
+52
+00:05:59,970 --> 00:06:08,730
+A full discussion of all of the size criteria for the lymph node stations of the abdomen is beyond the scope of this lecture.
+
+53
+00:06:08,730 --> 00:06:19,910
+But as a general rule, think of lymph nodes as being enlarged in the abdomen and pelvis when their short axis is more than 10 millimeters.
+
+54
+00:06:20,610 --> 00:06:23,410
+And then also realize that there are exceptions.
+
+55
+00:06:23,630 --> 00:06:28,750
+The most notable exceptions are in the retrochoral or mesorectal space.
+
+56
+00:06:28,750 --> 00:06:37,390
+Those lymph nodes normally aren't anywhere close to being 10 millimeters in size,
+
+57
+00:06:37,510 --> 00:06:42,750
+so anything more than 5 millimeters is considered at least potentially enlarged.
+
+58
+00:06:43,210 --> 00:06:49,610
+On the other end of the spectrum, lymph nodes in the portocaval space and the inguinal regions are typically larger,
+
+59
+00:06:49,610 --> 00:06:57,690
+and their upper limit of normal caliber in the short axis is taken as 15 millimeters.
+
+60
+00:07:01,710 --> 00:07:08,650
+In terms of imaging appearance other than size, you want to assess for morphology and attenuation.
+
+61
+00:07:10,210 --> 00:07:18,590
+Abnormal morphologic characteristics of lymph nodes include a round lymph node with loss of a fatty hilum,
+
+62
+00:07:18,590 --> 00:07:22,870
+the central fatty hilum, and the irregular or speculated margins.
+
+63
+00:07:22,950 --> 00:07:32,870
+Remember that normal lymph nodes are kind of reniform in shape with a central fatty hilum and smooth margins.
+
+64
+00:07:33,370 --> 00:07:42,590
+In terms of attenuation and enhancement, lymph nodes tend to show uniform, mild enhancement.
+
+65
+00:07:42,590 --> 00:07:51,470
+Heterogeneous enhancement, whether it be areas of low attenuation from cystic changes or necrosis, is abnormal.
+
+66
+00:07:52,210 --> 00:08:00,910
+Sometimes lymph nodes can be calcified, and sometimes lymph nodes can actually enhance more than typical or be hyper-enhancing.
+
+67
+00:08:03,380 --> 00:08:06,380
+Just a reminder of the normal lymph node morphology.
+
+68
+00:08:06,380 --> 00:08:16,280
+Remember that a normal lymph node is reniform or oval in shape with a peripheral cortex and a central fatty hilum.
+
+69
+00:08:16,800 --> 00:08:28,360
+On the coronal CT on the left in the inguinal region, we can see the fatty hilum and the mildly enhancing peripheral cortex of a normal lymph node.
+
+70
+00:08:28,580 --> 00:08:33,500
+That same morphology can be appreciated on the axial image in the center.
+
+71
+00:08:33,500 --> 00:08:49,380
+And then ultrasound can nicely show this anatomy, showing the peripheral cortex with the white arrow and the central hilum, which is fat, which is echogenic on ultrasound.
+
+72
+00:08:49,680 --> 00:08:56,340
+And you can see that the main blood supply to the lymph node actually comes through that fatty hilum.
+
+73
+00:08:56,340 --> 00:09:03,380
+Here are some examples of lymph nodes, which are abnormal in attenuation.
+
+74
+00:09:04,060 --> 00:09:11,800
+On the image on the left, we have a nodal mass with peripheral calcification.
+
+75
+00:09:12,400 --> 00:09:25,840
+The image on the right shows a mesenteric mass, which is enhancing in a heterogeneous fashion with areas of low attenuation, which were consistent with necrosis.
+
+76
+00:09:25,840 --> 00:09:39,540
+This question tests your knowledge of size criteria for aneurysms within the abdomen and pelvis.
+
+77
+00:09:40,340 --> 00:09:53,560
+The most common site to get an abdominal aortic aneurysm is in its infrarenal segment, that is below the level of the renal arteries, between the renal arteries and the aortic bifurcation.
+
+78
+00:09:53,560 --> 00:10:01,560
+If this segment of the aorta measures three centimeters or more, that is considered an aneurysm.
+
+79
+00:10:03,640 --> 00:10:09,220
+Following evaluation of the vessels and lymph nodes, we can then evaluate the organs of the pelvis.
+
+80
+00:10:10,080 --> 00:10:15,660
+The common organ, as comparing males and females, will be the urinary bladder, so we'll start with this.
+
+81
+00:10:15,660 --> 00:10:21,920
+In terms of the bladder, you want to assess the overall distension at the time of imaging.
+
+82
+00:10:22,240 --> 00:10:26,380
+The wall thickness, which will vary depending on the degree of distension.
+
+83
+00:10:26,520 --> 00:10:31,360
+In other words, a more distended bladder will tend to thin out the wall.
+
+84
+00:10:32,280 --> 00:10:41,640
+And then finally, you want to evaluate the lumen in terms of the overall attenuation, as well as looking for masses or stones.
+
+85
+00:10:41,640 --> 00:10:49,640
+You need to evaluate the bladder wall for diffuse or focal thickening.
+
+86
+00:10:50,860 --> 00:11:00,260
+When doing so, you need to take into account the degree of bladder distension, remembering, similar to the bowel that we discussed,
+
+87
+00:11:00,260 --> 00:11:09,600
+the wall thickness of this viscous will vary depending on the degree of distension.
+
+88
+00:11:09,840 --> 00:11:16,540
+So an under-distended bladder may cause apparent wall thickening, which doesn't represent true pathologic wall thickening.
+
+89
+00:11:17,000 --> 00:11:22,260
+The image on the left shows circumferential bladder wall thickening.
+
+90
+00:11:22,260 --> 00:11:31,720
+The image on the right shows outpouchings from the primary bladder lumen that are filled with fluid attenuation material
+
+91
+00:11:31,720 --> 00:11:35,160
+and contiguous with that bladder lumen through these openings.
+
+92
+00:11:36,020 --> 00:11:38,720
+This is consistent with bladder diverticula.
+
+93
+00:11:41,420 --> 00:11:46,700
+Here are some examples of abnormal attenuation within the urinary bladder.
+
+94
+00:11:46,700 --> 00:11:55,180
+The image on the left shows high attenuation in the dependent portion of the bladder, which turned out to be a large blood clot.
+
+95
+00:11:56,540 --> 00:12:06,620
+The image in the middle shows layering high attenuation material within the bladder, which represented excreted contrast material.
+
+96
+00:12:06,620 --> 00:12:16,660
+And then finally, the image on the right shows mass-like thickening in the non-dependent portion of the urinary bladder,
+
+97
+00:12:16,760 --> 00:12:19,100
+which represented a urothelial carcinoma.
+
+98
+00:12:21,530 --> 00:12:24,750
+Here are additional examples of the bladder mass.
+
+99
+00:12:25,110 --> 00:12:30,150
+The coronal image on the left shows a contrast-filled urinary bladder.
+
+100
+00:12:30,150 --> 00:12:41,550
+The bladder mass, as shown here, is identified as a filling defect within that contrast column within the urinary bladder.
+
+101
+00:12:42,030 --> 00:12:49,650
+The image on the right shows a faintly visible bladder mass with subtle calcifications along its ventral margin.
+
+102
+00:12:51,270 --> 00:12:58,050
+Finally, when assessing the bladder lumen, you want to evaluate for bladder calculi.
+
+103
+00:12:58,050 --> 00:13:03,630
+And the key, when you identify a calculus which appears to be within the bladder,
+
+104
+00:13:04,010 --> 00:13:12,590
+is to actually distinguish a true bladder calculus from a calculus that is impacted at the ureovesical junction.
+
+105
+00:13:13,750 --> 00:13:15,530
+The key here is location.
+
+106
+00:13:16,210 --> 00:13:20,370
+Bladder calculi are typically located in the most dependent portion of the bladder.
+
+107
+00:13:21,190 --> 00:13:23,270
+So let's take two different examples here.
+
+108
+00:13:23,270 --> 00:13:32,570
+The image on the left shows no calculus in the dependent, or most dependent, portion of the bladder.
+
+109
+00:13:33,110 --> 00:13:36,070
+Instead, the calcification is to the right of the midline.
+
+110
+00:13:36,890 --> 00:13:43,390
+And this is actually a calculus that's located at the right ureovesical junction.
+
+111
+00:13:44,450 --> 00:13:50,090
+Contrast that to the image on the right, which shows two large calculi.
+
+112
+00:13:50,090 --> 00:13:59,290
+These are positioned in the most dependent portion of the bladder, which is dorsal or posterior, in a supine patient.
+
+113
+00:14:01,820 --> 00:14:10,500
+In the female patient, you will need to evaluate the uterus to include the cervix as well as the vagina and ovaries.
+
+114
+00:14:11,540 --> 00:14:18,100
+Uterine evaluation will include assessment of the myometrium and endometrium.
+
+115
+00:14:18,100 --> 00:14:26,740
+The endometrium, myomyomas, or fibroids, are the most common pathology within the myometrium.
+
+116
+00:14:26,940 --> 00:14:35,680
+The image on the left shows hypo-enhancing fibroids surrounded by normally enhancing uterine myometrium.
+
+117
+00:14:36,500 --> 00:14:46,100
+The image in the middle and the image on the right show a calcified fibroid arising from the uterine fundus.
+
+118
+00:14:46,100 --> 00:14:54,170
+The endometrium is typically evaluated with pelvic ultrasound or MRI.
+
+119
+00:14:54,730 --> 00:14:59,150
+However, it is still something that you need to evaluate on CT.
+
+120
+00:14:59,510 --> 00:15:05,450
+Sagittal CT is especially useful for assessment of the uterus and endometrium.
+
+121
+00:15:06,150 --> 00:15:11,510
+Here we have two axial images showing fairly obvious abnormalities,
+
+122
+00:15:11,510 --> 00:15:17,550
+which can be localized to the endometrium, both of which represent endometrial cancer.
+
+123
+00:15:18,110 --> 00:15:30,810
+In the image on the left, we see a markedly distended endometrial cavity containing a soft tissue attenuation mass.
+
+124
+00:15:30,810 --> 00:15:39,910
+The image on the right shows an endometrial mass, and again, both of these represent endometrial carcinoma.
+
+125
+00:15:40,010 --> 00:15:45,990
+But the point here is for the uterus, you want to assess both the myometrium and the endometrium.
+
+126
+00:15:46,070 --> 00:15:53,470
+And when you're evaluating endometrium, you want to look for overall thickness as well as for the presence of a mass.
+
+127
+00:15:53,470 --> 00:16:03,330
+When evaluating the ovaries, you want to look for ovarian size and position as well as for focal ovarian masses.
+
+128
+00:16:04,750 --> 00:16:12,870
+CT is limited for evaluation of the ovaries in most cases, although as we will see later,
+
+129
+00:16:14,310 --> 00:16:19,610
+ovarian teratomas that contain fat or calcium are typically easily identified on CT.
+
+130
+00:16:19,610 --> 00:16:35,290
+However, overall, CT is limited relative to ultrasound because CT is not really able to characterize that internal architecture of the ovaries
+
+131
+00:16:35,290 --> 00:16:38,250
+in terms of septations and complexity.
+
+132
+00:16:38,810 --> 00:16:47,850
+As you can see in this example, where the ovaries look fairly simple on the CT in terms of their internal characteristics,
+
+133
+00:16:47,850 --> 00:16:59,010
+but on ultrasound, you can identify the characteristic ovarian morphology with multiple follicles in this premenopausal patient.
+
+134
+00:17:00,290 --> 00:17:08,070
+Here are three separate examples of pelvic masses which are ovarian in origin.
+
+135
+00:17:09,170 --> 00:17:12,850
+Sometimes the origin of the pelvic mass can be difficult to identify.
+
+136
+00:17:12,850 --> 00:17:23,890
+One of the keys to identifying that something is from the ovary is to actually follow the gonadal veins from their origin,
+
+137
+00:17:24,010 --> 00:17:35,050
+either from the IVC or the left renal vein down into the pelvis to see if they connect with the mass in question.
+
+138
+00:17:35,050 --> 00:17:42,750
+So, if you can follow those gonadal veins into the pelvic mass, that is suggestive of an ovarian origin.
+
+139
+00:17:45,210 --> 00:17:51,730
+Here are examples of ovarian teratomas, and CT is very good at characterizing teratomas,
+
+140
+00:17:51,830 --> 00:17:57,610
+particularly if they contain fat because this is highly specific for the teratoma.
+
+141
+00:17:57,810 --> 00:18:02,050
+Another key finding is the presence of calcium, although this is less specific.
+
+142
+00:18:02,050 --> 00:18:09,470
+The image on the left shows fat within an ovarian mass consistent with a teratoma.
+
+143
+00:18:09,970 --> 00:18:13,350
+The image on the right contains both fat and calcium.
+
+144
+00:18:13,630 --> 00:18:16,670
+The calcium is indicated by the arrow.
+
+145
+00:18:17,330 --> 00:18:23,670
+And then you can see back on the left-sided image that the teratoma also contains soft tissue elements.
+
+146
+00:18:23,670 --> 00:18:34,470
+So, these can contain elements from all three germ cell layers and can have a very complex appearance on CT and MR.
+
+147
+00:18:34,590 --> 00:18:42,030
+The key really is the fat and calcium, and especially the fat within the mass.
+
+148
+00:18:43,650 --> 00:18:50,230
+Moving on to the male patient, you need to assess the prostate and seminal vesicles.
+
+149
+00:18:50,230 --> 00:18:59,030
+The example on the left shows a midline cystic mass in the prostate, consistent with a congenital utricle cyst.
+
+150
+00:19:00,410 --> 00:19:10,410
+The image in the center and the image on the right are from the same patient that shows an enlarged prostate with median lobe hypertrophy,
+
+151
+00:19:11,630 --> 00:19:18,730
+exerting mass effect on the adjacent bladder, and can cause, as it does in this case, some bladder outlet obstruction.
+
+152
+00:19:18,730 --> 00:19:26,130
+So, when you're assessing the prostate, you want to look at overall size, evaluate if there's any mass effect on the bladder base
+
+153
+00:19:26,130 --> 00:19:31,530
+that might be a cause of outlet obstruction, and then to look for focal masses.
+
+154
+00:19:33,150 --> 00:19:36,390
+For the seminal vesicles, you want to make sure that both are present,
+
+155
+00:19:36,590 --> 00:19:40,730
+and you want to evaluate for underlying masses or congenital cysts.
+
+156
+00:19:40,730 --> 00:19:51,530
+The image on the left shows a normal right seminal vesicle with an absent left seminal vesicle.
+
+157
+00:19:52,530 --> 00:20:01,130
+Absent seminal vesicles or seminal vesicle cysts are clinically important because they're often associated with underlying renal abnormalities,
+
+158
+00:20:01,130 --> 00:20:04,130
+including an absent ipsilateral kidney.
+
+159
+00:20:04,130 --> 00:20:11,130
+So, the kidney can be absent on the side of the seminal vesicle cyst or the absent seminal vesicle.
+
+160
+00:20:12,730 --> 00:20:21,130
+Calcified vas deferens, as shown on the image on the right, are typically indicative of patients with diabetes mellitus.
+
+161
+00:20:21,130 --> 00:20:36,380
+Lymph nodes can be abnormal for multiple reasons, including being too large in size, too conspicuous in number,
+
+162
+00:20:37,020 --> 00:20:41,760
+or have some morphologic or attenuation abnormality.
+
+163
+00:20:41,760 --> 00:20:49,740
+Of the imaging findings listed here, loss of the fatty hilum was the pathologic finding.
+
+164
+00:20:50,460 --> 00:20:55,840
+Remember that a normal lymph node should have a preserved central fatty hilum,
+
+165
+00:20:55,960 --> 00:20:59,600
+and loss of that fatty hilum can be indicative of pathology.
+
+166
+00:21:01,300 --> 00:21:10,880
+Evaluation of the body wall and the bones will round out our comprehensive systematic search pattern
+
+167
+00:21:10,880 --> 00:21:14,020
+when interpreting abdominal and pelvic CTs.
+
+168
+00:21:14,520 --> 00:21:23,840
+Assessment of the body wall will include evaluation for body wall edema, masses, and hernias.
+
+169
+00:21:25,420 --> 00:21:31,980
+Ventral hernias are the most common types of abdominal wall hernias that you will encounter.
+
+170
+00:21:32,660 --> 00:21:36,260
+These occur when there's a defect in the linea alba.
+
+171
+00:21:36,260 --> 00:21:46,800
+As identified on the image on the left, we can see this large mesenteric fat and small bowel containing midline ventral hernia.
+
+172
+00:21:47,160 --> 00:21:53,520
+You can also have a defect at the linea semilunaris, that is, at the junction of the rectus abdominis
+
+173
+00:21:53,520 --> 00:21:59,140
+and the anterolateral muscles of the abdominal wall.
+
+174
+00:21:59,800 --> 00:22:02,360
+These are termed spigelian hernias.
+
+175
+00:22:02,360 --> 00:22:10,300
+The image on the right shows a left-sided spigelian hernia.
+
+176
+00:22:11,220 --> 00:22:18,240
+And for comparison, on the normal side, you can see an intact linea semilunaris.
+
+177
+00:22:20,160 --> 00:22:26,400
+When evaluating for inguinal hernias, the key landmark will be the inferior epigastric vessels.
+
+178
+00:22:26,780 --> 00:22:32,560
+This will help classify inguinal hernias as either direct or indirect.
+
+179
+00:22:32,560 --> 00:22:38,100
+The internal epigastric vessels are marked on this axial image.
+
+180
+00:22:41,510 --> 00:22:51,290
+The key to characterize inguinal hernias will be to identify the neck of the hernia as it relates to the inferior epigastric vessels.
+
+181
+00:22:51,290 --> 00:22:59,090
+The neck of an indirect hernia will originate lateral to the inferior epigastric vessels as shown here.
+
+182
+00:23:00,370 --> 00:23:12,130
+On the other hand, the neck of a direct inguinal hernia will originate medial to the inferior epigastric vessels as shown on the right-sided image.
+
+183
+00:23:12,130 --> 00:23:24,350
+Here is an example of a body wall abnormality consisting of multiple soft tissue masses, which represented melanoma metastasis.
+
+184
+00:23:24,350 --> 00:23:29,670
+We will end with assessment of the bones.
+
+185
+00:23:30,170 --> 00:23:37,850
+We will need to evaluate the spine, pelvis, proximal femurs, and ribs, as well as the sacroiliac and hip joints.
+
+186
+00:23:37,850 --> 00:23:49,310
+You need to first make an overall assessment of bone density so that you don't miss a global abnormality such as diffuse osteopenia or sclerosis.
+
+187
+00:23:49,810 --> 00:23:59,370
+Then you can start to look for focal lesions such as metastasis or benign bone lesions or fractures as they relate to trauma.
+
+188
+00:23:59,370 --> 00:24:04,450
+And then finally, you can assess for degenerative changes.
+
+189
+00:24:06,820 --> 00:24:12,900
+This is an example of diffuse bone disease in a patient with renal osteodystrophy.
+
+190
+00:24:13,080 --> 00:24:21,280
+There is diffuse abnormal sclerosis of the bone, and this can sometimes be difficult to appreciate given its diffuse nature.
+
+191
+00:24:25,140 --> 00:24:29,520
+Focal bone lesions can be either osteoblastic or bone forming.
+
+192
+00:24:29,520 --> 00:24:39,840
+So these are sclerotic lesions as shown on the image on the left, or they can be lucent or bone destroying.
+
+193
+00:24:40,680 --> 00:24:46,380
+And these are termed osteolytic lesions as demonstrated on the image on the right.
+
+194
+00:24:49,220 --> 00:24:51,700
+Another focal abnormality would be a fracture.
+
+195
+00:24:52,400 --> 00:24:58,600
+Here we see several examples of fractures within the spine and pelvis.
+
+196
+00:24:58,600 --> 00:25:03,620
+Pelvis and fractures are typically fairly straightforward in their imaging appearance.
+
+197
+00:25:03,780 --> 00:25:10,860
+There will be an area of low attenuation or a crack or break within the bone, plus or minus displacement.
+
+198
+00:25:11,420 --> 00:25:19,360
+In summary, in this module we've discussed evaluation of the vessels and lymph nodes,
+
+199
+00:25:20,260 --> 00:25:25,820
+the organs of the pelvis in both the male and female, and then finally the body wall and bones.
+
+200
+00:25:25,820 --> 00:25:33,420
+In terms of the vessels, we need to identify the major abdominal arteries and veins.
+
+201
+00:25:34,160 --> 00:25:40,680
+We should start at the cranial aspect of the CT and head caudally,
+
+202
+00:25:40,920 --> 00:25:46,820
+looking at the abdominal aorta and its mesenteric renal and iliac branches.
+
+203
+00:25:46,820 --> 00:25:52,700
+On the venous side, we need to evaluate the portal venous system, particularly the portal vein,
+
+204
+00:25:53,100 --> 00:25:57,420
+as well as the hepatic veins, inferior vena cava and iliac veins.
+
+205
+00:25:58,160 --> 00:26:06,100
+For vessels, we're primarily looking for abnormalities in size and patency.
+
+206
+00:26:06,100 --> 00:26:16,360
+As we evaluate the vessels, we can also assess for the lymph nodes, as these tend to follow the vessels.
+
+207
+00:26:16,840 --> 00:26:25,680
+When we assess the lymph nodes, we need to be evaluating size, number, morphology, and attenuation and enhancement.
+
+208
+00:26:25,680 --> 00:26:35,680
+In terms of the pelvis, we need to assess the urinary bladder for overall wall thickness and any intraluminal abnormalities,
+
+209
+00:26:36,480 --> 00:26:40,480
+such as stones, masses, blood clots, etc.
+
+210
+00:26:41,680 --> 00:26:49,740
+In the female pelvis, we need to evaluate the uterus, both in terms of the myometrium and endometrium, as well as the ovaries.
+
+211
+00:26:49,740 --> 00:26:55,960
+In the male, we need to assess the prostate, including its mass effect on the bladder,
+
+212
+00:26:56,740 --> 00:27:00,160
+and we need to evaluate the seminal vesicles.
+
+213
+00:27:00,840 --> 00:27:07,460
+We end our comprehensive evaluation with assessment of the body wall and bones.
+
+214
+00:27:07,740 --> 00:27:13,020
+The body wall, we want to look for edema, hernias, masses, and fluid collections.
+
+215
+00:27:13,020 --> 00:27:20,160
+And in the bones, we are assessing not only for focal abnormalities, such as fractures or tumors,
+
+216
+00:27:20,360 --> 00:27:27,360
+but also for diffuse abnormalities, because we don't want to miss a diffuse finding within the bones,
+
+217
+00:27:27,460 --> 00:27:31,000
+such as osteopenia or diffuse sclerosis.
+
+218
+00:27:32,300 --> 00:27:34,500
+That brings us to the end of this unit.
+
+219
+00:27:35,020 --> 00:27:39,760
+Please complete the corresponding quiz questions to receive credit for this course.
+
